@@ -38,7 +38,7 @@ Perry 2015, “Meaning and Pointing”:
 
 > Goodwin refers to the “hierarchy of displays being performed by the body” of the pointer: not only the “dual point” (at the map and then at the feature, with trowel and head, respectively), but also picking up the map and gazing at it in the first place, indicating a “domain of scrutiny” (the map) with his postural orientation as well as a target (the feature on the map) within the domain
 
-# Liberman: Communicating Meanings
+# [[Kenneth Liberman|Liberman]]: Communicating Meanings
 
 > Words and texts do not possess their meanings unequivocally in themselves. Instead, an occasioned discourse taken as a whole carries the sense, or rather is made to carry the sense, by serving as the vehicle for the discussants' worldly work of communicating meanings. The sense that is emerging guides the distribution of the meanings to each of the components of the discourse. These meanings are necessarily equivocal since the sense of the discourse is always emerging. "Meaning" has to be something about the words, but one cannot find it in the words alone. The words institute a shifting system of signification, but they themselves are subject to the very matrix they establish, which provides for them new traces of possible sense they can pick up.
 

@@ -47,8 +47,8 @@ Merleau-Ponty wants to get a handle on, or overcome this dualism, which is both 
 It's much easier to call for, and applaud, the sentiment of non-dualism, and much more difficult to accomplish it. Merleau-Ponty cannot complete his project (dies of lung cancer) and his work is only an "outline," and attempt "to catch sight of this strange domain which interrogation gives access." This essay is less an appearance of resolution—instead of methodology, he gives us poetry, an aesthetic resolution through recognition.
 
 Merleau-Ponty stresses that we can must attend to experience, and specifically, to the _wishes of the thing interrogated_, rather than our own wishes, in order to step outside ourselves. We get a sense that objects have something to "tell" us, which is sentimentalism but also perhaps helpful: "I sometimes wonder if the forest is looking at me as much as I am looking at the forest." 
-* This is approaching the _reciprocity of perspectives_ so foundational for Wagner, who himself uses "chiasmatic" frequently, and is clearly Merleau-Ponty-inspired; Liberman & Ponty term this "reversibility."
-* When Liberman takes people backpacking, the first three days "they don't experience anything but their own minds"; at some point, the location (nature) "starts training them in the temporality of that location." The nature takes over the [[agency]], and the individuals adapt.
+* This is approaching the _reciprocity of perspectives_ so foundational for Wagner, who himself uses "chiasmatic" frequently, and is clearly Merleau-Ponty-inspired; [[Kenneth Liberman|Liberman]] & Ponty term this "reversibility."
+* When [[Kenneth Liberman|Liberman]] takes people backpacking, the first three days "they don't experience anything but their own minds"; at some point, the location (nature) "starts training them in the temporality of that location." The nature takes over the [[agency]], and the individuals adapt.
 * One steel-man for this sentimentality: stressing bottom-up receptivity over top-down imposition and interrogation.
 
 ## From anthropocentrism to ecology: the evolution of concepts

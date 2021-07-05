@@ -32,7 +32,7 @@ In linguistics, *drift* is linguistic evolution that occurs via segregation of s
 
 ## Handle as anchor: the effect of a name
 
-When concepts spread, they spread as handles, and they are often ported across contexts without a clear definition. Often, meaning must be inferred from the name itself, e.g. with reference to the etymologies of its constituent parts. As a result, as terms make subcultural leaps, they often are "doubled" into a second concept linked to the first _only through the name_. For instance, the death drive in Freud has been misconstrued in the public discourse as high risk-taking behavior, intuitively a "drive toward death" (which is, itself, a real phenomenon in the "excess of signification" that perhaps always _wanted_ a handle, and at last had found one).
+When concepts spread, they spread as handles, and they are often ported across contexts without a clear definition. Often, meaning must be inferred from the name itself, e.g. with reference to the etymologies of its constituent parts. As a result, as terms make subcultural leaps, they often are "doubled" into a second concept linked to the first _only through the name_. For instance, the death drive in [[Sigmund Freud|Freud]] has been misconstrued in the public discourse as high risk-taking behavior, intuitively a "drive toward death" (which is, itself, a real phenomenon in the "excess of signification" that perhaps always _wanted_ a handle, and at last had found one).
 
 Similarly, Simon Reynolds writes of acid house:
 

@@ -2,6 +2,13 @@
 aliases: decision rules, pragmatic categorization, teleological meaning
 ---
 
+# Pragmatic perception
+To Bergson, one perceives _in order to act_, and one sees the world as a set of obstacles and affordances to the body:
+
+![[perception#^86e333]]
+
+![[perception#^ca93ac]]
+
 # Functional Decision Categories
 
 [[David Chapman]] 2019: *The Eggplant*:
@@ -9,7 +16,6 @@ aliases: decision rules, pragmatic categorization, teleological meaning
 > We use words as tools to get things done; and to get things done, we improvise, making use of whatever materials are ready to hand. If you want to whack a piece of sheet metal to bend it, and don’t know or care what the “right” tool is (if there even is one), you might take a quick look around the garage, grab a large screwdriver at the “wrong” end, and hit the target with its hard rubber handle.
 
 And yet, at the core of linguistics is an "intellectualist philosophy," [[Bourdieu]] writes in _Language & Symbolic Power_: a philosophy which "treats language as an object of contemplation rather than as an instrument of action and power.""
-
 
 Often, these human purposes are reified. [[William James]] 1890: *Principles of Psychology*:
 

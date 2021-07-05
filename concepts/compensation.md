@@ -1,0 +1,7 @@
+_See also [[torque epistemology]]._
+
+Why can our likes and dislikes so often be reduced to what we believe is under- or over-rated? Why do our publicly espoused beliefs—and perhaps our beliefs broadly—serve more as strategic interventions into a discourse than as real, complete, in-a-vacuum encapsulations of a positive ideology?
+
+Compensation is the idea that we act in reference to the existing status quo. We are hunter-gatherers who wish to find novelty in our environment and bring it back to the tribe, to influence Dunbar-sized decision-making with our emotions and skepticisms. 
+
+Much cultural value comes from discovering lost treasures (see [[information logistics]]—knowledge is only as useful as it is accessible; curation and preservation are as valuable as novel production) or for arguing the value of otherwise dismissed objects (see [[poptimism vs rockism|poptimism]]). Y-Combinator was founded to fund start-ups that would not have received funding otherwise; Emergent Ventures to give grants to applicants who would otherwise be given them. In all these cases, one is "playing the market" by purchasing stock that is undervalued, and foregoing stock that is properly- or over-valued. Similarly, those wishing to make an impact in discourse may choose to avoid saturated fields and topics, those which are [[fashion|fashionable]] and thus given an outsized proportion of attention.

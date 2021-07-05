@@ -2,6 +2,8 @@
 aliases: Goodhart's Law, Campbell's Law, operationalization, proxy, proxies, surrogate, surrogates
 ---
 
+Some of the major contributors to [[surrogation]] are: transparency, decontextualization, and low-dimensionality of metrics; and short-termism, scientism, and distance in evaluation.
+
 ## Documents
 - [[Reason 2020 Surrogation.pdf|TK19 Entry (2020)]]
 
@@ -16,8 +18,8 @@ aliases: Goodhart's Law, Campbell's Law, operationalization, proxy, proxies, sur
 - [[Metonyms]]
 - [[Opticratics]]
 - [[Symbol And Substance]]
-- [[Short-termism]]
-- [[Distant Evaluation]]
+- [[short-termism]]
+- [[distant evaluation]]
 
 # Research
 

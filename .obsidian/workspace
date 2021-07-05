@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/mesa-optimization.md",
+            "file": "concepts/inexact sciences.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spiritvs",
+                "query": "transparency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,13 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/mesa-optimization.md",
+                "file": "concepts/inexact sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/mesa-optimization.md"
+                "file": "concepts/inexact sciences.md"
               }
             }
           }
@@ -94,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "active": "50e693fa781b2770",
   "lastOpenFiles": [
-    "concepts/mesa-optimization.md",
-    "concepts/language and law.md",
-    "concepts/everyday interaction.md",
-    "distant evaluation.md",
-    "concepts/spirit vs letter.md",
-    "concepts/opticratics.md",
+    "concepts/inexact sciences.md",
+    "Sigmund Freud.md",
+    "concepts/proto-predictive processing.md",
+    "concepts/pragmatic ontology.md",
+    "concepts/perception.md",
+    "Kenneth Liberman.md",
     "research areas/surrogation.md",
-    "opticratic.md",
-    "concepts/pragmatism.md",
-    "short-termism.md"
+    "library/Reason 2020 Surrogation.pdf",
+    "transcripts/crankAndReason20200303.md",
+    "concepts/language and law.md"
   ]
 }

@@ -10,7 +10,7 @@
 
 @Eigenrobot _"a general case of the Church Lady," an SNL skit character and American cultural archetype of a church-going woman who sees Satan in everyone's actions. "If you're a hammer, everything looks like a nail..."_
 
-DC Barker: _I'm always tempted to say “everything is just...”, but nothing turns off the reader like a reductive phrase such as this one! Everything? Just? Walter Kauffman in his three-volume series on Goethe, Kant, Hegel, [[Friedrich Nietzsche|Nietzsche]], Heidegger, Buber, Freud, Adler and Jung, zings Jung for constantly using that kind of rhetoric._
+DC Barker: _I'm always tempted to say “everything is just...”, but nothing turns off the reader like a reductive phrase such as this one! Everything? Just? Walter Kauffman in his three-volume series on Goethe, Kant, Hegel, [[Friedrich Nietzsche|Nietzsche]], Heidegger, Buber, [[Sigmund Freud|Freud]], Adler and Jung, zings Jung for constantly using that kind of rhetoric._
 
 # Introduction
 
@@ -30,7 +30,7 @@ Georgia Warnke, 1999, _Legitimate Differences_:
 
 I emphasize “contemporary treatment” because this attitude is not natural. It is the product of a century of discourse in literary theory, much of which began with warring over the “correct” interpretation of a text, then moved on to warring over the “proper” interpretive frame/s, and has finally settled on a pluralistic indeterminacy. In other words, it is _anticompatibilism_ and exclusivity of explanation which apparently constitute our ~~natural~~ positions on matters. (And here I strikethrough the term _natural_ in the way of Derrida, to show the simultaneous necessity and hopeless misfit of the word).
 
-Of relevance here is Ken Liberman’s [observations of coffee-tasting], which builds off the work of Merleau-Ponty on “chiasmic intertwining.”
+Of relevance here is [[Kenneth Liberman|Ken Liberman]]’s [observations of coffee-tasting], which builds off the work of Merleau-Ponty on “chiasmic intertwining.”
 
 > When you drink the coffee, descriptors give you access to dimensions of the flavor and you can communicate those dimensions to other tasters... [you can] direct someone to find what can possibly be located with the use of that descriptor... _[it] is opening up the taste of the coffee but at the same time it's closing it down_, because once you categorize this basket of fruit... then how do you taste, you know, vanilla that's going on at the same time... Nobody's even attuning to it. You might not even sense it.
 
@@ -130,7 +130,7 @@ Elliott Thornley, in "Knowing the difference can make all the difference" (2017)
 
 Paglia, in a 2003 CSPAN appearance, recounts of her time at Yale:
 
-> There was a problem in American literary criticism: the [[New Criticism]] had gotten too formalist, too focused on the individual text apart from biography or historical context. It was a reaction against the bibliographic excesses of an earlier generation. What was needed was to supplement New Criticism, by bringing in historical context, history and psychology because New Criticism was also anti-Freud... What poststructuralists did was to abandon the whole thing. 
+> There was a problem in American literary criticism: the [[New Criticism]] had gotten too formalist, too focused on the individual text apart from biography or historical context. It was a reaction against the bibliographic excesses of an earlier generation. What was needed was to supplement New Criticism, by bringing in historical context, history and psychology because New Criticism was also anti-[[Sigmund Freud|Freud]]... What poststructuralists did was to abandon the whole thing. 
 
 We ought to call this a revolutionary mindset: a preference for a revolving sequence of antitheses over a succession of interventions. The synthesis step is skipped in favor of perpetual instability and overcorrection of rudder. Incompatibilism: an exhausting see-saw, a zig-zag headed nowhere fast. Of course, to the revolutionary, the preference is rarely for the larger pattern of successive revolution; it is that _this particular_ revolution which he so absolutely supports must, logically, be absolutely implemented, which necessitates the destruction of the existing orthodoxy. Structuralism denies the freedom of man just as absolutely as its predecessor, existentialism, denied freedom's limits. Society must either be constituted top-down, unchangeable, or else bottom-up, unlimited—or so such reasoning goes; the reality is obviously cybernetic, where the norms and laws of a society shape individual actions just as individual actions shape norms and laws. But the French, it seems, are especially prone to these kinds of revolutionary absolutes; Latour writes in _The Enlightenment Without the Critique_:
 

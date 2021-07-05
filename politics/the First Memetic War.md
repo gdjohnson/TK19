@@ -1,6 +1,6 @@
 ![[paceLayers.jpg]]
 
-The First Memetic War: it’s all about outcompeting. When a new niche forms: First you get weeds, then you get trees. [[Short-termism|Short-term]] vs. long-term is a tradeoff: Charlie XCX vs. Kid A. We are living in a new memetic landscape, lacking cultural memory or the necessary tools to recognize or believe in the sustainable solutions.
+The First Memetic War: it’s all about outcompeting. When a new niche forms: First you get weeds, then you get trees. [[short-termism|Short-term]] vs. long-term is a tradeoff: Charlie XCX vs. Kid A. We are living in a new memetic landscape, lacking cultural memory or the necessary tools to recognize or believe in the sustainable solutions.
 
 > [Initially], plants with a short life history that specialize in colonization emerge; these first-stage plants are often called weeds, or “weedy ephemerals,” and make up a large number of agricultural pest species. But these initial colonizers specialize in colonization at the expense of long-term competitiveness for light. Second, a wave of plants that are not as good at spreading their seed, but a little better at monopolizing light, gain dominance. These are followed by plants that are even better at long-term competition.
 

@@ -6,13 +6,13 @@
 
 In F. L. Allen’s _Only Yesterday_, a contemporaneous history of the Twenties, Allen writes about the revolution in manners and morals that began to pick up in the early years of the decade:
 
-> Like all revolutions, this one was stimulated by foreign propoganda. It came, however, not from Moscow, but from Vienna. Sigmund Freud had published his first book of psychoanalysis at the end of the nineteenth century, and he and Jung had lectured to American psychologists as early as 1909, but it was not until after the war that the Freudian gospel began to circulate to a marked extent among the American lay public.
+> Like all revolutions, this one was stimulated by foreign propoganda. It came, however, not from Moscow, but from Vienna. Sigmund [[Sigmund Freud|Freud]] had published his first book of psychoanalysis at the end of the nineteenth century, and he and Jung had lectured to American psychologists as early as 1909, but it was not until after the war that the Freudian gospel began to circulate to a marked extent among the American lay public.
 
-And yet somewhere along the way, the analyst’s concepts of libido, drive, and sublimation had been distorted. Freud has been converted to gospel. Allen describes the ideological atmosphere:
+And yet somewhere along the way, the analyst’s concepts of libido, drive, and sublimation had been distorted. [[Sigmund Freud|Freud]] has been converted to gospel. Allen describes the ideological atmosphere:
 
 > Sex, it appeared, was the central and pervasive force which moved mankind. Almost every human motive was attributable to it: if you were patriotic or liked the violin, you were in the grip of sex—in a sublimated form. The first requirement of mental health was to have an uninhibited sex life. If you would be well and happy, you must obey your libido.
 
-As those more familiar with psychoanalytic writings know, these “lessons” of Freud and Jung hang from the originals as if from a thread; only a scraggling similarity of form and shared signifiers connects them. But such, Allen writes, “was the Freudian gospel as it imbedded itself in the American mind after being filtered through the successive minds of interpreters and popularizers and guileless readers and people who had heard guileless readers talk about it.” Our parable is at once hopeful and hopeless: Psychoanalysis had not converted the American public, so much as the American public had converted psychoanalysis.
+As those more familiar with psychoanalytic writings know, these “lessons” of [[Sigmund Freud|Freud]] and Jung hang from the originals as if from a thread; only a scraggling similarity of form and shared signifiers connects them. But such, Allen writes, “was the Freudian gospel as it imbedded itself in the American mind after being filtered through the successive minds of interpreters and popularizers and guileless readers and people who had heard guileless readers talk about it.” Our parable is at once hopeful and hopeless: Psychoanalysis had not converted the American public, so much as the American public had converted psychoanalysis.
 
 In the UK, the game of telephone is known as “Chinese whispers,” a more elegant handle than the American “telephone.” The premise is very simple: an auditory-semantic signal subject to an iterated process of interpretation and propagation. Your best guess of their representation of their best guess of… ad nauseam.
 
@@ -55,12 +55,12 @@ Phil Tetlock, _Superforecasting_:
 ## 5/18/2020
 
 [6:12 PM] snav: Reich won a pyrrhic victory because he "won" the cultural war but his terms lost their intended meanings, goals distorted by societal game of telephone
-[6:13 PM] snav: whereas Freud "lost" the public war but remains read and used with rather high fidelity, at least in the intellectual world
-[6:13 PM] snav: Freud sort of towers over Reich tho
-[6:14 PM] snav: Reich is sort of a young plucky revolutionary manifesto writer, Freud is the old wise balanced grandfather
+[6:13 PM] snav: whereas [[Sigmund Freud|Freud]] "lost" the public war but remains read and used with rather high fidelity, at least in the intellectual world
+[6:13 PM] snav: [[Sigmund Freud|Freud]] sort of towers over Reich tho
+[6:14 PM] snav: Reich is sort of a young plucky revolutionary manifesto writer, [[Sigmund Freud|Freud]] is the old wise balanced grandfather
 [8:49 PM] suspended reason: "social game of telephone" is a good handle
 [8:50 PM] suspended reason: I wonder if there's an even more compressed/descriptive name
-[8:50 PM] suspended reason: What, we talked about this w/r/t Freud's sexuality and how it "hit" the States in the 20s, where pretty soon everyone was going around saying it was "repressive" not to be having casual sex all the time lmao
+[8:50 PM] suspended reason: What, we talked about this w/r/t [[Sigmund Freud|Freud]]'s sexuality and how it "hit" the States in the 20s, where pretty soon everyone was going around saying it was "repressive" not to be having casual sex all the time lmao
 [8:51 PM] suspended reason: Chinese whispers is the british name for American "game of telephone"
 
 ## 5/24/2020

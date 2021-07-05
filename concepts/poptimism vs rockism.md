@@ -1,3 +1,7 @@
+---
+aliases: poptimism, rockism
+---
+
 # Poptimism
 
 ## Carl Wilson: Let's Talk About Love
