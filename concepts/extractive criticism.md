@@ -1,0 +1,21 @@
+In the entry for [[Fit]], I write:
+
+> Critics like Silverblatt and Berger are not so much “critical” critics in the sense of evaluating or passing judgment, nor are they “translator” critics, focused on giving cultural, historical, or biographical context to open up a text. Instead, they approach their work with humility, generosity, and painstaking patience; from here, they are able to share those approaches, ideas, interpretations, and “ways of seeing” which might bring out additional value from a given work. In other words, they wish to _increase_ the fitness of a work relative to the audience they write for (or, in an alternate factoring, increase the fitness of their audience to receive the work).
+
+We can outline at least three types of criticism from here:</div>
+
+1. __Evaluative ("critical") criticism__: Passes judgments, determines which works are worth of consumption and/or canonization. Shapes the way present and past works are consumed, and the way future works will be made.
+
+2. __Contextualizing ("translative") criticism__: Attempts to collapse between authorial [[intent]] and reader reception by giving cultural, historical, or biographical context. Shapes the way present and past works are consumed.
+
+3. __Extractive ("[return-maximizing](http://suspendedreason.com/2017/08/02/return-maximization-as-critical-mode/)") criticism__: Attempts to increase the value of a work, to maximize its returns, relative to a given audience. Shapes the way present and past works are consumed.
+
+It is important, first, to give evaluative criticism its fair shake. We are living in an era of cultural hyper-production and information overload; sorting (while the domain, in part, of machines) is a necessary task. And yet it is the least interesting, to me, of the three sorts.
+
+Extractive criticism often overlaps with contextualizing criticism, in that it often relies on contextualization as a technique of maximizing an artwork's value to a user. Its aim is to make a work more effect, to facilitate new effects by making the familiar unfamiliar, or the banal intriguing. It is, however, far less interested in [[intent|intentionality]], or the "truth" of its reading. It is a half-breed of Miller's Law: "To understand what an artwork is doing, you must first assume that it is good and try to imagine how and why this might be so." Insofar as utilitarian criticism is concerned with accuracy, it is interested in that elastic band of believability: create a narrative of a work, or a framework by which to understand it, which is plausible enough that the "distance" between the text and the interpretation is not stretched to the point of snapping.
+
+Translative critics look for a work's original context, or authorial context, in order to help audiences understand and appreciate a work's contextual fitness (and thus elegance). Over eras and shifts in paradigm, interpretations travel like a scattering of sparrows across the twilight sky: each a-loose, apart, and yet tied together by some herd logic in its direction, loose in their coordination through time. Individual difference yes, and yet over direction, inter-dependence. The translative critic's role is to chart the course, chart it back to its origins, and help readers or audiences understand the migratory distance. When approaching works which were once celebrated, but whose accessibility and contextual fitness has degraded over decades or centuries and are today less-than-appreciated, the translative or contextualizing approach is a valuable [[surrogation|proxy]] for increasing a work's value to users.
+
+Of course, evaluative critics require context in order to make worthwhile evaluations. Bad criticism treats individual art works as islands: such works exist as part of the main.[^1] But they exact judgment on works irrespective of era; translation is a sub-step of the evaluative process which is occasionally even outsourced out of need or else leisure.
+
+[1] Adapted, loosely, from the preface to Jon Worthen's The Gang: Coleridge, the Hutchinsons, & the Wordsworths in 1802 — a biography which seeks to understand its titular subjects via their friendships and personal relationships (as opposed to treating them as autonomous entities): "We write biographies of individual islands: we live as part of the main." (6)

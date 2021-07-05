@@ -1,0 +1,1 @@
+- [2017: Effect Ideas and Close Encounters](https://suspendedreason.com/2017/08/22/effect-ideas-and-close-encounters/)

@@ -1,0 +1,5 @@
+## James 1890: Principles of Psychology ("Reasoning")
+
+> put a reasoner amongst a set of concrete objects which he has neither seen nor heard of before, and with a little time, if he is a good reasoner, he will make such inferences from them as will quite atone for his ignorance. Reasoning helps us out of unprecedented situations—situations for which all our common associative wisdom, all the "education" which we share in common with the beasts, leaves us without resource.
+
+(We ought, of course, keep in mind the extreme limits of reasoning's capacity, even as we wonder at its power: Henrich's lost European explorer idea doubles as a parable on the limits of reason—the complexity of the real world involves many more unaccountable variables, hidden qualities, emergent properties, etc that our reasoning cannot extend very far, or very reasonably, or else we will miss insidious niacin poisoning in our meals, or miss some hidden obstacle which is preventing our fire from starting, etc.)

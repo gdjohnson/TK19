@@ -1,0 +1,11 @@
+## Grietzer 2020: Twitter
+
+> apart from doing dayjob stuff to build some savings, i mostly spent 2020 trying to get something out of hegel, especially via Reza Negarestani and Peter Wolfendale. i think i'm gonna take a break from this, now, but i do think i've come out of it with something important -- a conviction that something like carnapian explication of ‘sublation’ is one of the big tasks left for philosophy.
+> 
+> i'm thinking of ‘sublation’ here in terms of my current understanding of hegel (mostly through secondary sources), where ‘contradiction’ isn't really the thing being sublated, but rather contradiction is a symptom of a lack of concreteness in the foundations of your discourse which lends its terms a certain arbitrariness that lets reason run wild every which way and produce antinomies. so sublation is the making-concrete of the terms of your discourse. which is not exactly the same, i think, as making the terms of your discourse *explicit* or *materially describing* your discourse or *operationalizing* your discourse. (these may or may not be necessary elements but they're not sufficient.) ‘broccoli logic’ explication isn't sublation, genealogy or ordinary- language-philosophy-style cartography isn't sublation, gamification or fictionalization isn’t sublation.
+> 
+> i guess i think of sublation as something like ‘a description of x-ing such that conceptual access to this description transforms the practice of x-ing itself into one with more degrees of freedom in which to make non-arbitrary choices in the course of x-ing,’ or something. 
+> 
+> one thing reza gets right, i think, is that good carnapian explication of important concepts should be sublative (though i don't think that all sublation is carnapian explication), and so carnapian explication of sublation should be a sublaton of sublation practices and therefore (among other things) of carnapian explication itself. so, that's what i got from my spring/summer of studying mecha-hegel. i'd say it was pretty fruitful.
+
+(The idea behind the fear of "[[gamification|games]]" in conceptual engineering being that—Orwell-style—it can involve a values-laden reduction of complexity.)

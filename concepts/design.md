@@ -1,0 +1,12 @@
+## Noë 2015: Strange Tools
+
+> Consider an instrument like the door handle. We cannot understand such a device except against the [[foreground and background|background]] of a whole way of living. Door handles are useful only for people who live in dwellings and have need of doors to keep out the cold, strangers, or predators, and to protect their possessions and keep them safe in the night. Going a step further, it is clear that door handles presuppose, also, that we have bodies of a very specific sort, bodies with hands capable of handling the handles, and that we have the stature and strength to reach the handles and to shift the weight of the door itself.
+>
+> For an invention such as a door handle even to come on the scene, a whole cultural and biological stage needs to be set. But once the handle does appear, the practice of using doors with handles itself recedes into the [[foreground and background|background]] stage setting of our lives. We rarely if ever need to stop and ask questions about door handles. Unless we are designers, we don’t think about them very often. Our attention is fixed on getting into or out of the room, on what we are doing and where we are going. Manipulating doors by their handles becomes second nature. Indeed, the handle becomes the hub of a whole little organized activity of getting around in the houses we build and the places we live. We get organized by door handles, spontaneously reaching for them, gripping them appropriately.
+
+Later:
+
+> tools are useful only against the [[foreground and background|background]] of our needs and capacities. Let’s return to the doorknob. A simple bit of technology, yes, but one that presupposes a vast and remarkable social [[foreground and background|background]]. Doorknobs exist in the context of a whole form of life, a whole biology—the existence of doors, and buildings, and passages, the human body, the hand, and so on. A designer of doorknobs makes a simple artifact, but does so with an eye to its mesh with this larger cognitive and anthropological framework.
+
+> Design organizes and enables; art subverts. It does this by abrogating the [[foreground and background|background]] that needs to be in place for things to have their functions. You never ask, when confronted with a doorknob, What is this? For the question even to come up is for the doorknob’s utility already to have been undermined. If you even notice the knob, it’s potentially bad design. But art is bad design on purpose. It calls attention to itself.
+

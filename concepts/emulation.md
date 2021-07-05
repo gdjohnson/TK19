@@ -1,0 +1,3 @@
+Typically contrasted, in psychology and [[social learning]], with imitation. Redefined by Tomasello 1996:
+
+> The individual observing and learning some affordances of the behavior of another animal, and then using what it has learned in devising its own behavioral strategies, is what I have called emulation learning. [...] an individual is not just attracted to the location of another but actually learns something about the environment as a result of its behavior.

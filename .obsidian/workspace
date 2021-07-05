@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "5bd3969b7e6fa2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e693fa781b2770",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/mesa-optimization.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b258ad9eadb254fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d103ff40c3b5daae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c521725cf7c1db88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32090f3ddc09d788",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spiritvs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "864d979d6e30f023",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d57ad5f6ec2e53a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d552f5ebe40c8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/mesa-optimization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "288184718da73ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/mesa-optimization.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "active": "50e693fa781b2770",
+  "lastOpenFiles": [
+    "concepts/mesa-optimization.md",
+    "concepts/language and law.md",
+    "concepts/everyday interaction.md",
+    "distant evaluation.md",
+    "concepts/spirit vs letter.md",
+    "concepts/opticratics.md",
+    "research areas/surrogation.md",
+    "opticratic.md",
+    "concepts/pragmatism.md",
+    "short-termism.md"
+  ]
+}

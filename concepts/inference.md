@@ -1,0 +1,4 @@
+# Perry 2020: Ignorance, a skilled practice
+
+> Luria, who studied illiterate Russian peasants and their semi-literate children. Consider especially this version of the story, prepared in the 1970s to provide morale and context to reading teachers (John Guthrie, 1977). Essentially, Luria discovered that the illiterate, unschooled peasants were highly resistant to syllogisms and word games. The adult peasants would only answer questions based on their own knowledge, and stubbornly refused to make deductions from given premises. “All bears are white where it is snowy. It is snowy in Nova Zembla. What color are the bears in Nova Zembla?” “I don’t know, I have never been to Nova Zembla.” Children with only a year or two of education, however, were easily able to engage in such abstract reasoning. They quickly answered the syllogisms and drew inferences from hypothetical facts outside of their own observation.
+

@@ -1,0 +1,1 @@
+> To say something is white when one thinks it black, to smile inwardly when one is outwardly solemn, to hate when one manifests love, to know when one pretends not to know, and thus to play one’s adversary for a fool (even as he is playing you for one) – these actions lead one to prize one’s own cunning above all else. Success in the game becomes a source of satisfaction.

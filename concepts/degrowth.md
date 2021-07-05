@@ -1,0 +1,4 @@
+# 0HP Lovecraft Interview
+
+> You might point to the Amish as an example of people who have chosen to live without technology; they have a high fertility rate, and the people who stay Amish seem to be increasingly bred to stay Amish. But they can only exist because they are embedded in a high tech society. If they were their own country, Amishia, or something, then they wouldn’t even be able to win a war against an army using early 20th century technology, let alone 21st. And what that means is that they would get invaded and pushed out of their land by their nearest neighbors. It would never even come to fighting, because their technology-equipped competitors could say, “trade with us or die, accept our immigrants or die” – the mere existence of the power imbalance makes these outcomes inevitable.
+

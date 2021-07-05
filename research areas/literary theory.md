@@ -1,0 +1,45 @@
+## Entries
+- [[Aesthetics]]
+- [[Apollonian and Dionysian]]
+- [[Authenticity]]
+- [[Blogging]]
+- [[Compression]]
+- [[Death of the Author]]
+- [[Defamiliarization]]
+- [[Externalist readings]]
+- [[Extractive criticism]]
+- [[Fiction as psychic occupation]]
+- [[Foreground and background]]
+- [[Foreign and familiar]]
+- [[Genre]]
+- [[History of the novel]]
+- [[Innovation vs imitation]]
+- [[Intentionality]]
+- [[Internalist readings]]
+- [[Language]]
+- [[Literary Meaning]]
+- [[Meaning]]
+- [[New Criticism]]
+- [[Persona]]
+- [[Postmodernism]]
+- [[Predictive hermeneutics]]
+- [[Romanticism]]
+- [[Structuralism]]
+- [[Style]]
+- [[Surprisal]]
+- [[Taste]]
+- [[Theory of mind]]
+- [[Timelessness|Timely vs Timeless]]
+- [[Tragedy and comedy]]
+- [[Vibe]]
+
+## Essays
+- [2016: Chekhov’s Gun and Red Herrings: Meaning, Rules, and Transgression in Storytelling](https://suspendedreason.com/2016/05/14/chekhovs-gun-and-red-herrings-meaning-rules-and-transgression-in-storytelling/)
+- [2016: Ulysses, Wilde, & a Theory of Literary Compression](https://suspendedreason.com/2016/11/21/ulysses-wilde-and-a-theory-of-literary-compression/)
+- [Predicting Joyce's "Calypso"](https://suspendedreason.com/2016/11/07/predicting-joyces-calypso/)
+- [2017: Mental Imagery](https://suspendedreason.com/2017/11/09/mental-imagery-1/)
+- [2017: Maps, Chords, and Effect Ideas](https://suspendedreason.com/2017/08/04/maps-chords-and-effect-ideas/)
+- [2017: Effect Ideas and Close Encounters](https://suspendedreason.com/2017/08/22/effect-ideas-and-close-encounters/)
+- [2018: Poets are Intelligence Assets](https://suspendedreason.com/2018/07/17/poets-are-intelligence-assets/)
+- [2018: Metric Prose in Austen's _Emma_](https://suspendedreason.com/2018/07/11/metric-prose-in-austens-emma/)
+- [2020: Phillips as Poplit](https://suspendedreason.com/2020/08/20/kaitlin-phillips-as-poplit/)

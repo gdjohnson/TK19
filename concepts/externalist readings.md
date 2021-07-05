@@ -1,0 +1,3 @@
+# [[Pierre Bourdieu|Bourdieu]] 1986: Principles for a Sociology of Cultural Works
+
+> the studies that are most typical of the external mode of analysis are those of Marxist inspiration, which with authors as different as Lukács or Goldmann, Borkenau (on the origins of mechanistic thought), Antal (on Florentine painting) and Adorno (on Heidegger) attempt to relate works to the world view or the social interests of a particular social class... that is supposed to have expressed itself through the artist acting as a sort of medium.

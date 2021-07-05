@@ -1,0 +1,3 @@
+## [[Friedrich Nietzsche|Nietzsche]]: On Truth & Lies in a Nonmoral Sense
+
+The liar is a person who uses the valid designations, the words, in order to make something which is unreal appear to be real. He says, for example, "I am rich," when the proper designation for his condition would be "poor." He misuses fixed conventions by means of arbitrary substitutions or even reversals of names. If he does this in a selfish and moreover harmful manner, society will cease to trust him and will thereby exclude him.

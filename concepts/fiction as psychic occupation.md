@@ -1,0 +1,15 @@
+## Precedents & convergences
+
+_See also Iser's "[[simulation theory]]."_
+
+David Foster Wallace 2003:
+
+> I'm trying to think of a way to say it where it doesn't just sound stupid and simple, but it goes without saying that ... There are four of us in this room. I'm sure we all seem fairly pleasant. There are big limits on what we'll ever know Like I don't know what's in your mind, right now. God knows I don't know what's in his mind right now. There's a way for me - I'm talking more as a reader - that when I'm reading something that's good and that's real I'm able to jump over that wall of self and inhabit somebody else in a way that I can't. You know, that we can't in regular life. And when I do inhabit that other person, very often what they're thinking or saying or feeling are things very much the way I do, but I'm scared there's something wrong with me that I do and nobody else does. There's a tremendous reassurance about that kind of communion and empathy. And then it gets more complicated, because I'm also getting access to the mind of the author in a way that we don't have access to each other talking this way. Most of the friends I've got, and most of my friends don't like to read. Most of the friends I've got who don't like to read find it, A) boring, and B) just kind of lonely and slow. And I just don't get it. because watching television for me, although it's easier, is much lonelier.
+
+> There's something comforting about being able to inhabit somebody else, but there's something also very uncomfortable about it, because usually the experiences that person is having are just the ones that I don't like or that I haven't worked out. And it seems to me that the biggest split isn't between music and literature or music and sculpture, whatever. They're forms of art that offer us escapes from ourselves and our daily lives. And I think that's fun in small doses. And then there are kinds of art that offer us more confrontation with our own lives.
+
+## Examples
+
+Franzen's _Freedom_:
+
+> She stood in front of the Fen City Co-op's meager selection of domestic beers, the Millers and the Coorses and the Budweisers, and tried to make a decision. Held a sixpack in her hand as if she might be able to judge in advance, through the aluminum of the cans, how she would feel if she drank it. Richard had told her to cool it with the drinking; she'd been ugly to him drunk. She reshelved the sixpack and wrenched herself away to less compelling parts of the store, but it was hard to plan dinner when you felt like throwing up. She returned to the beer shelves like a bird repeating its song. The various beer cans had different decorations but all contained the identical weak low-end brew. It occured to her to drive to Grand Rapids and buy some actual wine. It occurred to her to drive back to the house without buying anything at all. But then where would she be? A weariness set in as she stood and vacillated: a premonition that none of the possible impending outcomes would bring enough relief or pleasure to justify her current heart-racing wretchedness.

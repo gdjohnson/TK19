@@ -1,0 +1,1 @@
+The Kolmogoov complexity of a string of bits is the length of the shortest function that can print it. 

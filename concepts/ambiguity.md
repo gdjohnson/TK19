@@ -1,0 +1,3 @@
+---
+aliases: indeterminacy, ambiguities
+---

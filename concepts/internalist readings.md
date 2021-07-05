@@ -1,0 +1,12 @@
+# Overview
+
+Internalist readings are those which maintain some form of autonomy between text and world. The greatest challenge to internalist readings is their implicit reliance on a false conception of timeless "essence" (as in New Criticism) or else linguistic "separatism" (as in structuralism). Though it may be defensible as an aspirational mode of reading, the former mode of pure reading impossible: the inherent gappiness and [[ambiguity]] of language requires filling or resolution, and some recourse to experience, historical knowledge, and authorial [[intent]] are necessary. If this information is contained "purely" in the language in some objective way, we might endorse the intertextual [[Structuralism]]; as is, I contend that language locates as much of its meaning through correspondence to experience and real-world knowledge as it does through coherence with other language. The handle or linguistic "container" that is the word "table" is not filled by coherence with other words, although we might present it in dictionaries as such; rather, its meaning derives from the correspondence in individuals' minds between experienced objects and the handle. In this way, a structuralist reading closed to the non-textual world is arguably as impossible as the essentializing, New Criticism mode.
+
+Internalist readings are related to conceptions of "pure" literature and of aesthetic autonomy. They emerged in the early 20th C in response to "biophilic" schools of criticism that emphasized the author. They were followed by, and are here contrasted with, [[Externalist Readings]]. 
+
+The best defense of internalist readings may not be so much the letter of their views as much as their spirit: for New Critics, the aim was always squarely the work itself, in front of them. Externalist readings, though they acknowledge important truths of production (instead of engaging in a fantasy of autonomy), have a tendency to get away from the work in all its specificity and character, reducing it to the production of a social class or materialist motive. "What do we gain through this particular approachc to the work of art? Is it worth reducing and destroying, in short breaking the spell of the work in order to account for it and to learn what it is all about? [...] what have we gained, other than the slightly perverse pleasure of disenchantment" Bourdieu writes in "Principles for a Sociology of Cultural Works." 
+
+# Entries
+
+* [[New Criticism]]
+* [[Structuralism]]

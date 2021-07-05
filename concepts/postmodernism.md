@@ -1,0 +1,3 @@
+Poetix, Dissensus Dec 12 2008:
+
+> For Fredric Jameson, however, postmodernity is the recoding of modernism's lines of flight as a "cultural logic": "legitimation through paralogy" becomes another technique for capitalist expansion, for the opening up of new markets or the elaboration of new financial instruments. The modernist impulse to "make it new" has become tied to a cultural [[fetish|fetishisation]] of novelty - latest Hot New Theorist! - while the once menacing and rebarbative negations of modernist [[aesthetics]] ("There's no more pap. You'll never get any more pap...") are pressed into the service of "creative destruction", first as shock tactics and then as apologetics for the resulting social and institutional precarity.

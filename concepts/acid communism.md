@@ -1,0 +1,2 @@
+[[Mark Fisher]]:
+> acid communism leaves us with a simple message. The future has been cancelled because we are unable to imagine anything other than the present. To invent the future, to escape our myopia, we have to go beyond the present bounds of our imagination. This is acid communism.

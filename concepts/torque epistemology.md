@@ -1,0 +1,144 @@
+_Todo: switch to a torque epistemology entry._
+
+You can gauge the force being exerted on someone by how (and how hard) they push back.
+
+# Introduction
+
+Discourse is not a set of in-a-vacuum positions people hold. It's a series of rhetorical moves in a conversation whose center is an emphasis, a general sensibility. And people speak in *response* to what they perceive as the pre-existing emphasis. In John Nerst's vocabulary, this emphasis is the "signal," the dominant or "hegemonic" stance. Crucially, the signal is _socially situated_: it is a perception of the social ring which wraps around one's subcultural situation, or rather and more generally, is the perceived stance of the addressed audience.
+
+We might call this "transformative epistemics," and opposite it to "cartographic epistemics," where rhetorical overlean is a maneuver to hit some bartered middle ground. There are natural discursive incentives to emphasizing a corrective _as_ signal, which gives rise to Dennett's deepities ("love is _just_ a word") and similar over-extensions (see [[Extend-and-Retreat]]). Such incentives prevent a position like [[Generalized Compatibilism]] from prevailing. Other problems include a loss of context and grounding, in the historical record (corrective claims can be lifted free from their hegemonic grounding), where rhetorical lean is difficult to distinguish at a distance from plain old bad cartography.
+
+The extend-and-retreat style of corrections masquerading as signals is especially prominent in French intellectual production; see the section below on Latour's "Enlightenment Without the Critique."
+
+To some extent, the signal-and-corrective structure of discourse is already well known: there is precedent in Hegel's dialectics, and in the concept of "situating" thinkers—understanding that a certain author is "pushing against" some prevailing assumption of their time, or trying to constrain the "excesses" of a political fad. But positions and expressed beliefs are still overwhelmingly conceptualized as existing in a vacuum, as being a thinker's "authentic" and "true" "beliefs" (each of these, I think, deserves its dedicated scare-quote) instead of as their social, provisional intervention in an existing discourse—a move in a game that is discourse.
+
+# Discussion & precedents
+
+## Nerst 2017: The Signal and the Corrective
+
+> It also explains the sort of situation (which happens to me a lot) where you switch sides based on who you’re talking to. If you’re with someone with an opposite signal, you prioritize boosting your own signal and ignore your own corrective that actually agrees with the other person. However, when talking to someone who agrees with your signal you may instead start to argue for your corrective. And if you’re in a social environment where everyone shares your signal and nobody ever mentions a corrective you’ll occasionally be tempted to defend something you don’t actually support (but typically you won’t because people will take it the wrong way).
+
+> There is [sic] a lot of valid criticisms of how science is done, for instance, but unless you first acknowledge that science is the best and perhaps only way to get reliable knowledge—far ahead any other contenders like religion or intuition—I’m not going to listen to them. I need to know you’re not going to use those valid points as a wedge to push something fundamentally unscientific. That’s not on the table and we need to be clear on that. In other words, I need to know you’re on my side (avoiding triggering our coalitional instincts is key).
+
+Nerst gives as an example of a "summing up" conflict over emphasis:
+
+> “The free market is extremely powerful and will work best as a rule, but there are a few outliers where it won’t, and some people will be hurt so we should have a social safety net to contain the bad side effects."
+> and
+> “Capitalism is morally corrupt and rewards selfishness and greed. An economy run for the people by the people is a moral imperative, but planned economies don’t seem to work very well in practice so we need the market to fuel prosperity even if it is distasteful.”
+
+## Reason 2020: El morada
+
+Living in a post-Marx world, we cannot conceive of a pre-Marx world, Bourdieu writes; the situation he responded to is already gone, and it has vanished in part _on account of its writing and publication_.
+
+> Since works are always _to_ someone, or an impression of aggregate someones, it exists only in relation to the world before it existed. The Bourdieu thing about Marx not being a Marxist—"This explains why writers’ efforts to control the reception of their own works are always partially doomed to failure (one thinks of Marx’s ‘I am not a Marxist’); if only because the very effect of their work may transform the condition of its reception and because they would not have had to write many things they did write and write them as they did— eg. resorting to rhetorical strategies intended to 'twist the stick in the other direction'— if they’d been granted from the outset what they are granted retrospectively." But the distortion of this (inherent) structure of thought is not just rhetorical. It shapes beliefs _as they are felt_ and understood; it leads to a perception of exaggerated, intractable polarism.
+
+> Meaning is always relational; ideological texts compress the world along one or two dimensions not b/c the writer believes they’re the only dimensions that matter, but b/c the writer believes they’re causally underrated. Overstated cases get made to swing the pendulum, push dialectic with rhetoric, as often as they are truth claims.
+
+## Reason 2020: Reading "Ignorance, a skilled practice"
+
+> “Every seemingly innocent fragment of information is secretly plotting how to escape its context and cause trouble,” Sarah has written elsewhere. When a Tweet goes viral—when it leaves its home community, the discursive situation which it was designed to respond to—its indexical information is lost. This lost  content can include irony & affect, local linguistic norms & vocab, and the various reputations & positions of the stances of the discourse. (This is what John Nerst refers to in his factoring of the “signal” and “corrective”: a discursive position does not exist in a vacuum, but is reactive to other positions, setting itself in opposition to them, and thus, the dominant narrative in a community has much effect on how we understanding upstart challenger narratives.)
+
+## Long Chu 2019: Females, a Concern
+
+> Any good feminist bears stitched into the burning bra she calls her heart that tapestry of qualifiers we use to tell one another stories about ourselves and our history: radical, liberal, neoliberal, socialist, Marxist, separatist, cultural, corporate, lesbian, queer, trans, eco, intersectional, anti-porn, anti-work, prosex, first-, second-, third-, sometimes fourthwave. These stories have perhaps less to do with What Really Happened than they do with what Fredric Jameson once called “the ‘emotion’ of great historiographic form”—that is, the satisfaction of synthesizing the messy empirical data of the past into an elegant historical arc in which everything that happened could not have happened otherwise. To say, then, that these stories are rarely if ever “true” is not merely to repeat the axiom that taxonomy is taxidermy, though it cannot be denied that the objects of intellectual inquiry are forever escaping, like B-movie zombies, from the vaults of their interment. It is also to say that all cultural things, _SCUM Manifesto_ included, are answering machines for history’s messages at best only secondarily. They are rather, first and foremost, occasions for people to feel something: to adjust the pitch of a desire or up a fantasy’s thread count, to make overtures to a new way to feel or renew their vows with an old one. We read things, watch things, from political history to pop culture, as feminists and as people, because we want to belong to a community or public, or because we are stressed out at work, or because we are looking for a friend or a lover, or perhaps because we are struggling to figure out how to feel political in an age and culture defined by a general shipwrecking of the beautiful old stories of history.
+
+> This was months before I began teaching my first undergraduate recitation, where for the second time in my life—but the first time as a woman—I read Valerie Solanas’s _SCUM Manifesto_. The _SCUM Manifesto_ is a deliciously vicious feminist screed calling for the revolutionary overthrow of all men; Solanas self-published it in 1967, one year before she shot Andy Warhol on the sixth floor of the Decker Building in New York City. I wondered how my students would feel about it. In the bathroom before class, as I fixed my lipstick and fiddled with my hair, I was approached by a thoughtful, earnest young woman who sat directly to my right during class... I would glance over at this student’s notes, only to discover that she had filled the page with the word SCUM, written over and over with the baroque tenderness usually reserved for the name of a crush. [...] __But generosity is the only spirit in which a text as hot to the touch as the _SCUM Manifesto_ could have ever been received.__ This is after all a pamphlet advocating mass murder, and what’s worse, property damage. It’s not as if those who expressed their disappointment over the tribute’s cancellation did so in blanket approval of Solanas’s long-term plans for total human extinction (women included) or her attempted murder of a man who painted soup cans. 
+
+Long Chu points out, valuably, that "trolling" is a type of corrective:
+
+> When a subculture espouses extremist politics, especially online, it is tempting but often incorrect to take those politics for that subculture’s beating heart. It’s worth considering whether TERFs, like certain strains of the altright, might be defined less by their political ideology (however noxious) and more by a complex, frankly fascinating relationship to trolling, on which it will be for future anthropologists, having solved the problem of digital ethnography, to elaborate.
+
+## Latour 2004: Why Has Critique Run Out Of Steam?
+
+Latour worries that poststructuralist criticisms of science are "one war late," whether the ground they responded to—the midcentury enthusiasm and belief in science—has already receded, and been replaced by (e.g.) climate skepticism, anti-vax. Hence the second part of his title: "From Matters of Fact to Matters of Concern." 
+
+> Would it not be rather terrible if we were still training young kids—yes, young recruits, young cadets—for wars that are no longer possible, fighting enemies long gone, conquering territories that no longer exist, leaving them ill-equipped in the face of threats we had not anticipated, for which we are so thoroughly unprepared? Generals have always been accused of being on the ready one war late— especially French generals, especially these days. Would it be so surprising, after all, if intellectuals were also one war late, one critique late—especially French intellectuals, especially now? 
+
+> Do you see why I am worried? I myself have spent some time in the past trying to show “_the lack of scientific certainty_” inherent in the construction of facts. I too made it a “primary issue.” But I did not exactly aim atfooling the public by obscuring the certainty of a closed argument—or did I? After all, I have been accused of just that sin. Still, I’d like to believe that, on the contrary, I intended to _emancipate_ the public from prematurely naturalized objectified facts. Was I foolishly mistaken? Have things changed so fast?
+
+> the danger would no longer be coming from an excessive confidence in ideological arguments posturing as matters of fact—as we have learned to combat so efficiently in the past—but from an excessive _distrust_ of good matters of fact disguised as bad ideological biases! While we spent years trying to detect the real prejudices hidden behind the appearance of objective statements, do we now have to reveal the real objective and incontrovertible facts hidden behind the _illusion_ of prejudices?
+> [...]
+> Threats might have changed so much that we might still be directing all our arsenal east or west while the enemy has now moved to a very different place.
+> [...]
+> This does not mean for us any more than it does for the officer that we were wrong, but simply that history changes quickly and that there is no greater intellectual crime than to address with the equipment of an older period the challenges of the present one.
+
+In his carving, the public has traveled from naive belief in science and religion to a dismissive, conspiratorial skepticism, encouraged, he believes, by the "French generals." The whole dynamic reminds one of the American government's habit supplying arms to a rebel group ("anything _but_ the current regime," in the corrective spirit) and then 30 years later, having to fight those self-same rebels, who have now become the regime and are armed to the teeth with American weapons.
+
+> What has become of critique when my neighbor in the little Bourbonnais village where I live looks down on me as someone hopelessly naive because I believe that the United States had been attacked by terrorists? Remember the good old days when university professors could look down on unsophisticated folks because those hillbillies naı¨vely believed in church, motherhood, and apple pie?
+
+In France generally, Latour perceives a deep fear of being seen as naive, outdated, or gullible; these are the "worst" things one can be in Parisian society, and thus, coupled with and causing its love of revolutions (see "The Enlightenment Without the Critique"), discourse there prized, above all, for being à la mode.
+
+### Latour: The Enlightenment Without the Critique (A Word on Michel Serres' Philosophy)
+
+> The French, it is well known, love revolutions, political, scientific or philosophical. There is nothing they like more than a radical upheaval of the past, an upheaval so complete that a new tabula rasa is levelled, on which a new history can be built. None of our Prime Ministers starts his mandate without promising to write on a new blank page or to furnish a complete change in values and even, for some, in life. Each researcher would think of him or herself as a failure, if he or she did not make such a complete change in the discipline that nothing will hereafter be the same. As to the philosophers they feed, from Descartes up to Foucault's days, on radical cuts, on 'coupure épistémologique', on complete subversion of everything which has been thought in the past bv everybody. No French thinker, indeed no student of philosophy, would seriously contemplate doing anything short of a complete revolution in theories. To hesitate, to respect the past, would be to compromise, to be a funk, or worse, to be eclectic like a vulgar Anglo-Saxon.
+
+### Latour, New York Times Magazine Profile
+
+> “I think we were so happy to develop all this critique because we were so sure of the authority of science,” Latour reflected this spring. “And that the authority of science would be shared because there was a common world.” We were seated at the dining-room table of his daughter’s apartment in the 19th Arrondissement of Paris, where Latour, who is 71, was babysitting for his 8-year-old grandson, Ulysse. The apartment, he told me proudly, was purchased with the money that came with the award of the 2013 Holberg Prize, known as the Nobel of the humanities, for what the jury heralded as his “reinterpretation of modernity.” He was wearing a purple turtleneck sweater, his favorite burgundy slacks and sensible black walking shoes. He has a full head of dark, disheveled hair, and his vigorously overgrown eyebrows sweep several unsettling centimeters up beyond the rim of his round spectacles, like a nun’s cornette. “Even this notion of a common world we didn’t have to articulate, because it was obvious,” he continued. “Now we have people who no longer share the idea that there is a common world. And that of course changes everything.”
+
+The assumption ground of what can go unsaid, versus what needs to be pushed back on, and how hard.
+
+# Exhibits
+
+## Bourdieu on inequality
+
+Radio interview, featured in _Sociology Is A Martial Art_:
+
+> Q: You didn't answer my question. Do [social hierarchies] serve a purpose?
+>
+> A: Well, that's a question that belongs to metaphysics. The sociologists doesn't have to take a stand. We know that there are areas... there is at least one... it's a small-scale society where differences hardly exist at all. It's an archaic society. And it works very well... But I'd rather put the question aside... I don't think we can answer it.
+>
+> Q: Because it's too complicated?
+>
+> A: Because it's complicated, and because I can't answer it.
+>
+> Q: Why is it so complicated? Can you explain it?
+>
+> A: Because there are important political issues at stake here... We're dealing with a political issue, and especially issues related to "legitimacy," the word I just used. There are people who would like to legitimize... There are those who say—roughly put, it's the dominant who say—that inequalities are justified. It's in their interest to say that inequality is a good thing. 
+
+Bourdieu calls this a "political" issue, not a sociological one, but asking the function or purpose of a social structure is clearly a valid sociological question, and it seems more precise to say that Boudieu is worried his answer could _become politicized_.
+
+## Paglia 2005: Bookforum interview
+
+> I was in college around the time when the [[New Criticism]], which adores explication de texte and all this close reading, was in decline. I would say it was in its height in its founding in the 30s and 40s; but by the 50s, it had become very derivative. It was practiced by these sort of third-raters, people without the real talent and erudition and prose style of the ones who had founded it in North America. And so I was in revolt, I thought, against it in my college years.
+
+## Sommers & Pizarro
+
+> Part of the reason I changed my view [on free will] is I tend to be a contrarian, and these days everyone's denying free will and moral responsibility.
+
+> You're like a hipster philosopher, it's too trendy now.
+
+> It's like a band you discovered when they were doing demos in their basement, and now all of the sudden they're on MTV and you get kinda snide about it.
+
+But Sommers isn't just describing contrarianism as an identity; he's describing a _stage_ in a _process_ of imitation and distinction. This is the synthesis of Girardian and Bourdieusean worldviews.
+
+## The 1619 Project
+
+from [Politico](https://www.politico.com/news/magazine/2020/03/06/1619-project-new-york-times-mistake-122248):
+
+> Hannah-Jones and I were on Georgia Public Radio to discuss the path-breaking New York Times 1619 Project, a major feature about the impact of slavery on American history, which she had spearheaded. The Times had just published the special 1619 edition of its magazine, which- took its name from the year 20 Africans arrived in the colony of Virginia—a group believed to be the first enslaved Africans to arrive in British North America.
+> 
+> Weeks before, I had received an email from a New York Times research editor. Because I’m an historian of African American life and slavery, in New York, specifically, and the pre-Civil War era more generally, she wanted me to verify some statements for the project. At one point, she sent me this assertion: “One critical reason that the colonists declared their independence from Britain was because they wanted to protect the institution of slavery in the colonies, which had produced tremendous wealth. At the time there were growing calls to abolish slavery throughout the British Empire, which would have badly damaged the economies of colonies in both North and South.” I vigorously disputed the claim. Although slavery was certainly an issue in the American Revolution, the protection of slavery was not one of the main reasons the 13 Colonies went to war.
+> 
+> The editor followed up with several questions probing the nature of slavery in the Colonial era, such as whether enslaved people were allowed to read, could legally marry, could congregate in groups of more than four, and could own, will or inherit property—the answers to which vary widely depending on the era and the colony. I explained these histories as best I could—with references to specific examples—but never heard back from her about how the information would be used.
+> 
+> Despite my advice, the Times published the incorrect statement about the American Revolution anyway, in Hannah-Jones’ introductory essay. In addition, the paper’s characterizations of slavery in early America reflected laws and practices more common in the antebellum era than in Colonial times, and did not accurately illustrate the varied experiences of the first generation of enslaved people that arrived in Virginia in 1619.
+> 
+> **Both sets of inaccuracies worried me, but the Revolutionary War statement made me especially anxious. Overall, the 1619 Project is a much-needed corrective to the blindly celebratory histories that once dominated our understanding of the past—histories that wrongly suggested racism and slavery were not a central part of U.S. history. I was concerned that critics would use the overstated claim to discredit the entire undertaking. So far, that’s exactly what has happened.**
+
+## Cowen's "Mood Affiliation"
+
+> 1. People who strongly desire to refute those who predicted the world would run out of innovations in 1899 and thus who associate proponents of a growth slowdown with that far more extreme view.  There’s simply an urgent feeling that any “pessimistic” view needs to be countered.
+> 2. People who see a lot of net environmental progress (air and water are cleaner, for instance) and thus dismiss or downgrade well-grounded accounts of particular environmental problems.  There’s simply an urgent feeling that any “pessimistic” view needs to be countered.
+> 3. People who see a political war against the interests of the poor and thus who are reluctant to present or digest analyses which blame some of the problems of the poor on…the poor themselves. (Try bringing up “predatory borrowing” in any discussion of “predatory lending” and see what happens.)   There’s simply an urgent feeling that any negative or pessimistic or undeserving view of the poor needs to be countered.
+> 4. People who see raising or lowering the relative status of Republicans (or some other group) as the main purpose of analysis, and thus who judge the dispassionate analysis of others, or for that matter the partisan analysis of others, by this standard.  There’s simply an urgent feeling that any positive or optimistic or deserving view of the Republicans needs to be countered.
+
+Note that each of these examples centers on _countering_: on opposing a view perceived as dominant.
+
+## Film critic Adam Nayman discussing Showgirls
+
+Merely continuing to affirm the status quo is low in [[interestingness]], informationally, which means attention is often focused on correctives:
+
+> Q: It’s become de rigueur for trash cinema to get reclaimed. An entire culture has thrived defending, even intellectualizing genre films that don’t get major awards.
+>
+> A: Actually, the movies that tend to never get rewritten about, never get analyzed deeply or have interesting online writing about them are well-reviewed, upper-middle-brow movies from the ‘80s and ‘90s.

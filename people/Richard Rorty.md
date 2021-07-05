@@ -1,0 +1,9 @@
+## Cosma Shalizi, review of Susan Haack's _Manifesto of a Passionate Moderate_
+
+> Susan Haack is the author of a survey of non-standard logics and any number of technical works in epistemology, of a more or less pragmatist-analytical tendency, i.e., she admires C. S. Peirce and loves to hate Richard Rorty.
+
+Haack on Rorty & colleagues in neo-pragmatism:
+> Some of the revolutionaries described themselves as neo-pragmatists; unsettling, to put it mildly, given how fruitful I had found the old pragmatists' reflections about the goal and conduct of inquiry. Some of these self-styled neo-pragmatists urged the ubiquity of metaphor and linguistic innovation as grounds for giving up evidence and argument and remaking philosophy as a genre of literature; unsettling, to put it mildly, given how useful I had found metaphors and neologisms myself. Other revolutionaries described themselves as feminists or multiculturalists; unsettling, to put it mildly, to hear that thinking about evidence and inquiry as I did revealed complicity with sexism or racism. Others maintained that admiration for the achievements of the natural sciences is foolish naïveté at best, reactionary conformism with the industrial-military [sic] complex at worst; unsettling, to put it mildly, to think that my understanding of the method of science might be so dangerously mistaken.
+
+> Rorty is one of those philosophers whose writings might as well wear a clown suit and a HIT ME sign; making a person who says conversation makes up the the world look ridiculous is almost superfluous. (I'm fond of the theory that there are really two writers named Richard Rorty, one a fine leftist political essayist, the other a rather absurd philosopher, and that they claim credit for each other's works as an extended and mutual practical joke.)
+

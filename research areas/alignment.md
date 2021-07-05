@@ -1,0 +1,10 @@
+Broadly speaking, the alignment problem is the problem of cooperation between agents, and the creation of robust incentive structures that properly reward or punish agents for desired and undesired behavior, respectively.
+
+## Entries
+- [[Coordination]]
+- [[Incentive Structures]]
+- [[Mesa-Optimization]]
+- [[Spirit vs Letter]]
+- [[Superorganisms]]
+- [[Surrogation]]
+- 

@@ -1,0 +1,7 @@
+# Ritual as an exercise of tacit coordination
+
+Vollmer 2013 (for context, see subsection on tacit coordination in [[Strategic Interaction]] entry):
+
+> The strongest case for principles of affirmation as efficient orientations for gaining utility from maintaining expectations though may perhaps be provided by the observation that, while the confirmation of expectations may sometimes be a private affair of checking ideas and sometimes an institutional affair of applying collectively ratified rules, the utility gained from entertaining them appears to be particularly high if they are collectively ratified among co-present participants. This observation is central to Randall Collins' Neo-Durkheimian understanding of interaction ritual as a process in which the entrainment of participants into patterns of physical interaction with a mutual focus is in itself rewarding, and a superior source of emotional energy.
+
+Here, it is ritual "solidarity" and [[alignment]] themselves which become the object, and utility payoff, of the tacit game of ritual "in which participants attune to another's faces, eyes, gestures, limbs, and very minute details of their encounter in coordinating expectations."

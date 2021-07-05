@@ -1,0 +1,5 @@
+# Personally collected ethnomethods
+
+An especially complicated instance of [moving some activity into a waiting period, to expedite a routine] is the subway commuter's trick of standing on the platform so that when you get in the subway and out at your destination station you'll be standing in front of the exit. Similarly, putting the kettle on the flame first, then attending to bean-grinding or tea-bag selection.
+
+List-and-choose: a way of finding coordination solutions. One player lists options (with the implication than any listed option is amenable to him, and will be agreed-to if chosen) while the other player selects from the list, either a single option (ending the game, via decision) or by narrowing it down to less options, each ostensibly acceptable to the selecting player, and passing the decision back to the initial lister. This game can be played in a sequence of ask/reveal/match or offer/match, with endless theoretical iterations of the offer/match stage (e.g. offer/winnow/winnow/winnow/choose).
