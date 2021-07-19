@@ -16,3 +16,7 @@ This alone would not be a problem except for the fact that “experts” in a fi
 > The “poem” under discussion is by art critic Robert Hughes—his writing for Time magazine, instead of a dedicated New York arts publication, is enough for Sischy to dismiss him as outsider. 
 
 But we've picked on the artworld quite a bit; the truth is this mechanism is equally pernicious elsewhere. Poets believe poetry will change the world. Philosophers of religion are quite bullish on God, much less agnostic or atheistic than philosophers of other disciplines, but it would be strange to grant them authority on the matter. Similarly with metaphysicians, who of course as a group strongly believe that metaphysics is an important and legitimate inquiry. (Non-metaphysicians in philosophy are much less enthusiastic.) And of course, this applies for philosophy as a field: though almost every great philosopher has eventually concluded that the death of philosophy is called for, hopeful (or arrogant) yung’uns continue to swell the philosophical ranks. This is not to say that this enthusiasm is necessarily to anyone’s detriment, but that we cannot really trust philosophers to say whether their field is justified in the first place.
+
+# Selection games
+
+[[Oliver Wendell Holmes]]'s [[pragmatism|pragmatic]] prediction theory of law frames the law as a selection game in which criminals wish to stay out of prison.
