@@ -48,7 +48,7 @@ Robert Foster on Roy Wagner:
 
 Sarah Perry, "Ambiguity As Meaning":
 
-> ...ambiguity is the essence of meaning. Here I mean “meaning” in the sense of the profound, the artistically deep, the spiritually relevant – not in the crude sense of “pointing” that I previously examined. The story of the Garden of Eden, *The Shining*, your *Hamlet* and *Bend Sinister*, the evidence of their profundity (that is to say, [[ambiguity]]) lies in the multitude of interpretations they support.
+> ...ambiguity is the essence of meaning. Here I mean “meaning” in the sense of the profound, the artistically deep, the spiritually relevant – not in the crude sense of “pointing” that I previously examined. The story of the [[garden]] of Eden, *The Shining*, your *Hamlet* and *Bend Sinister*, the evidence of their profundity (that is to say, [[ambiguity]]) lies in the multitude of interpretations they support.
 
 ### Good design capture polysemy via ambiguity
 

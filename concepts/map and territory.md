@@ -3,7 +3,7 @@
 “The map appears to us more real than the land.”
 — D.H. Lawrence
 
-> Peter Turchi argues in his book “Maps of the Imagination: The Writer as Cartographer” that all writers are mapmakers and that all writing is like a map. For Turchi, the map is more than metaphor: it is an organizing principle of narrative. Language is like a land, paragraphs are districts, sentences are streets, and words are only lines and curves constructed the way maps are made of lines and shapes. Letters are like wild canyons and chaotic seas that the writer maps into words and then into sentences and then into scenes.
+> Peter Turchi argues in his book “Maps of the Imagination: The Writer as Cartographer” that all writers are mapmakers and that all writing is like a map. For Turchi, the map is more than metaphor: it is an organizing principle of [[narrative]]. Language is like a land, paragraphs are districts, sentences are streets, and words are only lines and curves constructed the way maps are made of lines and shapes. Letters are like wild canyons and chaotic seas that the writer maps into words and then into sentences and then into scenes.
 
 # Cosmetics as map-territory confusion
 

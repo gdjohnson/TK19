@@ -18,7 +18,7 @@ Let us imagine a sailor, washed up on a desert island with his captain, and all 
 
 What previously enforced the hierarchy, and made the captain's word law? Of course, the shared acknowledgment of his authority, such that, should any individual defect, other sailors, or the officer class, would quickly assist in the flogging. It is when the shared acknowledgment of an authority structure is disrupted, and the underclass lose confidence that their peers will work to enforce it, mutiny becomes viable.
 
-This center of authority is a Schelling point for coordination which is protected by the difficulty of tacitly coordinating to a new Schelling point (without being caught and punished). This example, while perfectly intuitive and merely re-traversing well-understood ground, shows in a simple way how social reality is created and maintained by a group's individuals, where assessment of the strength of the social reality reflexively strengthens or weakens it via its grasp on individuals' decisions.
+This center of authority is a Schelling point for coordination which is protected by the difficulty of tacitly coordinating to a new [[Thomas Schelling|Schelling]] point (without being caught and punished). This example, while perfectly intuitive and merely re-traversing well-understood ground, shows in a simple way how social reality is created and maintained by a group's individuals, where assessment of the strength of the social reality reflexively strengthens or weakens it via its grasp on individuals' decisions.
 
 "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled." (Richard Feynman, Challenger investigation)
 

@@ -1,2 +1,6 @@
 # And creativity 
 See http://druglibrary.org/schaffer/lsd/harman.html
+
+#
+Hormeze 2021, "Aye Chavrusa":
+> Staples of the chavrusa experience include coffee, tea, and depending on the location, cigarettes. Some chavrusas consist almost exclusively of imbibing these drugs, while others start and end with them (A common Talmudic abbreviation— צ"ע, which stands for צריך עיון ‘this requires investigation', is often jokingly reworded as צריך עישׁון —'this requires a smoke'). Kabbalistically, I'd describe [[tobacco]] as a ‘Chochma’ drug- masculine, to the point, and helpful for compartmentalizing and drawing distinctions. My friends and I who left religion, but brought chavrusa style dialogue with us, found that to pair chavrusa with [[cannabis]] is a shidduch (match) made in heaven. A much more ‘Binah’ drug—feminine, tangential, and immensely helpful for seeing connections between old and new information, some of my favorite memories are wrapping up a chavrusa only to have it kindled again by a slew of new insights and perspectives spurred by a puff or two.

@@ -26,11 +26,11 @@ We argue first that literary and artistic encounters can, and ought to be, conce
 
 ![[hermeneuticCycle.png]]
 
-As a toy demonstration of how this temporal process of updating and revision works, we can use a garden-path sentence like “The old man the boats.” On first parse, one assumes “old” is an adjective modifying the noun “man”; when that interpretation “breaks” on us, we switch to parsing “old” as a plural noun and “man” as in its verb form. In our first parse, the high probabilistic likelihood of “the old man” signifying an elderly male may have made our initial interpretation so strong that the subsequent “the boats” cannot immediately amend it, and a second or third reading is required to verify that the dramatically unlikely minority sense-meaning is, in fact, the one intended.
+As a toy demonstration of how this temporal process of updating and revision works, we can use a [[garden]]-path sentence like “The old man the boats.” On first parse, one assumes “old” is an adjective modifying the noun “man”; when that interpretation “breaks” on us, we switch to parsing “old” as a plural noun and “man” as in its verb form. In our first parse, the high probabilistic likelihood of “the old man” signifying an elderly male may have made our initial interpretation so strong that the subsequent “the boats” cannot immediately amend it, and a second or third reading is required to verify that the dramatically unlikely minority sense-meaning is, in fact, the one intended.
 
-In the case of post-1900 work, actively subverting audience expectation (somewhat like a garden-path sentence) replaces synchronicity as a dominant aim. This new, post-1900 kind of artwork should be understood as a technology analogous to psychedelics (see [Friston’s work with Carhart-Harris](http://pharmrev.aspetjournals.org/content/pharmrev/71/3/316.full.pdf) on REBUS): designed to massage users’ hierarchical predictive structures, either to interrogate deep-rooted assumptions or else nudge them into a new “potentialities,” new perceptions or orientations toward reality. We divide the subverted expectations into two types: those set up by the outside world (e.g. the expectations one walks into an art encounter with, based on genre, or artist reputation, etc), and those created by the work itself (e.g. casting a character as initially malevolent, who is eventually revealed to be of strong moral character).
+In the case of post-1900 work, actively subverting audience expectation (somewhat like a [[garden]]-path sentence) replaces synchronicity as a dominant aim. This new, post-1900 kind of artwork should be understood as a technology analogous to psychedelics (see [Friston’s work with Carhart-Harris](http://pharmrev.aspetjournals.org/content/pharmrev/71/3/316.full.pdf) on REBUS): designed to massage users’ hierarchical predictive structures, either to interrogate deep-rooted assumptions or else nudge them into a new “potentialities,” new perceptions or orientations toward reality. We divide the subverted expectations into two types: those set up by the outside world (e.g. the expectations one walks into an art encounter with, based on genre, or artist reputation, etc), and those created by the work itself (e.g. casting a character as initially malevolent, who is eventually revealed to be of strong moral character).
 
-These new, post-1900 works are machines which create for participants temporal experiences characterized by a morphing set of expectations, beliefs, and predictions. The negotiation between participant and artwork generates the experience of “interestingness”—an enjoyable, dynamic interplay. The work “is not the work”; instead, processing and interpreting the work is what produces “the work.” This active interpretive process replaces traditional plot as the work’s underlying temporal logic & dynamic—the almond milk of narrative.
+These new, post-1900 works are machines which create for participants temporal experiences characterized by a morphing set of expectations, beliefs, and predictions. The negotiation between participant and artwork generates the experience of “interestingness”—an enjoyable, dynamic interplay. The work “is not the work”; instead, processing and interpreting the work is what produces “the work.” This active interpretive process replaces traditional plot as the work’s underlying temporal logic & dynamic—the almond milk of [[narrative]].
 
 ## Schema-subverting art
 
@@ -89,9 +89,9 @@ Similarly, we may turn on a work of art, which in a vaccuum we would have object
 
 > When the corrections as we move from word to word produce a muddy picture, when unclear bits of information do not resolve to even greater clarity as we progress, we call the writer a poor stylist.
 
-### Delany 1995: “Some Remarks on Narrative and Technology”
+### Delany 1995: “Some Remarks on [[narrative]] and Technology”
 
-> Whether fulfilled or violated, each expectation citable in a narrative is the sign of a relationship between what comes before it and what comes after it. Not all of these relationships are necessarily consecutive, nor do they all run only from the past to the future. Something happen­ing on page ten of a text may charge or recharge with meaning some­thing we read on page two. And this can happen at any level. In short, we do not know the critical status of every narrative relation. Often these re­lations are pleasurable simply in themselves. But what we are doing here is recomplicating narrative itself into a poetic model.
+> Whether fulfilled or violated, each expectation citable in a [[narrative]] is the sign of a relationship between what comes before it and what comes after it. Not all of these relationships are necessarily consecutive, nor do they all run only from the past to the future. Something happen­ing on page ten of a text may charge or recharge with meaning some­thing we read on page two. And this can happen at any level. In short, we do not know the critical status of every [[narrative]] relation. Often these re­lations are pleasurable simply in themselves. But what we are doing here is recomplicating [[narrative]] itself into a poetic model.
 
 # Genericism and domesticity
 
@@ -99,9 +99,9 @@ Related to accessibility is the concept of domesticity as defined by Thurston (2
 
 When the information and concepts necessary to access a work are common to large swathes of the population (or when a work’s thematic concepts can be considered widely domestic), we can call this work both highly accessible and highly generic.
 
-# Nick Lowe on narrative
+# Nick Lowe on [[narrative]]
 
-Lowe theorizes narrative as an "epistemological experience" of a reader continually updating his interpretation. 
+Lowe theorizes [[narrative]] as an "epistemological experience" of a reader continually updating his interpretation. 
 
 # The bigger picture: subversion, interrogation, modeling
 

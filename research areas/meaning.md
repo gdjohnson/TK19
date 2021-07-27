@@ -54,9 +54,9 @@ From [[William James]] 1907:
 
 > The pragmatic method is primarily a method of settling metaphysical disputes that otherwise might be interminable. Is the world one or many?—fated or free?—material or spiritual? [...] The pragmatic method in such cases is to try to interpret each notion by tracing its respective practical consequences.
 
-> Mr. Peirce, after pointing out that our beliefs are really rules for action, said that, to develop a thought's meaning, we need only determine what conduct is is fitted to produce: that conduct is for us its sole significance.
+> Mr. [[C.S. Peirce|Peirce]], after pointing out that our beliefs are really rules for action, said that, to develop a thought's meaning, we need only determine what conduct is is fitted to produce: that conduct is for us its sole significance.
 
-> "All realities influence our practice," [Peirce] wrote me, "and that influence is their meaning for us... In what respects would the world be different if this alternative or that were true? If I can find nothing that would be different, then the alternative has no sense.
+> "All realities influence our practice," [[[C.S. Peirce|Peirce]]] wrote me, "and that influence is their meaning for us... In what respects would the world be different if this alternative or that were true? If I can find nothing that would be different, then the alternative has no sense.
 
 # Fields and Levin 2020: How do systems create meaning?
 

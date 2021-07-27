@@ -1,0 +1,1 @@
+Segerstråle, _Defenders of Truth_, distinguishes between "planters," who emphasize the generation of new hypotheses, "rough drafts," speculation—and "weeders" who critique planted hypotheses for not being up to snuff scientifically.

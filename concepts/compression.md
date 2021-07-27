@@ -15,7 +15,7 @@ Compressed scorekeeping then needs to be de-compressed. In Neal Stephenson’s 
 
 > …[Reagan] used to call [[sports|baseball]] games that he did not physically attend by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape. He would sit there, all by himself in a padded room with a microphone, and the paper tape would creep out of the machine and crawl over the palm of his hand printed with cryptic abbreviations. If the count went to three and two, Reagan would describe the scene as he saw it in his mind’s eye: “The brawny left-hander steps out of the batter’s box to wipe the sweat from his brow. The umpire steps forward to sweep the dirt from home plate,” and so on. When the cryptogram on the paper tape announced a base hit, he would whack the edge of the table with a pencil, creating a little sound effect, and describe the arc of the ball as if he could actually see it.
 
-Reagan, here, is generating tension, suspense, climax, emotional involvement, all from a stream of sparse details, narrative constraints. He is telling stories from prompts; in short, he is writing fiction.
+Reagan, here, is generating tension, suspense, climax, emotional involvement, all from a stream of sparse details, [[narrative]] constraints. He is telling stories from prompts; in short, he is writing fiction.
 
 And the prompts, printed out and demanding improvisation, originate with a scorekeeper.
 
@@ -41,7 +41,7 @@ Abstraction "suggests a certain consequence more obviously than it was suggested
 
 "Sagacity" is [[William James|James]]'s term for discovering a new, illuminating aspect of a whole to isolate and pay attention to. Abstraction—which is just instrumental compression or context-stripping—is isomorphic with "conceptualizing"; James writes that the rarest ability is that of seizing "fresh aspects in concrete things," i.e. a new "way of conceiving the subject." It is also sagacity which characterizes and drives genius, allowing us to take "novel step[s]" in our thought. (See also Kuhn's _paradigm shift_.)
 
-Darwin's survival of the fittest, or Newton's tile law of squares, are examples of a genius discovering and brining to light the "fitting character" of a document, an appropriate conceptualization or paradigm via abstraction's extraction of property or part.
+Darwin's survival of the fittest, or Newton's tile law of squares, are examples of a genius discovering and brining to light the "fitting character" of a document, an appropriate [[framing|conceptualization]] or paradigm via abstraction's extraction of property or part.
 
 # Nguyen 2020: Games & the Art of Agency
 

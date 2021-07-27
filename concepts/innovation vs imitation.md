@@ -1,4 +1,4 @@
-_See [[socialLearning]] and [[fads]]._
+_See [[social learning]] and [[fads]]._
 
 Paul Graham: "Why do hackers care so much about free speech? Partly, I think, because innovation is so important in software, and innovation and heresy are practically the same thing. Good hackers develop a habit of questioning everything."
 

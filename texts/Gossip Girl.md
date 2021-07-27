@@ -1,4 +1,4 @@
-# Jacob Clifton reviews
+# [[Jacob Clifton]] reviews
 
 ## S1E4: Bad News Blair
 

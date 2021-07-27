@@ -76,6 +76,6 @@ _See also [[Gates]] entry._
 
 # Three Body Problem
 
-From Alex Boland’s “Narrative Engineering”:
+From Alex Boland’s “[[narrative]] Engineering”:
 
 > Imagine a planet orbiting a star, nothing else in the picture, at all.  This is the whole universe.  Only having to take these two things into account, it’s possible to write up a mathematical equation that reliably describes their trajectory; in time, as they pull on each other, they will eventually settle on a predictable stable pattern.  Now, let’s say that planet has a moon.  Now everything goes to hell: this doesn’t just make the problem harder, it makes it literally impossible.  Poincare proved that there exists no equation to describe this situation, not least because there is no ultimately stable long-run pattern.  Eventually, even the tiniest difference in the initial positions, speeds, and masses of these celestial bodies will dramatically change the outcome, which means that even if you make a computer simulation of this, you can’t ever fully predict it because your inputs will have a finite number of digits and will have to be ever so slightly different than the actual initial conditions.

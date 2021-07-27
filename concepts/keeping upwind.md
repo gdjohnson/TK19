@@ -24,7 +24,7 @@ And:
 
 ## A crisis in values leads to generic empowerment
 
-This, more or less, is the state our society is in: values are unclear, i.e. no one knows exactly which "direction" in the garden to invest in. People desire, then, not specific things but rather to keep their options open, to hang out in a position in the maze where, when or if they eventually decide to, they can invest and strike out in a specific direction. In some cases we call this behavior "perpetual adolescence." Make more money, climb the corporate ladder, date more people—why? No one's quite sure. But best to keep your options open... who knows what will happen in the future, it could open doors...
+This, more or less, is the state our society is in: values are unclear, i.e. no one knows exactly which "direction" in the [[garden]] to invest in. People desire, then, not specific things but rather to keep their options open, to hang out in a position in the maze where, when or if they eventually decide to, they can invest and strike out in a specific direction. In some cases we call this behavior "perpetual adolescence." Make more money, climb the corporate ladder, date more people—why? No one's quite sure. But best to keep your options open... who knows what will happen in the future, it could open doors...
 
 # Strategic noncommitment
 

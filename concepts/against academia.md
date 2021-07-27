@@ -16,7 +16,7 @@ Skepticism toward institutional knowledge and consensus-making has increased dur
 
 # C. T. Nguyen 2020: The gamification of academic life
 
-> academic life has recently come to be ruled by quantified metrics for research quality—like citation rates and impact factors. These metrics may not have explicitly been designed to produce gamification among researchers. Conceivably, they arose from the bureaucratic need to collate information, or in university administrators’ quest to make more objective-sounding decisions about faculty hiring and promotion. But the clear, simple, and quantified nature of such metrics can also foster game-like motivations. Metrics, after all, look a lot like points. They offer some of the pleasures of games when we pursue them wholeheartedly. 
+> academic life has recently come to be ruled by quantified metrics for research quality—like citation rates and impact factors. These metrics may not have explicitly been designed to produce gamification among researchers. Conceivably, they arose from the bureaucratic need to collate information, or in university administrators’ quest to make more objective-sounding decisions about faculty hiring and promotion. But the clear, simple, and quantified nature of such metrics can also foster game-like motivations. Metrics, after all, look a lot like points. They offer some of the pleasures of [[concepts/games]] when we pursue them wholeheartedly. 
 
 _See also [[concepts/games]] entry._
 

@@ -1,8 +1,10 @@
+_See also [[René Girard]], scapegoating._
+
 # Cassius: The Life of Cassius Marcellus Clay
 
 > I selected for my office a brick building, and lined the outside doors with sheet-iron, to prevent it being burned. I purchased two brass 4-pounder cannon at Cincinnati, and placed them, loaded with shot and nails, on a table breast high; had folding doors secured with a chain, which which could open upon the mob and give play to my canon. I furnished my office with Mexican lances, and a limited number of guns. There were six or eight persons who stood ready to defend me. If defeated they were to escape by a trap door in the roof; and I had placed a keg of powder, with a match, which I would set off and blow up the office and all my invaders. This I should most certainly have done in case of the last extremity.
 
-# T. Greer 2020: On Sparks Before the Prairie Fire
+# [[Tanner Greer]] 2020: On Sparks Before the Prairie Fire
 
 > The outbreak of the War of 1812 led to anti-Federalist agitation across the country, and much of that was violent. One of the most dramatic of these was siege of Baltimore's sole Federalist newspaper, a siege which ended with one Republican shot dead, nine Federalists beat senseless, another beaten dead, and a last set on fire.
 

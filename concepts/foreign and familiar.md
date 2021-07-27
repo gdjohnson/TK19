@@ -50,9 +50,9 @@ On music boards, a common refrain is that reggae, or rap, or country, or metal, 
 
 To the Formalists, a crucial aim of art was defamiliarization, where the everyday and banal (or “ready-to-hand,” or “pre-compiled”) is presented in a way which distorts it into newness (makes it "present-at-hand," in Heidegger's framing). Audiences appreciate a fresh sight of what was previously merely recognized. Often, the defamiliarized subject is not immediately recognizable for what it is; only when the mind connects the defamiliarly presented with the familiarly known, an analogic link is created between the two which upcycles into new models, or interpretations, of the familiar.
 
-Perry 2016: The Theory of Narrative Selection
+Perry 2016: The Theory of [[narrative]] Selection
 
-> In the academic study of narrative selection, a popular approach has been to identify individual elements that might explain the success of particular stories. One body of research concerns minimally counterintuitive entities and elements: narrative elements that are counterintuitive enough to be interesting and memorable, but not so counterintuitive as to lose coherence (for instance, a mouse that talks, but not a mouse that talks, is 500 feet high, and can control the weather). There was even a suggestion that the ideal story has between one and three counterintuitive elements (see, e.g., Stubbersfield et al., 2013).
+> In the academic study of [[narrative]] selection, a popular approach has been to identify individual elements that might explain the success of particular stories. One body of research concerns minimally counterintuitive entities and elements: [[narrative]] elements that are counterintuitive enough to be interesting and memorable, but not so counterintuitive as to lose coherence (for instance, a mouse that talks, but not a mouse that talks, is 500 feet high, and can control the weather). There was even a suggestion that the ideal story has between one and three counterintuitive elements (see, e.g., Stubbersfield et al., 2013).
 
 ## [[Pierre Bourdieu|Bourdieu]] 1986: Principles for a Sociology of Cultural Works
 

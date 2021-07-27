@@ -1,0 +1,1 @@
+![[simulacra#Enlightened false consciousness]]

@@ -1,0 +1,3 @@
+Related to [[torque epistemology]]. What is assumed as dominant ideology (or in [[John Nerst]]'s frame, the "signal" in need of correction).
+
+[[Roland Barthes]]'' "Death of the Author" and [[Michel Foucault]]'s "What Is An Author?" are, for instance, more than a metaphysical or ontological claim about information and meaning, a reaction to the dominant biographical organization popular in French education and literary studies in the first half of the 20th C.

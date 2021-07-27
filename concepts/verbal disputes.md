@@ -68,7 +68,7 @@ Incidentally, Yudkowsky has addressed a comparable issue:
 > 
 > Yancy:  "So what you're saying is that if you've got a whole society where women are chattel and men sell them like farm animals and it hasn't occurred to anyone that things could be other than they are, that this society is fair, and at the exact moment where someone first realizes it shouldn't have to be that way, the whole society suddenly becomes unfair."
 
-Here, there is a disagreement over what is “fair,” much like the disagreement between the deontologist and the consequentialist over what is “right.” Yancy, Xannon, and Zaire are deciding what is a fair allocation of a pie. Yancy has proposed splitting by thirds, while Zaire has decided he wants half the pie and that it is fair he should get it.
+Here, there is a disagreement over what is “fair,” much like the disagreement between the deontologist and the consequentialist over what is “right.” Yancy, Xannon, and Zaire are deciding what is a fair allocation of a pie. Yancy has proposed [[bundling|splitting]] by thirds, while Zaire has decided he wants half the pie and that it is fair he should get it.
 
 > Zaire:  "I fear I must accord with Yancy on one point, Xannon; your desire for perfect accord among us is misguided.  I want half the pie.  Yancy wants me to have a third of the pie.  This is all there is to the world, and all there ever was.  If two monkeys want the same banana, in the end one will have it, and the other will cry morality.  Who gets to form the committee to decide the rules that will be used to determine what is 'fair'?  Whoever it is, got the banana."
 

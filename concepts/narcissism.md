@@ -2,7 +2,7 @@
 
 On 2019's _Joker_ film:
 
-> Has the vacancy of the zombie been replaced by the violent absurdity of the Joker because of the recent malevolent political appropriation of absurdism in the service of narcissism? Narcissism is the last ditch defence of decadent narrative ontology.  It is the idolatry of narrative trying absurdly to become self-causing and self-sufficient because it anxiously knows it has no cosmic warrant.
+> Has the vacancy of the [[zombies|zombie]] been replaced by the violent absurdity of the Joker because of the recent malevolent political appropriation of absurdism in the service of narcissism? Narcissism is the last ditch defence of decadent [[narrative]] ontology. It is the idolatry of narrative trying absurdly to become self-causing and self-sufficient because it anxiously knows it has no cosmic warrant.
 
 > the name Arthur Fleck by juxtaposing the name of a great mythological king with that of useless superficial castoff matter is instantiating into the heart of the character the very absurdity that I am discussing.  Absurdity is the juxtaposing of such contrasting and mutually undermining perspectives. 
 

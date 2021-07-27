@@ -44,6 +44,6 @@ Citing [[J.L. Austin]], _How to do Things with Words_:
 
 # Linguistic inflation
 
-C.S. Peirce, "Ethics of Terminology":
+[[C.S. Peirce]], "Ethics of Terminology":
 
 > Whoever deliberately uses a word... in any other sense than that which was conferred upon it by its sole rightful creator commits a shameful offence... [For] philosophical conceptions which vary by a hair's breadth from those fo which suitable terms exist, to invent terms with a due regard for the usages of philosophical terminology.

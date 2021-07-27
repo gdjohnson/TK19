@@ -18,7 +18,7 @@ Some parallels here to Lacan's _objet petit a_, which Zizek compares to Hitchcok
 
 > Object-libido can be transformed into ego-libido (and vice-versa). In the transformation of object-libidio into ego-libido, however, the manner in which pleasure is experienced is transformed. To put it into plainer terms, we could say that _joy turns into self-esteem_. Every ascetic foregoes food, sexual satisfaction, comfortable society, and so on, but doing so gains a considerable amount of respect for his or her own self.
 
-(_Note: this is a good illustration of the general principle that the human power of conceptualization, or "framing," has an enormous effect on how one experiences the world, down to deeply visceral levels of pain and pleasure._)
+(_Note: this is a good illustration of the general principle that the human power of [[framing|conceptualization]], or "framing," has an enormous effect on how one experiences the world, down to deeply visceral levels of pain and pleasure._)
 
 # Curtis: The Century of the Self
 

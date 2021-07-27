@@ -12,7 +12,7 @@
 
 [11:34 AM] suspended reason: wish I could dig it up now
 
-[11:35 AM] suspended reason: Disgust response and homophobia, stereotype threat, implicit bias I think were some of the big ones—like, there's a theme here
+[11:35 AM] suspended reason: Disgust response and homophobia, [[stereotype]] threat, implicit bias I think were some of the big ones—like, there's a theme here
 
 [11:35 AM] suspended reason: And then they go on a podcast and say "yeah, our studies in psych are basically a performance, putting on a show"
 

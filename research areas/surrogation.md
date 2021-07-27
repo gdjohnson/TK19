@@ -48,3 +48,5 @@ One key aspect is the dimensionality of performance indicators: the lower-dimens
 # Manheim 2016: Overpowered metrics eat underspecified goals
 
 "Building systems using bad metrics doesn't stop their self-optimization, they just optimize towards something you didn't want... If [organizations'] metrics don't support their goals, goals will get lost in the organizational shuffle." (Value capture.) Attributes easy to measure are given outsized decisional weight, and attract more optimization energy. 
+
+Any simplifications, distortions, or presumptions in the regulating model can be exploited by regulated agents: "employees understand the compensation system and seek to maximize their bonuses and promotion, drug manufacturers know the FDA requirements and seek to minimize cost to get their drug approved, and companies know the EPA regulations and seek to minimize the probability and cost of fines."

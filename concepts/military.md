@@ -1,6 +1,6 @@
 # Deception tactics
 
-## Goffman 1969, "Expression Games"
+## [[Erving Goffman|Goffman]] 1969, "Expression Games"
 
 > It might be thought that an observer who suspected the manipulation of fugitive signs and substantive ones would have one recourse: he could perceive that the world is real, its multitude of little events in real connection with others, and that when a multitude of independent signs tell the same story, this can be taken for the way things are. But this belief about the meshing of facts can be exploited too. Military actions are, of course, the traditional scene of tins deception in depth; moreover, just before a major invasion we can expect a diffusion and intensification of the theater of war—the real peak of the dramatic season. For example, just before D-Day the Allies apparently concerted their double agents to feed the Germans the false line that the invasion was to occur at Calais in June. A German reconnaissance plane was allowed to succeed in getting over Dover harbor where it could photograph landing craft that could not make it to Normandy and therefore must be for Calais. In the Dover area badly camouflaged armored divisions could be seen, but not seen well enough to tell that the equipment was made from inflated rubber. Mock-up airfields and naval vessels were employed, and at the same time, real installations were camouflaged to look like barns and outbuildings. Radio messages, interceptable, emanated from a headquarters in southeast England, giving the strong impression that the invasion would not be in the Normandy area; the messages, however, originated in the real headquarters and were telephoned to the false one. A stand-in for Montgomery was in Gibraltar preparing to go to Africa, which argued that the major invasion was unlikely from England. In Geneva "all available copies of Michelin map No. 51 (the Calais-Arras area) were bought up." And the Calais area was bombed twice as much as the Normandy area.
 
@@ -14,6 +14,6 @@ And continuing with a quotation of A. Orlov 1963: _Handbook of Intelligence and 
 
 # Commonplace
 
-Goffman 1969, "Strategic Interaction":
+[[Erving Goffman|Goffman]] 1969, "Strategic Interaction":
 
 > The phrase, "Is that an order, Sir?" is a verbal means of transferring full responsibility for an act to the party requesting its performance."

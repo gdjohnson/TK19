@@ -1,10 +1,11 @@
 ## Entries
 - [[Coordination]]
 - [[House of Games]]
+- [[concepts/Games]]
 - [[Incentive Structures]]
 - [[Rules]]
 - [[Sporting vs Herding]]
-- [[sports]]
+- [[Sports]]
 - [[Strategic Interaction]]
 - [[Value Clarity]]
 - [[Zero-Sum Competition]]

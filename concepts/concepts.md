@@ -4,7 +4,7 @@ This page is closely related to [[Conceptual Engineering]] and [[proto-predictiv
 
 # The lifespan of concepts
 
-See [[Telephone Effect]] and [[Reification]].
+See [[telephone effect]] and [[Reification]].
 
 Bruce Lee:
 

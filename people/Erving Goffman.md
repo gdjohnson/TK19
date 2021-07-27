@@ -1,0 +1,5 @@
+---
+aliases: Goffman
+---
+
+![[Everyday Interaction]]

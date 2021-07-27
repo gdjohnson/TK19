@@ -58,7 +58,7 @@ In other words, we not only wish to distinguish ourselves in the sense of achiev
 
 We assume that these new dimensions of the work can appear because different interpreters approach it with different experiences and concerns, view it from within different contexts, and come at it from the vantage point of different interpretive traditions. We assume that we can learn from these interpretations and, indeed, that we can learn in a distinctive sense: not in the sense that we approach the one true or real meaning of the text or work of art but rather in the sense simply that we come to understand new dimensions of its meaning and thus to understand it in an expanded way.
 
-I emphasize “contemporary treatment” because this attitude toward interpretations is not “natural.” It is the product of a century of [[discursiveGames|discursive warfare]] in literary theory, much of which began with warring over the “correct” interpretation of a text, then moved on to warring over the “proper” interpretive frame/s, and has finally settled on a pluralistic indeterminacy. In other words, it is _anticompatibilism_ and exclusivity of explanation which apparently constitute our natural positions on matters. (And here I wish I could strikethrough the term natural in the way of Derrida, to show the necessity and hopeless misfit of the word). John Nerst’s _erisology_ is an ally here, with its frames of [[torque epistemology]], of partial narratives and partial derivatives, of confusions born from overextended theses (_Reality is socially constructed_, instead of _Much of our sense of reality is social_.)
+I emphasize “contemporary treatment” because this attitude toward interpretations is not “natural.” It is the product of a century of [[discursiveGames|discursive warfare]] in literary theory, much of which began with warring over the “correct” interpretation of a text, then moved on to warring over the “proper” interpretive frame/s, and has finally settled on a pluralistic indeterminacy. In other words, it is _anticompatibilism_ and exclusivity of explanation which apparently constitute our natural positions on matters. (And here I wish I could strikethrough the term natural in the way of Derrida, to show the necessity and hopeless misfit of the word). [[John Nerst]]’s _[[erisology]]_ is an ally here, with its frames of [[torque epistemology|signals and correctives]], of partial narratives and partial derivatives, of confusions born from overextended theses (_Reality is socially constructed_, instead of _Much of our sense of reality is social_.)
 
 Each frame opens up vision as much as it closes vision down. Of relevance here is [[Kenneth Liberman|Ken Liberman]]’s observations of coffee-tasting, which builds off the work of Merleau-Ponty on “chiasmic intertwining”:
 
@@ -72,11 +72,11 @@ Generalized compatibilism is a view of verbal, moral, and theoretical disputes a
 
 ## III
 
-This approach should take both sides of the knowledge [[rigorizingPipeline|pipeline]] seriously: not just “pre-packaging” knowledge “out of” philosophy and “into” the sciences (knowledge’s “promotion” through legibility), but in taking advantage of the rich artistic and literary resources, which have fastidiously mapped observations about human psychosocial life for centuries (obscured, noisily, by tradition, prestige-seeking, and flourish). 
+This approach should take both sides of the [[rigorizing pipeline|knowledge pipeline]] seriously: not just “pre-packaging” knowledge “out of” philosophy and “into” the sciences (knowledge’s “promotion” through legibility), but in taking advantage of the rich artistic and literary resources, which have fastidiously mapped observations about human psychosocial life for centuries (obscured, noisily, by tradition, prestige-seeking, and flourish). 
 
 But what does it mean, to be "wild," and how do we navigate a wilderness? Through resonance, I think, resonance to test the untested propositions. But first the wilderness.
 
-Theory theory, echoed in computational neuroscience’s free energy principle, and cognitive science’s [[predictive processing]] (as well as anticipated by Kant, Piaget, James, [[Friedrich Nietzsche|Nietzsche]], Bergson, Hegel…) holds that individuals build “folk” theories of themselves, of others, and of the world which unites them. [[Theory of mind]]—it is in the name—that we are constantly modeling, anticipating. At its crudest we call these theories “stereotype”; in intimate relationships, however, they become well-calibrated over time, precise senses of a person. And, what’s more, there is a class of folk who write these theories down (or capture them in image, in sound…). It is no coincidence that Bergson (along with so many historic others) have seen fiction as offering a kind of insight untouchable by the standard sciences. Nor that computer nerds—a Bayesian bunch if there ever was one—have a saying “absolute proof in the form of comics.” The comic artists represent capturing resonant encounters; the resonance is a distributed system of verification and self-testimony.
+Theory theory, echoed in computational neuroscience’s free energy principle, and cognitive science’s [[predictive processing]] (as well as anticipated by Kant, Piaget, James, [[Friedrich Nietzsche|Nietzsche]], Bergson, Hegel…) holds that individuals build “folk” theories of themselves, of others, and of the world which unites them. [[Theory of mind]]—it is in the name—that we are constantly modeling, anticipating. At its crudest we call these theories “[[stereotype]]”; in intimate relationships, however, they become well-calibrated over time, precise senses of a person. And, what’s more, there is a class of folk who write these theories down (or capture them in image, in sound…). It is no coincidence that Bergson (along with so many historic others) have seen fiction as offering a kind of insight untouchable by the standard sciences. Nor that computer nerds—a Bayesian bunch if there ever was one—have a saying “absolute proof in the form of comics.” The comic artists represent capturing resonant encounters; the resonance is a distributed system of verification and self-testimony.
 
 Theory is not the only thing fiction writers fill their books with. They seek to entertain, to perform, to make homage to the past. But their theories of the world fill even areas not explicitly marked as such: to write “realistic” dialogue is to represent one’s model of real-world interaction; to write “realistic” characters, novels, interactions, desires, psychologies, is to do similarly. And even the so-called “unrealistic” texts, such as fantasy or magical realism, are simply working at a different “level” than literalism—to say it rained for one hundred years is to capture a metaphorical truth; the Impressionists eschewed realism for capturing perception i.e. impression; in the surrealism of [[David Lynch]], the demon is the metaphorical psychopath (and he even gets the population distribution right).
 
@@ -148,7 +148,7 @@ Perissinotto reflects:
 
 # Rigorizing pipeline
 
-_See [[rigorizingPipeline]] entry._
+_See [[rigorizing pipeline]] entry._
 
 # Engineering and applied sciences
 
@@ -162,7 +162,7 @@ Daniel Kahneman: Introduction to Gary Klein:
 
 "The problems, being existential, are universal; their solutions, being human, are diverse ... The road to the grand abstractions of science winds through a thicket of singular facts." (Geertz, _The Interpretation of Cultures_)
 
-# 210626 TIS Transcript
+## 210626 TIS Transcript
 
 [2:25 PM] suspended reason: Undervalued Methodologies in the Inexact Sciences:
 1. Stamp collection
@@ -181,3 +181,11 @@ Daniel Kahneman: Introduction to Gary Klein:
 [2:32 PM] suspended reason: An additional approach I haven't seen yet, but wanna try my hand at, is writing about the present as if it were the science fiction of the past
 [2:33 PM] suspended reason: Cultural criticism, aka "artifact processing"—similar in some respects to stamp collecting, except it's the decomposition and analysis of some dense set of examples to understand how their dynamics interweave. Some people have called literature "applied philosophy"; here, you're basically trying to reverse-engineer the theory from its application, or at least, understood how the theory is contextualized.
 [2:34 PM] suspended reason: Comedy, parody, etc—I probably have the least to say about this, but often comedy defamiliarizes. It's also good at pointing out flaws in people's models pretty efficiently
+
+## [[931774D]] on [[David Reisman]]'s sociological work: 
+
+> In contrast to European intellectuals tendency to make messianic broadsides and blanket declarations, Riesman is ever attentive to detail and nuance.
+
+> He drew on his observations of a wide range of material-children's books, movies, novels, interviews, and social science data.
+
+> Another concern is that many scholars spend their time redescribing social phenomena through one or other theoretical lens with no clear reason for selection and no attempt at an overarching synthesis. As Duncan Watts (2017) notes, **contradictory findings can thus coexist for decades in the scholarship without anyone noticing or trying to resolve the contradictions, what he calls the “incoherency problem.”** Rationalist sociologists find ever more colorful metaphors for this state of affairs, from Besbris and Khan’s (2017) “wheel of fire” to Gerald Davis’s (2015) mystery house with “a number of architectural details that serve no purpose: doorways that open onto walls, labyrinthine hallways that lead nowhere, and stairways that rise only to a ceiling”.

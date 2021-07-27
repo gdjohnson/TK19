@@ -1,10 +1,23 @@
-# Burja 2019: Intellectual Dark Matter
+---
+aliases: intellectual dark matter
+---
+
+# Intellectual Dark Matter
+
+Phrase coined by Burja 2019 ("Intellectual Dark Matter") but idea traces at least back to [[Pierre Bourdieu]]'s "Field of Cultural Production":
+
+> One of the major difficulties of the social history of philosophy, art or literature is that it has to reconstruct these spaces of original possibles which, because they were part of the self-evident givens of the situation, remained unremarked and are therefore unlikely to be mentioned in conte mporary accounts, chronicles or memoirs. It is difficult to conceive the vast amount of information which is linked to membership of a field and which all contemporaries immediately invest in their reading of works: information about institutions—e.g. academies, journals, magazines, galleries, publishers, etc.—and about persons, their relationships, liaisons and quarrels, information about the ideas and problems which are 'in the air' and circulate orally in [[gossip]] and rumour. (Some intellectual occupations presuppose a particular mastery of this information.) 
+> ...The ordinary effects of derealization and intellectualization are intensified by the representation of philosophical activity as a summit conference between 'great philosophers'; in fact, what circulates between contemporary philosophers, or those of different epochs, are not only canonical texts, but a whole philosophical doxa carried along by intellectual rumour—labels of schools, truncated quotations, functioning as slogans in celebration or polemics—by academic routine and perhaps above all by school manuals (an unmentionable reference), which perhaps do more than anything else to constitute the '[[assumption ground|common sense]]' of an intellectual generation.
+
+^cb8f5e
 
 "Dark matter" circulates in the knowlede economy—information our society is founded or runs on, which is lost or hidden:
 
 > Today we possess written fragments from only 13% of the ~2,000 ancient Greek authors known to us by name. This does not account for the authors we do not know, and only a small portion of the 13% figure consists of complete works
 
 > Our core philosophical, political, and theological works are conceived in dialogue with Greek and Roman thought. Medieval and modern thinking so vital to the creation of our largest and most important institutions, such as that of St. Thomas Aquinas or Montesquieu, rests on the preserved works of antiquity. Those works in turn are themselves written in dialogue with further works that remain lost to us. We therefore cannot even see the intellectual foundations of our most important religious, academic, and political institutions.
+
+And [[Sam Fussell]], writing in _Muscle_, notes, "As with steroids, the magazines avoided altogether the subject [of shaving], since it included the disturbing matter of shaving the legs. But I gathered from Mousie and Sweepea that I would need a number of blades."
 
 ## On guilds and proprietary knowledge
 

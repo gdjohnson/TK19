@@ -1,8 +1,8 @@
 ![](/girardMimesisTriangle.jpg)
 
-Girard offers a theory much like the mimetics of [[social learning]] theorized by Joe Henrich. Humans, in order to learn, require _models_—but it is not merely this model's behavior that he picks up and imitates, but the model's _desires_, the objects to which the behavioral practices are directed; the two are intertwined. 
+[[René Girard|Girard]] offers a theory much like the mimetics of [[social learning]] theorized by Joe Henrich. Humans, in order to learn, require _models_—but it is not merely this model's behavior that he picks up and imitates, but the model's _desires_, the objects to which the behavioral practices are directed; the two are intertwined. 
 
-This "acquisitive mimesis" leads to a set of commonly desired objects and states, be they social, sexual, or material, and thus the community evolves into a competition between members for these (scarce and mutually desired) ends. This, for Girard, underlies human conflict, and indeed, human conflict is largely a mirroring-based escalation, where a combative attitude in one breeds a combative attitude in another; the pair become "doubles" as they cybernetically escalate.
+This "acquisitive mimesis" leads to a set of commonly desired objects and states, be they social, sexual, or material, and thus the community evolves into a competition between members for these (scarce and mutually desired) ends. This, for [[René Girard|Girard]], underlies human conflict, and indeed, human conflict is largely a mirroring-based escalation, where a combative attitude in one breeds a combative attitude in another; the pair become "doubles" as they cybernetically escalate.
 
 Scapegoating is the crucial mechanism of resolving and de-escalating conflict: a sacrifice is required as a symbolic destruction of the conflict's origins, in both the sense of causal and ethical culpability.
 

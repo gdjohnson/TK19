@@ -26,7 +26,7 @@ Cases against meritocracy have been made by Edmund Burke (_Reflections on the Re
 
 > Meritocracy, in the definition I am using here, is an ideology that maintains that one’s place in society should be determined solely by one’s “merit”—by which is meant the tangible evidence of one’s talents, capabilities, intelligence, and, of course, will.
 
-> Meritocracy, on this conception, is not only inextricable from the globalization and centralization trends mentioned above but offers an ideological narrative that gives those trends meaning and justification—if it couldn’t in fact be said to _structure_ those trends.
+> Meritocracy, on this conception, is not only inextricable from the globalization and centralization trends mentioned above but offers an ideological [[narrative]] that gives those trends meaning and justification—if it couldn’t in fact be said to _structure_ those trends.
 
 Upward mobility, Berry writes, serves (Beer paraphases) "fundamentally as a way of justifying an exploitative, 'original-discovery' mentality that served the needs of industrial economies but not those of actual communities." In this framing, meritocracy uses "impersonal technology (e.g., the SAT) to help us identify valuable natural resources (bright kids), and then pitilessly removes them from their ecological contexts (local communities), never to return them, thus creating cultural landscapes just as ravaged as the denuded mountainsides of Kentucky coal country."
 

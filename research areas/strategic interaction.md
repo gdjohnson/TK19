@@ -6,14 +6,15 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 - [2021: Letter to Tamler Sommers and David Pizarro](https://suspendedreason.com/2021/05/05/letter-to-tamler-sommers-and-david-pizarro/)
 
 ## Entries
-- [[bargaining]]
+- [[Anti-inductive]]
+- [[Bargaining]]
 - [[Coordination]]
-- [[everyday interaction]]
+- [[Everyday interaction]]
 - [[Reciprocity]]
 - [[Predictive Processing]]
 - [[Opticratics]]
 - [[Rules]]
-- [[strategic interaction in fiction]]
+- [[Strategic interaction in fiction]]
 - [[Strategy of Conflict]]
 
 ## Further investigations

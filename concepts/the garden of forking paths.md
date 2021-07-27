@@ -1,4 +1,4 @@
-# Borges: The Garden of Forking Paths
+# Borges: The garden of Forking Paths
 
 Tsun:
 
@@ -22,9 +22,9 @@ First he develops a _plan_; he thinks it "more prudent to take a cab," because i
 
 ## Tiergarten
 
-Leibniz describes an academy of games in one of his more "science-fiction"-y texts, as Deleuze calls it, an academy of games which was also an exposition, a casino, a science academy, and a botanical garden. What kind of garden can we imagine it as? 
+Leibniz describes an academy of games in one of his more "science-fiction"-y texts, as Deleuze calls it, an academy of games which was also an exposition, a casino, a science academy, and a botanical [[garden]]. What kind of [[garden]] can we imagine it as? 
 
-I've been to Tiergarten, the great Berlin garden that Benjamin speaks so fondly of in _Berlin Childhood_. I had taken LSD and seen Lou Reed, red and in shadows like his album covers, in the curvature of my urinal. I had wound up a brightly colored mechanical bird, the kind the vendors hawk in Paris, between the hedges of Tuileries. German gardens inherit a bit from the English, a bit from the French. There is the structuring, but also the sense of getting lost. How does Benjamin describe it?
+I've been to Tiergarten, the great Berlin [[garden]] that Benjamin speaks so fondly of in _Berlin Childhood_. I had taken LSD and seen Lou Reed, red and in shadows like his album covers, in the curvature of my urinal. I had wound up a brightly colored mechanical bird, the kind the vendors hawk in Paris, between the hedges of Tuileries. German gardens inherit a bit from the English, a bit from the French. There is the structuring, but also the sense of getting lost. How does Benjamin describe it?
 
 > Not to find one’s way around a city does not mean much. But to lose one’s way in a city, as one loses one’s way in a forest, requires some schooling. Street names must speak to the urban wanderer like the snapping of dry twigs, and little streets in the heart of the city must reflect the times of day, for him, as clearly as a mountain valley. This art I acquired rather late in life; it fulfilled a dream, of which the first traces were labyrinths on the blotting papers in my school notebooks. No, not the first, for there was one earlier that has outlasted the others. **The way into this labyrinth, which was not without its Ariadne, led over the Bendler Bridge, whose gentle arch became my first hillside.** Not far from its foot lay **the goal**: Friedrich Wilhelm and Queen Luise. On their round pedestals they towered up from the flowerbeds, as though transfixed by the magic curves that a stream was describing in the sand before them. But it was not so much the rulers as their pedestals to which I turned, since what took place upon these stone foundations, though unclear in context, was nearer in space. That there was something special about this maze I could always deduce from the broad and banal esplanade, which gave no hint of the fact that here, just a few steps from the corso of cabs and carriages, sleeps the strangest part of the park.
 
@@ -34,7 +34,7 @@ In his 1980 lectures, Deleuze emphasizes, in Leibniz, a very similar vision to B
 
 > The image of the labyrinth hounds [Leibniz]. He never stops talking about the labyrinth of continuity. This palace is in the form of a pyramid. Then, I look closer and, in the highest section of my pyramid, closest to the point, I see a character who is doing something. Right underneath, I see the same character who is doing something else in another location. Again underneath the same character is there in another situation, as if all sorts of theatrical productions were playing simultaneously, completely different, in each of the palaces, with characters that have common segments.
 
-> "The Garden of Forking Paths," what is it? It's the infinite book, the world of compossibilities.
+> "The [[garden]] of Forking Paths," what is it? It's the infinite book, the world of compossibilities.
 
 # Catastrophic bifurcation ("gate theory")
 

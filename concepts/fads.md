@@ -1,6 +1,10 @@
+---
+aliases: solution fad, solution fads
+---
+
 _See also [[fashion]], Kuran's preference cascades._
 
-Solution cascades: When a solution to a problem is 
+Solution cascades: When a solution to a problem is quickly discovered and adopting, leading to a new equilibrium of play.
 
 From [[opticratics]] entry:
 
@@ -10,9 +14,7 @@ From [[opticratics]] entry:
 
 > This does not merely happen in Haiti, or the third-world, among the uneducated; it also is characteristic of our legal system. Nightjack, the anonymous police blog which won the Orwell Prize in 2009, recounts:
 
-> > 
-
-> As fads emerge, evaluators catch on and begin devaluing the faddish cue, since it is being widely free-ridden by those who lack the qualities it implies (but wish to appear as if they possess them). 
+> > As fads emerge, evaluators catch on and begin devaluing the faddish cue, since it is being widely free-ridden by those who lack the qualities it implies (but wish to appear as if they possess them). 
 
 # Bikhchandani, Hirschleifer, Welch 1998: Learning from the Behavior of Others
 

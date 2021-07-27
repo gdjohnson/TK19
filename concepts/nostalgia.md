@@ -15,5 +15,7 @@ _See also [[Decadence]]._
 # Nostalgic myths
 
 * Myth of an authentic past
-* Myth of pastoral abundance (nature-as-garden myth)
+* Myth of pastoral abundance (nature-as-[[garden]] myth)
 * Myth of authentic madness (the pre-civilizational mind)
+
+![[textiles#EconTalk 2021 Virginia Postrel on Textiles and the Fabric of Civilization]]

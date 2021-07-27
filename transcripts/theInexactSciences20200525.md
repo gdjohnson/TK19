@@ -16,7 +16,7 @@
 
 [7:07 PM] **snav**: yes!!!
 
-[7:08 PM] **snav**: You need a narrative to back physics with truth
+[7:08 PM] **snav**: You need a [[narrative]] to back physics with truth
 
 [7:09 PM] **suspended reason**: like, maybe there's a hypothetical tool that can "break down the dimensions as we experience them, such that we would revel in the total view all at once," but we have no conception or possibility of it, so we instead model that kind of observation through logic & evidence-building
 

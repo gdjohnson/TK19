@@ -14,7 +14,7 @@ A repeated run of tacit coordination problems leads to a construction of norms, 
 
 > The force of many rules of etiquette and social restrain, including some (like the rule against ending a sentence with a proposition) that have been divested of their relevance and authority, seems to depend on their having become "solutions" to a coordination game: everyone expects everyone to expect everyone to expect observance, so that nonobservance carries the pain of conspicuousness.
 
-This, as Schelling notes, helps maintain an organizational culture over its Ship-of-Theseus lifespan. Just as the planks of the ship, one-by-one replaced, are fitted into the holes and structure of the whole, the system of norms inducts new members into its logic; these new members go on, once trained, to uphold many of the same norms and values as previous generations' members.
+This, as [[Thomas Schelling|Schelling]] notes, helps maintain an organizational culture over its Ship-of-Theseus lifespan. Just as the planks of the ship, one-by-one replaced, are fitted into the holes and structure of the whole, the system of norms inducts new members into its logic; these new members go on, once trained, to uphold many of the same norms and values as previous generations' members.
 
 # Today's payoff structure determines tomorrow's production function
 

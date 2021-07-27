@@ -9,7 +9,7 @@ Jerry Garcia:
 
 ### Simon Reynolds 2016, Shock & Awe:
 
-The Sixties were the decade of image, from Bergman's _Persona_ to Sontag's camp to Muriel Spark's _The Public Image_. Reynolds traces the interest to Erving Goffman's 1959 _The Presentation of Self in Everyday Life_ and Daniel Boorstin's 1962 _The Image_, which talked of "the menace of unreality" in an increasingly mediated world of photo ops, publicity stunts, and celebrity—a proto-Baudrillardean, proto-hypernormalisation take.
+The Sixties were the decade of image, from Bergman's _Persona_ to Sontag's camp to Muriel Spark's _The Public Image_. Reynolds traces the interest to [[Erving Goffman]]'s 1959 _The Presentation of Self in Everyday Life_ and Daniel Boorstin's 1962 _The Image_, which talked of "the menace of unreality" in an increasingly mediated world of photo ops, publicity stunts, and celebrity—a proto-Baudrillardean, proto-hypernormalisation take.
 
 > This negative concept of the 'image' that spread during the sixties was part of a rowing view of public life as a realm of falsehood and facade. Against this rallied the conviction that 'the truth will set you free'—the motor behind nearly all the forms of bohemian expression and radical dissent that bubbled up during that decade.
 

@@ -22,9 +22,9 @@ The pragmatic tradition is one of [[indexicality|context-sensitivity]] and [[loc
  
 > The pragmatic method is primarily a method of settling metaphysical disputes that otherwise might be interminable. Is the world one or many?—fated or free?—material or spiritual? [...] The pragmatic method in such cases is to try to interpret each notion by tracing its respective practical consequences.
 
-> Mr. Peirce, after pointing out that our beliefs are really rules for action, said that, to develop a thought's meaning, we need only determine what conduct is is fitted to produce: that conduct is for us its sole significance.
+> Mr. [[C.S. Peirce|Peirce]], after pointing out that our beliefs are really rules for action, said that, to develop a thought's meaning, we need only determine what conduct is is fitted to produce: that conduct is for us its sole significance.
 
-> "All realities influence our practice," [Peirce] wrote me, "and that influence is their meaning for us... In what respects would the world be different if this alternative or that were true? If I can find nothing that would be different, then the alternative has no sense.
+> "All realities influence our practice," [[[C.S. Peirce|Peirce]]] wrote me, "and that influence is their meaning for us... In what respects would the world be different if this alternative or that were true? If I can find nothing that would be different, then the alternative has no sense.
 
 The pragmatic method is the "attitude of looking away from first things, principles, 'categories,' supposed necessities; and of looking towards last things, fruits, consequences, facts."
 
@@ -57,3 +57,7 @@ One frame to view pragmatism's methods is as trying to "get past" potentially ar
 > Both theories have shown all their consequences and, by the hypothesis we are adopting, these are identical. The pragmatist must consequently say that the two theories, in spite of their different-sounding names, mean exactly the same thing, and that the dispute is purely verbal.
 
 In the language of cogntive schemas, two top-down models are identical insofar as they make identical predictions about bottom-up sense data.
+
+# Pragmatic ontology
+
+![[Pragmatic ontology]]

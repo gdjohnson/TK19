@@ -86,7 +86,7 @@ __May 23 1832__
 
 # Meaning, Beauty, and Stimulus-Observer Fitness
 
-## Robin Hanson on Lower & Higher Levels of Linguistic Fit
+## [[Robin Hanson]] on Lower & Higher Levels of Linguistic Fit
 
 > You can think of knowing how to write as knowing how to correlate words. Given no words, what first word should you write. Then given one word, what second word best correlates with that. Then given two words, what third word best fits with those two. And so on. Thus your knowledge of how to write can be broken into what you know at these different correlation orders: one word, two words, three words, and so on. Each time you pick a new word you can combine knowledge at these different orders, by weighing all their different recommendations for your next word.
 

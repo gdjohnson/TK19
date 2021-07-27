@@ -32,7 +32,7 @@ I want to address these objections here. First though, David Lopez has argued th
 
 I think the root of misunderstanding here is over the kind of thinking the effect-idea flourishes as, and when effect-ideas usually occurs. Specifically, they happen during, not after, the encounter with a work. They are the result of thoughtful self-watching during an art-viewer interaction. Hermeneutic and predictive self-watching, like “Why did I make this prediction (about the future) or interpretation (of the whole) from what I’ve just been shown?” “How much dissonance is there between predictions and narrative outcomes?” “What assumptions did I bring into the encounter, about both art and the outside world?” Or else it might be affective self-watching — “What about this scene made me feel this way?” And many more.
 
-Others have contested this mechanism’s name. I admit “effect-idea” is clunky. It is not merely an “effect,” as John Nerst has proposed at Everything Studies (in an otherwise clarifying post). It is a subset of effects, which carry in them ideas, much as speech acts are a subset of speech which carry in them actions. Chords also create effects in the viewer, primarily but not merely emotional and sensory. But they typically do not carry in them ideas.
+Others have contested this mechanism’s name. I admit “effect-idea” is clunky. It is not merely an “effect,” as [[John Nerst]] has proposed at Everything Studies (in an otherwise clarifying post). It is a subset of effects, which carry in them ideas, much as speech acts are a subset of speech which carry in them actions. Chords also create effects in the viewer, primarily but not merely emotional and sensory. But they typically do not carry in them ideas.
 
 To respond to Gabriel Duquette’s objections, and clarify what an effect-idea does, I want to look at how a single film employs it:
 
@@ -52,7 +52,7 @@ There are shortcomings which Duquette has accused these effects of:
 
 1) Effect ideas do not widely apply, are merely personal in effect. Therefore they cannot be engineered or scaled or evaluated:
 
-I think many people carry the same prejudices I do. I think the vulnerability cuing was strong and intended. Might they feel the effect — the way their reading of a scene and its possibility is distorted by a face — but never reflect on it, never derive an idea? Certainly. But thoughtful audiences self-watch when interacting with art objects. They notice the changes in their inner state and in their interpretations of a narrative as it progresses. This is a specific mode of reading, which art is often made for and experienced through. (Especially specific traditions like literary fiction; because authors can count on self-watching, it can be reliably written into the text.)
+I think many people carry the same prejudices I do. I think the vulnerability cuing was strong and intended. Might they feel the effect — the way their reading of a scene and its possibility is distorted by a face — but never reflect on it, never derive an idea? Certainly. But thoughtful audiences self-watch when interacting with art objects. They notice the changes in their inner state and in their interpretations of a [[narrative]] as it progresses. This is a specific mode of reading, which art is often made for and experienced through. (Especially specific traditions like literary fiction; because authors can count on self-watching, it can be reliably written into the text.)
 
 Many might not come away with the same thoughts or realizations from the effect which I’ve described. But I think we can agree that an avenue of inquiry is opened which has a defined distribution of effect.
 
@@ -94,4 +94,4 @@ Still, effect ideas crop up in unusual places, including the oeuvres of artists 
 
 ## Simpolism: A Dialogue about Evangelion
 
-> A: What does Evangelion do if not provoke these questions? You were dissatisfied by the form of the show, that it failed to follow your narrative expectations. What if that was precisely the point, to ask you to look at your own motivations for watching, just as Shinji looks at his own motivations for piloting?
+> A: What does Evangelion do if not provoke these questions? You were dissatisfied by the form of the show, that it failed to follow your [[narrative]] expectations. What if that was precisely the point, to ask you to look at your own motivations for watching, just as Shinji looks at his own motivations for piloting?

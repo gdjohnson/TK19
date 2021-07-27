@@ -1,5 +1,7 @@
 "in the nation's best schools, faculty typically are hired (and tenured) not for their teaching skills, but for their research potential and productivity, reflecting the prevailing attitude since the Gordon and Howell report that the generation of knowledge is more highly valued than the dissemination of knowledge." (Gioia 2002)
 
+"There is a new profession of trail blazers, those who find delight in the task of establishing useful trails through the enormous mass of the common record." (Vannevar Bush 1945, "As We May Think")
+
 # Olah & Carter 2017: Research Debt
 
 The authors re-frame the "mountainous climb" that is required, to orient within a field, as a "research debt." This debt accumulated as a result of poor exposition (a lack of good explainers or introductions), half-digested ideas (that have not yet found a clear, coherent structure of explanation), bad abstractions, and a poor signal to noise ratio of published research. 
@@ -23,3 +25,9 @@ Distillation is the needed response to this debt:
 > In the best cases... with people such as Pauline Kael, or Richard Brody, or Manny Farber, critics can be true savants who bring a unique perspective to a medium, who can take a longer-term, more sweeping view, and who can help an audience to appreciate new work on a deeper level than it otherwise would. Moreover, they arguably play an important role in shaping the evolution of a medium by promoting work that breaks new ground, and encouraging creators to take it farther.
 
 > Again, in the best cases, critics seek out and promote fascinating, challenging, and marginalized work that might otherwise never get seen. They provide a public service in helping people to understand and appreciate new work, and to see why what is happening right now is new and exciting. The considered opinions of critics help to raise the level of public conversation, and to encourage everyone to see new work in the context of history.
+
+# Bush 1945: As We May Think
+
+> There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers—conclusions which he cannot find time to grasp, much less to remember, as they appear. Yet specialization becomes increasingly necessary for progress, and the effort to bridge between disciplines is correspondingly superficial.
+
+> ...publication has been extended far beyond our present ability to make real use of the record. The summation of human experience is being expanded at a prodigious rate, and the means we use for threading through the consequent maze to the momentarily important item is the same as was used in the days of square-rigged ships.

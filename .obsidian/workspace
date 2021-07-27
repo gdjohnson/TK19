@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "50e693fa781b2770",
+        "id": "c7599e1737eb102f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/inexact sciences.md",
+            "file": "texts/True Blood.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c0d083fcf4c6ec7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/games.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transparency",
+                "query": "emulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/inexact sciences.md",
+                "file": "texts/True Blood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/inexact sciences.md"
+                "file": "texts/True Blood.md"
               }
             }
           }
@@ -96,17 +107,17 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "50e693fa781b2770",
+  "active": "c7599e1737eb102f",
   "lastOpenFiles": [
-    "concepts/inexact sciences.md",
-    "Sigmund Freud.md",
-    "concepts/proto-predictive processing.md",
-    "concepts/pragmatic ontology.md",
-    "concepts/perception.md",
-    "Kenneth Liberman.md",
-    "research areas/surrogation.md",
-    "library/Reason 2020 Surrogation.pdf",
-    "transcripts/crankAndReason20200303.md",
-    "concepts/language and law.md"
+    "True Blood.md",
+    "thechickenman.md",
+    "textiles.md",
+    "stereotype.md",
+    "retrocoherence.md",
+    "assumption ground.md",
+    "concepts/opticratics.md",
+    "concepts/emulation.md",
+    "concepts/cargocult.md",
+    "concepts/information logistics.md"
   ]
 }

@@ -25,8 +25,8 @@ Short-termism is one of the major patterns of human prejudice; long-termism is o
 
 ## 210129
 
-[2:37 PM] thechickenman: The whole education system is set up to be measured on short-term outcomes convenient for the state while giving little attention to potential blind spots, peripherals, and long-term hazards.
-[2:38 PM] thechickenman: The short term effects? You might be able to boost test scores. As Scott [Alexander] notes, "nothing in the logic of the scientific method itself seems to require that a short-run perspective prevail".
+[2:37 PM] [[thechickenman]]: The whole education system is set up to be measured on short-term outcomes convenient for the state while giving little attention to potential blind spots, peripherals, and long-term hazards.
+[2:38 PM] [[thechickenman]]: The short term effects? You might be able to boost test scores. As Scott [Alexander] notes, "nothing in the logic of the scientific method itself seems to require that a short-run perspective prevail".
 
 ## 210601
 

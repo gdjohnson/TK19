@@ -15,7 +15,7 @@ Round numbers become influential in [[sports]] punditry and fan followings; Nike
 
 This is only to illustrate the degree to which neutral, even banal, features of the cartographic or “reductive” system can lead to substantial changes in human behavior. Analog gradients _need _compressing and systemization; this the very function of structures, including language, as [[Friedrich Nietzsche|Nietzsche]] details in “Truth & Lies”; this compression makes it _tractable_, which is to say. able to be handled and manipulated. But there is a dark side to this dark miracle, manipulability.
 
-# Schelling 1960: Strategies of Conflict
+# [[Thomas Schelling|Schelling]] 1960: Strategies of Conflict
 
 Round numbers can serve as Schelling points. 
 

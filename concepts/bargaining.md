@@ -1,10 +1,10 @@
 # Schelling 1960: Strategies of Conflict
 
-Schelling defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors."
+[[Thomas Schelling|Schelling]] defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors."
 
 ## Bargaining and mixed motives
 
-Of strategy games, there are games of pure cooperation—"**fixed proportion**" of outcomes, i.e. the slice of the pie stays the same even as the pie size itself changes—and pure competition—"**fixed sum**" or zero-sum, where the size of the pie remains constant but the share is variable. Most games are **mixed-motive**, or "bargaining" games—variable sum _and_ variable proportion. What we traditionally call positive or non-zero sum games refer to both mixed and pure coordination games, but Schelling avoids the zero-/positive-sum frame for its lack of symmetry, preferring pure coordination and pure competition.
+Of strategy games, there are games of pure cooperation—"**fixed proportion**" of outcomes, i.e. the slice of the pie stays the same even as the pie size itself changes—and pure competition—"**fixed sum**" or zero-sum, where the size of the pie remains constant but the share is variable. Most games are **mixed-motive**, or "bargaining" games—variable sum _and_ variable proportion. What we traditionally call positive or non-zero sum games refer to both mixed and pure coordination games, but [[Thomas Schelling|Schelling]] avoids the zero-/positive-sum frame for its lack of symmetry, preferring pure coordination and pure competition.
 
 Almost all conflict, short of total war of annihilation, is not fixed-sum but variable-sum, or "mixed-motive": while each side has interests that conflict with others' preferences/desires, they also both share common interests, and to some extent can find mutually advantageous outcomes. Conflict is defined as much by common as it is diverging interest.
 
@@ -120,7 +120,7 @@ Most social interactions are both cooperative and adversarial, defined both by c
 
 # Harsanyi 1962: Bargaining in ignorance of the opponent’s utility function
 
-The traditional "Zeuthen-Nash theory of two-person bargaining games... is based on the assumption that the two parties know each other's utility functions... each other's preferences as well as each other's attitudes toward risk." This situation is not realistic in everyday life. He suggests a "stereotype utility function," a situation of shared knowledge in both the stereotyped and stereotyping individual typically are aware of the approximate utility function associated with their stereotype.
+The traditional "Zeuthen-Nash theory of two-person bargaining games... is based on the assumption that the two parties know each other's utility functions... each other's preferences as well as each other's attitudes toward risk." This situation is not realistic in everyday life. He suggests a "[[stereotype]] utility function," a situation of shared knowledge in both the stereotyped and stereotyping individual typically are aware of the approximate utility function associated with their stereotype.
 
 Vollmer 2013 writes:
 

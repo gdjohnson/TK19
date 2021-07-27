@@ -64,7 +64,7 @@ Performatives require 1) a [[ritual]] opportunity—a pre-existing, "conventiona
 
 "Misfires" are [[ritual|rituals]] which are improperly invoked in some way (the speaker lacks the power or context to invoke it, or has invoked it partially or improperly). "Abuses" are rituals whose implicit bindings and commitments are not followed-through.
 
-## Goffman 1969: Strategic Interaction
+## [[Erving Goffman|Goffman]] 1969: Strategic Interaction
 
 "[O]nce social agencies are introduced as enforcers, it is relatively easy to support spoken statements as moves." That is, in institutional [[concepts/games]], "specialized ready agencies can be called upon to give weight to words." For instance, in bridge, "the word 'double' [...] constitutes a commitment as real and intractable as laying down the ace of clubs." 
 

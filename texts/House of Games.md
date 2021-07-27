@@ -4,7 +4,7 @@ _Everybody gets something out of every transaction._
 
 On exploitative communication:
 
-> _House of Games_ (1987, David Mamet) setup: Margaret is a best-selling psychiatrist so overwhelmed by work, so frustrated by her helplessness to meaningfully improve her patients’ lives, that she enters a manic state, shows up in a pool hall across town and starts threatening a loanshark who is pressuring a patient of hers. It’s no coincidence that literal financial debts are the MacGuffin that makes this plot run. 
+> _House of Games_ (1987, [[David Mamet]]) setup: Margaret is a best-selling psychiatrist so overwhelmed by work, so frustrated by her helplessness to meaningfully improve her patients’ lives, that she enters a manic state, shows up in a pool hall across town and starts threatening a loanshark who is pressuring a patient of hers. It’s no coincidence that literal financial debts are the MacGuffin that makes this plot run. 
 > 
 > The loanshark, Mike, turns out to be more petty conman than gangster; Margaret’s intrigued. His bluffing and persuasion tactics sound like a great idea for her next bestseller. She asks him to show her his moves. It’s clear what she’s getting out of it—another book, excitement in her life, a model of masculine assertiveness. (Mike: “I think what draws you to me is this: I’m not afraid to examine the rules and to assert myself.”) But it’s not clear what _he’s_ getting out of it, and she never stops to ask. This is her first error. 
 > 
@@ -14,7 +14,7 @@ On exploitative communication:
 >
 > This is exploitative manipulation. It isn’t exploitative because he lied to her, or because his intentions were “bad.” It’s exploitative because their relationship took more from her than it delivered in turn, and because it was designed, deceptively, to do so. The final scene, where (spoilers) Margaret shoots Mike to death in an abandoned airport hanger, marks the end of their ongoing transaction—the part where they “settle up.” The final scenes show her so healthy and self-contented she’s practically glowing. She’s taken life into her own hands—asserted herself. It’s a comedy because it ends happy, and it ends happy because she walks away from it better than she started.
 
-# Taylor 2009: Frames, Cons, and Double-Crosses, The Theatrical Cinema of David Mamet
+# Taylor 2009: Frames, Cons, and Double-Crosses, The Theatrical Cinema of [[David Mamet]]
 
 On identity:
 
@@ -26,7 +26,7 @@ On frames within frames:
 
 > To comprehend any [[concepts/games|game]], what is crucial of course is knowing where it begins and where it ends, a clear sense of what is inside the game and what is outside. By shifting the [[levels of abstraction|frame reference]], however, the narration is deliberately simulating false borders and dissimulating the real ones; and, as Margaret will finally realize, the real con is a much larger one, which had already begun before she went to the "House of Games," the con game there and its subsequent revelation by the tricksters being itself a con in the service of an elaborate overarching plot to relieve her of 80,000 dollars of her own money
 
-> [[concepts/games]] within games within games. The narrative mechanism of enlarging the [[levels of abstraction|situational frame]] is a variation of what is known in art theory as _mise-en-abîme_, the play within the play, the image within the image, and of what Luhmann's sociological systems theory (borrowing the term from George Spencer Brown) calls _re-entry_. In principle, situational framing can be enlarged to the point of explicit self-reflexivity, to encompass the whole work. And in _House of Games_ it will be this mechanism of enlarging the frame which will be Mike's undoing in the final act. Because he has made the small mistake of hubris, of thinking himself to be the ultimate master of ceremonies, as though to demonstrate that he, too, is only a character within the writer-director's design, the master puller of strings being the author, Mamet punishes him in a final twist.
+> [[concepts/games]] within games within games. The [[narrative]] mechanism of enlarging the [[levels of abstraction|situational frame]] is a variation of what is known in art theory as _mise-en-abîme_, the play within the play, the image within the image, and of what Luhmann's sociological systems theory (borrowing the term from George Spencer Brown) calls _re-entry_. In principle, situational framing can be enlarged to the point of explicit self-reflexivity, to encompass the whole work. And in _House of Games_ it will be this mechanism of enlarging the frame which will be Mike's undoing in the final act. Because he has made the small mistake of hubris, of thinking himself to be the ultimate master of ceremonies, as though to demonstrate that he, too, is only a character within the writer-director's design, the master puller of strings being the author, Mamet punishes him in a final twist.
 
 # The Last Psychiatrist 2013: The Dove Sketches Beauty Scam
 

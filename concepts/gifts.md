@@ -1,6 +1,6 @@
 _See also [[Reciprocity]] entry._
 
-## Bird & Smith 2005: Signaling Theory, Strategic Interaction, and Symbolic Capital
+## Bird & Smith 2005: [[signaling theory]], Strategic Interaction, and Symbolic Capital
 
 > gifts which may appear unconditional and altruistic either provide benefits in terms of symbolic capital or prestige (as argued by [[Pierre Bourdieu|Bourdieu]]), create and maintain social relationships or social structure benefiting both parties (as argued by Levi-Strauss as well as structuralist Marxists), or are given under conditions of asymmetric need, with the expectation that a cooresponding return will occur at some later date when the asymmetry is reversed.
 

@@ -1,3 +1,5 @@
+_See also [[gifts]] and [[overhaulism]] entries._
+
 From Benedict_SC's "Cordyceps: Too Clever For Their Own Good":
 > “I'm sorry,” she said through gritted teeth. “I know this... is confusing for you. It's not that I don't trust you. But I can't tell you, and I can't tell you why I can't tell you.”
 > “That sounds like... you either think I'm stupid, or your idea of 'the right thing' is different.”
