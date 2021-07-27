@@ -248,7 +248,30 @@ What's interesting about _4'33"_ is what happens to audiences, _as a result of t
 
 Many of the observations of opticratics align with TLP's concept of narcissism—the triumph of image over actuality. The problem is that by using the narcissism frame, TLP casts it as a neurosis. The problem is that neuroses are typically maladaptive, and opticsmization is, rather, a strategic approach. The problem is that external strategies become internal priorities, cf. "the mask if the face."
 
+# Dissimulation
+
+Dissimulation: the concealment of one's beliefs, thoughts, motives... hiding under false appearances. (See "lexical hypothesis")
+
 # McLuhan, "The Medium is the Massage"
+
+# Philosophical precedent
+
+Hume's "sensible knave" is one who will deviate from honesty when it is advantageous. Hume is responding to Glaucon's challenge, in Plato's _Republic_, and the story of Gyges and his invisibility ring, which allows him to commit immoral acts without consequence. Plato believes that an immoral life leads to less happiness than a moral one, and thus Gyges is not acting ratoinally. Hume believes the sensible knave is rational but odious.
+
+Nietzsche on Odysseus, in _Daybreak_:
+
+> Greek ideal.  What did the Greeks admire in Odysseus? Above all, his capacity for lying, and for cunning and terrible retribution; his being equal to contingencies; when need be, appearing nobler than the noblest; the ability to be whatever he chose; heroic perseverence; having all means at his command; possession of intellect  his intellect is the admiration of the gods, they smile when they think of it  : all this is the Greek ideal! The most remarkable thing about it is that the antithesis of appearance and being is not felt at all and is thus of no significance morally. Have there ever been such consummate actors!
+
+And from "Truth & Lies in a Non-Moral Sense," Nietzsche gives a post-Darwinian argument for dishonesty:
+
+> As a means for the preserving of the individual, the intellect unfolds its principle powers in dissimula-
+tion, which is the means by which weaker, less robust individuals preserve themselves—since they have
+been denied the chance to wage the battle for existence with horns or with the sharp teeth of beasts of
+prey. This art of dissimulation reaches its peak in man. Deception, flattering, lying, deluding, talking be-
+hind the back, putting up a false front, living in borrowed splendor, wearing a mask, hiding behind con-
+vention, playing a role for others and for oneself—in short, a continuous fluttering around the solitary
+flame of vanity—is so much the rule and the law among men that there is almost nothing which is less
+comprehensible than how an honest and pure drive for truth could have arisen among them.
 
 # [[Moral Mazes]]
 
@@ -317,6 +340,18 @@ Chains of images—where reputation in one domain assists entry into a further r
 > [Rankings] turn the pursuit of the MBA into a paper chase, wherein the only thing that matters is the degree itself. Prospective MBAs don't necessarily care to learn everything that a quality MBA program teachers. They want entre into influential business networks. They know that those networks germinate and flourish in top-ranked MBA programs, regardless of the actual quality of those programs or their suitability for a given student's 
 
 This paper chase encourages all participating members of an institution to act as public advocates on behalf of their institution's status or prestige, since this institutional reputation affects their own value on the job market, dating market, etc (see Argenti 2000, "Branding b-schools: reputation management for business schools").
+
+# Further reading
+
+Wiki pages worth investigating:
+* Family honor
+* Sharaf and ird
+* Izzat
+* Nāmūs
+* Cultures of honor
+
+DOIs:
+* 10.1177/147470490500300126
 
 # Footnotes
 [^1] Potemkin villages are those, according to legend, constructed by Gregory Potemkin in order to impress Russia's Empress Catherine II—all gorgeous facade without backing. In some renditions of the story, these facades were removed, once Catherine had passed, and quickly transported to a point further along her path, where they were reused as if a new structure. Similar cases abound in the Cold War, and in North Korean relations with the Western world. One infamous story regarding Boris Yeltsin tells that, when he visited Texas in the 1980s, he believed the abundance of food in American supermarkets was potemkin, and, disbelieving, demanded to be driven to scattered supermarkets in other areas of the state to confirm their veracity. See also North Korea's "Peace Village," Nazi Germany's "Paradise Ghetto," and Enron's fake trading floors.
