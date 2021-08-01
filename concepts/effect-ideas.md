@@ -1,3 +1,7 @@
+---
+aliases: effect-idea
+---
+
 # Maps, Chords, & Effect Ideas
 
 “A dramatic presentation should be an act of initiation during which the spectator will be awed and even terrified… During that experience of terror or frenzy… the spectator will be in a position to understand a new set of truths, superhuman in quality.” (Wallace Fowlie on Artaud’s “Theater of Cruelty”)

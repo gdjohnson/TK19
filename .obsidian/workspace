@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c7599e1737eb102f",
+        "id": "fb479d909793f610",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "texts/True Blood.md",
+            "file": "concepts/tripping.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "c0d083fcf4c6ec7b",
+        "id": "85c737c705ebc806",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/games.md",
+            "file": "concepts/pragmatic ontology.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emulation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/True Blood.md",
+                "file": "concepts/tripping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/True Blood.md"
+                "file": "concepts/tripping.md"
               }
             }
           }
@@ -107,17 +107,17 @@
     "width": 280,
     "collapsed": true
   },
-  "active": "c7599e1737eb102f",
+  "active": "fb479d909793f610",
   "lastOpenFiles": [
-    "True Blood.md",
-    "thechickenman.md",
-    "textiles.md",
-    "stereotype.md",
-    "retrocoherence.md",
-    "assumption ground.md",
-    "concepts/opticratics.md",
-    "concepts/emulation.md",
-    "concepts/cargocult.md",
-    "concepts/information logistics.md"
+    "tripping.md.md",
+    "A heuristic is necessarily scoped to the distribution it’s optimized over..md",
+    "transcripts/crispyAndReason20210728.md",
+    "concepts/pragmatic ontology.md",
+    "concepts/selection.md",
+    "engineering.md",
+    "transcripts/Untitled.md",
+    "concepts/effect-ideas.md",
+    "effect-idea.md",
+    "concepts/subculture.md"
   ]
 }

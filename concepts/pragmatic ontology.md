@@ -26,6 +26,14 @@ Often, these human purposes are reified. [[William James]] 1890: *Principles of 
 
 > Our usual purpose with [a thing], our commonest title for it, and the properties which this title suggests, have in reality nothing sacramental. They characterize us more than they characterize the thing. But we are so stuck in our prejudices, so petrified intellectually, that to our vulgarest names, with their suggestions, we ascribe an eternal and exclusive worth. [...] we end by believing that to conceive them in those ways is to conceive them in the only true way. Those are no truer ways of conceiving them than any others; they are only more important ways, more frequently serviceable ways. 
 
+# Darwin as post-essentialist
+
+Louis Menand, _The Metaphysical Club_:
+
+> A way of thinking that regards individual differences as inessential departures from a general type is therefore not well suited for dealing with the natural world. A general type is fixed, determinate, and uniform; the world Darwin described is characterized by chance, change, and difference—all the attributes general types are designed to leave out. In emphasizing the particularity of individual organisms, Darwin did not conclude that species do not exist. He only concluded that species are what they appear to be: ideas, which are provisionally useful for naming groups of interacting individuals. “I look at the term species,” he wrote, “as one arbitrarily given for the sake of convenience to a set of individuals closely resembling each other…. [I]t does not essentially differ from the term variety, which is given to less distinct and more fluctuating forms. The term variety, again, in comparison with mere individual differences, is also applied arbitrarily, and for mere convenience sake.” Difference goes all the way down.
+
+> [Post-Darwin,] We are no longer interested in the conformity of an individual to an ideal type; we are now interested in the relation of an individual to the other individuals with which it interacts. To generalize about groups of interacting individuals, we need to drop the language of types and essences, which is prescriptive (telling us what all finches should be), and adopt the language of statistics and probability, which is predictive (telling us what the average finch, under specified conditions, is likely to do). Relations “will be more important than categories; functions, which are variable, will be more important than purposes, which are fixed in advance; transitions will be more important than boundaries; sequences will be more important than hierarchies.
+
 # TIS Transcripts
 
 ## 063021

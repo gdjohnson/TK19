@@ -256,7 +256,7 @@ Dissimulation: the concealment of one's beliefs, thoughts, motives... hiding und
 
 # Philosophical precedent
 
-Hume's "sensible knave" is one who will deviate from honesty when it is advantageous. Hume is responding to Glaucon's challenge, in Plato's _Republic_, and the story of Gyges and his invisibility ring, which allows him to commit immoral acts without consequence. Plato believes that an immoral life leads to less happiness than a moral one, and thus Gyges is not acting ratoinally. Hume believes the sensible knave is rational but odious.
+Hume's "sensible knave" is one who will deviate from honesty when it is advantageous. Hume is responding to Glaucon's challenge, in Plato's _Republic_, and the story of Gyges and his invisibility ring, which allows him to commit immoral acts without consequence. Plato believes that an immoral life leads to less happiness than a moral one, and thus Gyges is not acting rationally. Hume believes the sensible knave is rational but odious.
 
 Nietzsche on Odysseus, in _Daybreak_:
 

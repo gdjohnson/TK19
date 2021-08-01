@@ -1,3 +1,7 @@
+---
+alias: selection game, selection games, self-selection
+---
+
 Things typically attributed to conspiracy are more frequently the result of tacit selection. Editors do not mandate, top-down, the political slants of their network; they shape it through bottom-up filtration: decisions what stories to run, decisions who to hire. These decisions are in turn made predictively, with thought to the expected value, based on audience selection—the kinds of stories that are widely read and shared.
 
 # Self-selection
