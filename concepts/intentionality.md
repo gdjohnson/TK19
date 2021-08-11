@@ -1,3 +1,7 @@
+---
+aliases: intent, intention
+---
+
 # New Criticism
 
 _See [[New Criticism]] entry._

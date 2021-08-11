@@ -2,7 +2,7 @@
 
 # Entries
 - [[Ambiguity]]
-- [[creepiness]]
+- [[Creepiness]]
 - [[Information Theory]]
 - [[Interestingness]]
 - [[Intelligence As Futures Optimization]]

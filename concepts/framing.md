@@ -11,7 +11,8 @@ aka "Conceptualization Rules Everything Around Me"
 
 See also [[conceptual art]] entry, [[analogy]] entry (since much of framing, especially the framing of novel phenomena, works by analogy). 
 
-# [[Erving Goffman|Goffman]] 1974: Frame Analysis, An Essay on the Organization of Experience
+# Goffman 1974: Frame Analysis, An Essay on the Organization of Experience
+
 
 # TIS Transcript 210709
 

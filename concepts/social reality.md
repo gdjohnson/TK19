@@ -1,3 +1,6 @@
+[[S. I. Hayakawa|Hayakawa]], [[Language in Thought and Action]]:
+![[Language in Thought and Action#^38a000]]
+
 [[Friedrich Nietzsche]], Truth & Lies in a Nonmoral Sense
 
 > What then is truth? A movable host of metaphors, metonymies, and; anthropomorphisms: in short, a sum of human relations which have been poetically and rhetorically intensified, transferred, and embellished, and which, after long usage, seem to a people to be fixed, canonical, and binding... to be truthful means to employ the usual metaphors. Thus, to express it morally, this is the duty to lie according to a fixed convention, to lie with the herd and in a manner binding upon everyone.
@@ -45,3 +48,37 @@ _See also [[surrogation]] entry._
 # Tacit coordination and the emergence of conventionalism
 
 See [[Strategic Interaction]] entry, specifically sub-section "the emergence of conventionalism," for the way in which principles of affirmation lead to a social construction of reality.
+
+# Schutz's sociology
+
+## Verstehen and meaning
+
+![[ethnomethodology#Verstehen and meaning]]
+
+## Social constructs, or "typifications"
+
+![[typification#Schutz's theory of typification]]
+
+## Intersubjectivity
+
+![[ethnomethodology#Intersubjectivity aka social reality]]
+
+
+
+# References
+
+* [[concepts]]
+* [[ethnomethodology]]
+* [[everyday interaction]]
+* [[fashion]]
+* [[framing]]
+* [[generalized compatibilism]]
+* [[inexact sciences]]
+* [[naming]]
+* [[rules]]
+* [[signaling theory]]
+* [[simulacra]]
+* [[structuralism]]
+* [[suspended reason]]
+* [[theory of mind]]
+* [[training]]

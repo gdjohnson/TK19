@@ -76,7 +76,7 @@ Twitter•04/04/2021
 4. Rounding based on pragmatic addressability: if Y is more addressable than Z, we emphasize Y. (e.g. nature vs nurture, for now)
 5. Rounding based on comparative attention (niche saturation): if Y is always/usually addressed/attributed/assumed as cause/character of X, push Z
 6. Rounding based on effects of rounding/narrative: if attributing to Y causes harm, or "is giving ammo to the enemy," push narrative Z instead
-7. Top-down justificational rounding (cf [[pragmatic ontology|decision rules]]): if you go into the question "What causes X?" with a desired end (e.g. prison abolition), then you manufacture or emphasize cause Y over Z because it's necessary to justify the desired end
+7. Top-down justificational rounding (cf [[decision rules]]): if you go into the question "What causes X?" with a desired end (e.g. prison abolition), then you manufacture or emphasize cause Y over Z because it's necessary to justify the desired end
 8. Coalition-based rounding
 9. Implicit blame-game rounding (If Y and Z and both causes of X, and Y is blaming "the wrong person," emphasize only Z's causal role)
 

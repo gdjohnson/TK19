@@ -15,3 +15,24 @@ Different levels of abstraction mean that different claims which, on surface, ap
 _See also [[mesa-optimization]], [[alignment]] and [[superorganisms]] entries_.
 
 Management is the job of "weaving disparate parts into a coherent whole using well-specified overarching goals" (Mannheim 2016) and solve principle-agent problems. 
+
+# Korzybski's Abstraction Ladder
+
+_See also [[general semantics]] entry._
+
+To Korzybski, abstraction is directly opposed to specification. We climb the abstraction ladder from "Bessie the cow" to "cow" to "livestock" to "farm asset" to "asset" to "capital."
+
+Individuals converse at different levels of abstraction, leading to communication breakdowns. Hayakawa quoting Wendell Johnson, _People In Quandaries_:
+> The low-level speaker frustrates you because he leaves you with no direction as to what to do with the basketful of information he has given you. The high-level speaker frustrates you because he simply doesn't tell you what he is talking about.
+
+Hayakawa:
+> interesting speech, as well as clear thinking and psychological well-being, require th constant interplay of verbal levels with the nonverbal ("object") levels. In science, this interplay goes on constantly, hypotheses being checked against observations, predictictions against extensional results.
+
+> The work of good novelists and poets also represents this constant interplay between higher and lower levels of abstraction. A "significant" novelist or poet is one whose message has a high level of _general_ usefulness in persuasiveness through an ability to observe and describe actual social situations and states of mind. A memorable literary character, such as Sinclair Lewis's George F. Babbitt, has _descriptive_ validity (at a low level of abstraction) as the picture of an individual, as well as a _general_ valididty as a picture of a "typical" American businessman of his time. [See also [[compression]] and [[inexact sciences]] entries.]
+
+These abstraction levels often go from what Hayakawa calls "report" to "inference" to "judgment":
+
+> Report: "May Smith didn't get in until three last Saturday night."
+> Inference: "I bet she was out fooling around!"
+> Judgment: "She's a tramp. I never did like her looks. I knew it the moment I first laid eyes on her."
+

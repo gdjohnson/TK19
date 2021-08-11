@@ -1,4 +1,7 @@
 [
   "footlinks",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-mind-map",
+  "obsidian-git",
+  "mrj-text-expand"
 ]

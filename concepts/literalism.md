@@ -1,3 +1,6 @@
+---
+aliases: literalist
+---
 # Simulacra and literalism
 
 See [[Simulacra]] entry.

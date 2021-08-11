@@ -1,3 +1,7 @@
+Ortiz, _Strong Magic_:
+
+> In the heyday of the big con in this country, professional con men would often meet some wealthy businessman and, within a couple of hours, succeed in convincing him, without any collateral, to turn over large sums of money to them. These well educated and highly intelligent businessmen were wiling to put their trust in complete strangers in large part because the con men were able to convince their victims, purely through their dress, grooming, and demeanor, that they were the same type of men as themselves and therefor trustworthy. These con men know that all of us draw firm conclusions about others based purely on what we see.
+
 The best way to understand metonyms may be via [[information theory]] and posterior probability (similar to abduction and [[inference]]). Maybe there's some role for continental "difference" to match up with information-theoretic "distinction."
 
 # February 2020 TIS Server transcript

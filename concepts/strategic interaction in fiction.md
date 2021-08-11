@@ -1,4 +1,9 @@
-## S1E1 Succession
+# The Count of Monte Cristo
+
+![[The Count of Monte Cristo#^c9f8c6]]
+![[The Count of Monte Cristo#^fd6f3d]]
+
+# S1E1 Succession
 
 S1E1, *[[Succession]]*. Tom and Shiv, fiance and fiancee, are chatting about Shiv's dad's (Logan) upcoming birthday. 
 
@@ -14,11 +19,11 @@ S1E1, *[[Succession]]*. Tom and Shiv, fiance and fiancee, are chatting about Shi
 
 The other thing I like about this excerpt is that Tom explicitly frames the gift as a communication. "It needs to *say*" X and Y. It has a purpose, and that purpose is manipulating their relationship (Tom and Logan's). Tom's longterm goal, as future seasons reveal, is to take over the company as CEO, a position Logan currently holds, and thus their relationship—specfically, Logan's impression and opinion of Tom—is crucial.
 
-## House of Games
+# House of Games
 
 ![[House of Games]]
 
-## The Office / The Gervais Principle
+# The Office / The Gervais Principle
 
 [[Venkatesh Rao]]'s ["Gervais Principle"](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/) speculates that an org tends to have three kinds of employees: sociopaths, the clueless, and losers. Sociopaths are in a constant battle for power and dominance. The clueless are "company men" who genuinely believe in the organization and are too stupid to think critically about their situation; they lean toward being "cultural dopes." Losers are those at the bottom who make a straightforward exchange of time for money while still looking out for their self-interest, they tend to find meaning outside the organization, and the most enlightened among them do the minimum work possible to keep coasting. Losers and sociopaths more fit the free & rational actor model of existentialism than it does the "cultural dope" model of [[structuralism]] (see [[Generalized Compatibilism]]).
 

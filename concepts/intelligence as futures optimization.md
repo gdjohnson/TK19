@@ -2,7 +2,7 @@ _See also [[Strategic Interaction]]._
 
 # Kilcullen 2006: Twenty-eight articles
 
-> Trust is a function of reliability. Indeed, in local languages in many part of the world where we operate, the words for "honor" and "reliability" are similar or the same. Dependability is key—local people must believe that you will follow through and deliver on promises in a reliable manner. Over time, the predictability and order that you create through dependability makes people feel safer and encourages them to work with you.
+> [[Trust]] is a function of reliability. Indeed, in local languages in many part of the world where we operate, the words for "honor" and "reliability" are similar or the same. Dependability is key—local people must believe that you will follow through and deliver on promises in a reliable manner. Over time, the predictability and order that you create through dependability makes people feel safer and encourages them to work with you.
 
 # Yudkowsky: Efficient Cross-Domain Optimization
 

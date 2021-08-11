@@ -104,7 +104,7 @@ One way to summarize the problem in psychology is that its researchers have over
 
 ## Overapplying weak findings in public policy
 
-> [[stereotype]] threat researchers wrote an amicus brief in _Fisher v Texas_ saying, It's been show that stereotype threat has these wide-ranging and pernicious effects on the performance of minorities. And that may be true or not, but what they're basing that on is these very specific lab stories that have been designed to elicit [[stereotype]] threat effects, and in fact when you do bigger field experiments, you often get really mixed or null results.
+> [[typification|stereotype]] threat researchers wrote an amicus brief in _Fisher v Texas_ saying, It's been show that stereotype threat has these wide-ranging and pernicious effects on the performance of minorities. And that may be true or not, but what they're basing that on is these very specific lab stories that have been designed to elicit stereotype threat effects, and in fact when you do bigger field experiments, you often get really mixed or null results.
 
 On many psych studies as "existence proofs" that a phenomenon which is _already believed_ to pertain in some cases, and not pertain in others, is demonstrated to hold in at least one case. An existence proof is a bit like a distortion of those grade school, rudimentary statistics problems: "If one has a bag with four green balls, and two yellow balls, and reaches inside to find a yellow ball, what is the probability that the next drawn ball is also yellow?" Except here, one has no idea the composition of the bag, and—reaching in to find a yellow ball—declares that the bag is filled with yellow balls.
 
@@ -144,7 +144,7 @@ On the three main sources of psychology's replication crisis:
 
 On **stereotype threat**:
 
-> I edited an entire book on [[stereotype]] threat, I have signed my name to an amicus brief to the Supreme Court of the United States citing stereotype threat, yet now I am not as certain as I once was about the robustness of the effect. I feel like a traitor for having just written that; like, I’ve disrespected my parents, a no no according to Commandment number 5. But, a meta-analysis published just last year suggests that stereotype threat, at least for some populations and under some conditions, might not be so robust after all. 
+> I edited an entire book on [[typification#stereotype threat|stereotype threat]], I have signed my name to an amicus brief to the Supreme Court of the United States citing stereotype threat, yet now I am not as certain as I once was about the robustness of the effect. I feel like a traitor for having just written that; like, I’ve disrespected my parents, a no no according to Commandment number 5. But, a meta-analysis published just last year suggests that stereotype threat, at least for some populations and under some conditions, might not be so robust after all. 
 
 # Very Bad Wizards in conversation with Four Beers, Two Psychologists
 

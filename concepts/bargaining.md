@@ -120,7 +120,7 @@ Most social interactions are both cooperative and adversarial, defined both by c
 
 # Harsanyi 1962: Bargaining in ignorance of the opponent’s utility function
 
-The traditional "Zeuthen-Nash theory of two-person bargaining games... is based on the assumption that the two parties know each other's utility functions... each other's preferences as well as each other's attitudes toward risk." This situation is not realistic in everyday life. He suggests a "[[stereotype]] utility function," a situation of shared knowledge in both the stereotyped and stereotyping individual typically are aware of the approximate utility function associated with their stereotype.
+The traditional "Zeuthen-Nash theory of two-person bargaining games... is based on the assumption that the two parties know each other's utility functions... each other's preferences as well as each other's attitudes toward risk." This situation is not realistic in everyday life. He suggests a "[[typification|stereotype]] utility function," a situation of shared knowledge in both the stereotyped and stereotyping individual typically are aware of the approximate utility function associated with their stereotype.
 
 Vollmer 2013 writes:
 

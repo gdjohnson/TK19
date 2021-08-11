@@ -1,3 +1,3 @@
 ---
-aliases: indeterminacy, ambiguities
+aliases: indeterminacy, ambiguities, gappiness
 ---

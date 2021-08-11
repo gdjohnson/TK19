@@ -10,12 +10,18 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 - [[Bargaining]]
 - [[Coordination]]
 - [[Everyday interaction]]
-- [[Reciprocity]]
-- [[Predictive Processing]]
+- [[Games]]
+- [[Metonyms]]
 - [[Opticratics]]
+- [[Predictive Processing]]
+- [[Reciprocity]]
 - [[Rules]]
+- [[Selection Games]]
 - [[Strategic interaction in fiction]]
 - [[Strategy of Conflict]]
+
+### Sub-entries
+-[[Language in Thought and Action#Strategic language]]
 
 ## Further investigations
 

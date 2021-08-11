@@ -14,6 +14,8 @@ It is strategically advantageous to
 
 # Self-deception
 
+_You act irrespective of the truth, which remains just out of mind,, because why work to discover something that will only thwart your goals' achievement?_
+
 Perry, "Cooperative Ignorance":
 
 > There is a truism about scams that a mark can only be deceived if he wants to believe; all deception relies on self-deception. The ideal victim of a scam is a person who desperately wants to believe in a reality different from actual reality. Perhaps he receives no utility – or even negative utility – from the actual state of affairs. In other words, reality, such as it is, causes him pain. He is willing to risk everything on the possibility of a different reality being true, precisely because the present reality is of little use to him.

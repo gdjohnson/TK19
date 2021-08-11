@@ -2,6 +2,8 @@
 aliases: Goodhart's Law, Campbell's Law, operationalization, proxy, proxies, surrogate, surrogates
 ---
 
+"In one way or another, we are all like the student who cheats on exams in order to make Phi Beta Kappa: it is often more important to have the symbol than what it stands for." (S. I. Hayakawa, _Language in Thought & Action_)
+
 Some of the major contributors to [[surrogation]] are: transparency, decontextualization, and low-dimensionality of metrics; and short-termism, scientism, and distance in evaluation.
 
 ## Documents
@@ -18,8 +20,12 @@ Some of the major contributors to [[surrogation]] are: transparency, decontextua
 - [[Metonyms]]
 - [[Opticratics]]
 - [[Symbol And Substance]]
-- [[short-termism]]
-- [[distant evaluation]]
+- [[Short-termism]]
+- [[Distant evaluation]]
+
+### Sub-entries
+
+-[[general semantics#On symbols as a means of maintaining this nervous system—and their corruption via selection pressure]]
 
 # Research
 

@@ -1,4 +1,4 @@
-_Tripping is at the heart of the [[effect-ideas|effect-idea]], in aesthetics, and the psychedelic experience (cf [[REBUS]])._
+_Tripping is at the heart of the [[effect-ideas|effect-idea]], in aesthetics, and the psychedelic experience (cf [[REBUS]]). In "Reality Construction in Society," the authors talk about "reality shocks."_
 
 Supernatural as ontological puncture, a hole in the fabric of reality.
 
@@ -20,3 +20,13 @@ Dennett & Hurley, _Inside Jokes_ see humor as a kind of tripping:
 > Basic humor happens when you get a jolt of mirth because a belief that you, yourself, are committed to — without realizing it — becomes invalidated.
 
 > Our brains are engaged full time in real-time (risky) heuristic search, generating presumptions about what will be experienced next in every domain. This time-pressured, unsupervised generation process has necessarily lenient standards and introduces content — not all of which can be properly checked for truth — into our mental spaces. If left unexamined, the inevitable errors in these vestibules of consciousness would ultimately continue on to contaminate our world knowledge store. So there has to be a policy of double-checking these candidate beliefs and surmisings, and the discovery and resolution of these at breakneck speed is maintained by a powerful reward system — the feeling of humor; mirth — that must support this activity in competition with all the other things you could be thinking about.
+
+# TIS transcripts
+
+## 210731
+
+[12:11 PM] Natural Hazard: Reality Shock feels like it gets at this, but different part of speech.
+[12:11 PM] Natural Hazard: I was actually just using the "missing a step that isn't there" example to talk about it
+[12:13 PM] Natural Hazard: Or maybe, the relation is when you "trip" (the activity) you experience "reality shock"
+[12:14 PM] Natural Hazard: So to trip is to but up against reality in a way that punctures your previous ready-at-hand experience of reality
+[12:15 PM] Natural Hazard: And reality shock is pointing at the cluster of feelings one typically experiences after tripping "sufficiently" hard
