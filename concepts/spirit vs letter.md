@@ -23,6 +23,24 @@ From Mannheim's "Overpowered metrics eat underspecified goals":
 > The problem here is that decision theory starts from a point fairly far along in the decision process. For it to be useful, you need to have a clear idea of what the rules are, and what your goals are, before you can start. Without that clear idea, even if we can list all the choices, even the trivial part of picking the best option is a mess.
 > Life is a human-complete problem, [[Finite And Infinite Games|where specifying the goals and rules fully is part of the game]], and the goals are constantly evolving.
 
+# Rules lawyering
+
+### Rules Lawyering
+
+"Rules lawyer" is a pejorative term from online RPG communities referring to those who leverage the letter against the spirit for personal advancement.
+
+The Zeroth Rule, in wargaming, warns explicitly against letter-following:
+
+-   1980's Basic D&D rulebook: Anything in this booklet (and other D&D booklets) should be thought of as changeable—anything, that is, that the DM thinks should be changed... The purpose of these 'rules' is to provide guidelines that enable you to play and have fun, so don't feel absolutely bound to them."
+-   D&D 3.5 Player's Handbook: "Good players will always recognize that you have ultimate authority over the game mechanics, even superseding something in a rulebook."
+-   Warhammer 40,000 8th ed: "In a game as detailed and wide-ranging as Warhammer 40,000, there may be times when you are not sure exactly how to resolve a situation that has come up during play. When this happens, have a quick chat with your opponent and apply the solution that make the most sense to both of you (or seems the most fun!)."
+
+Note the [[instrumentalism]]. The rules serve the spirit (fun) of the game, and when followed to the letter, defeat the spirit.
+
+# Affordances of Spirit/Letter Gaps
+
+Paying lip service (observing technicalities or 'letter' while ignoring spirit) is an excellent way to defy regulations while altering norms (see how smutty mags and movies in the 1920s got around censors, slowing shifting the Overton window of normality).
+
 # Commonplace
 
 Venkatesh Rao, "The Gervais Principle pt II":

@@ -14,7 +14,7 @@ __On the subordination of self for the org:__
 __Distinction:__
 > Perceptions of pervasive mediocrity breed an endless quest for social distinctions even of a minor sort that might give one an “edge,” enable one to “step out of the crowd,” or at least serve as a basis for individual claims to privilege. 
 
-__In what could pass as a description of the artworld:__
+__In what could pass as a description of the [[artworld]]:__
 > Instead, success becomes contingent on others’ interpretations of one’s performance, leading to a break in the accepted moral economy between talent combined with effort and reward. This makes compulsive sociability an occupational virtue, as one attempts to discern and shape peers’ and superiors’ interpretations.
 
 __Tainting & social distancing:__

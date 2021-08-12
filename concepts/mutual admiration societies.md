@@ -1,0 +1,3 @@
+---
+alias: mutual admiration society
+---

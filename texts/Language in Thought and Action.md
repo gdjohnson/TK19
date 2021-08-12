@@ -89,8 +89,8 @@ After describing a town which frames its welfare policy as insurance, changing r
 ^828806
 
 But unfortunately, the "[[natural attitude]]" is to reify [[typification|typifyications]]:
-> "What do you mean, 'calling' it insurance?" asked the Social Worker. "B-ville's scheme wasn't welfare at all. It _was_ insurance."
-> [...]
+> "What do you mean, 'calling' it insurance?" asked the Social Worker. "B-ville's scheme wasn't welfare at all. It _was_ insurance." [...]
+> 
 > [Advertising executive:] "You're crazy. Welfare is welfare, isn't it? If you only call things by their right names..."
 ^a253eb
 
@@ -111,8 +111,8 @@ Those trained on the written word often end up [[literalism|literalist]]:
 This communion or togetherness is, I would think, supplemented by the function of feeling out one anothers' priors, perspectives, etc. Discovering synchronous perspectives, values, desires, proclivities etc. allows opportunities for future coordination (to mutual advantage). Discovering potential pain points of divergence allow tact, for instance in avoiding the creation of tension when those subjects arise.
 
 > Since the purpose of this kind of talk is the establishment of communion, _we are careful to select subjects about which agreement is immediately possible_. Consider, for example, what happens when two strangers feel the necessity or the desire to talk to each other:
-> > "Nice day, isn't it?"
-> > 
+> "Nice day, isn't it?"
+> 
 > > "It certainly is." (_Agreement on one point has been established. It is safe to proceed._)
 > > 
 > > "Altogether, it's been a fine summer."
@@ -180,3 +180,7 @@ Quoting P.W. Bridgman:
 
 > when a father tries to excuse the mischief done by his sons, he says, "Boys will be boys"; in other words, "Let us regard the actions of my sons with that indulgent amusement customarily extended toward those whom we call 'boys,'" though the angry neighbor will say, of course, "Boys, my eye! They're little hoodlumsl that's what they are!" Such assertions are not informative statements but directives, directing us to classify the object or event under discussion in given ways, in order that we may feel or act as suggested by the terms of the classification.
 ^efe0ee
+
+> Many semantic problems are, ultimately, problems of classification and nomenclature. Take, for example, the extensive debate over abortion. To opponents of legalized abortion, the unborn entity within a woman's womb is a "baby." Because abortion foes _want_ to end abortion, they insist that the "baby" is a human being with its own legal rights and that therefore "abortion is murder." They call themselves "pro-life" to emphasize their position. Those who _want_ individual women to be able to choose whether or not to end a pregnancy call that same unborn entity a "fetus" and insist that the "fetus" _is not_ a viable human being capable of living on its own, and claim that a woman has a "right" to make such a choice. Partisans of either side have accused the other of "perverting the meanings of words" and of "not being able to understand plain English." [...] When the desired [Supreme Court] decision is handed down, people will say, "Truth has triumphed." Society, in short, regards as "true" those systems of classification that produce the desired results.
+
+^ebeb00

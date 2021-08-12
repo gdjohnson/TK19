@@ -40,7 +40,7 @@ Or not: Goal argument may have to be founded in survival. If things didn’t hav
 
 So: A unit of survival.
 
-Goal argument = intent argument. When a Congressional body passes a set of words… [[Law and language]]. What is the “goal” or “intent” of a government
+Goal argument = intent argument. When a Congressional body passes a set of words… [[Language and law]]. What is the “goal” or “intent” of a government
 
 If Y outcome only happens, or is only likely to happen given X intentionality of a superorganism, then we can attribute X intentionality to that superorganism. “The US hasn’t been invaded” tells us about the US’s goals.
 

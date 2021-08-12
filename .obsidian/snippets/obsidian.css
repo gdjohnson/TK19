@@ -1,0 +1,48 @@
+/* Embed and blockquote handling */
+.markdown-preview-view > br {
+    display: none;
+}
+
+.markdown-preview-view .markdown-embed, .markdown-preview-view .file-embed {
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+markdown-embed .markdown-preview-view {
+    padding: 0 !important;
+}
+
+.markdown-preview-view blockquote {
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0px !important;
+    background: none;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.markdown-embed .markdown-preview-view {
+    padding: 0 !important;
+}
+
+.internal-embed, .markdown-embed, .markdown-embed-content,
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
+    max-height: none !important;
+    min-height: fit-content !important;
+}
+
+.markdown-preview-sizer {
+    min-height: none;
+}
+
+.markdown-preview-view blockquote {
+    border-radius: 0 4px 4px 0;
+    border: none;
+    border-left: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px 20px;
+}
+
+a {
+    color: rgba(0, 0, 0, 0.8);
+}

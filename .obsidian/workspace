@@ -1,43 +1,62 @@
 {
   "main": {
-    "id": "5bd3969b7e6fa2a0",
+    "id": "7a5a4abd19780a3a",
     "type": "split",
     "children": [
       {
-        "id": "17ecba747caeab8f",
+        "id": "6497f51f426840b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "strategic conceptualization.md",
-            "mode": "preview"
+            "file": "concepts/values hierarchy.md",
+            "mode": "source"
+          }
+        },
+        "group": "860a5b44fedfae14"
+      },
+      {
+        "id": "7efe1c22dda2e96b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "people/Maggie Nelson.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "e76bbb189ea7965e",
+        "id": "4980d2fa193372fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "backlink",
           "state": {
-            "file": "texts/Language in Thought and Action.md",
-            "mode": "source"
+            "file": "concepts/values hierarchy.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
-        }
+        },
+        "group": "860a5b44fedfae14"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b258ad9eadb254fc",
+    "id": "9bc27372f4e7b0d1",
     "type": "split",
     "children": [
       {
-        "id": "d103ff40c3b5daae",
+        "id": "f032d0f12e3f3ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "c521725cf7c1db88",
+            "id": "45b7782e2a062577",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,12 +64,12 @@
             }
           },
           {
-            "id": "32090f3ddc09d788",
+            "id": "f485592d3c321a64",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"strategic language\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,45 +78,56 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "864d979d6e30f023",
+    "id": "9ae76fd212343dc5",
     "type": "split",
     "children": [
       {
-        "id": "4d57ad5f6ec2e53a",
+        "id": "608f4b9a9051ee36",
         "type": "tabs",
         "children": [
           {
-            "id": "f9d552f5ebe40c8d",
+            "id": "bfe4b02fe4f56184",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/Language in Thought and Action.md",
+                "file": "people/Maggie Nelson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "288184718da73ac6",
+            "id": "d4ca72f0b5bfa3e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "people/Maggie Nelson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f216f251198e78c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/Language in Thought and Action.md"
+                "file": "people/Maggie Nelson.md"
               }
             }
           }
@@ -105,20 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
+    "width": 300,
     "collapsed": true
   },
-  "active": "e76bbb189ea7965e",
+  "active": "7efe1c22dda2e96b",
   "lastOpenFiles": [
-    "texts/Language in Thought and Action.md",
-    "strategic conceptualization.md",
-    "research areas/strategic interaction.md",
-    "concepts/games.md",
-    "research areas/games.md",
-    "Strategic conceptualization.md",
-    "concepts/strategic interaction in fiction.md",
-    "Untitled.md",
-    "The Count of Monte Cristo.md",
-    "concepts/framing.md"
+    "people/Maggie Nelson.md",
+    "values hierarchy.md",
+    "mutual admiration societies.md",
+    "decision rules.md",
+    "How To Be Attractive.md",
+    "implicature.md.md",
+    "texts/Intuitionistic Type (Of Guy) Theory.md",
+    "Intuitionistic Type (Of Guy) Theory.md",
+    "transcripts/crispyAndReason20210728.md",
+    "Law and language.md"
   ]
 }
