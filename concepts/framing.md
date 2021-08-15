@@ -4,7 +4,7 @@ aliases: conceptualization
 
 The framing of an activity determines the relevant [[genre|values hierarchies]] an evaluating agent puts in place.
 
-Hazard 2021: [[Intuitionistic Type (Of Guy) Theory]]
+Hazard 2021: [["Intuitionistic Type of Guy Theory"]]
 > I was exposed to a new angle. Instead of presenting fitting into the social world as "doing what people want so they like you" (i.e. conforming), it presented the task as "playing human nature with finesse to lead to everyone thinking you're the best". Suddenly it was I who was getting one up on them! I wasn't bending to the whim of others, I was gaming the timeless truths of social reality! That small shift in frame completely reversed how everything felt.
 
 aka "Conceptualization Rules Everything Around Me"

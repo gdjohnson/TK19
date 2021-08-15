@@ -1,11 +1,11 @@
 # The Count of Monte Cristo
 
-![[The Count of Monte Cristo#^c9f8c6]]
-![[The Count of Monte Cristo#^fd6f3d]]
+![[_The Count of Monte Cristo_#^c9f8c6]]
+![[_The Count of Monte Cristo_#^fd6f3d]]
 
 # S1E1 Succession
 
-S1E1, *[[Succession]]*. Tom and Shiv, fiance and fiancee, are chatting about Shiv's dad's (Logan) upcoming birthday. 
+S1E1, *[[_Succession_]]*. Tom and Shiv, fiance and fiancee, are chatting about Shiv's dad's (Logan) upcoming birthday. 
 
 > Tom: Shiv, it's a fucking disaster. I need to strategize my gift. What can I get him he'll love? 
 >
@@ -21,7 +21,7 @@ The other thing I like about this excerpt is that Tom explicitly frames the gift
 
 # House of Games
 
-![[House of Games]]
+![[_House of Games_]]
 
 # The Office / The Gervais Principle
 
@@ -56,7 +56,7 @@ Venkat goes on to give an example from _The Office_ of fluent powertalk, here be
 
 Crucially in powertalk, you play with real table stakes; "the currency is most often reality-information." (i.e. _epistemic capital_, as valuable as symbolic capital) The other dialects (Venkat claims) play without stakes. I don't quite understand this, because posturetalk and babytalk both seem to attempt, manipulatively, to bring about realities (i.e. there are stakes, the speakers are trying to make something happen). They're just performed by, or received by, the incompetents/clueless.
 
-(Sidenote: I've been wondering if it'd be useful to drag in Carse's [[finite and infinite games]], because it doesn't seem like a coincidence that this kind of interaction happens so much in business and high society (that is, over literal and symbolic capital). There are ways of being that seem more cooperative and less full of conflict, where strategic interaction looks very very different—more like improv, less like warfare.)
+(Sidenote: I've been wondering if it'd be useful to drag in Carse's [[_Finite And Infinite Games_]], because it doesn't seem like a coincidence that this kind of interaction happens so much in business and high society (that is, over literal and symbolic capital). There are ways of being that seem more cooperative and less full of conflict, where strategic interaction looks very very different—more like improv, less like warfare.)
 
 Theory of mind is one of the biggest skills that makes a sociopath a sociopath—though, as [[Jane Austen]] illustrates in her fiction, there is a blindspot insofar as high status people do not actively model the mentalities of low status people, which leads them to misunderstand their subordinates' motivations. So is context-sensitivity: the clueless, in Venkat/Ricky Gervais's formulation, fail in part by following "formulas" for behavior, without an artfulness in deploying them. Thus, in a salary negotiation, Michael Scott "prints off negotiation tactics from Wikipedia and attempts to use a series of recommended formulaic tactics. First he tries switching chairs and rooms to disorient Darryl. He merely disorients himself. Next he tries to follow a rule 'not to be the first to speak.' Sadly, he can't stand the tension, and oblivious to the [[knowingness|irony]], breaks the silence with 'I will not be the first to speak.' At which point Darryl calmly comes back with, 'Alright, I can start.'" In other words, like all human social assessments (cf flirting), the _symbols_ or [[metonyms]] that can encode or [[signaling theory|signal]] deeper qualities, the markers of power must either be hard-to-fake, either by being _costly_ or being _[[anti-inductive]]_.
 
@@ -82,7 +82,7 @@ One of the principle biases affecting characters in [[Jane Austen|Austen]]'s nov
 
 > Mrs. Dashwood's belief in Willoughby is based largely on his manner and appearance: "Has not his behaviour to Marianne and to all of us, for at least the last fortnight, declared that he loved and considered her as his future wife?"
 
-When an overactive imagination and sophomoric overconfidence combine, we see characters like Emma Woodhouse or Marianne Dashwood making inappropriately sized inferential/abductive leaps from their observed information. Thus, when Colonel Brandon in S&S tells a story of a woman of whom Marianne reminds him, Elinor (Austen's ideal strategist) "connect[s] his emotion with the tender recollection of past regard," but does not attempt—since she has no evidence to base it on—any further speculation as to in what way he tenderly regards this woman, or the specifics of their history. It is enough, for her, to have firm reasons for believing only that the regard is tender, and their history meaningful. Marianne, meanwhile, "would not have done so little," [[Jane Austen|Austen]] writes—"The whole story would have been speedily formed under her active imagination." This is a species of epistemic humility that we might call abductive humility, perhaps somewhat related to Sarah Perry's concept of "[[indexical]] geniuses," who refuse to speculate into generalizations. (We might say Elinor is in a Goldilocks zone of abductive ambition, whereas Marianne is too hot and Sarah's indexical geniuses are too cold.)
+When an overactive imagination and sophomoric overconfidence combine, we see characters like Emma Woodhouse or Marianne Dashwood making inappropriately sized inferential/abductive leaps from their observed information. Thus, when Colonel Brandon in S&S tells a story of a woman of whom Marianne reminds him, Elinor (Austen's ideal strategist) "connect[s] his emotion with the tender recollection of past regard," but does not attempt—since she has no evidence to base it on—any further speculation as to in what way he tenderly regards this woman, or the specifics of their history. It is enough, for her, to have firm reasons for believing only that the regard is tender, and their history meaningful. Marianne, meanwhile, "would not have done so little," [[Jane Austen|Austen]] writes—"The whole story would have been speedily formed under her active imagination." This is a species of epistemic humility that we might call abductive humility, perhaps somewhat related to [[Sarah Perry]]'s concept of "[[indexicality|indexical]] geniuses," who refuse to speculate into generalizations. (We might say Elinor is in a Goldilocks zone of abductive ambition, whereas Marianne is too hot and Sarah's indexical geniuses are too cold.)
 
 After Marianne has her predictions repeatedly upset, she vows that, henceforth, her "feelings shall be governed and [her] temper improved." 
 

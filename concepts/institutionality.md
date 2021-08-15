@@ -1,4 +1,4 @@
-## Robert Jackall, _[[Moral Mazes]]_:
+## Robert Jackall, _[[_Moral Mazes_]]_:
 
 > As a former vice-president of a large firm says: “What is right in the corporation is not what is right in a man’s home or in his church. What is right in the corporation is what the guy above you wants from you. That’s what morality is in the corporation.” 
 

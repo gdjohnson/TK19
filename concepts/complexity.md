@@ -8,7 +8,7 @@
 
 _Overhaulism is closely related to [[intervention-on-behalf]]._
 
-_Individual imagination is weak; evolution is strong_ (Sarah Perry).
+_Individual imagination is weak; evolution is strong_ ([[Sarah Perry]]).
 
 **overhaulism** (n): related to Chesterton’s fence, [[Friedrich Hayek|Hayek]]’s “fatal conceit,” Christopher Alexander and James Scott’s “high modernism,” Taleb’s “modernistic intellectualism,” and John Gall’s “systemism.” A belief in the power of individuals’ synchronous reasoning & intelligence to intervene in a complex system; correspondingly, an attitude of bearishness toward evolved solutions. Ethical overhaulism is an arguable facet of some forms of applied utilitarianism or consequentialism (rule utilitarianism manages to avoid this trap). Overhaulism in architecture and design are fundamental aspects of modernism, for better and worse. Behavioral econ’s attempt to overhaul the evolved wisdom of local fields (e.g. [[sports|basketball]] and hot-hand fallacy) was an example of the failures of overhaulism. There are sometimes advantages to reason- and intelligence-based overhauls, specifically in getting us over valleys and onto higher local maxima, but it is weakest in dealing with systems of complexity outside our current intellectual grasp (human psychology and visual beauty, in the case of architecture and design; human performance, in the case of hot-hand; causality and nth-degree effects in the case of utilitarianisms).
 

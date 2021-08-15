@@ -1,4 +1,4 @@
 # Texts
-- [[The Tower]]
-- [[How To Be Attractive]]
+- [["The Tower"]]
+- [["How To Be Attractive"]]
 - [[Shame & Society]]

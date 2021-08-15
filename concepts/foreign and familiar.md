@@ -63,7 +63,7 @@ Perry 2016: The Theory of [[narrative]] Selection
 > Art is interested in removing tools (in my extended sense) from their settings and thus in making them strange and, in making them strange, bringing out the ways and textures of the embedding that has been taken for granted.
 
 # Familiarization: Making the foreign familiar
-From Sontag, [[The Aesthetics of Silence]]:
+From Sontag, [["The Aesthetics of Silence"]]:
 
 > For, in one of its aspects, art is a technique for focusing attention, for teaching skills of attention... The history of the arts is the discovery and formulation of a repertory of objects on which to lavish attention; one could trace exactly and in order how they eye of art has panned over our environment, "[[naming]]," making its limited selection of things which people then become aware of as significant, pleasurable, complex entities. (As Oscar Wilde pointed out, people didn't see fogs before certain 19th century poets and painters taught them how to; surely, no one saw as much of the variety and subtlety of the human face before the eras of the movies.)
 

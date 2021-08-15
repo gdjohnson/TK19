@@ -8,11 +8,14 @@ J. Ryde on Bateson's challenge of the epistemology/ontology distinction:
 > I am also challenging dualism and choose a non-dualistic epistemology to do it. To do so I need to recognise life as a ‘seamless web’ (Bateson 1982). Bateson acknowledged that, because we are human and think in the way that we do, we must inevitably apply analytic scissors to this web in order to live the life we can understand and reflect upon (Bateson and Bateson 1987:145). By this he meant that, although all is connected and whole rather than in parts, we, being human, inevitably see the world in separate pieces – we cut the seamless web in order to understand it.
 
 # Pragmatic perception
-To Bergson, one perceives _in order to act_, and one sees the world as a set of obstacles and affordances to the body:
+To [[Henri Bergson|Bergson]], one perceives _in order to act_, and one sees the world as a set of obstacles and affordances to the body:
 
 ![[perception#^86e333]]
 
 ![[perception#^ca93ac]]
+
+As T. E. Hulme summarizes Bergson's thoughts in [[_Speculations_]]:
+![[_Speculations_#^53b833]]
 
 # Functional Decision Categories
 
@@ -34,7 +37,7 @@ Louis Menand, _The Metaphysical Club_:
 
 > [Post-Darwin,] We are no longer interested in the conformity of an individual to an ideal type; we are now interested in the relation of an individual to the other individuals with which it interacts. To generalize about groups of interacting individuals, we need to drop the language of types and essences, which is prescriptive (telling us what all finches should be), and adopt the language of statistics and probability, which is predictive (telling us what the average finch, under specified conditions, is likely to do). Relations “will be more important than categories; functions, which are variable, will be more important than purposes, which are fixed in advance; transitions will be more important than boundaries; sequences will be more important than hierarchies.
 
-![[Language in Thought and Action#Hayakawa on classification]]:
+![[_Language in Thought and Action_#Hayakawa on classification]]:
 
 # TIS Transcripts
 

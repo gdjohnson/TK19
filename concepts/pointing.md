@@ -2,5 +2,5 @@
 aliases: reference
 ---
 
-[[Language in Thought and Action]]:
+[[_Language in Thought and Action_]]:
 ![[general semantics#^ab1671]]

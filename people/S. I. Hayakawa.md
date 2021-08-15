@@ -3,4 +3,4 @@ aliases: Hayakawa
 ---
 
 # Texts
-- [[Language in Thought and Action]]
+- [[_Language in Thought and Action_]]

@@ -42,4 +42,4 @@ Much of imperialism and its attendant philosophy, [[interventionOnBehalf|interve
 
 # Hotel Concierge, How to be Attractive
 
-![[How To Be Attractive]]
+![["How To Be Attractive"]]

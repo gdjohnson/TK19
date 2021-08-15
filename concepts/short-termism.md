@@ -8,7 +8,7 @@ Contemporary employment patterns, where white-collar employees climb the ranks b
 
 Short-termism is one of the major patterns of human prejudice; long-termism is one of the things healthy cultures must teach children, and one of the things children learn by long trial and error. Bluffing, weasling, and deception (that, is [[opticratics]] broadly) is more successful in short-termist settings, because maintaining illusions in open settings (as opposed to controlled, closed settings) is tremendously difficult:
 
-![[House of Games#^5b8c83]]
+![[_House of Games_#^5b8c83]]
 
 # TIS transcripts
 

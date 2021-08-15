@@ -1,3 +1,0 @@
----
-aliases: divide and conquer
----

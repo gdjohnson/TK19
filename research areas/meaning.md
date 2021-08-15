@@ -3,16 +3,16 @@ Meaning is purposive and contextual. Things are meaningful insofar as they are r
 ## Entries
 - [[Conceptual Analysis]]
 - [[Conceptual Engineering]]
-- [[Death of the Author]]
+- [["Death of the Author"]]
 - [[Divide And Conquer]]
 - [[Externalist Readings]]
 - [[Extractive Criticism]]
 - [[Intentionality]]
 - [[Internalist Readings]]
 - [[Literary Meaning]]
-- [[Narrow And Conquer]]
+- [[Linguistic Conquests]]
 - [[New Criticism]]
-- [[pragmatic ontology]]
+- [[Pragmatic Ontology]]
 - [[Reader Response]]
 
 ## Blog posts

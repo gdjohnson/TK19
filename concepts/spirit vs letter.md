@@ -21,7 +21,7 @@ From Mannheim's "Overpowered metrics eat underspecified goals":
 
 > As Moravec’s Paradox would have it, goal setting is so easy, we have no idea how to do it. That means that people do it unconsciously, and formalizing it into a organizational system is hard. In fact, **most organizations, especially ineffective ones, are run like a game of Calvinball; “you make up the rules as you go”.** They change arbitrarily based on the whims of those in control, and not everyone needs to agree to them.
 > The problem here is that decision theory starts from a point fairly far along in the decision process. For it to be useful, you need to have a clear idea of what the rules are, and what your goals are, before you can start. Without that clear idea, even if we can list all the choices, even the trivial part of picking the best option is a mess.
-> Life is a human-complete problem, [[Finite And Infinite Games|where specifying the goals and rules fully is part of the game]], and the goals are constantly evolving.
+> Life is a human-complete problem, [[_Finite And Infinite Games_|where specifying the goals and rules fully is part of the game]], and the goals are constantly evolving.
 
 # Rules lawyering
 

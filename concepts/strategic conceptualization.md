@@ -12,13 +12,13 @@ Therefore, there are two sides to the coin of gaming a decision-rule: [[signalin
 
 # Exhibits
 
-### [[S. I. Hayakawa|Hayakawa]] 1939: [[Language in Thought and Action]]
+### [[S. I. Hayakawa|Hayakawa]] 1939: [[_Language in Thought and Action_]]
 
-![[Language in Thought and Action#^86539d]] 
-![[Language in Thought and Action#^828806]]
-![[Language in Thought and Action#^a253eb]]
-![[Language in Thought and Action#^efe0ee]]
-![[Language in Thought and Action#^ebeb00]]
+![[_Language in Thought and Action_#^86539d]] 
+![[_Language in Thought and Action_#^828806]]
+![[_Language in Thought and Action_#^a253eb]]
+![[_Language in Thought and Action_#^efe0ee]]
+![[_Language in Thought and Action_#^ebeb00]]
 
 ### [[Alexander Dumas|Dumas]] 1844: The Count of Monte Cristo
-![[The Count of Monte Cristo#^fd6f3d]]
+![[_The Count of Monte Cristo_#^fd6f3d]]

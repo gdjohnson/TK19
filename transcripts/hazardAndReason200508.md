@@ -198,7 +198,7 @@ the standard seems to fit
 [8:33 PM] suspended reason: See somewhat related thread https://twitter.com/suspendedreason/status/1386897202916724737?s=20
 
 Suspended Reason (@suspendedreason)
-@peligrietzer @literalbanana What curtails our constantly exaggerating our accomplishments? What is the leash that tethers us to truth? How to we verify and cross-check information others provide us, in a way that keeps people more often than not?
+@peligrietzer @[[Sarah Perry|literalbanana]] What curtails our constantly exaggerating our accomplishments? What is the leash that tethers us to truth? How to we verify and cross-check information others provide us, in a way that keeps people more often than not?
 
 [8:35 PM] suspended reason: One thing I wonder about is whether we really should see denotative or neutral representational work as a subset of [[strategic interaction|strategic representational work]]
 [8:37 PM] suspended reason: Because in some non trivial sense, it seems like there's an equally pragmatic shaping of a message for context/relevance/grounding even in neutral representation work—"How do I say it so they'll understand the sense I wanna get across which I think informs their problem and context at hand" isn't so different from "How do I say it so they'll understand it in the sense that makes me look good"

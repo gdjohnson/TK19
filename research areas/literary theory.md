@@ -4,7 +4,7 @@
 - [[Authenticity]]
 - [[Blogging]]
 - [[Compression]]
-- [[Death of the Author]]
+- [["Death of the Author"]]
 - [[Defamiliarization]]
 - [[Externalist readings]]
 - [[Extractive criticism]]

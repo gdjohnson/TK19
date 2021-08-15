@@ -12,9 +12,11 @@ Discussing the viral circulation of his counterinsurgency guide "Twenty Eight Ar
 
 # Marooned, untethered, and stranded indexicals
 
-LiteralBanana:
+[[Sarah Perry|LiteralBanana]]:
 
 > every seemingly innocent fragment of information is secretly plotting how to escape its context and cause trouble
+
+^461753
 
 ## Context sensitivity of linguistic meaning
 
@@ -23,3 +25,7 @@ Bourdieu, _The Field of Cultural Production_:
 > The meaning of a work (artistic, literary, philosophical, etc) changes automatically with each change in the field within which it is situated for the spectator or reader. This effect is most immediate in the case of so-called classic works, which change constantly as the universe of coexistent works changes.
 
 > One of the major difficulties of the social history of philosophy, art or literature, is that it has to reconstruct these spaces of original possibles which, because they were part of the self-evident data of the situation, remained unremarked and are therefore unlikely to be mentioned in contemporary accounts, chronicles or memoirs. 
+
+# Reading "Ignorance, A Skilled Practice"
+
+![["Reading 'Ignorance, A Skilled Practice'"]]

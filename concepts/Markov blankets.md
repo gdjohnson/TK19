@@ -1,4 +1,4 @@
-_This entry, for the purposes of the editor, is linked to Sarah Perry's essay "Gardens Need Walls: On Boundaries, Ritual, & Beauty," as well as the general concepts of [[Boundaries]], [[Coordination]], superorganisms, and "slack."_
+_This entry, for the purposes of the editor, is linked to [[Sarah Perry]]'s essay "Gardens Need Walls: On Boundaries, Ritual, & Beauty," as well as the general concepts of [[Boundaries]], [[Coordination]], superorganisms, and "slack."_
 
 "[A] non-trivial property of life is its propensity to form multi-level and multi-scale structures of structures."
 

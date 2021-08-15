@@ -1,6 +1,6 @@
 ## Entries
 - [[Coordination]]
-- [[House of Games]]
+- [[_House of Games_]]
 - [[concepts/Games]]
 - [[Incentive Structures]]
 - [[Rules]]

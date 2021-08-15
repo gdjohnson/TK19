@@ -1,4 +1,4 @@
-Sarah Perry:
+[[Sarah Perry]]:
 
 > Games, [[sports]], mind-altering substances, sex, and relationships may be approached from a “theme park” or “amusement park” angle.
 

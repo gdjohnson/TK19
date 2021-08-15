@@ -1,5 +1,5 @@
-[[S. I. Hayakawa|Hayakawa]], [[Language in Thought and Action]]:
-![[Language in Thought and Action#^38a000]]
+[[S. I. Hayakawa|Hayakawa]], [[_Language in Thought and Action_]]:
+![[_Language in Thought and Action_#^38a000]]
 
 [[Friedrich Nietzsche]], Truth & Lies in a Nonmoral Sense
 

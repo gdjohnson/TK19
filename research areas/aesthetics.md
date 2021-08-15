@@ -23,7 +23,7 @@
 - [[Surprisal]]
 - [[Symbol and substance]]
 - [[Taste]]
-- [[The Aesthetics of Silence]]
+- [["The Aesthetics of Silence"]]
 - [[The avant-garde]]
 - [[The late turn]]
 - [[Timelessness]]

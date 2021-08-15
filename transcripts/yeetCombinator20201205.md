@@ -154,7 +154,7 @@ The model of hierarchical complexity (MHC) is a framework for scoring how comple
 
 [9:52 AM] snav: oh nooo :((
 
-[9:52 AM] suspended reason: I don't think they're naive on evo psych, I mean it depends who you're talking about, but Sarah Perry isn't the type of gal to RT Geoffrey Miller
+[9:52 AM] suspended reason: I don't think they're naive on evo psych, I mean it depends who you're talking about, but [[Sarah Perry]] isn't the type of gal to RT Geoffrey Miller
 
 [9:53 AM] suspended reason: My impression is Chapman spent the 80s only reading German phenomenology. Not disputing that he reinvents, I dunno the literature, just his bio
 
@@ -162,7 +162,7 @@ The model of hierarchical complexity (MHC) is a framework for scoring how comple
 
 [9:54 AM] snav: that's all im asking
 
-[9:55 AM] beau: i was more referring to the general tendency of the rationalist community to reach for evolutionary arguments; i haven't read sarah perry
+[9:55 AM] beau: i was more referring to the general tendency of the rationalist community to reach for evolutionary arguments; i haven't read [[Sarah Perry]]
 
 [9:55 AM] snav: so that if someone says "what next" he can be like "well i cribbed this piece from Husserl"
 
@@ -217,7 +217,7 @@ Me: what to do next
 
 [9:58 AM] snav: for whatever reason the latter of those never stuck w me
 
-[9:59 AM] suspended reason: that's true what Snav said I like the playfulness of her LiteralBanana act she started doing fully last year
+[9:59 AM] suspended reason: that's true what Snav said I like the playfulness of her [[Sarah Perry|LiteralBanana]] act she started doing fully last year
 
 [9:59 AM] yeetgenstein: Over a year ago
 

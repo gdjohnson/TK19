@@ -254,7 +254,7 @@ _See [[Legibility]] and [[Intelligence as Futures Optimization]], specifically o
 
 Individuals “actively constrain their own behaviours so as to make themselves more easily predictable by other agents.” (Andy Clark, _Surfing Uncertainty_). This is typically referred to as “prosocial” behavior; unpredictable action is usually perceived as hostile or aggressive, which is part of the Asperberger’s stigma (a failure not just to model another mind but to incorporate its model of you into behavior).
 
-Sontag, "[[The Aesthetics of Silence]]," on the power dynamics of asymmetric [[legibility]] or illegibility:
+Sontag, "[["The Aesthetics of Silence"]]," on the power dynamics of asymmetric [[legibility]] or illegibility:
 
 > For a person to become silent is to become opaque for the other; somebody's silence opens up an array of possibilities for interpreting that silence, for imputing speech to it. The ways in which this opaqueness induces anxiety, spiritual vertigo, is the theme of Bergman's _Persona_. The theme is reinforced by the two principal attributions one is invited to make of the actress' deliberate silence. considered as a decision relating to herself, it is apparently the way she has chosen to give form to the wish for ethical purity; but it is also, as behavior, a means of power, a species of sadism, a virtually inviolable position of strength from which to manipulate and confound her nurse-companion, who is charged with the burden of talking. (See also the opacity and reticence [[cool]].)
 

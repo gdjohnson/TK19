@@ -109,7 +109,7 @@ Conrad, "Dolomite: Having No Trust in Readers":
 
 > I want art to stand strong, to display how it manipulates its audience. I want it to take up their expectations, their sense of the world, their predispositions toward the way they think or use their language, and then to use these things perversely, politically, colorfully, "expressively."
 
-Sontag, [[The Aesthetics of Silence]] refers to modern art's "chronic habit of displeasing, provoking, or frustrating its audience."
+Sontag, [["The Aesthetics of Silence"]] refers to modern art's "chronic habit of displeasing, provoking, or frustrating its audience."
 
 ## Malick's moments of breakage
 
@@ -212,3 +212,8 @@ At the phrasal level, predictions are made, for example, as to whether an act of
 ## Essays
 - [2016: Chekhov’s Gun and Red Herrings: Meaning, Rules, and Transgression in Storytelling](https://suspendedreason.com/2016/05/14/chekhovs-gun-and-red-herrings-meaning-rules-and-transgression-in-storytelling/)
 - [Predicting Joyce's "Calypso"](https://suspendedreason.com/2016/11/07/predicting-joyces-calypso/)
+
+# Making moulds, breaking moulds
+
+![[_Speculations_#^0f6dd9]]
+![[_Speculations_#^2d5b7a]]

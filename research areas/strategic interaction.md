@@ -21,7 +21,7 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 - [[Strategy of Conflict]]
 
 ### Sub-entries
--[[Language in Thought and Action#Strategic language]]
+-[[_Language in Thought and Action_#Strategic language]]
 
 ## Further investigations
 

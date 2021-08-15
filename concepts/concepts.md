@@ -11,7 +11,7 @@ Bruce Lee:
 
 > It is conceivable that a long time ago a certain martial artist discovered some partial truth. During his lifetime, the man resisted the temptation to organize this partial truth, although this is a common tendency in a man’s search for security and certainty in life. After his death, his students took “his” hypothesis, “his” postulates and “his” method and turned them into law. Impressive creeds were then invented, solemn reinforcing ceremonies prescribed, rigid philosophy and patterns formulated, and so on, until finally an institution was erected. So what originated as one man’s intuition of some sort of personal fluidity was transformed into solidified, fixed knowledge, complete with organized classified responses presented in a logical order. In so doing, the well-meaning, loyal followers not only made this knowledge a holy shrine but also a tomb in which they buried the founder’s wisdom.
 
-Sarah Perry sees there being a "scientific" and "folk" version of many concepts, from Vitamin C to ego/id/superego to Dunning-Kreuger. But I think this separation misleads: in reality, there are varying levels of technically precise use, and many scientists themselves routinely stretch or amputated (in a Procrustean sense) the finding of a study, or the meaning of a concept, in order to make them more directly applicable to the researcher's own agenda and research interest. 
+[[Sarah Perry]] sees there being a "scientific" and "folk" version of many concepts, from Vitamin C to ego/id/superego to Dunning-Kreuger. But I think this separation misleads: in reality, there are varying levels of technically precise use, and many scientists themselves routinely stretch or amputated (in a Procrustean sense) the finding of a study, or the meaning of a concept, in order to make them more directly applicable to the researcher's own agenda and research interest. 
 
 In popular domains, with something like continental philosophy there's a mechanism where abstract, ambiguous language gets disambiguated through relation to your own experience, that's how you make sense of it—you find a referent to match its reference. So if you've had similarish thoughts or feelings, that Derrida line is gonna scan as describing that thought/feeling, but it might not even be about that.
 
@@ -24,6 +24,10 @@ Aphorism, on the other hand, is fertile ground for projection: there aren't enou
 ## Adaptation vs drift
 
 In linguistics, *drift* is linguistic evolution that occurs via segregation of speakers, with local populations converging on dialects, mutually influencing each other at higher rates than they influence or are influenced by outsiders. *Adaptation*, meanwhile, captures linguistic evolution that results from changing environmental circumstances, which is to say, from new purposes, functions, and ambient objects which need identification, distinguishing, manipulation, and reference.
+
+## Genericizing
+
+![[_Speculations_#^730690]]
 
 ## From folk to scientific concepta
 

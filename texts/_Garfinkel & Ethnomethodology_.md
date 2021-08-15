@@ -12,7 +12,7 @@ Type constructs are applied with the "[[natural attitude]]"—the idea that "as 
 
 > actors do not, in the normal run of events, "consult" that knowledge of types in such a way that, finding for example that a newly observed "Irish Wolfhound" conforms with a knowledge of "typical dogs," they proclaim their knowledge of the latter to be confirmed. This would be to "intellectualize" social actors and indeed to suggest that, like a scientist, they are constantly engaged in testing out the adequacy of their constructs. This is not the case. **Rather, actors simply _see_ objects "in their mode of typicality."** Their "employment" of the constructs is largely unreflecting and pragmatic. Indeed, preoccupied with acting on the world in the "here and now" they cannot afford to reflect on the adequacy of their type constructs and **will only do so if the world starts to run counter to expectations. **
 
-(See also ideas about the role of genres and [[values hierarchy]] in artistic evaluation; debates about language in [[Maggie Nelson]]'s _[[The Argonauts]]_; and the concept of schematic subversion and updating in [[predictive processing]] and [[predictive hermeneutics]].)
+(See also ideas about the role of genres and [[values hierarchy]] in artistic evaluation; debates about language in [[Maggie Nelson]]'s _[[_The Argonauts_]]_; and the concept of schematic subversion and updating in [[predictive processing]] and [[predictive hermeneutics]].)
 
 These type constructs always "abstract from the concrete uniqueness of objects and events and they therefore bear an inherently approximate, adjustable, and '[[genericism|elastic]]' relation to the objects they typify." There is always a great deal of [[ambiguity|gappiness]] to "fill in" as one encounters a particular, and nuances their understanding from the starting point of a type. They may also change their opinion, if enough evidence contradicts their initial assessment, as to what type of thing an object or event in front of them is. 
 
@@ -40,7 +40,7 @@ We must rely on generic typifications for smooth interaction with individuals in
 
 #### Face-to-face interactions
 
-In face-to-face interactions, actors "relate to one another in terms of constructs which are much more familiar, detailed and specific." (See also [[Hotel Concierge]] in [[The Tower]] on nuancing [[typification|stereotype]].) 
+In face-to-face interactions, actors "relate to one another in terms of constructs which are much more familiar, detailed and specific." (See also [[Hotel Concierge]] in [["The Tower"]] on nuancing [[typification|stereotype]].) 
 
 > Moreover these constructs are varyingly infused with the sedimented emotional clourings which derive from the actors' biographical experience... [T]he other's actions are interpreted in the light of gestures, mannerisms, bodily comportment and facial expressions—all of which are treated as [[metonyms|indications]] of subjectively meaningful processes.
 

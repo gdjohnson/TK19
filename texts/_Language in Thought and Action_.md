@@ -45,7 +45,7 @@ Still, some language is more judgmental than other language:
 Many sciences are founded on the "data" of reports, but consist primarily of inference:
 > a geologist may use the facts from a report to advise an oil company whether or not to drill in a particular place. The geologist infers from the report that there is oil. A physician making an initial diagnosis examines a patient's symptoms, then makes an inference about an intestinal condition that cannot be seen.
 
-Inference is the reverse of symbolism—the _unpacking_ of symbolic compressions. Part extrapolated to whole, after whole has been summarized by part.
+Inference is the reverse of symbolism—the attempt to unpack suspected metonyms. Part extrapolated to whole, after whole has been summarized by part.
 > We may infer from the material and cut of a woman's clothes the nature of her wealth or social position; we may infer from the character of the ruins the origin of the fire that destroyed the building; we may infer the nature of the Soviet Union's geopolitical strategy from its actions across the globe; we may infer from the shape of land the path of a prehistoric glacier; we may infer from a halo on an unexposed photographic plate that is has been in the vicinity of radioactive materials.
 
 Typecasting and categorization are forms of prediction:
@@ -152,7 +152,7 @@ Some of our directive utterances are "accompanied by ritual," and a collective s
 # On typification
 
 Quoting T. E. Hulme:
-> Everybody is familiar with the fact that the ordinary man does not see things as they are, but only sees certain fixed types... Mr. Walter Sickert is in the habit of telling his pupils that they are unable to draw any individual arm because they think of it as an arm; and because they think of it as an arm they think they know what it ought to be.
+![[_Speculations_#^add447]]
 
 This typifying behavior, which is part of the [[natural attitude]], must have attention drawn to it if we wish to break free:
 > If our ideas and beliefs are held with an awareness of abstracting, they can be changed if found to be inadequate or erroneous. But if they are held without an awareness of abstracting—if our mental maps are believed _to be the territory_—they are prejudices.

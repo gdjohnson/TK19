@@ -1,4 +1,4 @@
 # Entries
-- [[Language in Thought and Action]]
+- [[_Language in Thought and Action_]]
 - [[Alfred Korzybski]]
 - [[LessWrong]]

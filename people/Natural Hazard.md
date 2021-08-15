@@ -1,2 +1,2 @@
 # Texts
-- [[Intuitionistic Type (Of Guy) Theory]]
+- [["Intuitionistic Type of Guy Theory"]]

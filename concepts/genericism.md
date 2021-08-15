@@ -85,7 +85,7 @@ Of course, all art is instrumental to self-knowledge, though it seems worth dist
 
 Notes:
 
-This essay owes an obvious debt to Sarah Perry's ["Beauty Is Fit,"](https://carcinisation.com/2014/08/11/beauty-is-fit/) at least as far as its borrowing of terminology goes. How and where concepts of generic fitness overlap with Perry's timeless vs. ephemeral beauty is left up to the reader.
+This essay owes an obvious debt to [[Sarah Perry]]'s ["Beauty Is Fit,"](https://carcinisation.com/2014/08/11/beauty-is-fit/) at least as far as its borrowing of terminology goes. How and where concepts of generic fitness overlap with Perry's timeless vs. ephemeral beauty is left up to the reader.
 
 Endnotes:
 

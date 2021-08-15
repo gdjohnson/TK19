@@ -2,7 +2,7 @@
 
 > For example, the case—surely not unfamiliar to this audience—of the discontented faculty member in an academic institution headed by a tradition-bound executive. Agrieved about a long-standing policy around which astrong vested interest has developed, the professor resolves in the privacy of his office to launch an attack upon the policy at the next faculty meeting. But, when the moment of truth is at hand, he sits frozen in silence. Why? Among the many possible reasons, one or more of these: could have been of crucial importance: (a) the professor was fearful that his intended action would be interpreted as an expression of his disloyalty to the institution; or (b) he decidcd that, given the beliefs and attitudes of his colleagues on the faculty, he would almost certainly constitute on this issue a minority of one; or c) he concluded that, given the nature of the law-making process in the institution, his proposed remedies would be pigeonholed permanently. But whatever the case, the central point to be made is the same: __to the extent that a person or group-consciously or unconsciously creates or reinforces barriers to the public airing of policy conflicts, that person or group has power__. Or, as Professor Schattschneider has so admirably put it: "All forms of political organization have a bias in favor of the exploitation of some kinds of conflict and the suppression of others because organization is the mobilization of bias. Some issues are organized  into politics while others are organized out."
 
-## Jackall 1998: [[Moral Mazes]]
+## Jackall 1998: [[_Moral Mazes_]]
 
 _See also the entry on [[Institutionality]]._
 

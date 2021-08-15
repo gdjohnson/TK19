@@ -34,7 +34,7 @@ The best way to understand metonyms may be via [[information theory]] and poster
 
 > Pointing, Goodwin says, is not “a simple way of indicating some prelinguistic ‘thing’ in the surround,” but a complex act of communication that utilizes mutual mental modeling and often language.
 
-Pointers rely on convention, context, grounding (the immediate environment). If any of these things changed, the [[indexical]] is untethered!
+Pointers rely on convention, context, grounding (the immediate environment). If any of these things changed, the [[indexicality|indexical]] is untethered!
 
 # [[Erving Goffman|Goffman]] 1969: "Expression Games" 
 
