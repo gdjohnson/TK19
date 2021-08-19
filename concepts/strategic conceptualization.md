@@ -22,3 +22,8 @@ Therefore, there are two sides to the coin of gaming a decision-rule: [[signalin
 
 ### [[Alexander Dumas|Dumas]] 1844: The Count of Monte Cristo
 ![[_The Count of Monte Cristo_#^fd6f3d]]
+
+### [[Noah Baumbach]] 2019: Marriage Story
+
+![[Strategic Conceptualization Marriage Story.pdf]]
+![[Strategic Conceptualization Marriage Story pt 2.pdf]]

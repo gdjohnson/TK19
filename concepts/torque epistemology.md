@@ -180,3 +180,69 @@ Mike Caulfield 2015, "The [[Garden]] and the Stream: A Technopastoral":
 
 > In many ways the Stream is best seen through the lens of Bakhtin’s idea of the utterance. Bakhtin saw the utterance, the conversational turn of speech, as inextricably tied to context. To understand a statement you must go back to things before, you must find out what it was replying to, you must know the person who wrote it and their speech context. To understand your statement I must reconstruct your entire stream.
 > Whereas the [[garden]] is integrative, the Stream is self-assertive. It’s persuasion, it’s argument, it’s advocacy. It’s personal and personalized and immediate. It’s invigorating. And as we may see in a minute it’s also profoundly unsuited to some of the uses we put it to.
+
+# Transcript
+
+210817
+
+[12:25 PM] suspended reason: :torque: epistemology compressed: "In every statement of self-expression lies a smouldering reaction."
+[12:41 PM] Neil: I like that framing - I think what that highlights is that it's sometimes a function of language. Actually - would you say you think of :torque: as primarily:
+1) a function of how expressing statements works
+2) an unconscious social strategy
+3) a conscious social strategy
+[12:42 PM] Neil: For that matter, is there an OG :torque: post? I was trying to find one a while back, I know there's a podcast episode but I'm auditorily-challenged
+[2:56 PM] suspended reason: Hmmm good Q
+[2:56 PM] suspended reason: I don't think of it as inherently linguistic, or a formal feature of language. I do think of it as psychological.
+[2:56 PM] suspended reason: I would say (2)
+[2:57 PM] suspended reason: There is also a bit of an information theoretic thing happening—where to "distinguish" yourself as individual necessarily means pointing out difference from the [assumed in-group], and certain continuities with larger human experience isn't worth pointing out
+[2:58 PM] suspended reason: There are... a couple. It's gone through some variations in how we've thought about it
+[2:59 PM] suspended reason: I wrote an essay "Discursive Games, Discursive Warfare" that makes the argument through Bourdieu + Latour that our arguments are inherently reactionary and inherently "political" insofar as they're attempts to "twist" or change the current hegemonic opinion we believe we are "correcting": https://theinexactsciences.github.io/docs/Discursive%20Games,%20Discursive%20Warfare.pdf
+[3:00 PM] suspended reason: Where the emphasis is on how people's public/verbal beliefs are quasi-dialectically situated in a "discursive game" and its "game state" at a given moment, and that when they state these beliefs, they are stated against whichever "dominant" ideology the speaker perceives themselves as embedded within.
+[3:01 PM] suspended reason: When two players with different diagnoses of dominant ideology butt up against each other, then even if in they would implement similar policies, at a nitty gritty detail level, in a vacuum in practice, one might "round up" against his perceived dominant belief, while the other "rounds down"
+[3:03 PM] suspended reason: e.g. if I put forward the take "Barthes is Bad" there's an implicit "Actually" before the "Bad"; I'm basically claiming "Barthes is overrated"—and if I existed in a subculture that constantly trashed Barthes, I might say "Barthes is actually good" even if I held the same opinion of Barthes
+[3:04 PM] suspended reason: Sorry this was super long-winded. Anyway, I tried my hand recently at a different compression which is much shorter and uses "leverage" and "pricing" metaphors to talk about how public beliefs are strategic interventions—https://suspendedreason.com/2021/08/04/positional-pricing-positional-leverage/
+[3:06 PM] suspended reason: Some server members (eyeing Hazard rn) are not fans of the "torque epistemology" handle, think it isn't intuitive/clear as a metaphor. So "positional leverage" is another way of saying it, tho I think "pos lev" implies a slightly simpler claim, that people extremize their publicly advocated beliefs in order to gain leverage. This is true but only part of the picture
+[3:09 PM] suspended reason: I should read more about stocks, because I have a feeling that there's a rich metaphor at hand about the way bubbles form around ideas, which become "overpriced" (they get used for an explanatory basis more often than they deserve) which creates opportunities for others to "short" them by arguing the opposite ("trauma culture is bad for mental health"; "all statements are either falsifiable or nonsense")
+[3:34 PM] Neil: I really like this, I want to say because it identifies a condition of communication without presuming some framework of value
+[3:34 PM] Neil: Like, this is how it “feels” as an actor
+[3:35 PM] Neil: Whereas the positional leverage framing might be correct from the POV of an idea, where it “wants” (evolutionarily) to propagate
+[3:51 PM] suspended reason: Yeah, I mean, that's an interesting thought, that many of our value judgments are not "is X" or "isn't X," where we're actually arguing about whether X's properties apply, but "is more X than typically thought" and "is less X than typically thought"
+[3:51 PM] suspended reason: That we're essentially grounding our value judgments against community members' esteem
+[3:52 PM] suspended reason: I've always been dissatisfied with these frames, so definitely appreciate thoughts, and if you ever choose to write up these thoughts into a longer or more formal response, I'd be very curious
+[3:52 PM] suspended reason: What you say about the POV of the idea vs the actor, and how we ground value, feels very important and true
+[3:56 PM] Natural Hazard: Torque semantics! This Convo made me realize it was the Epistemology part of "torque epistemology" that felt most wrong. Because it's not about how you decide what is true, it's about what do you even mean when you say "Barnes is Bad"?
+[4:00 PM] Natural Hazard: torque semantics, positional semantics, leverage semantics, all of these are way more paletable to me now that the focus is on the thing as a pattern in how people mean
+[4:36 PM] suspended reason: Yes, it's definitely at least partly linguistic insofar as qualities we use are typically so vague that they get grounded in popular opinion
+[4:36 PM] suspended reason: "are people rational?"
+[4:36 PM] suspended reason: "Do people care about future mental states?"
+[4:36 PM] suspended reason: "are people fundamentally good or evil?"
+[4:38 PM] suspended reason: So you have a rational man, homo economicus view that floats around for a while, and this general assumption of rationality—which was never extremist, which ALWAYS would've ceded that there are pockets of irrationality and error and confusion and superstition—this general assumption creates a hot take  opportunity in "actually, they're not!"
+[4:39 PM] suspended reason: Behavioral econ and their bias concept becomes a new orthodoxy, people are like, actually! Humans are irrational!
+[4:39 PM] suspended reason: Which allows Gigerenzer and Taleb to come in and say, Actually, these purported biases are rational, we will call them "heuristics"
+[4:40 PM] suspended reason: One question is to what extent this rounding up vs down ping pong game happens under the hood in scholarship vs in popular coverage and historical frameworks
+[4:41 PM] suspended reason: Another question is whether these things are largely symbolic, and the actual field's methodological approach doesn't change dramatically despite new philosophical regimes
+[4:42 PM] suspended reason: It is sorta how politics works right? Things get binarized but in practice even pro lifers are more lenient than their partyline and pro choicers a little less blase about taking the fetal life
+[4:43 PM] suspended reason: Maybe I'm just describing "politicization"
+[4:46 PM] suspended reason: Ok here is why I think the strategic and the linguistic explanation are actually the same explanation: the whole point of voicing a public belief or value judgment is to either gain points for yourself or to try to influence group decisions. So to say something is "bad"—yeah, you're defining bad against what your audience thinks some vague Other thinks, but the vagueness isnt a problem because having a concrete, "allocentric" description of "how bad" was never the point; the point was political, so the words are defined politically
+[4:49 PM] suspended reason: Its not, "when clear boundaries can't be established intersubjectively, we define our judgments socially" but "there never were clear boundaries; meaning is always defined socially"
+[4:49 PM] suspended reason: Not sure if I'm making any sense rn
+[5:03 PM] Natural Hazard: Riffing off this, most communication doesn't have any "metadata" about how stable the intersubjective terrain is in which places. So like, the positioning of your judgements socially could be very indexical (not even in response to a school of thought, just in response to a dude on a forum you happen to argue with a lot)
+[6:27 PM] suspended reason: Yeah exactly exactly
+[6:28 PM] suspended reason: We have highly private patterns that we attach to words and then treat as if they're functionally describing the same patterns as everyone else has in their head
+[6:29 PM] suspended reason: "Communists are like X" 
+"Totally bro"
+Boy 1 and Boy 2 fistbump even though they mean wildly different things
+[11:14 PM] suspended reason: What do you think Crispers
+[11:14 PM] suspended reason: Crispy crispers
+[11:14 PM] suspended reason: The crispiest
+[11:14 PM] suspended reason: @crispy_chicken
+[1:37 AM] crispy_chicken: yeah, I agree with @Neil's description about how these metaphors apply
+[1:37 AM] crispy_chicken: and I think the point of a lot of it basically being information theory, that you bring-up is important too—because we couldn't stop doing this if we "tried", it's actually unclear what it would mean to try
+[1:38 AM] crispy_chicken: if I say "Barthes sucks" and we try to distance ourselves from :torque:  we don't know how to interpret it, we ask: "In comparison to what?"
+[1:38 AM] crispy_chicken: the natural answer that has emergently arisen through language is "in comparison with what you thought before I said that"
+[1:41 AM] crispy_chicken: people can say "oh, but we can't know what the other person thinks!" except every conversation ever relies on you having a vague idea what the other person thinks, and when it comes to value judgements this is especially true because value isn't palpable so we have no recourse to measurement except in what people are willing to do because of value. this is the origin of the "then why don't you marry Barthes, if you love him so much?" meme: our only way of quantifying value is through action, but actions are diverse and only in the absurd can we agree something was "too much"
+[1:41 AM] crispy_chicken: still trying to wrap my head around the POV of the idea, but it's a really interesting thought
+[1:43 AM] crispy_chicken: I suppose what it makes me think is that the idea is essentially "swimming through currents" and that some currents are easy to ride one way, but take you to another current that pushes you back. This happens with stocks: they generally over-shoot when something good happens, and then stabilize back to normal—unless there's a lot of fuss about overpricing and then they can talk "unfairly"; except, no one knows exactly what fair is in the first place because stocks are the pricing mechanism
+[1:44 AM] crispy_chicken: So similarly an idea wants to propagate, but it can propagate too much without giving way to a good foundation for people keeping it propagating, and receive pushback for being "fad"
+[1:45 AM] crispy_chicken: The interesting part is the landscape of what stops something from being pushed-back against. There are many causes of putting down memetic roots, but  a very common one is that it's the foundational aspect of something new that is now up-and-coming
+[1:45 AM] crispy_chicken: Zoom stock won't plummet unless something weird happens, because people expect there to be new features/uses/applications of Zoom, so it's the foundation of an expected memetic wave

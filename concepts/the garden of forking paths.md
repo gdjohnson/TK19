@@ -105,3 +105,9 @@ Individuation, following Simondon, is the process of making choices, committing 
 # Empowerment
 
 See [[Keeping Upwind]] entry.
+
+**Twitter 210817**
+[[Suspended Reason]] @suspendedreason
+> Palm Spring’s a pretty meh film, but it's useful for making explicit the viewer desires which its (Groundhog Day/time loop) genre thrives on: a fantasy of agency, the mastery of everyday life that comes from full information, from experience with all possible hypotheticals.
+> The whole "wheel of dharma" thing is a metaphysical cover for the real mechanics of these movies—which is to put training wheels on everyday living, for all the poor souls who feel in over their head.
+> And fair enough: the garden of forking paths is brutal; it's easy to feel like you're getting pushed through forks by inertia and history, instead of deciding for real.

@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4980d2fa193372fa",
+        "id": "9e098c69d02acf2b",
         "type": "leaf",
-        "dimension": 47.56410256410256,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/Sarah Perry.md",
+            "file": "\"Who Wants To Play The Status Game?\"\".md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "9e098c69d02acf2b",
+        "id": "ea187f2f62cee3aa",
         "type": "leaf",
-        "dimension": 52.43589743589744,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/indexicality.md",
+            "file": "concepts/everyday interaction.md",
             "mode": "source"
           }
         }
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "impression games",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Sarah Perry.md",
+                "file": "\"Who Wants To Play The Status Game?\"\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Sarah Perry.md",
+                "file": "\"Who Wants To Play The Status Game?\"\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Sarah Perry.md"
+                "file": "\"Who Wants To Play The Status Game?\"\".md"
               }
             }
           }
@@ -121,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4980d2fa193372fa",
+  "active": "9e098c69d02acf2b",
   "lastOpenFiles": [
-    "people/Sarah Perry.md",
-    "fiction.md",
-    "texts/\"Reading 'Ignorance, A Skilled Practice'\".md",
-    "concepts/indexicality.md",
-    "research areas/meaning.md",
-    "concepts/linguistic conquests.md",
-    "Untitled.md",
-    "concepts/divide-and-conquer.md",
-    "concepts/conceptual engineering.md",
-    "concepts/against psychology.md"
+    "\"Who Wants To Play The Status Game?\"\".md",
+    "concepts/value clarity.md",
+    "concepts/everyday interaction.md",
+    "people/Untitled.md",
+    "concepts/strategic conceptualization.md",
+    "concepts/torque epistemology.md",
+    "concepts/the garden of forking paths.md",
+    "stigmergy.md",
+    "concepts/decision rules.md",
+    "Untitled.md"
   ]
 }

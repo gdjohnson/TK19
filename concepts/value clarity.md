@@ -46,3 +46,7 @@ We can argue a kind of quantified value clarity underlies the appeal of money-or
 > An article I read haunted me. The piece had reported Schwarzenegger's happiness in signing a new movie contract. In it, Arnold said, "Arnold is back where he belongs, on top." I longed for that conviction, the ease and peace of mind that would come from the simplistic belief that there is a top and a bottom in this world. Top and bottom, black and white, good and evil, positive and negative, big and small, I retreated into the narrow world of dichotomy. I no longer had questions, only solutions, and they all pointed to the weight room.
 
 > I became a bodybuilder as a means of becoming a caricature. The inflated cartoon I became relieved me from the responsibility of being human. 
+
+# Callard 2020: Who Wants to Play The Status Game
+
+![["Who Wants To Play The Status Game?""#^f50272]]
