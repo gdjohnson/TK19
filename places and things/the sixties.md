@@ -47,7 +47,7 @@ De Landa:
 
 ## Paglia 1992: Sexual Personae The Cancelled Preface
 
-> The trauma of the Sixties persuaded me that my generation's egalitarianism was a sentimental error. I now see the hierarchical as both beautiful and necessary. Efficiency liberates; egalitarianism tangles, delays, blocks, deadens.
+![[_Sexual Personae_#^6bdff0]]
 
 ## Kael 1974: The Current Cinema
 

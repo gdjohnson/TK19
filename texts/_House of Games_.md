@@ -50,6 +50,8 @@ She unbuttons her blouse (strategy).
 
 The con men have to exit at the end—leave the city, cut off contact with her—because of how hard it is to live longterm lies, practice longterm deception—it's just too constraining to maintain dissimulation/radically false [[opticratics|optics]]. ^5b8c83
 
+![[framing#^67d9b4]]
+
 He doesn't believe that she'll shoot him, so she nods toward her biography—"a little adventure would be nice"—to back up her status as a wildcard. She knows she can use it to back up her claim because that biographical feature is the basis by which they've designed a con on her—in other words, they know it's true because it "works."
 
 The gun breaks the pattern of the entire movie, which is the ongoing manipulation of symbolic capital, tokens, representations—the transfer and excahnge of money/words/informations/beliefs. It's the first "real" thing, the first interruption of simulacra.

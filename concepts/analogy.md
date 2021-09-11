@@ -1,5 +1,10 @@
 _The drive toward the formation of metaphors is the fundamental human drive._ ([[Friedrich Nietzsche|Nietzsche]], "On Truth & Lies")
 
+Because no two things are exactly alike, not even the same thing over time, to draw a metaphor—this is like that, this _is_ that—is to categorize, to say "these things are alike in given ways, and I will overlook their difference, here, in favor of their similarity." In some sense, all we have, in the realm of the [[inexact sciences]], is metaphor—we can categorize, or create new categories, or redefine categories, but we are always saying _this is like that_, _these things share properties which are salient to our purposes_. 
+
+[[Andrea Long Chu]] writes on [[Maggie Nelson]]'s _Freedom_:
+> You see the problem with this kind of argumentation: False equivalences abound, on both sides, and the question devolves into not just which equivalences are false but which false equivalences are, as it were, falser than others. Is racism like art? Art like climate change? An open letter like the police? Nelson writes, “Acting as if the world neatly divides … into problematic, ethically turbulent, essentially dangerous people who should stay ‘over there,’ and nonproblematic, ethically good, essentially safe people who should be allowed to stay ‘over here’ is not our only option. After all, what I’ve just described is a prison.” So which is worse, you tell me — a protester calling _Scaffold_ a “slap in the face” or Maggie Nelson comparing that rhetoric to incarceration?
+
 # Analogy as the core of cognition
 
 Each analogy casts light on a part of the whole; the many-headed quality of the phenomenon is seen in its reflection on many-angled mirrors. To say "science is politics; politics is war" is to say that there is something of politics in science, and of war in politics. The "is," while technically an equivalent, is in error or a shorthand for "is in part."
@@ -61,6 +66,8 @@ Q1: How universal are some of these analogic extensions? Hofstadter asks as well
 # Lakoff 1993: The Contemporary Theory of Metaphor
 
 [PDF Link](/Lakoff1993.pdf)
+
+Lakoff believes conceptual metaphors are physically instantiated through neural connections between areas in the brain that light up simultaneously, e.g. affection and warmth regularly co-occurring creates a connection.
 
 # Agre 1985: Structure of Everyday Life
 

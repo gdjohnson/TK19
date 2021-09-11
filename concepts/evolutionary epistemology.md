@@ -1,0 +1,1 @@
+Evolutionary epistemology, simplified: A pragmatic agent would end up having good predictors because otherwise it wouldn’t survive.

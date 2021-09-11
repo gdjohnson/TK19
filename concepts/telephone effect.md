@@ -43,6 +43,9 @@ Often, the public need not be involved; as Clarak Burke writes, "as Bourdieu is 
 
 > the books popularity became both a blessing and a curse. His ideas got caricaturized in popular culture, and broad swaths of folks in academia began looking at him suspiciously. Indeed, he is rarely even mentioned today, or his work seriously engaged with. But historian Rupert Wilkerson provides a corrective to the record on his importance
 
+Michael Pollan on _The Secret Life of Plants_, New Yorker:
+> In the ensuing years, several legitimate plant scientists tried to reproduce the “Backster effect” without success. Much of the science in “The Secret Life of Plants” has been discredited. But the book had made its mark on the culture. Americans began talking to their plants and playing Mozart for them, and no doubt many still do. This might seem harmless enough ...But in the view of many plant scientists “The Secret Life of Plants” has done lasting damage to their field. According to Daniel Chamovitz, an Israeli biologist who is the author of the recent book “What a Plant Knows,” Tompkins and Bird “stymied important research on plant behavior as scientists became wary of any studies that hinted at parallels between animal senses and plant senses.” Others contend that “The Secret Life of Plants” led to “self-censorship” among researchers seeking to explore the “possible homologies between neurobiology and phytobiology”; that is, the possibility that plants are much more intelligent and much more like us than most people think—capable of cognition, communication, information processing, computation, learning, and memory.
+
 # Precedents
 
 Susan Haack, _New Criterion_ 1997:

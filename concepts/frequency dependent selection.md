@@ -1,0 +1,3 @@
+---
+aliases: frequency-dependent selection
+---

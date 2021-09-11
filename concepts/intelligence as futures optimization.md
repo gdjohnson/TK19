@@ -50,4 +50,4 @@ We constantly want to do things that rely on predicting the behaviors of others.
 
 Human beings communicate & coordinate by self-legibilizing. The self-representation of properties that are predictive of the future is key to stabilizing this dynamic (and often recursive) mutual-modeling process, which is the essence of social dynamics.
 
-
+![[_The Social Construction of Reality_#Typification and mutual prediction]]

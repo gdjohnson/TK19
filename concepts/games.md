@@ -108,3 +108,11 @@ In these social games, there are typically “evaluated” and “evaluator” r
 This paper, “[[surrogation]],” brought us, finally, to the divide between a game’s spirit and its letter. Many incentive structures become perverse, and many laws become unjust, precisely because of how difficult it is to specify the spirit of a game—the intended way that players ought to participate, or ought to _avoid_ behaving as—in concrete, literal law. In gaming communities, both of board and video games, the tendency for players to exploit the poorly written “letter” of games is called “degenerate play.” We explore these game dynamics in our short piece “Spirit vs. Games,” beginning with the lessons of King Midas, who underspecified his desire for gold and was cursed by this failure. The underspecification problem, of course, is one of the most notorious in artificial intelligence, and will require a much deeper understanding of how formal representations of reality—for instance, language—are interpreted and “signify” in different contexts and by different players.
 
 In other words, we believe that for many of our most crucial problems—from artificial intelligence to economics to law—it is language—and our failure to understand language in all its complexity—which holds us back. Linguistic meaning may seem a narrow problem at first—an issue best relegated to literary theorists, perhaps. But we believe that it is the most widespread instance of a larger class of representation problems which are fundamental to all coordination between entities.
+
+# Bourdieu
+
+## Is a Distinterested Act Possible?
+
+> Illusio is the fact of being caught up in and by the game, of believing the game is "worth the candle," or more simply, that playing is worth the effort. In fact, the word interest initially meant very precisely what I include under the notion of illusio, that is, the fact of attributing importance to a social game, the fact that what happens matters to those who are engaged in it, who are in the game... it is to recognize the game and to recognize its stakes.
+> 
+> Social games are games that are forgotten qua games, and the illusio is the enchanted relation to a game that is the product of a relation of ontological complicity between mental structures and the objective structures of social space.

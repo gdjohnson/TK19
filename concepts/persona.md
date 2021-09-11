@@ -1,4 +1,10 @@
+---
+aliases: mask
+---
+
 _See also [[opticratics]]._
+
+The Internet epoch, we learn, is the Golden Age of masks. ([[Nick Land]])
 
 ## Sontag 1966: Against Interpretation
 
@@ -6,11 +12,9 @@ _See also [[opticratics]]._
 
 ## Paglia 1992: Sexual Personae's Cancelled Preface
 
-> _Persona_ is the Latin word for the clay or wooden mask worn by actors in Greek and Roman theater. Its root is probably _personare_, "to sound through or resound": the mask was a kind of megaphone, projecting the voice to the farthest tiers of spectators. Over time, _persona_ broaded in meaning to include the actor's role and then a social role or public function. Finally, it defined an individual under Roman law, as a citizen with rights and duties. We retain this sense in reverse in our "nonperson" a political victim. By late Latin, _persona_ became a person as we now understand it, a human being apart from his social status. Vico economically fuses the early theatrical and later legal meanings of _persona_ when he says of the Roman _paterfamilias_, "Under the person or mask of the father of the family were concealed all his children and servants." 
-
-> Western personality thus originates in the idea of mask. Society is the place of masks, a ritual theater. Persona's artistic origins were recovered by modernism and the [[New Criticisim]], which stripped the text of biographical baggage. For the New Critics, a writer never speaks for himself but only through an assumed persona, a mask. Following World War Two, the classroom set piece was Jonathan Swift's _A Modest Proposal_, where a self-absorbed voice, airily proposing the cannibalistic farming of Irish infants, is the butt of the author's satire. [[knowingness|Irony]] and game-playing are central to this view of literature and life. The New Critical persona was indebted to Jung, who sees a split between our inner and ouer selves, an authentic psychic reality versus the mask conforming to social expectation. Popularized Jungianism, especially in its American feminist form, has become increasingly Rousseauist; that is, it tends to view society as automatically restrictve or oppresive instead of educative or civilizing.
-
-> [_Sexual Personae_'s] title was inspired by a film, Ingmar Begman's _Persona_. When I saw it at its American release (in January 1968), it seemed to crystallize the reflections of my college years, which led to the thesis of _Sexual Personae_: that the high development of personality in the West has produced a perverse sexual problematics unique in world culture.
+![[_Sexual Personae_#^6d83ae]]
+![[_Sexual Personae_#^68ab72]]
+![[_Sexual Personae_#^228a4d]]
 
 ## Thomas McEvilley on the Rubin primitivism show 1984, quoted in Malcolm 1986: A Girl of the Zeitgeist
 

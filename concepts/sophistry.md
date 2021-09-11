@@ -2,7 +2,7 @@ _See also [[Protagoras]] entry._
 
 Sophists were tutors in the 5th century BCE Athens who offered educations to wealthy, aristocratic Greek men. These educations varied, but typically included instruction on rhetoric and virtue (_arete_).
 
-With the writings of Herodotus, and increasing travel and trade, Greece became, in the time of the Sophists, much more cosmopolitan. This opened up a diminishing belief in the "naturalness" of their society, and an increasing suspicion that their customs and laws were fundamentally _conventional_. The division between physis (nature) and nomos (custom) would become a crucial one for the Sophists. Antiphon, for instance, theorized that conventions are designed to limit our natural passions for the social good; Callicles, meanwhile, cast convention and justice as a kind of "slave morality," the revenge and constraint by the many of the few.
+With the writings of Herodotus, and increasing travel and trade, Greece became, in the time of the Sophists, much more cosmopolitan. This opened up a diminishing belief in the "naturalness" of their society, and an increasing suspicion that their customs and laws were fundamentally _conventional_. The division between physis (nature) and nomos (custom) would become a crucial one for the Sophists. Antiphon, for instance, theorized that conventions are designed to limit our natural passions for the social good; Callicles, meanwhile, cast convention and justice as a kind of "[[slave morality]]," the revenge and constraint by the many of the few.
 
 # Etymology
 

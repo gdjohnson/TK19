@@ -1,6 +1,6 @@
 # on David Chapman and reinventing the wheel
 
-_Tags: [[David Chapman]], [[postrationalism]], [[Hegel]], [[information logistics]]._
+_Tags: [[David Chapman]], [[postrationalism]], [[Hegel]], [[knowledge logistics]]._
 
 [8:04 AM] snav: Chapman is a great example of who i had in mind in the thread
 

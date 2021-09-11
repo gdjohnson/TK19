@@ -1,3 +1,5 @@
+Rowe 2017: " [[pragmatism|Pragmatist]] [[habit]] is, like habitus, an unconscious pattern of embodied dispositions."
+
 # The linguistic habitus
 
 ## [[Pierre Bourdieu|Bourdieu]] 1991: Language & Symbolic Power

@@ -1,8 +1,8 @@
 _In light of the ongoing replication crisis, findings mentioned here should not be taken for granted as well-founded or up-to-date._
 
-*Paglia 1992: Sexual Personae's Cancelled Preface*
+Paglia 1992: Sexual Personae's Cancelled Preface:
+![[_Sexual Personae_#^c1cda8]]
 
-> Science has barely begun to chart the complexities of our multiple hormone systems, which intricately interact and alter us physically and psychologically hour by hour. Hormones are our link to pagan nature.
 
 # Testosterone
 

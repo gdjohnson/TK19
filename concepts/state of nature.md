@@ -1,6 +1,5 @@
-## Paglia 1992: Sexual Personae's Cancelled Preface
 
-> Western personality thus originates in the idea of mask. Society is the place of masks, a ritual theater. Persona's artistic origins were recovered by modernism and the [[New Criticisim]], which stripped the text of biographical baggage. For the New Critics, a writer never speaks for himself but only through an assumed persona, a mask. Following World War Two, the classroom set piece was Jonathan Swift's _A Modest Proposal_, where a self-absorbed voice, airily proposing the cannibalistic farming of Irish infants, is the butt of the author's satire. [[knowingness|Irony]] and game-playing are central to this view of literature and life. The New Critical persona was indebted to Jung, who sees a split between our inner and ouer selves, an authentic psychic reality versus the mask conforming to social expectation. Popularized Jungianism, especially in its American feminist form, has become increasingly Rousseauist; that is, it tends to view society as automatically restrictve or oppresive instead of educative or civilizing.
+![[_Sexual Personae_#^68ab72]]
 
 ## T. [[Tanner Greer|Greer]] 2020: On Sparks Before the Prairie Fire
 

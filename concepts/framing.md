@@ -13,6 +13,11 @@ See also [[conceptual art]] entry, [[analogy]] entry (since much of framing, esp
 
 # Goffman 1974: Frame Analysis, An Essay on the Organization of Experience
 
+# Rosenberg 1975: NYT Review of Frame Analysis
+
+> Fortunately—for our sanity, the exploitative manipulation of framing conventions is both dangerous to practice and difficult to maintain. Dangerous because the manipulator is in a peculiarly vulnerable position. If his misframing is discovered in time, the intended victim can turn the tables on. ‘him simply by going along with the game, accepting his version of reality at face value. This is what people do when they go to land‐rush dinners to get the free meal. And difficult because in most cases as soon as the manipulator gets what he wants, the frame he attempted to establish is discredited. “The Sting” was so much fun because Newman's and Redford's misframing not only succeeded but was never exposed. Anyone who saw the movie, though, will have a reasonably good idea of how rare such durable misframings are. In most cases, the victim will retrospectively reframe the entire situation; in our night club example, that is, he not only will recognize that the evening ended up in a sale, but also will come to feel that it was a sales pitch "all along"
+
+^67d9b4
 
 # TIS Transcript 210709
 

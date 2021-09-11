@@ -184,3 +184,27 @@ Quoting P.W. Bridgman:
 > Many semantic problems are, ultimately, problems of classification and nomenclature. Take, for example, the extensive debate over abortion. To opponents of legalized abortion, the unborn entity within a woman's womb is a "baby." Because abortion foes _want_ to end abortion, they insist that the "baby" is a human being with its own legal rights and that therefore "abortion is murder." They call themselves "pro-life" to emphasize their position. Those who _want_ individual women to be able to choose whether or not to end a pregnancy call that same unborn entity a "fetus" and insist that the "fetus" _is not_ a viable human being capable of living on its own, and claim that a woman has a "right" to make such a choice. Partisans of either side have accused the other of "perverting the meanings of words" and of "not being able to understand plain English." [...] When the desired [Supreme Court] decision is handed down, people will say, "Truth has triumphed." Society, in short, regards as "true" those systems of classification that produce the desired results.
 
 ^ebeb00
+
+# Korzybski's abstraction ladder
+
+To Korzybski, abstraction is directly opposed to specification. We climb the abstraction ladder from "Bessie the cow" to "cow" to "livestock" to "farm asset" to "asset" to "capital."
+
+Individuals converse at different levels of abstraction, leading to communication breakdowns. Hayakawa quoting [[Wendell Johnson]], _People In Quandaries_:
+> The low-level speaker frustrates you because he leaves you with no direction as to what to do with the basketful of information he has given you. The high-level speaker frustrates you because he simply doesn't tell you what he is talking about.
+
+^377d53
+
+Hayakawa:
+> interesting speech, as well as clear thinking and psychological well-being, require th constant interplay of verbal levels with the nonverbal ("object") levels. In science, this interplay goes on constantly, hypotheses being checked against observations, predictictions against extensional results.
+
+^6e9404
+
+> The work of good novelists and poets also represents this constant interplay between higher and lower levels of abstraction. A "significant" novelist or poet is one whose message has a high level of _general_ usefulness in persuasiveness through an ability to observe and describe actual social situations and states of mind. A memorable literary character, such as Sinclair Lewis's George F. Babbitt, has _descriptive_ validity (at a low level of abstraction) as the picture of an individual, as well as a _general_ valididty as a picture of a "typical" American businessman of his time. [See also [[compression]] and [[inexact sciences]] entries.]
+
+^937ce4
+
+These abstraction levels often go from what Hayakawa calls "report" to "inference" to "judgment":
+
+> Report: "May Smith didn't get in until three last Saturday night."
+> Inference: "I bet she was out fooling around!"
+> Judgment: "She's a tramp. I never did like her looks. I knew it the moment I first laid eyes on her."

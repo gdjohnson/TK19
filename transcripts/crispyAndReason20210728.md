@@ -6,7 +6,7 @@ alias: unit of survival, unit of desire, unit of goal
 
 Why do frames like “selection games” or “four styles of play” matter?
 
--   We need the language to talk about it. We need references to agree upon so we can coordinate around them, subject them to evolutionary epistemology.
+-   We need the language to talk about it. We need references to agree upon so we can coordinate around them, subject them to [[evolutionary epistemology]].
 -   Language is rife with metaphors, this is not an accident and cannot be rooted out—we traffic in references to describe things, and we need good references.
 -   “Can we prove reality is a game or not?” is a bad question. “Does our vocabulary for games allow us to explain things we already know and describe natural extensions that can then be tested?” is a good question.
     

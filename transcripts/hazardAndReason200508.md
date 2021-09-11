@@ -192,7 +192,7 @@ the standard seems to fit
 [8:29 PM] suspended reason: Any costly or hard to fake cues will still be available to size up your opponent
 [8:29 PM] suspended reason: Its just that voluntarily delivered messages by your opponent are valueless
 [8:31 PM] suspended reason: At the same time, because in signaling games deception evolves so quickly on top of honest signals that I can't imagine there was ever a period of real honesty that eventually was parasitized. My guess would be that speech and deception emerged pretty concurrently
-[8:32 PM] suspended reason: My guess is frequency dependent selection is the really important variable here
+[8:32 PM] suspended reason: My guess is [[frequency dependent selection]] is the really important variable here
 [8:32 PM] suspended reason: You need a population to tell mostly truths in order for people to interpret mostly naively
 [8:32 PM] suspended reason: And at least personally that's still a huge question mark for me—how do we keep people so damn honest ??
 [8:33 PM] suspended reason: See somewhat related thread https://twitter.com/suspendedreason/status/1386897202916724737?s=20

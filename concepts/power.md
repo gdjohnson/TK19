@@ -18,7 +18,7 @@ _See also the entry on [[Institutionality]]._
 
 ## Paglia 1992: Sexual Personae's Cancelled Preface
 
-> [Bergman's] _Persona_, surely inspired by Strindberg's one-act play _The Stronger_, is about power relationships and the use of [[persona]]e in scenes of psychic combat. Nature's law here is cruelty, not pit.
+![[_Sexual Personae_#^bee54b]]
 
 # Perry (2015): Gardens Need Walls—On Boundaries, Ritual, and Beauty
 
@@ -32,3 +32,6 @@ quoting Xavier Marquez (2011) "Simple Model of Cults of Personality":
 
 > When everybody lies about how wonderful the dictator is, there is no common knowledge: you do not know how much of this “support” is genuine and how much is not, which makes it hard to organize against the dictator and exposes one to risks, sometimes enormous risks, if one so much as tries to share one’s true views, since others can signal their commitment to the dictator by denouncing you. This is true of all mechanisms that induce [[preference falsification]], however: they prevent coordination.
 
+# Power dynamics
+
+See [[tisTumblrOnPowerDynamics2021]].

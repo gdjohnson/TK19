@@ -4,7 +4,7 @@ Ibn Kalduhn, _Muqaddimah_:
 
 > Whenever contemporaries speak about the dynastic armies of their own or recent times, and whenever they engage in discussions about Muslim or Christian soldiers, or when they get to figuring the tax revenues and the money spent by the government, the outlays of extravagant spenders, and the goods that rich and prosperous men have in stock, they are quite generally found to exaggerate, to go beyond the bounds of the ordinary, and to succumb to the temptation of sensationalism. When the officials in charge are questioned about their armies, when the goods and assets of wealthy people are assessed, and when the outlays of extravagant spenders are looked at in ordinary light, the figures will be found to amount to a tenth of what those people have said.
 
-A rhetorical cousin of equivocation.
+A rhetorical cousin of equivocation. (One speaks equivocatingly in order to avoid commitment to one side or another.)
 
 ## Motte and Baileys
 
@@ -32,9 +32,13 @@ Consider Pinker, Lee, & Nowak's work on innuendo and indirect speech. A speaker,
 
 > In utilizing correlation devices, players can avoid Pareto-dominated equilibria in tacit coordination to the extent to which they are able to shift their expectations simultaneously to preferred coordination equilibria. 
 
-## Authority grab-and-retreat
+## Everyday examples
 
 A comedian may fall into political commentary, then retreat to "Hey, I'm only a comedian!"
+
+We have all, ourselves, at one point or another, made a remark we know will be provocative, or controversial, or inflammatory in some way—and then immediately chased it with, “Just saying!” We have perhaps seen comedians make a politically charged comment, and immediately backing up, amidst boos: “Hey! Don’t blame me, I’m just a comedian!”
+
+## Plausible deniability and wiggle room
 
 ## Dan Dennett, "Deepities"
 

@@ -31,3 +31,9 @@ Distillation is the needed response to this debt:
 > There is a growing mountain of research. But there is increased evidence that we are being bogged down today as specialization extends. The investigator is staggered by the findings and conclusions of thousands of other workers—conclusions which he cannot find time to grasp, much less to remember, as they appear. Yet specialization becomes increasingly necessary for progress, and the effort to bridge between disciplines is correspondingly superficial.
 
 > ...publication has been extended far beyond our present ability to make real use of the record. The summation of human experience is being expanded at a prodigious rate, and the means we use for threading through the consequent maze to the momentarily important item is the same as was used in the days of square-rigged ships.
+
+# The Cult of Originality
+
+[[Richard Nisbett]], [[_The Anti-Creativity Letters_]]:
+![[_The Anti-Creativity Letters_#^218ab5]]
+![[_The Anti-Creativity Letters_#^b5a39f]]

@@ -1,0 +1,1 @@
+When writing up notes on a book, summarize and expand on passages with your own words. If you can't (you're not feeling it on a given day, delete the notes and start again another day.) The inputting of notes is not a routine, secretarial job, but a process that cements knowledge in your brain.

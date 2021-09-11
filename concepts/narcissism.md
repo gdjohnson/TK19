@@ -16,3 +16,4 @@ Quoting Baumeister:
 
 > The assumption is that your work will elevate you to a position of eminence that will elicit respect, admiration, and acclaim from others, as well as allowing you to feel self-respect and self-esteem. Many people hold some mythical view of career success that promises personal fulfillment. They imagine that reaching certain goals will be automatically accompanied by living happily ever after.
 
+![["Circling and Nerd Society"#Yarvin on narcissism]]

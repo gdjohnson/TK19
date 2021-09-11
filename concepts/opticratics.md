@@ -1,5 +1,5 @@
 ---
-aliases: opticratic, image-oriented
+aliases: optocracy, opticratic, image-oriented
 ---
 
 "The first duty in life is to assume a pose. What the second is, no one has yet discovered." (Oscar Wilde)
@@ -112,11 +112,7 @@ Actors in an opticratic landscape are constantly watchful as to the significance
 
 This does not merely happen in Haiti, or the third-world, among the uneducated; it also is characteristic of our legal system. Nightjack, the anonymous police blog which won the Orwell Prize in 2009, writes in his April 27 2008 entry, "Goalposts Moving":
 
-> PC Ellie Bloggs posted on her blog that manslaughter is the new murder. I have to take slight issue with that. Manslaughter is still the old murder, it is just that now it has a smart lawyer and a psychiatric report. I speak in terms of the gradual extension of the doctrine of diminished responsibility. This is a defence that can reduce murder to manslaughter. Was it a new law? Nope, just the usual judges having another look at where the boundaries should be placed...
-
-> Thus any sensible defence lawyer will be looking for a psychiatric report containing such phrases as "Adjustment Disorder...," "Personality Disorder...," "Severe Personality Disorder...," "Depressed," "Morbid Jealousy," "Post Traumatic Stress Disorder," "Persecutory Delusional Disorder," "Alcohol Dependency Syndrome...," "Acute Stress Reaction," "Khat/Amphetamine Psychosis."
-
-> ...Once a defence team hear that somebody has gone one of these [defences] home, strangely more defendants seem to start suffering from it. It's a bit like nationality/religion/persecution stories with asylum seekers, where the circumstances leading to a successful application become viral. 
+![[Nightjack#April 27 2008 Goalposts Moving]]
 
 As fads emerge, evaluators catch on and begin devaluing the faddish cue, since it is being widely free-ridden by those who lack the qualities it implies (but wish to appear as if they possess them). We can see this in job applications, college admissions, and ADHD prescription requests—individuals looking to pass the requisite selection test spread word of successful entrance strategies. Inevitably, the Red Queen has her way; the newly found "solution" no longer works, and a new "passcode" to the selection gate must be found. There is a "metonym treadmill" by which players are constantly seeking metonyms to gain entry, and gatekeepers are constantly seeking to keep their metonymic interpretations accurate, to prevent their being "hacked."
 

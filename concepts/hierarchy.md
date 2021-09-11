@@ -6,8 +6,7 @@
 
 > Categorical identities have largely disappeared, replaced by pure local personal reputations in networks where one is known, and by anonymity outside.
 
-## Paglia 1992: Sexual Personae—The Cancelled Preface:
+## Paglia 1992: Sexual Personae—The Cancelled Preface
 
-> After endless quarrels with authority, prankish disruptiveness, and impatience with management and procedure, I now see the hierarchical as both beautiful and necessary. Efficiency liberates; egalitarianism tangles, delays, blocks, deadens. I marvel, in fact, at the extraordinary orderliness of human life, which must be the instinctual brain-based recall of the individual to the group. Even the gods, the preeminent sexual personae of this book, are projections fo our innate biological hierarchism. 
-
-> In history, the human drive is toward monarchy. Western culture has produced the best system yet for organizing and taming these king-seeking energies: representative democracy, part of our pagan heritage. But our atavistic longings for hierarchy are satisfied by another pagan institution, Hollywood, with its charismatic, imperial stars.
+![[_Sexual Personae_#^0c6c1b]]
+![[_Sexual Personae_#^0a978a]]

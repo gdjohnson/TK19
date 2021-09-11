@@ -4,23 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9e098c69d02acf2b",
+        "id": "6e1d060c94d7157c",
         "type": "leaf",
+        "dimension": 42.7299703264095,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "\"Who Wants To Play The Status Game?\"\".md",
+            "file": "concepts/brute association.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "ea187f2f62cee3aa",
+        "id": "25c31ff025ee117f",
         "type": "leaf",
+        "dimension": 57.27002967359051,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/everyday interaction.md",
+            "file": "concepts/analogy.md",
             "mode": "source"
           }
         }
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impression games",
+                "query": "babbling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "\"Who Wants To Play The Status Game?\"\".md",
+                "file": "concepts/analogy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "\"Who Wants To Play The Status Game?\"\".md",
+                "file": "concepts/analogy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "\"Who Wants To Play The Status Game?\"\".md"
+                "file": "concepts/analogy.md"
               }
             }
           }
@@ -120,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e098c69d02acf2b",
+  "active": "25c31ff025ee117f",
   "lastOpenFiles": [
-    "\"Who Wants To Play The Status Game?\"\".md",
-    "concepts/value clarity.md",
-    "concepts/everyday interaction.md",
-    "people/Untitled.md",
-    "concepts/strategic conceptualization.md",
-    "concepts/torque epistemology.md",
-    "concepts/the garden of forking paths.md",
-    "stigmergy.md",
-    "concepts/decision rules.md",
-    "Untitled.md"
+    "concepts/analogy.md",
+    "places and things/the sixties.md",
+    "concepts/brute association.md",
+    "texts/_Sexual Personae_.md",
+    "research areas/games.md",
+    "concepts/games.md",
+    "concepts/bargaining.md",
+    "concepts/anti-inductive.md",
+    "concepts/strategic ignorance.md",
+    "concepts/torque epistemology.md"
   ]
 }

@@ -4,3 +4,8 @@ All communication is manipulation. Some manipulation is mutually advantageous.
 
 (See also _interpersonal legibility_, not to be confused with legibility in the systems sense.)
 
+Karen Pryor, _Don't Shoot the Dog_:
+> To people schooled in the humanistic tradition, the manipulation of human behavior by some sort of conscious technique seems incorrigibly wicked, in spite of the obvious fact that we all go around trying to manipulate one another’s behavior all the time, by whatever means come to hand.
+
+[[Adam Smith]], _The Theory of Moral Sentiments_:
+> The offering of a shilling, which to us appears to have so plain and simple a meaning, is in reality offering an argument to persuade someone to do so and so as it is for his interest. And in this manner every one is practicing oratory on others through the whole of his life.

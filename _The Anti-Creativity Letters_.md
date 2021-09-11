@@ -1,0 +1,9 @@
+The Schachter-Singer two-factor theory of emotion is the product of Schachter's childhood reading of Mann's *The Magic Mountain*—"Schachter read Mann's description of Hans Castorp's falling in love with Clavdia Chauchat, including the passage pointing out that the palpitations produced by the cold, thin air of the mountains were misinterpreted by Castorp as evidence of his passion"—and a from encountering "Bertrand Russell's observation that an injection of epinephrine, administered by his dentist as a blood clotting agent, had caused him to feel extremely fearful until he recalled that epinephrine produced autonomic arousal." ^351913
+
+> "Old hat" is really the most useful accusation because it need never be proved. The clever sneerer knows that he or she need merely assert that an idea is an old one. Such an assertion will not be called into question one time in a hundred. On the rare occasion when the sneerer’s bluff is called, it is child’s play to merely generalize the putatively novel idea up to some suitably vague level of abstraction and then assimilate it to some distant ancestor. My colleague Fallow very nearly succeeded in throwing Leon Festinger off the trail of dissonance theory by encouraging him to associate with people who could be counted on to tell him that dissonance was nothing more than rationalization recycled into new bottles.
+
+^218ab5
+
+> Once the habit of following the literature is established, it can easily become a lifelong vice. Few things are more calculated to destroy creativity. Whatever original ideas he might have will slowly become assimilated to what he is reading, so that his work will be at best derivative. Unless he is very energetic, in fact, he can be counted on to give up research altogether on the grounds that he never has any ideas that someone else didn't already have.
+
+^b5a39f
