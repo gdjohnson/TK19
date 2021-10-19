@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "magic.md",
+            "file": "_The Flamethrowers_.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pfaller",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magic.md",
+                "file": "_The Flamethrowers_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magic.md",
+                "file": "_The Flamethrowers_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magic.md"
+                "file": "_The Flamethrowers_.md"
               }
             }
           }
@@ -120,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3bb03f6155be3cf",
+  "active": "e8e6609db454fc11",
   "lastOpenFiles": [
-    "magic.md",
     "_The Flamethrowers_.md",
+    "magic.md",
     "asceticism.md",
     "Untitled.md",
     "concepts/compression.md",
