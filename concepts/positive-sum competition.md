@@ -23,7 +23,7 @@ If the [[artworld]] is broken, it is not because the broad contours of individua
 
 ## Competition & Autonomy
     
-A [[field]]'s pertinence to, and interest among, the larger culture, correlates strongly (indeed causes) the level of competitiveness or cooperation among members of the field.
+A [[fields|field]]'s pertinence to, and interest among, the larger culture, correlates strongly (indeed causes) the level of competitiveness or cooperation among members of the field.
 
 [[Simon Reynolds]], on contemporary electronica:
 > Indeed, there is something of an audio-visual arms race going on within what the writer Geeta Dayal mischievously dubs “the festival-industrial complex”: musicians competing with each other not just to wow audiences but for places on the lineups. Festivals increasingly look not just for someone who can deliver a slamming DJ set or sonically stunning performance, but for world-exclusive premieres of a new show that impacts with the avant-garde equivalent of razzle-dazzle. “The idea of going onstage with a laptop and lighting done by some person you’ve never met before—that just doesn’t make any sense at this point,” says Gamble. “The expectation is a lot higher than that.”
@@ -40,6 +40,9 @@ If [[art]] has traditionally been warfare—one-upmanship, competition, and sexu
 Criticism is part of the articulation and dialectic of goals, what ought or ought not to be rewarded. A problem is solved with references to 1) goals and 2) [[rules|constraints]]; the relationship between them dictates the context of a solution.
 
 Public [[shame|shaming]] and conferences of [[status]] are incredibly powerful tools which can and are abused, but if properly organized form the building blocks of group health. It is important to remember however that our conference is largely unconscious: disgust reactions, outgroup shaming, weaponized shame as sublimated aggression, rewarding behavior (healthy or unhealthy) with admiration, deference, sex.
+
+# Crispy Chicken
+![["Memetic Wars Yield Delicious Byproducts"]]
 
 ## Further Inquiries
     

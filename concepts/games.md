@@ -3,6 +3,195 @@ _See also [[Strategic Interaction]], which cases human life as a game._
 1.  We do not know whether life “is” a game. What a question! What answer is there besides popular assent? We cannot even propose a definition of game. Wittgenstein has already shown the fruitlessness. C. Thi Nguyen, in attempting to define a game for his philosophical work, has provided a second, albeit unintentional and negative, example.
 2.  But we think that casting life, and its sub-scenarios—conversations, parties, job applications, courtships, projects, collaborations, etc—as a game is fruitful because there are several qualities of games which these scenarios share.
 
+## Lexical hypothesis
+
+* 1st/2nd/3rd base
+* 1v1
+* 3 strikes
+* DPSing
+* PVP
+* a lot is riding on this
+* ace
+* all bets are off
+* all bets are off, house rules
+* anybody's ballgame
+* armchair quarterback
+* ball's in your court
+* beaten to the punch
+* below par
+* below the belt (punching, etc)
+* big league
+* blind-sided
+* blow-by-blow account
+* break the bank
+* bullseye
+* bunt
+* bush league
+* buzzer-beater
+* call a spade a spade
+* call it a draw
+* cards are stacked
+* checkmate
+* close call
+* count your chips
+* dark horse
+* dealing from the bottom of the deck
+* deck stacked
+* deuces
+* don't count me out
+* don't play games with me
+* down but not out
+* down for the count
+* down to the wire
+* dropped ball
+* endgame
+* eye on the prize
+* final boss
+* folding
+* forced move
+* foul
+* full-court press
+* fumble
+* game day
+* game plan
+* game-changer
+* game-set-match
+* giving someone a run for their money
+* glassjaw
+* gloves off
+* go bust
+* go for broke, swing for the fences
+* god does not)
+* good inning
+* good sport
+* got played
+* grand slam
+* grinding
+* guessing game
+* hail mary
+* hang up your boots
+* have an ace up your sleeve
+* head in the game
+* heavy hitter
+* hit me
+* hit the jackpot
+* hole in one
+* home court advantage
+* home run
+* horses chomping at the bit
+* hurdles
+* hustler
+* in a league of his own
+* in the cards
+* in your wheelhouse
+* it's a layup, running point
+* it's a marathon not a sprint
+* keep score
+* kick-off
+* knowing the deal
+* knuckle down
+* last man standing
+* level playing field
+* level up
+* limit vs no-limit poker
+* loaded based
+* low blow
+* luck of the draw
+* make the cut
+* making do with the cards you're dealt
+* mulligan
+* musical chairs
+* neck'n'neck
+* no dice
+* no holds barred
+* noob
+* not the cards
+* off to the races
+* off-base
+* off-the-bat
+* offsides
+* on the ropes
+* only game in town
+* open vs closed world
+* opening move
+* out of bounds
+* own goal
+* par for course
+* photo-finish
+* pinch hitter
+* pissing contest
+* pitstop
+* play defense
+* play dice
+* play hardball
+* play the cards you're dealt
+* play the field
+* play the percentages
+* play the player
+* play your cards right
+* playoffs
+* poker face
+* pregame
+* punt
+* put all your chips in
+* put me in coach
+* put the fix in
+* PvE
+* PvP
+* quarterbacking
+* ragequit
+* rain check
+* raise someone
+* raise the stakes
+* rat race
+* respawn
+* ride someone's coattails
+* roll of the dice
+* rolling with punches
+* rope-a-dope
+* royal flush
+* run out the clock
+* run the table
+* running interference
+* save point
+* saved by the bell
+* score (v.)
+* see the whole board
+* showing your hand
+* shuffling
+* sin (archery)
+* sitting on the bench
+* skin in the game
+* slam dunk
+* stalemate
+* stay the course
+* stepping up to the plate
+* sticky wicket
+* sticky wickett
+* struck out
+* sucker punch
+* sweeten the pot
+* take a mulligan
+* take one for the team
+* take your shot
+* team player
+* the economy's a casino
+* the flop
+* throw the game
+* tilted
+* tip your hand
+* touch base
+* touchdown
+* two can play that game
+* under the wire
+* underpowered/overpowered
+* up the ante
+* weak/strong hand
+* whale
+* when the chips are down
+* wildcard
+* winning hands down
+
 ## Sacred spaces
 
 ### Pfaller 2014: On The Pleasure Principle
@@ -116,3 +305,9 @@ In other words, we believe that for many of our most crucial problems—from art
 > Illusio is the fact of being caught up in and by the game, of believing the game is "worth the candle," or more simply, that playing is worth the effort. In fact, the word interest initially meant very precisely what I include under the notion of illusio, that is, the fact of attributing importance to a social game, the fact that what happens matters to those who are engaged in it, who are in the game... it is to recognize the game and to recognize its stakes.
 > 
 > Social games are games that are forgotten qua games, and the illusio is the enchanted relation to a game that is the product of a relation of ontological complicity between mental structures and the objective structures of social space.
+
+# Mutual exclusivity of games
+
+@Chaosprime, Twitter: "All real problems are at least double binds because problems that aren't, you can just fucking solve."
+
+Participation in multiple games is often mutually exclusive. This mutual exclusivity can be de jure: the host or proprietor of one game prohibits (binary) as in federal laws against simultaneously serving on private company boards and public agencies, or penalizes (continuous) participation of players in another game, as in the 90s/2000s penalization of academics who blogged. Or, the mutual exclusivity can be de facto—limitations of time, geographic space, and energy.

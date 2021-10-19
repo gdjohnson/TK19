@@ -174,6 +174,11 @@ Merely continuing to affirm the status quo is low in [[interestingness]], inform
 >
 > A: Actually, the movies that tend to never get rewritten about, never get analyzed deeply or have interesting online writing about them are well-reviewed, upper-middle-brow movies from the ‘80s and ‘90s.
 
+## The proper response to torqued landscapes
+
+From a memorial piece on [[Bill McGuire]]:
+> Finally, McGuire (1997) eagerly welcomed the advent of evolutionary theo- rizing when it comes to the structure and functions of human cognition and behavior and observed that, "A functional, adaptivity orientation deriving from evolutionary presuppositions is probably the most common metatheory guiding contemporary psychologists, at least implicitly" (p. 20). Although McGuire rec- ognized (and condemned) past abuses of evolutionary psychology (e.g., eugenics, social Darwinism), he concluded that "it would be maladaptive to abandon all use of intellectual tools that could lead to error or be politically incorrect" (p. 20; see also McGuire, 1999, p. 402).
+
 # See also
 
 Mike Caulfield 2015, "The [[Garden]] and the Stream: A Technopastoral":

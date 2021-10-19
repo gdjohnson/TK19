@@ -68,7 +68,7 @@ Another facet of the opticratic idea is the observation that humans are a mimeti
 
 ## Opticratics and positive feedback loops
 
-Mary Jackalope: "When people are thin slicing you, you need to optimize for the thin slice that they get to take." To say that society is opticratic is not merely to say that individuals both judge based on, and actively fabricate, representations. It's also to say that they optimize toward representations, putting asymmetrical time and energy into publicly visible achievements. It is to say that there are positive feedback loops of prestige and image, where individuals make judgments predicated on (their impression of) other individuals' judgments, which can be kickstarted by the appropriate myths. Individuals predicate their behavior, and perceptions, on others' perceptions (see e.g. the famous Asch conformity experiments, in which confederates strongly affected the assessments of experimental subjects w/r/t the length of various reference lines). Thus, by manufacturing an appearance of popularity, success, or positive reputation, one can, [[hyperstition|hyperstitionally]], bring this appearance to life: 
+Mary Jackalope: "When people are thin slicing you, you need to optimize for the thin slice that they get to take." To say that society is opticratic is not merely to say that individuals both judge based on, and actively fabricate, representations. It's also to say that they optimize toward representations, putting asymmetrical time and energy into publicly visible achievements. It is to say that there are positive feedback loops of prestige and image, where individuals make judgments predicated on (their impression of) other individuals' judgments, which can be kickstarted by the appropriate myths. Individuals predicate their behavior, and perceptions, on others' perceptions (see e.g. the famous Asch conformity experiments, in which confederates strongly affected the assessments of experimental subjects w/r/t the length of various reference lines). Thus, by manufacturing an appearance of popularity, success, or positive reputation, one can, [[magic|hyperstitionally]], bring this appearance to life: 
 
 > In 1995, management gurus Michael Treacy and Fred Wiersema secretly purchased 50,000 copies of their business strategy book _The Discipline of Market Leaders_ from stores across the nation. The stores they purchased from just happened to be the ones whose sales are monitored to select books from the _New York Times_ bestseller list. Despite mediocre reviews, their book made the bestseller list. Subsequently, the book sold well enough to continue as a bestseller without further demand intervention by the authors. (Bikhchandani, Hirschleifer, Welch 1998: "Learning from the Behavior of Others")
 
@@ -208,7 +208,9 @@ Art, especially in para-social forms like the novel, film, and theater, are some
 >
 > Turning to art, we can now appreciate why it is that performance is, as in some sense it is, the most fundamental of all the arts. The performing artist makes these facts about our lives raw material for his or her own practice. We are fundamentally performers. Not as a matter of choice, and not as a matter of biology, but as an inescapable condition of being a person. A performing artist is one who places himself or herself on the stage and says, “Watch me do what I do,” all the while knowing that you are watching him or her do it.
 
-## [[bodybuilding]]
+## Bodybuilding
+
+_See also full [[bodybuilding]] entry._
 
 [[Sam Fussell]], son of Paul Fussell (author of _Class_) spent six years competitively body-building in Southern California in the late 80s. Again and again, his memoir of the time, _Muscle_, stresses how much [[bodybuilding]] is a matter of appearances and optics. Though bodybuilders are often assumed to build for health reasons, the opposite is true: building culture, from its body strain, to its steroid use, to its extreme pre-exhibition cutting diets, is often dangerously unhealthy. At some point in the book, a fellow builder tells Sam, when he complains about how unhealthy his lifestyle has become: "Big Man, this is about looking good, not feeling good."
 
@@ -226,7 +228,8 @@ And part of this myth involves outright fabrication:
 
 # Flopping in sports
 
-<--*TODO*-->
+![[degeneration#^6de484]]
+![[surr]]
 
 # [[Erving Goffman|Goffman]]'s microsociology
 
@@ -336,6 +339,15 @@ Chains of images—where reputation in one domain assists entry into a further r
 > [Rankings] turn the pursuit of the MBA into a paper chase, wherein the only thing that matters is the degree itself. Prospective MBAs don't necessarily care to learn everything that a quality MBA program teachers. They want entre into influential business networks. They know that those networks germinate and flourish in top-ranked MBA programs, regardless of the actual quality of those programs or their suitability for a given student's 
 
 This paper chase encourages all participating members of an institution to act as public advocates on behalf of their institution's status or prestige, since this institutional reputation affects their own value on the job market, dating market, etc (see Argenti 2000, "Branding b-schools: reputation management for business schools").
+
+_See also [[surrogation#Gioia 2002 Being Good Versus Looking Good Business School Rankings and the Circean Transformation From Substance to Image]]_
+
+![[_The Presentation of Self in Everyday Life_]]
+
+# Optical allyship
+
+Traldi:
+> The critique of “virtue signaling” is associated with the political center and right, although it’s sometimes taken up on the left as well, where it goes by stranger names like “optical allyship” (saying that phrase is in itself a bit of a signal!). The idea is that political progressives’ interest in _seeming_ good does not always help, and sometimes hinders, any genuine interest they might have in _doing_ the right thing.
 
 # Further reading
 

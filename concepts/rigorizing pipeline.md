@@ -1,3 +1,14 @@
+# Consilience
+
+E.O. Wilson's "consilience" concept bears some relation to this concept.
+
+From Parrish 2014, _Adaptive Rhetoric_:
+> Wilson, the great synthesizer and father of sociobiology, borrowed the term “consilience” (literally meaning ‘a jumping together’ of multiple things) from William Whewell in order to suggest that the two cultures could unify under an evolutionary paradigm. It is Wilson’s fi rm belief that unity could produce fruitful scholarship for all who wish to understand human culture and behavior:
+> > There is only one way to unite the great branches of learning and end the culture wars. It is to view the boundary between the scientific and literary cultures not as a territorial line, but as a broad and mostly unexplored terrain awaiting cooperative entry from both sides.
+
+Charles Gillispie in his 1998 review writes:
+> Knowledge, Wilson argues, is one at bottom. Science consists of strictly causal explanations of empirically established laws. Investigation encounters no fundamental boundary between the history of the physical universe and of humanity, nor between science and the humanities. The goal of consilience  is to achieve progressive unification of all strands of knowledge in service to the indefinite betterment of the human condition.
+
 # Reason 2021: Notes on the Inexact Sciences
 All knowledge is about the same thing, which is the workings of the world. And since the workings of the world are bound up in one another—with kinships that result from shared materials, shared dynamics, shared problems, shared ancestry—the knowledge from one subject can be brought to bear on many others. An institution, like a body, like the cells that make up bodies, must preserve its boundaries and maintain homeostasis, must allow information flows while protecting against intruders. The principles of mimicry, free-riding, and frequency-dependent selection that persevere in butterflies apply equally to bank fraud. The problems of plasticity, the tradeoff between structure and potential; explore-exploit algorithms and optimal stopping—these are eternal dynamics of complex, optimizing systems. Sometimes these parallels are dubbed _metaphor_, as one might call “[selection games](https://suspendedreason.com/2021/05/28/selection-games/)” a metaphor—but the line between metaphor and category is purely a conventional one: to say two objects or events are alike _just is_ to create a new category.
 

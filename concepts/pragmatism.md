@@ -61,3 +61,10 @@ In the language of cogntive schemas, two top-down models are identical insofar a
 # Pragmatic ontology
 
 ![[Pragmatic ontology]]
+
+# Pragmatism vs Meaningfulness
+
+[[Natural Hazard]] writes:
+> The sexual tension between the terms “pragmatic” and “meaningful”. We’ve leaned towards using pragmatic more, I believe because Spendo and Crispith love them some [[William James]]. The thing that underlies both of them is this sense of hooking in to what matters to you. I could do without the word “pragmatic"s association with a particular narrow view of what can matter ("his head was in the clouds, he had all these big ideas but no pragmatic inclinations”). I bemoan “meaningful” and “meaning"s rumored (big if true!) association with, well…. "meaningless shit that doesn’t connect to real humans, and is something that people play act at”. Pragmatic evokes imagery of my “no-nonsense” grandpa who worked at a glass manufacturing plant his whole life and always focused on providing for his family. Meaningful evokes my artsy-fartsy sister who’s desperately trying to escape the capitalist machine by trying to become a shaman in Ecuador.
+
+> Take [[David Chapman]]’s post (but give it back when you’re done, the internet runs out after a while) "Meaningful Perception". From our point of view it could just as easily be called “Pragmatic Perception”. The structure of how you perceive is shaped by the structure of how you care. When we talk about [[pragmatic ontology|pragmatic classification]] systems, though I defs expect lumber-jacks to be more like my grandpa than my sister, we’re tapping into the sense in which classification systems are made by people who care about stuff, and are using the classification systems to get more hooks into interacting with what they care about.

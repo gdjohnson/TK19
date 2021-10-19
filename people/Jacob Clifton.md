@@ -1,0 +1,1 @@
+Jacob Clifton is perhaps the world's premier [[extractive criticism|return-maximizing]] critic.

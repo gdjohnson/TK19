@@ -112,7 +112,7 @@ From Schelling's _Strategies of Conflict_ (see also [[Strategic Interaction]]):
 
 # Motive ambiguity
 
-Zvi on motive [[ambiguity]]:
+[[Zvi]] on motive [[ambiguity]]:
 
 > You are married, and want to take your spouse out to a romantic dinner. You could choose a place you both love, or a place that only they love. You choose the place you don’t love, so they will know how much you love them. After all, you didn’t come here for the food.
 

@@ -1,3 +1,5 @@
+_See also [[conceptual engineering]], [[conceptual fragmentation]], [[conceptual analysis]], [[analogy]]._
+
 [[Friedrich Nietzsche]]:
 > As a genius of construction man raises himself far above the bee in the following way: whereas the bee builds with wax that he gathers from nature, man builds with the far more delicate conceptual material which he first has to manufacture from himself.
 
@@ -154,7 +156,7 @@ Compare to prototype theory.
 
 # Prototype Theory
 
-Heavily inspired by Wittgenstein's writings, and formalized by Eleanor Rosch. Concepts structured around a central prototype, which is a composite or averaging of many experienced exemplars, with a radial space of decreasing prototypicality. Echoed by Yudkowsky as the cluster structure of thingspace.
+Heavily inspired by Wittgenstein's writings, and formalized by Eleanor Rosch. Concepts structured around a central prototype, which is a composite or averaging of many experienced exemplars, with a radial space of decreasing prototypicality. Echoed by [[Eliezer Yudkowsky|Yudkowsky]] as the cluster structure of thingspace.
 
 Prototype theory is statistical. Qualities are often not necessary & sufficient; rather, they have some strong graded bearing on categorization, and are summed/averaged otherwise processed into a decision. 
 

@@ -4,25 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1d060c94d7157c",
+        "id": "e8e6609db454fc11",
         "type": "leaf",
-        "dimension": 42.7299703264095,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/brute association.md",
+            "file": "_The Flamethrowers_.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "25c31ff025ee117f",
+        "id": "b3bb03f6155be3cf",
         "type": "leaf",
-        "dimension": 57.27002967359051,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/analogy.md",
+            "file": "magic.md",
             "mode": "source"
           }
         }
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "babbling",
+                "query": "pfaller",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/analogy.md",
+                "file": "magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/analogy.md",
+                "file": "magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/analogy.md"
+                "file": "magic.md"
               }
             }
           }
@@ -122,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25c31ff025ee117f",
+  "active": "b3bb03f6155be3cf",
   "lastOpenFiles": [
-    "concepts/analogy.md",
-    "places and things/the sixties.md",
-    "concepts/brute association.md",
-    "texts/_Sexual Personae_.md",
-    "research areas/games.md",
+    "magic.md",
+    "_The Flamethrowers_.md",
+    "asceticism.md",
+    "Untitled.md",
+    "concepts/compression.md",
+    "verstehen.md",
+    "concepts/ethnomethodology.md",
     "concepts/games.md",
-    "concepts/bargaining.md",
-    "concepts/anti-inductive.md",
-    "concepts/strategic ignorance.md",
-    "concepts/torque epistemology.md"
+    "concepts/intentionality.md",
+    "research areas/intelligence.md"
   ]
 }

@@ -74,6 +74,13 @@ This becomes especially salient when mere _branding_ can dramatically change a w
   * Intra-work fitness: fitness between parts and whole.
   * Subjective fitness: fitness between the work and audience.
 
+# Evolution and systems theory
+
+[[Gregory Bateson]] 1972:
+> Analogous relations certainly obtain in the ecology of a redwood forest or a coral reef.  The mostfrequent or “dominant” species are likely to be nodal to constellations of other species because thesurvival of a newcomer to the system will commonly be determined by how its way of life fits withthat  of  one  or  more  dominant  species. 5  In  these  contexts—both  ecological  and  mental—the  word“fit” is a low-level analogue of “matching flexibility.” 
+
+As a result, the less powerful organisms must "fit" themselves to the more powerful organisms.
+
 # Philosophy 
 
 ## Ralph Waldo Emerson, Journals

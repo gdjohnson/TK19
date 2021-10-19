@@ -24,3 +24,7 @@ Peter Zelchenko, whose mother Phyllis studied English with Goffman at Chicago:
 > I met him when he was at the Institutes of Health in Washington. He approached me, I visited him and we talked, and I think he gave me reprints of “Facework” and “Cooling the Mark Out,” which I’ve always loved. Sometime in the middle 60’s I invited him to Harvard’s Center for International Affairs, at which I had some Ford Foundation money for bringing scholars to Harvard, and he spent a year, finishing one of his books; I don’t remember which one. Some time later his son, Tom, came to live at my house for a while. He was a very assertive young man and taught my kids how to make explosives out of the chlorine powder that my neighbor used for his swimming pool.
 
 Schelling was also acquainted with [[Harold Garfinkel]], to whom he introduced [[Harvey Sacks]] (future founder of conversational analysis). [[Pierre Bourdieu]] made statements as to his friendship and admiration of Goffman, in his Erving Goffman Prize lecture at Berkeley.
+
+# Texts
+
+- [[_The Presentation of Self in Everyday Life_]]

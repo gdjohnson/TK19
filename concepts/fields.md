@@ -6,6 +6,11 @@
 
 The field is a sort of [[Markov blankets|Markov blanket]]—external events such as political and economic crises "can only have an effect through resulting transformations in the structure of the field." Though this position may seem extreme, [[Pierre Bourdieu|Bourdieu]] offers, it I believe, in the spirit of [[torque epistemology]], correcting what he calls the "short circuit" of [[externalist readings]], whereby a social group or situation acts "_directly_, as final cause," on the work, rather than being mediated and exerting influence more indirectly.
 
+# Academic fields
+
+Fields stake out a demesne—a tract of subject matter which they "own," and have exclusive rights to work, as feudal lord of the manor. However, there is a vast discrepancy between what land they claim right to, and the land they actually work (manage, plant, harvest). [[Crispy Chicken]] 2021, "What replaces academic fields of study?":
+> The primary problem is basically a cousin of the [[extend-and-retreat|Motte & Bailey issue]]: academics claim that anything within certain parameters belongs to X field, but won’t consider many kinds of studies within those parameters to be publishable in X field. I think of this as the “dinner party problem”: a given topic being discussed at a dinner party can only be discussed in certain ways according to the tastes and attitudes of those present, though this is rarely acknowledged except to say someone went “too far”.
+
 # Intra-field competition
 
 The subversive, avant tendency of new generations of artists is a result of the economics of their fields:

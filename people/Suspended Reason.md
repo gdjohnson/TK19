@@ -1,0 +1,5 @@
+- [["Meta Sequences"]] (2020)
+- [["Reading 'Ignorance, A Skilled Practice'"]] (2020)
+- [["Turning Away from the Signaling Frame"]]
+- [[''Notes on the Inexact Sciences"]] (2021)
+- [["Games of Strategy are Games of Reading and Writing"]] (2021)

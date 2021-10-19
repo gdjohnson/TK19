@@ -13,7 +13,7 @@ Eric Weinstein:
 
 ## Extrapolated vision
 
-To Yudkowsky, interventionism is the problem of extrapolated vision. A friendly artificial intelligence would not merely fulfill our literal requests (think the classic genie fable, the way he grants a wish on technicality, while giving the asker the opposite of her desire). Rather, the AI should offer an _interpretive_ fulfillment of the asker’s volition, what the AI believes they actually want. 
+To [[Eliezer Yudkowsky|Yudkowsky]], interventionism is the problem of extrapolated vision. A friendly artificial intelligence would not merely fulfill our literal requests (think the classic genie fable, the way he grants a wish on technicality, while giving the asker the opposite of her desire). Rather, the AI should offer an _interpretive_ fulfillment of the asker’s volition, what the AI believes they actually want. 
 
 The problem, of course, is coming up with a coherent, calibrated model of a person (or group’s) volition. Serving the master’s desires _even when he does not know he wants it_, or even when he has explicitly asked otherwise, is the very mark of the elite butler, or house servant, at least if you believe period films.
 

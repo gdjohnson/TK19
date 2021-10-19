@@ -50,6 +50,13 @@ The mask is shaped in response—to _fit_ to—the ambient pressures which make 
 
 > Personhood is performed, I said above. This brings me to the second linked idea: that of performance. In one sense, “to perform” is simply the most general verb of action. We perform actions in the course of our lives. But it is also possible to distinguish between things we simply do and the actions that, in doing, we perform. It is a difficult exercise to figure out just what principle marks that line, but it has something to do with the fact that when we perform, as distinct merely from acting, we act in view of the evaluation or standards or rules and norms of others. We speak of sexual performance, performance on the job, athletic performance, performance at school, and, of course, performance on the stage. Whether you are actually subject to the evaluation of another—maybe you are practicing handstands in your room or making drawings for your eyes only—you are still performing, for what you do is open to the possible, if not the actual, assessment of others. And crucially, that’s how we experience it, too. The fact that you are alone rarely ever means you are truly alone, for almost everything we do is framed by the roles we are playing and the standards to which we are subject. Can you think of exceptions?
 
-# [[Friedrich Nietzsche|Nietzsche]] 1878: Human, All Too Human
+# [[Friedrich Nietzsche|Noietzsche]] 1878: Human, All Too Human
 
 > If someone obstinately and for a long time wants to appear something it is int he end hard for him to be anything else. The profession of almost every man, even that of the artist, begins with hypocrisy, with an imitation from without, with a copying of what is most effective. He who is always wearing a mask of a friendly countenance must finally acquire a power over benevolent moods without which the impression of friendliness cannot be obtained - and finally these acquire power over him, he is benevolent.
+
+# Robert Ezra Park 1950: Race and Culture
+
+> It is probably no mere historical accident that the word person, in its first meaning, is a mask. .. In a sense, and insofar as this mask represents the conception we have formed of ourselves—the role we are striving to live up to—this mask is our truer self, the self we would like to be. In the end, our conception of our role becomes second nature and an integral part of our personality. We come into the world as individuals, achieve character, and become persons.
+
+The masks we play eventually come to feel natural:
+![[opticratics#^b7f380]]

@@ -1,3 +1,7 @@
+---
+aliases: metaphor
+---
+
 _The drive toward the formation of metaphors is the fundamental human drive._ ([[Friedrich Nietzsche|Nietzsche]], "On Truth & Lies")
 
 Because no two things are exactly alike, not even the same thing over time, to draw a metaphor—this is like that, this _is_ that—is to categorize, to say "these things are alike in given ways, and I will overlook their difference, here, in favor of their similarity." In some sense, all we have, in the realm of the [[inexact sciences]], is metaphor—we can categorize, or create new categories, or redefine categories, but we are always saying _this is like that_, _these things share properties which are salient to our purposes_. 
@@ -29,7 +33,7 @@ The "family resemblance" structure of [[concepts]] is a product of analogic exte
 
 ### Concepts & algorithmic "voting"
 
-(Predecessor in spirit to Yudkowsky's "How An Algorithm Feels From The Inside" and "Disguised Queries," and the general concept of algorithmic categorization at LessWrong.)
+(Predecessor in spirit to [[Eliezer Yudkowsky|Yudkowsky]]'s "How An Algorithm Feels From The Inside" and "Disguised Queries," and the general concept of algorithmic categorization at LessWrong.)
 
 All lexical items are concepts, including rhetorical "concepts" and filler words. (Hofstadter mentions "probably," "ain't," as concepts e.g.) What makes them concepts is that they have a time and a place: a situation which is appropriate to deploy them. On how brains make this choice:
 

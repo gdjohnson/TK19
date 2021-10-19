@@ -15,7 +15,7 @@ Some of the major contributors to [[surrogation]] are: transparency, decontextua
 
 ## Pages
 - [[Language and Law]]
-- [[Degenerate play]]
+- [[degeneration#Degenerate play|degenerate play]]
 - [[Fetish]]
 - [[Metonyms]]
 - [[Opticratics]]

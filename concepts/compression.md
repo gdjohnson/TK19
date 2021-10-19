@@ -1,3 +1,14 @@
+# Sarah Perry, "Cartographic Compression"
+> A special type of intelligence is the organization of complexity into a simpler, less resource-intensive form. The experience of such a compression is what is called “insight,” and it is pleasurable for humans even when not relevant to survival. The complementary tool, humor, offers a pleasant sensation as a reward for weeding one’s model for inconsistencies, though as with compression and music, it has many social applications. Compression is likely one of the regularities in subjective aesthetic judgment.
+
+> A special type of intelligence is the organization of complexity into a simpler, less resource-intensive form. The experience of such a compression is what is called “insight,” and it is pleasurable for humans even when not relevant to survival... This type of intelligence makes sense even without reference to goals – but reducing complexity only makes sense given limited processing power and storage space, a feature as important to human intelligence as cognition being localized within many separate minds.
+
+I'm skeptical of the above claim. It seems like some kind of "reduction" of data to pattern is just necessary to make predictions based on limited inputs, period. Even if you had unlimited storage space, you need an algorithm if you wanna _do_ anything with all the stored data. Am I crazy in thinking this? ([[Allgebrah]] agrees: "yeah to actually do something useful with data in tractable time, you need to distill it down to a working set and there is always a size constraint on working sets")
+
+> Maps are _compressions_ of the aboutness-extraction type. They represent and highlight certain features of the domain, forming a useful model, and ignore or downplay others.
+
+> An herbivore trail is an elegant compression of information. Its “aboutness” – its promise of water, seasonal pasture, rare nutrients, or something else – is available to those animals capable of extracting it. [see [[stigmergy]], [[signaling theory]]'s "cue"]
+
 # The scorekeeping analogy from baseball (Noë 2015: Strange Tools)
 
 > ...let’s return, once again, to writing in the case of written language. We can gain insight if we consider what might seem like a fringe and esoteric graphical practice, score keeping in [[sports|baseball]].

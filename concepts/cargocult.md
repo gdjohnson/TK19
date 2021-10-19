@@ -1,6 +1,6 @@
 _The surface form of a thing is mimicked, with the expectation that the thing's full function will follow, but of course the true form of a thing, its complex situation in the world, is complex and hidden, requires more careful study than has been performed. The cargoculters do not know this because they are not even aware that there is or could be such a further submersion in the world. They cannot fathom that reality and tool-making could be as complex as they are because their culture has not developed as extensively as the culture of their cargoculting's target._
 
-## James 1890: Principles of Psychology ("Reasoning")
+# James 1890: Principles of Psychology ("Reasoning")
 
 Cargocult might best be understood via [[William James|James]]'s carving of [[brute association]] versus mechanistic, theorizing [[reasoning]]. Brute association lacks the real understanding of mechanism present in reasoning:
 
@@ -12,7 +12,9 @@ Where one mode "simply associates phenomena in their entirety," reasoning unders
 
 But there is the further step that irrelevant parts of these associated wholes are not just given lacking relevance or "essentiality" to the desired target, but are further _reified_ as directly bringing about the target.
 
-## Graham: Hackers and Painters
+# Graham: Hackers and Painters
 
 > It seems strange to have to emphasize simplicity. You’d think simple would be the default. Ornate is more work. But something seems to come over people when they try to be creative. Beginning writers adopt a pompous tone that doesn’t sound anything like the way they speak. Designers trying to be artistic resort to swooshes and curlicues. Painters discover that they’re expressionists.
 
+# Feynman 
+![["Cargo Cult Science"]]

@@ -1,3 +1,5 @@
+With [[Crispy Chicken]], [[Natural Hazard]], [[people/Suspended Reason]].
+
 # Crispy Chicken
 
 **Title: What kinds of things are "power dynamics"?**

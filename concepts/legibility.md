@@ -4,7 +4,7 @@ There's no question: the top can see things the bottom cannot, and vice-versa.
 
 # Seeing Like A State 
 
-Much as we see with massaged maps in [[opticratics]] and [[degenerate play]]—for instance, the way crimes are categorized in various police departments alters the evaluation of departmental performance—the specific _mode_ of interpreting, categorizing, or operationalizing, when left up to adversarial players with a competitive stake in the measuring system's outcome, leads to manipulative and strategic interpretation, categorizing, or operationalizing:
+Much as we see with massaged maps in [[opticratics]] and [[degeneration#Degenerate play|degenerate play]]—for instance, the way crimes are categorized in various police departments alters the evaluation of departmental performance—the specific _mode_ of interpreting, categorizing, or operationalizing, when left up to adversarial players with a competitive stake in the measuring system's outcome, leads to manipulative and strategic interpretation, categorizing, or operationalizing:
 
 > A good part of the politics of measurement sprang from what a contemporary economist might call the “stickiness” of feudal rents. Noble and clerical claimants often found it difficult to increase feudal dues directly; the levels set for various charges were the result of long struggle, and even a small increase above the customary level was viewed as a threatening breach of tradition. Adjusting the measure, however, represented a roundabout way of achieving the same end.
 > 
@@ -43,3 +43,6 @@ Much of imperialism and its attendant philosophy, [[interventionOnBehalf|interve
 # Hotel Concierge, How to be Attractive
 
 ![["How To Be Attractive"]]
+
+# Strategic legibility
+![[strategic epistemology#Strategic legibility]]

@@ -24,7 +24,7 @@ In the third level, the map becomes untethered from a territory relation: an utt
 
 The understanding and use of language by individuals as primarily operating the first two levels can be called [[Literalism]]. The understanding and use of language on the third and fourth levels is similar to what Grietzer calls "motivational epistemics" in _Amerikkkkka_, and evidences a ready-to-hand embodiment of [[torque epistemology]].
 
-# Zvi 2020: Simulacra Levels & their Interactions
+# [[Zvi]] 2020: Simulacra Levels & their Interactions
 
 ### Level 1 statements as honest signaling
 
@@ -34,13 +34,13 @@ The understanding and use of language by individuals as primarily operating the 
 
 > if things are too forsaken, one _loses the ability to communicate about the lion at all_. There is no combination of sounds one can make that makes people think there is an actual lion across an actual river that will actually eat them if they cross the river.
 
-In other words, the loss of literalist content, and people's ability to parse utterances literally, means certain true facts become unsayable—not in an instrumental, polite fiction sense ("that may well be true or plausible, but we shouldn't circulate it in polite society") but in an erased, taboo sense where the connotative and historical baggage (the social metadata) of an utterance is so thick and superimposed on the content that the content becomes invisible. As a result, these knowledges cannot be circulated, and soon fall out of memory, leading to potential catastrophes from a lack of foresight. If I interpret Zvi correctly, he sees COVID-19 as one of these cases.
+In other words, the loss of literalist content, and people's ability to parse utterances literally, means certain true facts become unsayable—not in an instrumental, polite fiction sense ("that may well be true or plausible, but we shouldn't circulate it in polite society") but in an erased, taboo sense where the connotative and historical baggage (the social metadata) of an utterance is so thick and superimposed on the content that the content becomes invisible. As a result, these knowledges cannot be circulated, and soon fall out of memory, leading to potential catastrophes from a lack of foresight. If I interpret [[Zvi]] correctly, he sees COVID-19 as one of these cases.
 
 ### Roles: Tricksters, drones, lawyers
 
 __Trickster__
 
-Zvi frames the difference in levels one and two as content (V) vs. consequence (C). He calls "trickers" those who only consider, and communicate based on, the consequences of a communication. "The Trickster says V if they think C > ~C. They say ~V if they think ~C > C." It becomes easy, he writes, "once you know they're a trickster, to trust a Trickster in their own way. You simply interpret their statements as manipulations rather than observations."
+[[Zvi]] frames the difference in levels one and two as content (V) vs. consequence (C). He calls "trickers" those who only consider, and communicate based on, the consequences of a communication. "The Trickster says V if they think C > ~C. They say ~V if they think ~C > C." It becomes easy, he writes, "once you know they're a trickster, to trust a Trickster in their own way. You simply interpret their statements as manipulations rather than observations."
 
 __Drone__
 
@@ -48,7 +48,7 @@ The Drone is a pure L-3 operator; its belief is "naively" one-to-one with the "b
 
 __Agent__
 
-The Drone is contrasted by the Agent, who (depending on factoring) comprises levels 2 and 4 or levels 1, 2, and 4. While Zvi positions only L-3 purists as Drones, one might argue that a pure L-1 player is equally a slave to the territory, and can only report the truth even when it is deeply against his own interests (see Kant's thought experiment of the axe murderer).
+The Drone is contrasted by the Agent, who (depending on factoring) comprises levels 2 and 4 or levels 1, 2, and 4. While [[Zvi]] positions only L-3 purists as Drones, one might argue that a pure L-1 player is equally a slave to the territory, and can only report the truth even when it is deeply against his own interests (see Kant's thought experiment of the axe murderer).
 
 __Lawyer__
 
@@ -56,9 +56,9 @@ __Lawyer__
 
 ### Science vs. Politics
 
-In Zvi's frame, "facts vs. politics," adapted here for procedural and semantic consistency. (_Fields_ of discursive norms.)
+In [[Zvi]]'s frame, "facts vs. politics," adapted here for procedural and semantic consistency. (_Fields_ of discursive norms.)
 
-"Facts Don't Matter is the dominance of level 3+4 considerations over level 1+2 considerations." Relation to the territory has become irrelevant; what surplaces it is the words' "impact on my membership in my coalition, and the success of myself and that coalition in playing political games." Zvi continues:
+"Facts Don't Matter is the dominance of level 3+4 considerations over level 1+2 considerations." Relation to the territory has become irrelevant; what surplaces it is the words' "impact on my membership in my coalition, and the success of myself and that coalition in playing political games." [[Zvi]] continues:
 
 > To the purely political actor, the implausible lie is better. If the lie is implausible, then those repeating it have sent a costly signal of loyalty, and cut ties with lower levels. You don’t have to worry they repeated the statement because it happens to match the physical world, or that they will refuse to repeat the next one if it fails to match. 
 

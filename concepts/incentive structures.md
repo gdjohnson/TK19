@@ -1,5 +1,5 @@
 # Broken and perverse incentives
-Zvi, interview:
+[[Zvi]], interview:
 
 > Within a given organization, what I call the maze level, the amount of maze activity relative to other activity, is almost always going up, or at least not going down. It is very difficult to reduce the amount of maze actiivity because people who are in a maze, who want to be rewarded in a maze, realize they will gain by rewarding  behaviors that encourage maze behavior. It's a self-reinforcing implicit conspiracy: you drive out anybody who doesn't support the conspiracy. Once this gets sufficient toe-hold, it is very difficult to reverse. 
 

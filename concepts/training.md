@@ -4,7 +4,7 @@ Humans are socially sensitive: many of their values, beliefs, and desires are so
 
 _See subsection on tacit coordination, in the [[Strategic Interaction]] entry._
 
-Training can occur deontologically or consequentially, that is, through [[imitation]] or [[emulation]], respectively. Deontological training minimizes the evolution and adaptation of practices. Consequential training runs into wireheading and Goodhart problems a la [[surogationAndDegeneratePlay]]. This is the difference between following someone around at the office and being given target methods.
+Training can occur deontologically or consequentially, that is, through [[imitation]] or [[emulation]], respectively. Deontological training minimizes the evolution and adaptation of practices. Consequential training runs into wireheading and Goodhart problems a la [[surrogation]] and [[degeneration#Degenerate play|degenerate play]]. This is the difference between following someone around at the office and being given target methods.
 
 Most human learning and coordination occurs tacitly. How do members learn to tacitly coordinate, and maintain congenial expectations? Through an "attunement" to one anothers "full bodily and somatic presence," subtle cues of affirmation, surprise, confusion, disappointment, etc. (The "surprising ability of humans to read each other" [Pentland 2008] and perform face-work, as explored by Rochat, Tomasello and many other thinkers.)
 

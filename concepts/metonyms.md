@@ -54,7 +54,7 @@ Gary Klein:
 
 > So their decision-making, we call it recognition primed decisions. The decisions are primed by their ability to recognize situations, and balanced by the monitoring of the mental simulation.
 
-(See also the [[generalizedCompatibilism|compatibilism]] here of Theory Theory and Simulation Theory.)
+(See also the [[generalized compatibilism|compatibilism]] here of Theory Theory and Simulation Theory.)
 
 # Commonplace
 

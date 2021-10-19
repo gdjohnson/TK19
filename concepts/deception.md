@@ -37,3 +37,8 @@ Scott Alexander, "Trivers on Self-Deception":
 > […]
 
 > Trivers’ theory has been summed up by calling consciousness “the public relations agency of the brain”. It consists of a group of thoughts selected because they paint the thinker in a positive light, and of speech motivated in harmony with those thoughts. This ties together signaling, the many self-promotion biases that have thus far been discovered, and the increasing awareness that consciousness is more of a side office in the mind’s organizational structure than it is a decision-maker.
+
+## Commonplace
+
+[[Richard Feynman]] on [[cargocult]] science:
+![["Cargo Cult Science"#^a39945]]
