@@ -1,5 +1,6 @@
+- [["Metric Prose in Austen's _Emma_"]] (2016)
 - [["Meta Sequences"]] (2020)
 - [["Reading 'Ignorance, A Skilled Practice'"]] (2020)
-- [["Turning Away from the Signaling Frame"]]
+- [["Turning Away from the Signaling Frame"]] (2021)
 - [[''Notes on the Inexact Sciences"]] (2021)
 - [["Games of Strategy are Games of Reading and Writing"]] (2021)

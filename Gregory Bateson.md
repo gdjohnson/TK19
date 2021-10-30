@@ -1,1 +1,0 @@
-Bateson is a Jungian anthropologist turned cyberneticist who was married to [[Margaret Mead]].

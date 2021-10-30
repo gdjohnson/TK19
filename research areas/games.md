@@ -13,6 +13,7 @@ For unclear reasons, the games metaphor—much like the once-nascent field of [[
 - [[_House of Games_]]
 - [[concepts/Games]]
 - [[Incentive Structures]]
+- [[the Metagame]]
 - [[Rules]]
 - [[Sporting vs Herding]]
 - [[Sports]]

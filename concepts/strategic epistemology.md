@@ -6,6 +6,8 @@ aliases: willful blindness, motivated ignorance, strategic ignorance
 
 There is a moral dimension to strategic ignorance, which is perhaps the dimension most commented-on. If you can compartmentalize and deny that you are hurting someone, you can continue doing it. (This is how the meat industry works.)
 
+"Justifiability is the leash on our freedom." (Maq 3)
+
 # Strategic Knowingness
 
 # Strategic legibility

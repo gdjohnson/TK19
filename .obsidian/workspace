@@ -4,26 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e6609db454fc11",
+        "id": "9fcb01832d2a17fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_The Flamethrowers_.md",
+            "file": "concepts/opticratics.md",
+            "mode": "source"
+          }
+        },
+        "group": "4c415ab1a70b0115"
+      },
+      {
+        "id": "9c5d1baa5001ea8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/authenticity.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b3bb03f6155be3cf",
+        "id": "a5175f63d4cb0d62",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "outline",
           "state": {
-            "file": "_The Flamethrowers_.md",
-            "mode": "source"
+            "file": "concepts/opticratics.md"
           }
-        }
+        },
+        "group": "4c415ab1a70b0115"
       }
     ],
     "direction": "vertical"
@@ -50,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"inner ring\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ae76fd212343dc5",
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_The Flamethrowers_.md",
+                "file": "concepts/authenticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_The Flamethrowers_.md",
+                "file": "concepts/authenticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_The Flamethrowers_.md"
+                "file": "concepts/authenticity.md"
               }
             }
           }
@@ -120,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8e6609db454fc11",
+  "active": "9c5d1baa5001ea8a",
   "lastOpenFiles": [
-    "_The Flamethrowers_.md",
-    "magic.md",
-    "asceticism.md",
-    "Untitled.md",
-    "concepts/compression.md",
-    "verstehen.md",
-    "concepts/ethnomethodology.md",
-    "concepts/games.md",
-    "concepts/intentionality.md",
-    "research areas/intelligence.md"
+    "concepts/authenticity.md",
+    "concepts/opticratics.md",
+    "concepts/strategic epistemology.md",
+    "concepts/the metagame.md",
+    "concepts/knowledge economies.md",
+    "research areas/games.md",
+    "people/Suspended Reason.md",
+    "places and things/Super Smash Bros.md",
+    "texts/\"Turning Away from the Signaling Frame\".md",
+    "texts/\"Metric Prose in Austen's _Emma_\".md"
   ]
 }

@@ -342,12 +342,17 @@ This paper chase encourages all participating members of an institution to act a
 
 _See also [[surrogation#Gioia 2002 Being Good Versus Looking Good Business School Rankings and the Circean Transformation From Substance to Image]]_
 
+![[authenticity#^b2fac9]]
+![[authenticity#^bd1691]]
+
 ![[_The Presentation of Self in Everyday Life_]]
 
 # Optical allyship
 
 Traldi:
 > The critique of “virtue signaling” is associated with the political center and right, although it’s sometimes taken up on the left as well, where it goes by stranger names like “optical allyship” (saying that phrase is in itself a bit of a signal!). The idea is that political progressives’ interest in _seeming_ good does not always help, and sometimes hinders, any genuine interest they might have in _doing_ the right thing.
+
+# 
 
 # Further reading
 
