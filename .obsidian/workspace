@@ -6,10 +6,11 @@
       {
         "id": "9fcb01832d2a17fb",
         "type": "leaf",
+        "dimension": 67.71589991928974,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research areas/games.md",
+            "file": "concepts/generalized compatibilism.md",
             "mode": "source"
           }
         },
@@ -18,6 +19,7 @@
       {
         "id": "9c5d1baa5001ea8a",
         "type": "leaf",
+        "dimension": 16.142050040355127,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,10 +31,11 @@
       {
         "id": "a5175f63d4cb0d62",
         "type": "leaf",
+        "dimension": 16.142050040355127,
         "state": {
           "type": "outline",
           "state": {
-            "file": "research areas/games.md"
+            "file": "concepts/generalized compatibilism.md"
           }
         },
         "group": "4c415ab1a70b0115"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research areas/games.md",
+                "file": "concepts/generalized compatibilism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research areas/games.md",
+                "file": "concepts/generalized compatibilism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research areas/games.md"
+                "file": "concepts/generalized compatibilism.md"
               }
             }
           }
@@ -135,15 +138,15 @@
   },
   "active": "9fcb01832d2a17fb",
   "lastOpenFiles": [
+    "concepts/generalized compatibilism.md",
     "research areas/games.md",
+    "concepts/authenticity.md",
     "concepts/games.md",
     "concepts/opticratics.md",
-    "concepts/authenticity.md",
     "concepts/strategic epistemology.md",
     "concepts/the metagame.md",
     "concepts/knowledge economies.md",
     "people/Suspended Reason.md",
-    "places and things/Super Smash Bros.md",
-    "texts/\"Turning Away from the Signaling Frame\".md"
+    "places and things/Super Smash Bros.md"
   ]
 }

@@ -6,6 +6,16 @@ Zen teachings brought over to the West were framed in terms of giving up "ego ga
 Ken Kesey berated the Free Speech Movement Rally participants in '65 for "playing their [the government/establishment's] game," an ego and consumer game. Timothy Leary uses a game metaphor throughout *The Tibetan Book of the Dead*, casting personality as the product of game-playing. Central to these proclamations were a desire—and belief in the possibility of—escaping not just mainstream games, but the playing of games period, through counter-culture. Tom Wolfe writes in _The Electric Kool-Aid Acid Test_:
 > There is a lot about games. The straight world outside it seems, is made up of millions of people involved, trapped, in games they aren't even aware of.
 
+From Joe South's 1968 "Games People Play":
+> Whoa, the games people play now
+> Every night and every day now
+> Never meanin' what they say now
+> Never sayin' what they mean
+> While they wile away the hours
+> In their ivory towers
+> 'Til they're covered up with flowers
+> In the back of a black limousine
+
 For unclear reasons, the games metaphor—much like the once-nascent field of [[strategic interaction]]—petered out.
 
 ## Entries
