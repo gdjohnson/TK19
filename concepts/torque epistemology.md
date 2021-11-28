@@ -4,6 +4,8 @@ See also [[asumption ground]] and [[knowledge economies|intellectual dark matter
 
 Torque epistemology should not be confused with underpricing/overpricing ideology.
 
+Torque opinions are _corrective reactions_ to a _perceived-as-hegemonic_ opinion or ideology experienced of one's _wrapping subculture_.
+
 # Introduction
 
 Discourse is not a set of in-a-vacuum positions people hold. It's a series of rhetorical moves in a conversation whose center is an emphasis, a general sensibility. And people speak in *response* to what they perceive as the pre-existing emphasis. In [[John Nerst]]'s vocabulary, this emphasis is the "signal," the dominant or "hegemonic" stance. Crucially, the signal is _socially situated_: it is a perception of the social ring which wraps around one's subcultural situation, or rather and more generally, is the perceived stance of the addressed audience.
@@ -178,6 +180,10 @@ Merely continuing to affirm the status quo is low in [[interestingness]], inform
 
 From a memorial piece on [[Bill McGuire]]:
 > Finally, McGuire (1997) eagerly welcomed the advent of evolutionary theo- rizing when it comes to the structure and functions of human cognition and behavior and observed that, "A functional, adaptivity orientation deriving from evolutionary presuppositions is probably the most common metatheory guiding contemporary psychologists, at least implicitly" (p. 20). Although McGuire rec- ognized (and condemned) past abuses of evolutionary psychology (e.g., eugenics, social Darwinism), he concluded that "it would be maladaptive to abandon all use of intellectual tools that could lead to error or be politically incorrect" (p. 20; see also McGuire, 1999, p. 402).
+
+## BBC, "Our Time" on Iris Murdoch
+> [[Iris Murdoch|Murdoch]]'s views are formed in opposition to a picture of morality that was dominant at Oxford both when she arrived as a student and when she arrived as a fellow at St Anne's. 
+
 
 # See also
 

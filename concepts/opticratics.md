@@ -349,6 +349,9 @@ This paper chase encourages all participating members of an institution to act a
 
 _See also [[surrogation#Gioia 2002 Being Good Versus Looking Good Business School Rankings and the Circean Transformation From Substance to Image]]_
 
+![[authenticity#^b2fac9]]
+![[authenticity#^bd1691]]
+
 ![[_The Presentation of Self in Everyday Life_]]
 
 # Optical allyship

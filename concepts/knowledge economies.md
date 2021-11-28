@@ -36,3 +36,9 @@ On proprietary knowledge, and the quest for it:
 > In World War II, Germany’s Wernher von Braun developed the V-2 rocket — the first guided ballistic missile — with devastating success. Neither Germany’s rivals, nor its allies possessed the technology, and Germany was sure to keep this knowledge close to its chest. As the war was ending, the SS closely guarded von Braun and his team with orders to execute them if the Allies approached. Nonetheless, the scientists managed to escape and surrender to Allied forces, after which they were immediately sent to the U.S. to train teams of American engineers and military personnel in rocketry. This was not an isolated case — the U.S. and the U.S.S.R. both carried out large special operations to capture German personnel with valuable tacit knowledge, and both benefited immensely from it.
 
 > Lost knowledge is not just ancient. Strategic actors of the present understand the advantage of locating and revitalizing recently lost traditions of knowledge. If you aspire to build world-class rocket engines today, you might go to great depths, even deep-sea depths, to understand rocket construction during the golden age of American space exploration. In 2013, Jeff Bezos recovered two Apollo 11 rockets from the bottom of the ocean. Do you believe that he donated them to the Smithsonian without having the team at Blue Origin, his aerospace company, reverse-engineer them first?
+
+# Informal hierarchies and organizational structure
+
+See Tolstoy on informal hierarchies, C.S. Lewis on the "inner ring".
+
+[[informalOrgChart.jpeg]]

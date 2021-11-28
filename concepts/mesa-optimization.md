@@ -2,6 +2,8 @@ Mesa-optimization is a concept from AI alignment. It is directly relevant to the
 
 To be a "mesa-optimizer" is merely to take a perspective in a system of layers. While the coining authors discuss systems that have a single base-optimizing layer and a single mesa-optimizing layer, there can be many systems of nested selection and optimization. Many [[superorganisms]] are composed of nested optimization layers or [[Markov blankets]]: societies are selected based on economic power within the larger geopolitical landscape; governments attempt to incentivize and assist businesses which can usher in economic flourishing; these businesses have their own goals only partially aligned with the government's, and their economic success within the larger market is largely premised on employee behavior; companies hire and promote employees that they believe will advance their own goals; these employees have goals of their own which are only somewhat aligned with the goals of their employer, etc.
 
+A given generation of mesa optimizer is only guaranteed to meet the criteria of the base optimizer conditional on the environment being identical to that experienced by the previous generation." (Which is impossible in all real-world, open/complex systems, in which no two states are ever identical.)
+
 # Hubringer et al 2019: Risks from Learned Optimization
 
 ## What is mesa optimization?
