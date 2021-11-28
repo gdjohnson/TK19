@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/generalized compatibilism.md",
+            "file": "concepts/all communication is manipulation.md",
             "mode": "source"
           }
         },
@@ -35,7 +35,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "concepts/generalized compatibilism.md"
+            "file": "concepts/all communication is manipulation.md"
           }
         },
         "group": "4c415ab1a70b0115"
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/generalized compatibilism.md",
+                "file": "concepts/all communication is manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/generalized compatibilism.md",
+                "file": "concepts/all communication is manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/generalized compatibilism.md"
+                "file": "concepts/all communication is manipulation.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "9fcb01832d2a17fb",
   "lastOpenFiles": [
+    "concepts/all communication is manipulation.md",
     "concepts/generalized compatibilism.md",
     "research areas/games.md",
     "concepts/authenticity.md",
@@ -146,7 +147,6 @@
     "concepts/strategic epistemology.md",
     "concepts/the metagame.md",
     "concepts/knowledge economies.md",
-    "people/Suspended Reason.md",
-    "places and things/Super Smash Bros.md"
+    "people/Suspended Reason.md"
   ]
 }

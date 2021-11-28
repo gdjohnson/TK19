@@ -4,6 +4,8 @@ All communication is manipulation. Some manipulation is mutually advantageous.
 
 (See also _interpersonal legibility_, not to be confused with legibility in the systems sense.)
 
+All language is strategic representation in the interest of creating effects via the alteration of individuals' mental models. _Speech acts_ are instances of language operating within purely symbolic domains (i.e. without corresponding territory).
+
 Karen Pryor, _Don't Shoot the Dog_:
 > To people schooled in the humanistic tradition, the manipulation of human behavior by some sort of conscious technique seems incorrigibly wicked, in spite of the obvious fact that we all go around trying to manipulate one another’s behavior all the time, by whatever means come to hand.
 
