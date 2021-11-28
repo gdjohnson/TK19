@@ -2,6 +2,10 @@ _See the related entries on [[Overhaulism]], [[surrogation]] and [[Complexity]].
 
 There's no question: the top can see things the bottom cannot, and vice-versa.
 
+![[illegibility.png]]
+
+"Now is a moment of [[persona|masks]] and the hard-to-decipher." (Dean Kissick, "Downward Spiral pt. 2")
+
 # Seeing Like A State 
 
 Much as we see with massaged maps in [[opticratics]] and [[degeneration#Degenerate play|degenerate play]]—for instance, the way crimes are categorized in various police departments alters the evaluation of departmental performance—the specific _mode_ of interpreting, categorizing, or operationalizing, when left up to adversarial players with a competitive stake in the measuring system's outcome, leads to manipulative and strategic interpretation, categorizing, or operationalizing:

@@ -1,1 +1,11 @@
-Bateson is a Jungian anthropologist turned cyberneticist who was married to [[Margaret Mead]].
+Bateson is a Jungian anthropologist turned cyberneticist who was married to [[Margaret Mead]]. He worked at the [[Office of Strategic Services]] during WWII. Part of the Greatest Generation, he was in his mid-20s when the Greatest Depression began, and wrote theory throughout the peak of the Cold War/nuclear threat. 
+
+He worked with [[Alan Watts]] on double-binds and schizophrenia.
+
+Bateson saw the Treaty of Versailles and the invention of cybernetics as the most important events of the 20th C. 
+
+Pickering 2010, *The Cybernetic Brain*: 
+> We can leave Bateson by examining the social basis of his cybernetics, and the point to dwell on is his nomadism. Even more than Walter and Ashby, Bateson was a wanderer. He never held a permanent position in his life; his work always lacked a secure institutional base. Instead, apart from temporary teaching positions, he took advantage of the ample funding opportunities available in the postwar United States, although this sometimes left him with no support at all. The schizophrenia project was funded in its first two years by the Rockefeller Foundation, but the grant was not renewed after that and “my team stayed loyally with me without pay.” Eventually, “the Macy Foundation saved us,” followed by grants from the Foundations Fund for Psychiatry and the National Institute of Mental Health. “Gradually it appeared that . . . I should work with animal material, and I started to work with octopuses. My wife, Lois, worked with me, and for over a year we kept a dozen octopuses in our living room. This preliminary work was promising but needed to be repeated and extended under better conditions. For this no grants were available. At this point, [[John Lilly]] came forward and invited me to be the director of his dolphin laboratory in the Virgin Islands. I worked there for a year and became interested in the problems of cetacean communications, but I think I am not cut out to administer a laboratory dubiously funded in a place where the logistics are intolerably difficult.”
+
+# Texts
+- [["Form, Substance, Difference"]]

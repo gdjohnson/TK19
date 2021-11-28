@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8e6609db454fc11",
+        "id": "b6b9a41d09ecfc42",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_The Flamethrowers_.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b3bb03f6155be3cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_The Flamethrowers_.md",
+            "file": "_The Presentation of Self in Everyday Life_.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"intelligent social web\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_The Flamethrowers_.md",
+                "file": "_The Presentation of Self in Everyday Life_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_The Flamethrowers_.md",
+                "file": "_The Presentation of Self in Everyday Life_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_The Flamethrowers_.md"
+                "file": "_The Presentation of Self in Everyday Life_.md"
               }
             }
           }
@@ -120,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8e6609db454fc11",
+  "active": "b6b9a41d09ecfc42",
   "lastOpenFiles": [
-    "_The Flamethrowers_.md",
-    "magic.md",
-    "asceticism.md",
-    "Untitled.md",
-    "concepts/compression.md",
-    "verstehen.md",
-    "concepts/ethnomethodology.md",
+    "_The Presentation of Self in Everyday Life_.md",
+    "concepts/opticratics.md",
+    "concepts/inexact sciences.md",
+    "concepts/consequentialism.md",
     "concepts/games.md",
-    "concepts/intentionality.md",
-    "research areas/intelligence.md"
+    "research areas/games.md",
+    "Untitled 2.md",
+    "cybernetics.md",
+    "concepts/rectangle vision.md",
+    "Gregory Bateson.md"
   ]
 }

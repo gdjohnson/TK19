@@ -17,3 +17,5 @@ Kanye West, 2021 GQ interview:
 > Because the meat I eat is earned not with a piece of paper but with my own sweat and work in the woods. Through detective work: tracking animals, learning their habits, their proclivities, etc.
 
 The rectangular nature of modern life is related to James C. Scott's [[legibility]] concept as well as (loosely, via Sam Fussell's observations) the [[surrogation]] and [[simulacra]] concepts.
+
+The "carpentered world" is a concept advanced by South African psychologist William Hudson in the 1960s, to explain why sub-Saharan African tribal members were not suceptible to the same rectangular/trapezoidal optical illusions that Westerners are (e.g. Ames window illusion, Müller-Lyer illusion). Subsequent studies have failed to confirm the hypothesis.

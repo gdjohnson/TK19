@@ -46,6 +46,11 @@ Perissinotto reflects:
 
 > From this perspective metaphysics is philosophy that models itself on science and that shares with science what [[Wittgenstein]] calls "the craving for generality" (or "I could also have said, _the contemptuous attitude towards the particular case_"). In any event, we cannot but note that, for Wittgenstein, the roots of this "craving for generality" are to be found, long before the method of modern science, in Plato, who constantly, in his dialogues, and in _Theaetetus_ in particular, "dismisses as irrelevant the concrete cases": "When [[Socrates]] asks the question 'What is knowledge?' he does not even regard it as a _preliminary_ answer to enumerate cases of knowledge." [_See also [[Indexicality]] entry._]
 
+## Charles Cooley,
+
+[[Charles Cooley]], 1902's [[_Human Nature & The Social Order_]], on how scientism takes hold via surrogation:
+> And the same impulse to show the world a better or idealized aspect of ourselves finds an organized expression in the various professions and classes, each of which has to some extent a cant or pose, which its members assume unconsciously, for the most part, but which has the effect of a conspiracy to work upon the credulity of the rest of the world. There is a cant not only of theology and of philanthropy, but also of law, medicine, teaching, even of science—perhaps especially of science, just now, since the more a particular kind of merit is recognized and admired, the more it is likely to be assumed by the unworthy. As theology goes down and science comes up, the affectation of disinterestedness and of exactness in method tends to supplant the affectation of piety.
+
 # Rigorizing pipeline
 
 _See [[rigorizing pipeline]] entry._

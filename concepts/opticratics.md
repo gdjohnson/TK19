@@ -1,5 +1,5 @@
 ---
-aliases: optocracy, opticratic, image-oriented
+aliases: opticracy, opticratic, image-oriented
 ---
 
 "The first duty in life is to assume a pose. What the second is, no one has yet discovered." (Oscar Wilde)
@@ -9,6 +9,8 @@ aliases: optocracy, opticratic, image-oriented
 "Authenticity has been weaponized. It’s a term that’s really been abused. You can almost say today’s society is characterized by an authenticity-industrial complex. We’re more concerned with appearing real than being real." (Eric Hu, _SSense_)
 
 "Authenticity has come to mean 'well-integrated social performance.'" (Crystal Cultures)
+
+"The attentive pupil who wishes to _be_ attentive, his eyes riveted on the teacher, his ears open wide, so exhausts himself in playing the attentive role that he ends up by no longer hearing anything." (Sartre)
 
 “How, simply on the basis of patterns of stimulation across the sensory receptors, can embodied, situated brains alter and adapt so as to act as useful nodes (ones that incur considerable metabolic expense) for the origination of adaptive response? Notice how different this conception is to ones in which the problem is posed as one of establishing a mapping relation between environmental and inner states. The task is not to find such a mapping but to infer the nature of the signal source (the world) from just the varying input signal itself.” (Andy Clark, Surfing Uncertainty)
 
@@ -243,9 +245,14 @@ _4'33"_ isn't interesting because it teaches us that "There's no such thing as s
 
 What's interesting about _4'33"_ is what happens to audiences, _as a result of the work's framing_. Not on the first performance, the much-talked about inaugural show to a naive audience at an Upstate artist colony's half-outdoor theater. But on those that follow. Once the piece is understood, by audiences who attend it, as being "about" the ambient sounds in the concert hall, a performance pressure inevitably enters. And there is no clear script for how to behave under the spotlight; many audience members may not even have realized, _until they are seated and the work has begun_, that they are performers; and now they do not know whether to stay perfectly silent or make noises. Nothing can be "natural" in this situation—one considers, self-consciously, shifting around in one's seat, or reaching for one's purse, or coughing. A scratch in the throat becomes a dilemma—for the anxious, a full-blown crisis. When the concert hall is too silent, nothing happens, the crowd yearns for an Event—who will supply it? But conscious, deliberate noises—making sounds instead of listening—is at the same time taboo, against the point of the piece, which desires a _lack_ of self-consciousness even as it creates, inevitably, its opposite—extreme self-consciousness. These two poles tear at the listener. They wish to _be_ authentic and to _appear_ authentic. The trouble is, those ends are frequently in conflict.
 
-# TLP's narcissism
+# Contemporary exacerbation
+
+## TLP's narcissism
 
 Many of the observations of opticratics align with TLP's concept of narcissism—the triumph of image over actuality. The problem is that by using the narcissism frame, TLP casts it as a neurosis. The problem is that neuroses are typically maladaptive, and opticsmization is, rather, a strategic approach. The problem is that external strategies become internal priorities, cf. "the mask if the face."
+
+## Geoff Mak on art world
+> Even the word Basel had become a code word for cultural excess, an adlib to fill in the “What happens at stays at” dictum, a pride festival for Northeast liberals, an excuse to use “art” as stand-ins for “social awareness” and “criticality” that, instead of reining in excess, otherwise affirms the 24-hour hedonism of coke and neon. If politics is downstream from culture, then here was the culture: cultish, narcissistic, obsessed with petty optics over a coherent ideology, and eternally paranoid about minor distinctions up and down the social caste system.
 
 # Dissimulation
 
@@ -349,6 +356,12 @@ _See also [[surrogation#Gioia 2002 Being Good Versus Looking Good Business Schoo
 Traldi:
 > The critique of “virtue signaling” is associated with the political center and right, although it’s sometimes taken up on the left as well, where it goes by stranger names like “optical allyship” (saying that phrase is in itself a bit of a signal!). The idea is that political progressives’ interest in _seeming_ good does not always help, and sometimes hinders, any genuine interest they might have in _doing_ the right thing.
 
+![[_The Presentation of Self in Everyday Life_]]
+
+# LARPing
+
+![[consequentialism#^912523]]
+
 # Further reading
 
 Wiki pages worth investigating:
@@ -363,3 +376,4 @@ DOIs:
 
 # Footnotes
 [^1] Potemkin villages are those, according to legend, constructed by Gregory Potemkin in order to impress Russia's Empress Catherine II—all gorgeous facade without backing. In some renditions of the story, these facades were removed, once Catherine had passed, and quickly transported to a point further along her path, where they were reused as if a new structure. Similar cases abound in the Cold War, and in North Korean relations with the Western world. One infamous story regarding Boris Yeltsin tells that, when he visited Texas in the 1980s, he believed the abundance of food in American supermarkets was potemkin, and, disbelieving, demanded to be driven to scattered supermarkets in other areas of the state to confirm their veracity. See also North Korea's "Peace Village," Nazi Germany's "Paradise Ghetto," and Enron's fake trading floors.
+

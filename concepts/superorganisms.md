@@ -87,3 +87,11 @@ The information metaphysics approach:
 # Chat History
 
 ![[theInexactSciences20200525]]
+
+# Levels of organization in superorganisms
+
+_See also [[mesa-optimization]], [[alignment]] entries_.
+
+Management is the job of "weaving disparate parts into a coherent whole using well-specified overarching goals" (Mannheim 2016) and solve principle-agent problems. 
+
+![[_Language in Thought and Action_#Korzybski's abstraction ladder]]

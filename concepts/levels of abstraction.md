@@ -10,10 +10,4 @@ Different levels of abstraction mean that different claims which, on surface, ap
 
 > Because of the enclosure-within-enclosure-within-enclosure form of [CAS] niches, it is necessary to pick a "lowest level" at which to lay out a corresponding network. The lowest level is typically chosen as a set of easily distinguishable components relevant to a question of interest. For example, in studying the global economy, we could choose industries as the lowest-level agents. Of course, these "lowest-level" components can often be further decomposed into still lower-level components, proceeding step by step to the level of atoms or below. But **inappropriate levels of decomposition can make it difficult to answer the question of interest.**
 
-# Levels of organization in superorganisms
 
-_See also [[mesa-optimization]], [[alignment]] and [[superorganisms]] entries_.
-
-Management is the job of "weaving disparate parts into a coherent whole using well-specified overarching goals" (Mannheim 2016) and solve principle-agent problems. 
-
-![[_Language in Thought and Action_#Korzybski's abstraction ladder]]

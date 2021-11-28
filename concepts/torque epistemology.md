@@ -186,6 +186,26 @@ Mike Caulfield 2015, "The [[Garden]] and the Stream: A Technopastoral":
 > In many ways the Stream is best seen through the lens of Bakhtin’s idea of the utterance. Bakhtin saw the utterance, the conversational turn of speech, as inextricably tied to context. To understand a statement you must go back to things before, you must find out what it was replying to, you must know the person who wrote it and their speech context. To understand your statement I must reconstruct your entire stream.
 > Whereas the [[garden]] is integrative, the Stream is self-assertive. It’s persuasion, it’s argument, it’s advocacy. It’s personal and personalized and immediate. It’s invigorating. And as we may see in a minute it’s also profoundly unsuited to some of the uses we put it to.
 
+# Torque in cultural arenas
+
+From [Reddit criticisms of Lauren Oyler's Sebald essay](https://www.reddit.com/r/TrueLit/comments/qurvz2/desperately_seeking_sebald_by_lauren_oyler/):
+
+/u/z003y:
+> I can only imagine that her feelings there arise from a context in which Sebald is constantly invoked with such reverence by her peers/friends/Internet people (ie. these absolute posers who talk about the lettuce dreams in Austerlitz). The books are "needy" because they aren’t her taste — but why? They seem to be everyone else's. I think her more tapered criticism, in reckoning with a personal dissatisfaction with Sebald, seems to be of really annoying, “very online” people who unthinkingly profess to like him because the New Yorker tells them to.
+
+What if this ("her criticism of X... seems really to be about the annoying stans of X") is like how 90% of cultural warfare/discursive games happens.
+
+/u/Nessyliz:
+> I find it exhausting the way critics these days are constantly invoking other people's reactions as part of their criticism, other people's feelings as part of how they feel about something. I totally get it, and I understand what they're doing, I even have some sympathy for that viewpoint, but in the end it just drives me a bit crazy. It feels immature to me, like the way I used to think about stuff when I was very young. I think there are ways to do that kind of cultural criticism (examining the minutiae of how something is received) but I don't prefer the way Lauren goes about it. 
+
+And from David Kurnick's "Games of Taste" (Paris Review 2021):
+>A few years ago, I attended an academic conference where a prominent scholar of Latin American literature announced that he hated _The Savage Detectives_, a novel he considered overwritten and overrated. The statement provoked enthusiastic hooting from the back of the room, as if in glee at a taboo being broken. At the coffee break, I approached the critic and confessed I was a fan of the novel. Bolaño is a one-trick pony, he replied, and his trick is to parody and empty out the genres of Latin American literature—the dictator novel, the _novela negra_, the novel of testimony, and so on. This trick organized his writing at the level of the sentence, the chapter, and the novel. I said this sounded like an interesting trick, at least; he conceded that it was true Bolaño was a master at this exercise—but once you saw the trick there was nothing else, and hispanophone writers were no longer interested in his work. He claimed, happily, that the Latin American sales of Bolaño’s books were down.
+>Medina Mora doesn’t say Bolaño’s novel is bad. But he sug­gests that it’s peculiarly liable to being liked in bad ways. A lot of Bolaño skepticism turned on this fine distinction. In the aca­demic world, a 2009 essay by Sarah Pollack, a specialist in Latin American literature, offered a carefully argued version of Medina Mora’s point. Pollack made it clear she considers Bolaño a writer of “genius,” but maintained that this was only one component in the runaway anglophone success of _The Savage Detectives._
+>Other writers followed suit. There was a piece decrying the “Bolaño Myth,” another warning of the “Roberto Bolaño Bub­ble.” The latter, in _The_ _New Republic_, regretted high-mindedly that when such a small percentage of books published in English is translated from other languages—3 percent is the commonly floated number, 0.7 percent if you just count literary fiction and poetry—Bolaño was taking up more than his fair share, espe­cially with the posthumous publications: “We have enough,” the piece concluded. Worse, this writer claimed, Bolaño’s popular­ity had “hidden costs,” among them the risk that anglophone readers will think “that he is the only Latin American writer of importance to emerge” since García Márquez.
+> If aesthetic judgment is particularly vulnerable to “games of influence” (Genette), the game here seemed to be operating according to rules nobody wanted to state openly. The sense you got was that it was embarrassing to be caught liking Bolaño, even if it was hard to say why... And in truth, I could relate. It _was_ embarrassing to be an American who liked Bolaño, and not just because in doing so one may have become a dupe of marketers or indulged in exoticizing projections.
+
+And yet it's not so hard to say why; in a word, the book's popularity; in a word, critics believed the book was over-rated.
+
 # Transcript
 
 210817

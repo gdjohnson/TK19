@@ -1,5 +1,7 @@
 _See also [[Strategic Interaction]]._
 
+Austen calls the ability to see into the future, [[generalized reading|read individuals]], and act [[strategic interaction|strategically]] "penetration." In _The Count of Monte Cristo_, Dumas refers to a granite wall as being "as impenetrable as futurity."
+
 # Kilcullen 2006: Twenty-eight articles
 
 > [[trust]] is a function of reliability. Indeed, in local languages in many part of the world where we operate, the words for "honor" and "reliability" are similar or the same. Dependability is key—local people must believe that you will follow through and deliver on promises in a reliable manner. Over time, the predictability and order that you create through dependability makes people feel safer and encourages them to work with you.

@@ -1,8 +1,4 @@
----
-aliases: difference
----
-
-See also Bateson on difference.
+_See also [[difference]] entry._
 
 # Information Philosopher
 Three axioms of identity:
