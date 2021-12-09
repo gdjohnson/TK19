@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9fcb01832d2a17fb",
-        "type": "leaf",
-        "dimension": 67.71589991928974,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "concepts/fit.md",
-            "mode": "source"
-          }
-        },
-        "group": "4c415ab1a70b0115"
-      },
-      {
         "id": "9c5d1baa5001ea8a",
         "type": "leaf",
-        "dimension": 16.142050040355127,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/authenticity.md",
+            "file": "_Games People Play_.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a5175f63d4cb0d62",
-        "type": "leaf",
-        "dimension": 16.142050040355127,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "concepts/fit.md"
-          }
-        },
-        "group": "4c415ab1a70b0115"
       }
     ],
     "direction": "vertical"
@@ -65,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crossing",
+                "query": "\"games people play\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/fit.md",
+                "file": "_Games People Play_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/fit.md",
+                "file": "_Games People Play_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/fit.md"
+                "file": "_Games People Play_.md"
               }
             }
           }
@@ -135,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fcb01832d2a17fb",
+  "active": "9c5d1baa5001ea8a",
   "lastOpenFiles": [
-    "concepts/fit.md",
-    "concepts/creepiness.md",
-    "concepts/strategic epistemology.md",
-    "concepts/legibility.md",
-    "texts/\"How To Be Attractive\".md",
-    "concepts/all communication is manipulation.md",
-    "concepts/generalized compatibilism.md",
+    "_Games People Play_.md",
+    "Eric Berne.md",
     "research areas/games.md",
-    "concepts/authenticity.md",
-    "concepts/games.md"
+    "Leonard Cohen.md",
+    "people/Ludwig Wittgenstein.md",
+    "people/Jean Francois Lyotard.md",
+    "research areas/strategic interaction.md",
+    "places and things/military strategy.md",
+    "images/Pasted image 20211209190007.png",
+    "images/active inference conflict model.png"
   ]
 }

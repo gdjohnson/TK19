@@ -1,3 +1,7 @@
+---
+alias: Wittgenstein
+---
+
 # Luigi Perissinotto 2003: Wittgenstein and Plato
 
 _See also [[Conceptual Engineering]], [[conceptual analysis]], and [[Against Philosophy]] entries._

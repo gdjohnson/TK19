@@ -58,7 +58,7 @@ Selection games: when the Queen rides through town, her people are gonna adverti
 
 [[Opticratics]]: “Honesty is the best policy” is strongly contingent on strong cultural technologies for monitoring. (The monitoring constrains, so your self-presentation has to be ballpark with what a third-party observer would witness/tell from monitoring tech.) It is highly socially and culturally indexical, e.g. if you are in a small community that is constantly ecologically huddled such that everyone is monitoring everyone else always. The more distant, and less huddled or ecologically proximate, individuals are, the less monitoring capacity. (The more costly it is to monitor.) Monitoring makes it costlier to lie, b/c you then must actively change your behavior to match the lie whenever you are witnessed, in whatever ways (cues, sensory channels) are monitored.
 
-[[A heuristic is necessarily scoped to the distribution it’s optimized over.]]
+[[a heuristic is necessarily scoped to the distribution it’s optimized over]]
 
 Further, actually monitoring everything is impossible, because the monitors end-up being biased and framed to do certain things. An infinite regress of monitors is not possible, because the universe is finite.
 

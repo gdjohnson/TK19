@@ -1,4 +1,6 @@
-_Parts hide one another; and when the artifact is completed the activity that fits them together disappears completely._ (Bruno Latour)
+_See also [[a heuristic is necessarily scoped to the distribution it’s optimized over]] and [[a solution is indexical to its problem]] entries._
+
+Bruno Latour: "Parts hide one another; and when the artifact is completed the activity that fits them together disappears completely."
 
 Fitness, or "fit," refers to the quality of two or more things being complimentary, harmonious, or interlocking. Fit refers specifically to a relationship between parts. Used first by Christopher Alexander in _Notes on the Synthesis of Form_, and taken up again by [[Sarah Perry]] in her _Ribbonfarm_ essays, "fit" is less a new way of understanding artistic composition and more an abstraction of existing theories of composition and art. It originates in the observation that traditionally understood elements of composition like "unity," "balance," "rhythm," "pattern," and "contrast" are variations on the quality of complimentary interlock between disparate parts — then takes it further, observing as well that interlock exists not just between the parts of a work, or between part and whole, but also between whole and audience, whole and culture, whole and context, be it cultural, situational, artistic, or historical.
 

@@ -1,3 +1,6 @@
+
+![[active inference conflict model.png]]
+
 In a strategic frame, the "[[meaning]]" of an action or interaction is the delta, for its participants or observers—whoever the "meaning" is anchored to—between ante- and post-action future. Anything this delta depends on contributes to the bit's meaning: participants, personal histories and preferences, external circumstances.
 
 ## Blog posts
@@ -12,13 +15,14 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 - [[Everyday interaction]]
 - [[Games]]
 - [[Metonyms]]
+- [[Military strategy]]
 - [[Opticratics]]
 - [[Predictive Processing]]
 - [[Reciprocity]]
 - [[Rules]]
 - [[Selection Games]]
 - [[Strategic interaction in fiction]]
-- [[Strategy of Conflict]]
+- [[_Strategy of Conflict_]]
 
 ### Sub-entries
 -[[_Language in Thought and Action_#Strategic language]]

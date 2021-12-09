@@ -16,7 +16,7 @@ Austen calls the ability to see into the future, [[generalized reading|read indi
 
 # Reason 2020: Mutual modeling of futures
 
-A lot of the work that human beings are up to is basically about self-representing future states. Schelling talks about what strategy is in _The Strategy of Conflict_: basically, it’s mutual anticipation. Because your actions (and your future actions) are going to change the environment in which my own decisions and actions exist. ([[The solution is indexical to the problem]].) That means that if I want to optimize my own future, then I need to anticipate yours.
+A lot of the work that human beings are up to is basically about self-representing future states. Schelling talks about what strategy is in _The Strategy of Conflict_: basically, it’s mutual anticipation. Because your actions (and your future actions) are going to change the environment in which my own decisions and actions exist. ([[a solution is indexical to its problem]].) That means that if I want to optimize my own future, then I need to anticipate yours.
 
 Impression management, then, is basically projecting an image of your own patterns and intentions that will cause other players to behave in the way most beneficial to you. [[All communication is manipulation]]. 
 
