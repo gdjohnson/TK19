@@ -24,7 +24,7 @@ Some parallels here to Lacan's _objet petit a_, which Zizek compares to Hitchcok
 
 Paul Meiser of Lehman Brothers: "We must shift America from a needs to a desires culture... man's desires must overshadow his needs."
 
-In Curtis's telling, American working and middle-class culture shifts from a pragmatic orientation to consumption, to an identity-based orientation: to become a type of person, to embody a certain spirit, to feel a certain way (due to feeling like a person...). Edward Bernays, the American nephew of [[Sigmund Freud|Freud]] and the inventor of the "public relations concept," helped spearhead this change, with his propagandistic work for the US gov during WWI, and then his successful "torches of freedom" cigarette campaign, to end the stigma of women smoking. (Well-placed debutantes, inhaling on-camera.)
+In Curtis's telling, American working and middle-class culture shifts from a pragmatic orientation to consumption, to an identity-based orientation: to become a type of person, to embody a certain spirit, to feel a certain way (due to feeling like a person...). Edward Bernays, the American nephew of [[people/Sigmund Freud|Freud]] and the inventor of the "public relations concept," helped spearhead this change, with his propagandistic work for the US gov during WWI, and then his successful "torches of freedom" cigarette campaign, to end the stigma of women smoking. (Well-placed debutantes, inhaling on-camera.)
 
 Mrs Stillman, celebrity aviator in the 1920s, for an ad: "I'm sure all of you are interesting and have wonderful things about you but looking at you in the street you all look so much the same... Try and express yourself better, _in_ your dress. Bring out certain things that you think are hidden."
 

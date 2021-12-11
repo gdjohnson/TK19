@@ -380,7 +380,7 @@ _Tags: [[Matt McKeever]], [[performativity]], [[Jean Francois Lyotard]], [[stand
 
 [8:57 PM] suspended reason: https://suspendedreason.com/2020/06/02/the-telephone-effect-and-the-reciprocity-of-perspectives/
 
-[8:57 PM] suspended reason: You see it constantly too—[[Sigmund Freud|Freud]] in the 20s, Marx throughout the 20th C
+[8:57 PM] suspended reason: You see it constantly too—[[people/Sigmund Freud|Freud]] in the 20s, Marx throughout the 20th C
 
 [8:58 PM] suspended reason: the "50 words for snow" thing was wild to learn about—that even theorists stopped taking the idea seriously because of its popularization, and it took a real pushback to get it reinstated as canon
 

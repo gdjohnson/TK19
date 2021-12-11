@@ -23,13 +23,7 @@ aquariusacquah
  — Today at 1:34 PM
 [1:34 PM] Albertus_Krungus: well i applaud your honesty
 [1:34 PM] suspended reason: @beiser can you pin this btw so people remember / don't drift off focus
-beiser
- pinned 
-a message
- to this channel. See all 
-pinned messages
-.
- — Today at 1:35 PM
+_beiser pinned a messageto this channel. See all pinned messages._
 [1:36 PM] suspended reason: Albertus if i send you my ethweek party report when I'm done will you live stream your reaction I'm trying to harvest disgust reaction gifs
 instantcalm
  just slid into the server.

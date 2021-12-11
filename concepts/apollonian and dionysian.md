@@ -28,16 +28,16 @@ _Sense and Sensibility_ is a conflict of ideologies between Elinor, "the _sense_
 
 # [[Friedrich Nietzsche|Nietzsche]]
 
-Both [[Friedrich Nietzsche|Nietzsche]] and [[Sigmund Freud|Freud]] are the culmination of a century of Romantic pushback against Renaissance, Enlightenment, and Classical thought with its rationalizing, systematizing impulses. Rather than being Socratically scrutized, life ought to be lived; too much contemplation gets in the way of life's vitality. 
+Both [[Friedrich Nietzsche|Nietzsche]] and [[people/Sigmund Freud|Freud]] are the culmination of a century of Romantic pushback against Renaissance, Enlightenment, and Classical thought with its rationalizing, systematizing impulses. Rather than being Socratically scrutized, life ought to be lived; too much contemplation gets in the way of life's vitality. 
 
-The only healthy morality is ruled by an observance of these instincts, of the pre-intellectualized stuff of life. Like William Blake, urges are the energy source of life, a view that would later be picked up by [[Sigmund Freud|Freud]] and his dynamic unconscious, whose libido is the seat of the unconscious.
+The only healthy morality is ruled by an observance of these instincts, of the pre-intellectualized stuff of life. Like William Blake, urges are the energy source of life, a view that would later be picked up by [[people/Sigmund Freud|Freud]] and his dynamic unconscious, whose libido is the seat of the unconscious.
 
 
 ## Twilight of Idols
 
 “I mistrust all systematizers and avoid them. The will to a system is a lack of integrity.”
 
-[[Friedrich Nietzsche|Nietzsche]], somewhat like [[Sigmund Freud|Freud]], emphasizes spontaneity; the things that moralists and systematizers try to tame is that which [[Friedrich Nietzsche|Nietzsche]] values most. He sees philosophers as "Egyptianists," turning concepts into conceptual mummies: rather than paying tribute, abstraction and analysis are a form of vivisection. 
+[[Friedrich Nietzsche|Nietzsche]], somewhat like [[people/Sigmund Freud|Freud]], emphasizes spontaneity; the things that moralists and systematizers try to tame is that which [[Friedrich Nietzsche|Nietzsche]] values most. He sees philosophers as "Egyptianists," turning concepts into conceptual mummies: rather than paying tribute, abstraction and analysis are a form of vivisection. 
 
 
 ## The Intuitive Man

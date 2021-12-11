@@ -86,7 +86,7 @@ Franzen, _Freedom_:
 
 [[Sam Fussell]], _Muscle_, comparing himself to his friends in finance:
 
-> Their money was my muscles. Both of us were stocking and hoarding our respective units of worth, and trumpeting ourselves for our skill in attaining it. We couldn't live without the idea of a credit rating. (_See also [[valueClarity]]._)
+> Their money was my muscles. Both of us were stocking and hoarding our respective units of worth, and trumpeting ourselves for our skill in attaining it. We couldn't live without the idea of a credit rating. (_See also [[value clarity]]._)
 
 And from an NPR interview on _Fresh Air_: "two incremental self-measures of worth"
 

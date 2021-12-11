@@ -46,7 +46,7 @@ Or is it just as simple as Witt was a European analytic in correspondence with p
 there were probably many factors, but i'm sure part of it was that Witt was contemporaneously addressing the [[analyticPhilosophy|analytical tradition]] in its preferred terminology, whereas [[William James|James]] wrote long boring books in naturalese, and was dead by the time these debates were going down
 
 @StefanFSchubert
-Quine was a pragmatist, but engaged more directly with the [[analyticPhilosophy|analytical tradition]] (and was part of it himself); in particular with Carnap's work. 
+Quine was a pragmatist, but engaged more directly with the [[analyticPhilosophy|analytical tradition]] (and was part of it himself); in particular with [[Rudolf Carnap|Carnap]]'s work. 
 
 Quine of course had enormous influence on [[analytic philosophy]]
 

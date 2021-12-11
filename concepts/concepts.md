@@ -39,7 +39,7 @@ In linguistics, *drift* is linguistic evolution that occurs via segregation of s
 
 ## Handle as anchor: the effect of a name
 
-When concepts spread, they spread as handles, and they are often ported across contexts without a clear definition. Often, meaning must be inferred from the name itself, e.g. with reference to the etymologies of its constituent parts. As a result, as terms make subcultural leaps, they often are "doubled" into a second concept linked to the first _only through the name_. For instance, the death drive in [[Sigmund Freud|Freud]] has been misconstrued in the public discourse as high risk-taking behavior, intuitively a "drive toward death" (which is, itself, a real phenomenon in the "excess of signification" that perhaps always _wanted_ a handle, and at last had found one).
+When concepts spread, they spread as handles, and they are often ported across contexts without a clear definition. Often, meaning must be inferred from the name itself, e.g. with reference to the etymologies of its constituent parts. As a result, as terms make subcultural leaps, they often are "doubled" into a second concept linked to the first _only through the name_. For instance, the death drive in [[people/Sigmund Freud|Freud]] has been misconstrued in the public discourse as high risk-taking behavior, intuitively a "drive toward death" (which is, itself, a real phenomenon in the "excess of signification" that perhaps always _wanted_ a handle, and at last had found one).
 
 Similarly, Simon Reynolds writes of acid house:
 
@@ -206,7 +206,7 @@ Ramsey writes, "the assumption that our intuitive judgments about categorization
 
 > As I've tried to show, if the prototype stories are correct, then the two primary expectations philosophers typically place on analyses of concepts—simplicity and avoiding all counter-examples—cannot both be satisfied. Hence, at the very least it looks like one of these criteria will need to be abandoned, or at least significantly relaxed.
 
-> ...abandoning simplicity in order to accommodate all intuitions may be a misguided strategy, and a more promising approach might be the one of preserving simplicity and recognizing that we can't capture all intuitive judgments. Its worth noting that this latter tactic is not entirely foreign to philosophy. For instance, in certain respects it is quite similar to Carnap's (1950) eloquent discussion of concept explication, where revision of our intuitive categorization judgments is explicitly endorsed for the sake of simplicity.
+> ...abandoning simplicity in order to accommodate all intuitions may be a misguided strategy, and a more promising approach might be the one of preserving simplicity and recognizing that we can't capture all intuitive judgments. Its worth noting that this latter tactic is not entirely foreign to philosophy. For instance, in certain respects it is quite similar to [[Rudolf Carnap|Carnap]]'s (1950) eloquent discussion of concept explication, where revision of our intuitive categorization judgments is explicitly endorsed for the sake of simplicity.
 
 # Graham & Horgan 1994: Southern Fundamentalism & the End of Philosophy
 

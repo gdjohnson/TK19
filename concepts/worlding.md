@@ -8,9 +8,9 @@
 
 ![["Worlding Raga 2"]]
 
-- ![[Pasted image 20210824105335.png]]
+- ![[Ian Cheng 2x2.png]]
  ^0b8317
-- ![[Pasted image 20210824104955.png]]
+- ![[Venkat Worlding image.png]]
 
 "Default world": a term from Burners referring to real life.
 

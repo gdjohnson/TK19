@@ -69,7 +69,7 @@ _See full [[Compression]] entry._
 
 If there were no regularity in the world, no "universal laws" or "generic sequences," no abstract characters, then "from the experience of the past no future could be predicted; and reasoning, as we shall presently see, would be an impossibility."
 
-### [[Sigmund Freud|Freud]]
+### [[people/Sigmund Freud|Freud]]
 
 > the nervous system is an apparatus which has the function of getting rid of the stimuli that reach it, or of reducing them to the lowest possible level; or which, if it were feasible, would maintain itself in an altogether unstimulated condition
 > 
