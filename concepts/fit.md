@@ -77,7 +77,7 @@ This becomes especially salient when mere _branding_ can dramatically change a w
 # Evolution and systems theory
 
 [[Gregory Bateson]] 1972:
-> Analogous relations certainly obtain in the ecology of a redwood forest or a coral reef.  The mostfrequent or “dominant” species are likely to be nodal to constellations of other species because thesurvival of a newcomer to the system will commonly be determined by how its way of life fits withthat  of  one  or  more  dominant  species. 5  In  these  contexts—both  ecological  and  mental—the  word“fit” is a low-level analogue of “matching flexibility.” 
+> Analogous relations certainly obtain in the ecology of a redwood forest or a coral reef.  The most frequent or “dominant” species are likely to be nodal to constellations of other species because the survival of a newcomer to the system will commonly be determined by how its way of life fits withthat  of  one  or  more  dominant  species. In  these  contexts—both  ecological  and  mental—the  word“fit” is a low-level analogue of “matching flexibility.” 
 
 As a result, the less powerful organisms must "fit" themselves to the more powerful organisms.
 
@@ -106,3 +106,9 @@ __May 23 1832__
 Arthur Schopenhauer on his oeuvre: "every part supports the whole just as much as it is supported by the whole," and "even the smallest part cannot be fully understood until the whole has been first understood."
 
 Proust's "amitie," a friendship between images.
+
+Fit is much like evolutionary "fitness," a relationship between agent and environment. Extensions/generalizations of the good regulator theorem: 
+- A solution is indexical to a problem
+- A strategy is indexical to/is a fit between goal (ought) and environment (is)
+
+When we think of [[alignment]] we are thinking of the fit between different intelligent, decision-making, goal-pursuing superorganisms (institutions & employees, society & AI, etc). Adaptedness, appropriateness, synergy, complementarity, alignment, symbiosis, & harmony, are all synonyms here
