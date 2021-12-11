@@ -1,10 +1,14 @@
 All communication is manipulation. Some manipulation is mutually advantageous.
 
+Alternatively phrased, the purpose of speech, broadly, is the alteration of other's actions. Or, _communication is defined by its interest in altering the receiver's actions_. Or, _Communication is representation geared toward the alteration of a receiver's actions._
+
 > Broadly speaking, Alice ideally must first be sphinxlike in character to pull any of this off. She must foster [[ambiguity]] about what her ultimate goals are in order to have an advantage over those around her. This style of behavior is called “robust action” in sociology. For Alice to be an ideal manipulator, her actions must be interpretable from multiple perspectives at once, potentially function as moves in multiple [[concepts/games]] at once, and conceal her public and private motivations. This maintains her flexibility and discretion and thwarts attempts by rivals to narrow her space of choices. Forced clarification of her [[commitment|commitments]] and lock-in to hard goals only gives Bob an ability to constrain her.
 
 (See also _interpersonal legibility_, not to be confused with legibility in the systems sense.)
 
 All language is strategic representation in the interest of creating effects via the alteration of individuals' mental models. _Speech acts_ are instances of language operating within purely symbolic domains (i.e. without corresponding territory).
+
+Conversations are sigmergic co-constructions of nudges which represent interests; these interests are navigated on the basis of the balance of interpersonal power )to give one example, those with more power are typically given more license and decision-making influence.
 
 Karen Pryor, _Don't Shoot the Dog_:
 > To people schooled in the humanistic tradition, the manipulation of human behavior by some sort of conscious technique seems incorrigibly wicked, in spite of the obvious fact that we all go around trying to manipulate one another’s behavior all the time, by whatever means come to hand.
@@ -27,3 +31,9 @@ And all these difference, you will find, are mediated by eventual actions, howev
 So, perhaps, if I am asked by a colleague to provide information on a topic, and do not answer, there may be consequences I do not desire. And if I provide inaccurate information, there may be consequences I do not desire. This can be more adversarial, selfish, and cloistered: I may speak only to avoid reprimand from my project manager. Or they may be more expansive, cooperative: I may want to provide accurate information because that will lead to the best results for the organization, in which I hold equity. They may be highly pro-social: I may not want to strain the relationship between myself and the querying colleague.
 
 When we think of "manipulation" we can err by seeing it as a narrow attempt to determine _the specific procedure of action_ the manipulated party follows. But we may merely provide the information so that _any_ procedure of action is followed, and this too is an alteration of the receiver's actions through the provision of speech.
+
+# Reason
+
+# Transcripts
+
+![[allgebrahReasonAndSnav211129]]

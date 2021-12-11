@@ -1,6 +1,6 @@
 _Many other precedents can be found in the entries for [[inference]] and [[perception]]. In developmental psychology, in addition to Piaget's schema, more recently we can see parallels in Theory Theory and Simulation Theory. Many rationalists, most prominently Kaj Sotala, have argued for Ecker et al's "Unlocking the Emotional Brain" as a predecessor to active inference._
 
-"Let us assign to the nervous system the task—speaking in general terms—of mastering stimuli..." ([[Sigmund Freud]])
+"Let us assign to the nervous system the task—speaking in general terms—of mastering stimuli..." ([[people/Sigmund Freud]])
 
 "Key to Husserl's analysis is the idea that the thing revealed is always revealed by means of these categorial objectivities that are projected upon the sense-data and thereby organize it. This phenomenon of projection, also known as intentionality (we actively 'intend' the significance of a thing by interpreting it in the light of our way of understanding it) is perhaps phenomenology's most fundamental idea." ([[Kenneth Liberman]])
 

@@ -1,0 +1,1 @@
+What is the epistemic value of art? As thought-provoker, subject-raiser, difficult experience simulator; as source of comparison, as mirror and contrast. What is its social value? As a way to speak about that which cannot be spoken about head-on.

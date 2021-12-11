@@ -1,3 +1,9 @@
+We do not live in the modern era. We are not disenchanted. Our science and medicine is still primitive. Our beliefs are still magical.
+
+[[Jason Josephson-Storm]], _The Myth of Disenchantment_:
+
+> In particular, while tracing many different characterizations of modernity, I focus especially on the theorists who defined [[modernity]] in terms of the loss of myth, popular belief in spirits, or magic... my point is that “modernity” as it has long been defined — as a world that is “disenchanted” (devoid of belief in spirits, myth, and magic) — does not accurately describe the world we live in.
+
 ## Habermas, Modernity: An Incomplete Project:
 
 > The word ‘modern’ in its Latin form ‘modernus’ was used for the first time in the late 5th century in order to distinguish the present, which had become officially Christian, from the Roman and pagan past… People considered themselves modern during the period of Charles the Great in the twelfth century, as well as in France of the late seventeenth century.

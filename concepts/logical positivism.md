@@ -1,3 +1,5 @@
+_See also [[The Vienna Circle]]._
+
 # Stove 1991: What Is Wrong With Our Thoughts
 
 > Certain Logical Positivists, in their early days, actually had the cheek to imply that metaphysical statements are defective in the same way as the string of words 'Lenin or coffee how.' What can one say in response to such silliness, except that it is silly?
