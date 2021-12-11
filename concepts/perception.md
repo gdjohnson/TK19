@@ -30,9 +30,9 @@ Thus, [[Kenneth Liberman|Liberman]] posits, "the tongue that tastes and the tong
 
 Merleau-Ponty sees a paradox: In veiling reality, we _unveil_ reality. In obscuring, we also _provide_. This is what it means to be "condemned to meaning." [[Kenneth Liberman|Liberman]]: "There's always more than you can describe" (_cf._ "excess of signification"). Merleau-Ponty: "This is not a paradox of man, but a paradox of being"—he is trying to get away from anthropocentrism, that this is merely a problem of perception and existence.
 
-# Schutz, Phenomenology of the Social World
+# Schütz, Phenomenology of the Social World
 
-George Walsh, introduction to Schutz's _The Phenomenology of the Social World_, describing the influence of Husserl:
+George Walsh, introduction to Schütz's _The Phenomenology of the Social World_, describing the influence of Husserl:
 
 > What is primordially given to consciousness is an unbroken stream of lived experiences (_Erlebnisse_)—heterogenous qualities without boundaries or contours which wax, wane, and pass gradually into one another. The contents of this stream of consciousness have no meaning in themselves.
 

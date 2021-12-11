@@ -1,7 +1,7 @@
 {
   "obsidianCss": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
@@ -9,5 +9,7 @@
     "downscalePercent": 100
   },
   "communityPluginSortOrder": "download",
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "foldHeading": true,
+  "spellcheck": false
 }

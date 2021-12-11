@@ -13,7 +13,7 @@ Social reality is informed by self-reports, verbal claims, etc, and deception is
 
 > The worst thing is the way they lie, Felix Tello was saying... The architect's words met a most attentive reception. Such attentiveness is not unusual when the lies of a third party were at issue.
 
-Schutz 1962:
+Schütz 1962:
 
 > The observational field of the social scientist—social reality—has a specific meaning and relevance structure for the human beings living, acting, and thinking within it. By a series of common-sense constructs they have pre-selected and pre-interpreted this world which they experience as the reality of their daily life. It is these thought objects of theirs which determine their behavior by motivating it.
 
@@ -49,7 +49,7 @@ _See also [[surrogation]] entry._
 
 See [[Strategic Interaction]] entry, specifically sub-section "the emergence of conventionalism," for the way in which principles of affirmation lead to a social construction of reality.
 
-# Schutz's sociology
+# Schütz's sociology
 
 ## Verstehen and meaning
 
@@ -57,7 +57,7 @@ See [[Strategic Interaction]] entry, specifically sub-section "the emergence of 
 
 ## Social constructs, or "typifications"
 
-![[typification#Schutz's theory of typification]]
+![[typification#Schütz's theory of typification]]
 
 ## Intersubjectivity
 

@@ -4,7 +4,7 @@ aliases: intent, intention
 
 Jeffrey Gray views intentionality as the organizing principle of the contents of consciousness; it is the logic behind the "binding problem" whereby different modalities and sensory inputs are integrated into an understood subject (e.g. a banana's color, feeling, taste, cultural reputation).
 
-Alfred Schutz sees intentionality, or "project," as the guiding principle behind interpretation, sociology, and meaning-making: see [[verstehen]].
+Alfred Schütz sees intentionality, or "project," as the guiding principle behind interpretation, sociology, and meaning-making: see [[verstehen]].
 
 # New Criticism
 

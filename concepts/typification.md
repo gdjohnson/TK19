@@ -4,6 +4,9 @@ aliases: stereotype
 
 We go from parts to whole to parts; the parts tell us what type of whole; the type of whole fills in missing parts.
 
+[[Kenneth Leiter]], _A Primer on Ethnomethodology_:
+> The stock of knowledge [at hand socially] also consists of social types or idealizations of people, objects, and events that serve as points of inference or action. Every occupation, for example, has its stock of types of people. Teachers have types of students: behavior problems, immature students, mature students, independent workers, average students, bright students, slow students, and poor students. For each of these social types, there are definitions that are invoked by those who use them.
+
 Patrick D. Farley:
 > In rare cases, people who are born blind can have their sense of sight instated by surgery. But they don’t immediately start functioning as sighted individuals. They describe a confusing and utterly overwhelming in-pouring of colors and shapes, and it takes them months to learn how to mentally mark where objects begin and end and how perspective changes their apparent size and shape. Yes, they have to learn how to see “wooden desk by a window” instead of seeing the raw information of “brown here, and lighter brown here, and then bright grayish, but there’s still a similar brown below that, etc.” This is partialization. We reduce visual data to “materials.” Then we reduce materials to “objects.” Then we reduce collections of objects into “settings,” and we reduce the changes of objects into “movements.” And then we reduce patterns of movements and settings into “narratives.” And those narratives are what we think to ourselves and what we tell to other people.
 
@@ -12,7 +15,7 @@ Patrick D. Farley:
 ![[_Speculations_#^948ae0]]
 ![[_Speculations_#^e2393b]]
 
-# Schutz's theory of typification
+# Schütz's theory of typification
 
 ![[_Garfinkel & Ethnomethodology_#Typification]]
 

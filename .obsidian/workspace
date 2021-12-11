@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Games People Play_.md",
-            "mode": "source"
+            "file": "texts/Wagner 2018.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"games people play\"",
+                "query": "reciprocity of pespecti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Games People Play_.md",
+                "file": "texts/Wagner 2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Games People Play_.md",
+                "file": "texts/Wagner 2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Games People Play_.md"
+                "file": "texts/Wagner 2018.md"
               }
             }
           }
@@ -111,15 +111,15 @@
   },
   "active": "9c5d1baa5001ea8a",
   "lastOpenFiles": [
+    "texts/Wagner 2018.md",
+    "\"Animal Signals - Mind-Reading and Manipulation\".md",
+    "concepts/all communication is manipulation.md",
+    "commonsense.md",
+    "concepts/ethnomethodology.md",
+    "concepts/typification.md",
+    "Alfred Schütz.md",
+    "Alfred Schütz.md",
     "_Games People Play_.md",
-    "Eric Berne.md",
-    "research areas/games.md",
-    "Leonard Cohen.md",
-    "people/Ludwig Wittgenstein.md",
-    "people/Jean Francois Lyotard.md",
-    "research areas/strategic interaction.md",
-    "places and things/military strategy.md",
-    "images/Pasted image 20211209190007.png",
-    "images/active inference conflict model.png"
+    "Eric Berne.md"
   ]
 }
