@@ -90,6 +90,38 @@ Now there are two ways this can be taken. One is to take it conservatively: all 
 
 And crucially, in either situation, manipulation in service of goals is a factoring that is neutral to the desired goals. These goals can be ideological and selfless. They can be noble and pure of heart. We still must move minds and hearts to accomplish them, since by moving minds and hearts, we alter actions and thus the state of the world. Furthermore, one way of manipulating others is by telling “the truth,” which phrased more precisely is to say, by presenting a definition of the situation, or a representation of reality, you believe will instill an understanding in your audience which matches your own as closely as possible. And finally, we may advance “true” (believed) representations in order to harm others, and advance disbelieved representations in order to help others. Manipulation is meant here is value-neutral and agnostic, both with respect to the representation’s relationship to reality, and with respect to the goals that representation is advanced in service of. It is simply the only way we can alter agents behavior informationally (as opposed to via physical force). And the proportion of informational manipulation to physical force manipulation is much higher than we might think: when we beat a dog for begging, we do not physically prevent his begging in the future, rather, we create an informational association that alters his model of the world, such that the dog is averse to begging because he believes, as part of his world-model, that a beating will follow. True, purely physical incapacitation and alteration of each others’ behaviors is both rare and taboo in human social life.
 
+# Manipulation is always value-neutral on certain axes
+
+Sometimes people get upset when I say “All communication is manipulation.” They say, Spendo, sometimes I just share accurate information to the recipient. I’m not trying to manipulate them to follow a specific course of action, I’m just trying to inform them of relevant details!
+
+And that’s right. A manipulation is always value neutral on some axes—e.g. regarding the manner in which a task is executed, or the kind of task selected for execution.
+
+Indeed, the party passing along information, in a given interaction, may have no agenda in terms of what the individual does with the information.
+
+But it’s still manipulative in the strict sense of attempting bring about better outcomes for the speaker. And the best way to illustrate this is through counterfactual, to say, “What are the things that would or would not occur if the speaker did not speak now, as they have?” That is, what would the differences in the world be, as relevant to the speaker’s goals, if they did not speak, and did not speak as they have?
+
+And all these difference, you will find, are mediated by eventual actions, however delayed, on the part of the recipient. For this is the only way that speech can be “a difference that makes a difference"—through a mediating receiver who acts differently as a consequence of receiving the speech.
+
+So, perhaps, if I am asked by a colleague to provide information on a topic, and do not answer, there may be consequences I do not desire. And if I provide inaccurate information, there may be consequences I do not desire. This can be more adversarial, selfish, and cloistered: I may speak only to avoid reprimand from my project manager. Or they may be more expansive, cooperative: I may want to provide accurate information because that will lead to the best results for the organization, in which I hold equity. They may be highly pro-social: I may not want to strain the relationship between myself and the querying colleague.
+
+When we think of "manipulation” we can err by seeing it as a narrow attempt to determine the specific procedure of action the manipulated party follows. But we may merely provide the information so that any procedure of action is followed, and this too is an alteration of the receiver’s actions through the provision of speech.
+
+# Precise, vague, and generic utterances
+
+When I say “All communication is manipulation,” it is sometimes protested that many utterances are advanced without a clear goal in mind.
+
+The first issue here is that one need not hold a desired outcome consciously in mind in order for one’s behavior to be shaped by, attracted to, and in the service of a desired outcome. We are not transparent to others or ourselves.
+
+But I will readily grant that many communicative moves do not have specific outcomes in mind (otherwise we would be constantly disappointed). Rather, utterances can be strategically aimed with varying levels of specificity or narrowness. I will carve these into three classes of goals: precise, vague, generic, and bespoke.
+
+Precisely strategic utterances are uttered with a specific end result in mind—for instance, telling a police officer a lie in order to avoid a traffic ticket. There is a single, binary outcome kept in mind which is either met or not met.
+
+Vaguely strategic utterances attempt to shift an interaction or situation toward a vaguely better situation, or away from a vaguely worse situation—for instance, avoiding certain topics in professional settings to avoid unspecified blowback, conflict, or disharmony. One steers with, and follows, the winds, instead of seeking a singular destination.
+
+Finally, generically strategic utterances are those which are uttered for a large audience, attempting to achieve a number of vague or specific goals among the largest possible swathe of audience—for instance, presenting a consumer product as organic in order to increase its buyer appeal among certain demographics, or presenting a specific political front with the precise goal of winning an election. This is in contrast to what we might consider “bespoke” utterances.
+
+Of course, generic and bespoke, vague and precise, lie on a spectrum. No utterance is crafted fully generically or totally bespoke. No desired outcome is perfectly specific or totally vague. In other words, manipulation is always value-neutral on certain axes. We may specifically wish to avoid a traffic ticket, but be agnostic as to whether the officer, during the traffic stop, makes small talk about the weather, his golden retriever, or the evolved origins of back pain. And even when we believe that our interactive desires are at their most open-ended, that we are perfectly agnostic to whatever response we might receive, we can easily find ourselves surprised, upset, enraged, or disappointed by the emotional tenor or semantic content of the response.
+
 # Transcripts
 
 ![[allgebrahReasonAndSnav211129]]
