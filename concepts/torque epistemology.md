@@ -6,6 +6,8 @@ Torque epistemology should not be confused with underpricing/overpricing ideolog
 
 Torque opinions are _corrective reactions_ to a _perceived-as-hegemonic_ opinion or ideology experienced of one's _wrapping subculture_.
 
+Thinking about torque as a system of managing triage within a superorganism: with limited time, bandwidth, resources, certain things need more attention than others, certain things need to be addressed first, given precedent. See also backseat driving metaphor.
+
 # Introduction
 
 Discourse is not a set of in-a-vacuum positions people hold. It's a series of rhetorical moves in a conversation whose center is an emphasis, a general sensibility. And people speak in *response* to what they perceive as the pre-existing emphasis. In [[John Nerst]]'s vocabulary, this emphasis is the "signal," the dominant or "hegemonic" stance. Crucially, the signal is _socially situated_: it is a perception of the social ring which wraps around one's subcultural situation, or rather and more generally, is the perceived stance of the addressed audience.
