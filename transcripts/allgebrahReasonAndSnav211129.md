@@ -1,4 +1,4 @@
-""[2:32 PM] snav: what might fall into that category?
+[2:32 PM] snav: what might fall into that category?
 [2:33 PM] suspended reason: Well, hmmm.
 [2:33 PM] suspended reason: Expression is certainly produced by action but there's a difference between chopping a tree down with physical force and the information that's transmitted
 [2:33 PM] suspended reason: Gets back to the Bateson
