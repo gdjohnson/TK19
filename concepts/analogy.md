@@ -19,13 +19,13 @@ _Full text saved as [library entry](/Hofstadter2001.pdf)._
 
 Analogy as the "very blue that fills the whole sky of cognition—analogy is everything, or very nearly so." Hofstadter offers a CogSci-informed update of "associationism," the idea that our cognition is at its core associative.
 
-Visual perception, organized into patterns, triggers and generates [[concepts]]:
+Visual perception, organized into patterns, triggers and generates [[concepts/concepts]]:
 
 > Vision takes an input of millions of retinal dots and gives an output of concepts — often words or phrases, such as “duck,” “Victorian house,” “funky chair,” “Joyce Carol Oates hairdo,” or “looks sort of like President Eisenhower.” The (visual) perceptual process, in other words, can be thought of as the triggering of mental categories — often standard lexical items — by scenes.
 
 _See also the [[William James|Jamesian]] concept [[brute association]]._
 
-The "family resemblance" structure of [[concepts]] is a product of analogic extension:
+The "family resemblance" structure of [[concepts/concepts]] is a product of analogic extension:
 
 > The triggering of prior mental categories by some kind of input—whether sensory or more abstract—is, I insist, an act of analogy-making. Why is this? Because whenever a set of incoming stimuli activates one or more mental categories, some amount of slippage must occur (no instance of a category ever being precisely identical to a prior instance). Categories are quintessentially fluid entities; they adapt to a set of incoming stimuli and try to align themselves with it. The process of inexact matching between prior categories and new things being perceived (whether those “things” are physical objects or bite-size events or grand sagas) is analogy-making par excellence... After all, it is the mental mapping onto each other of two entities — one old and sound asleep in the recesses of long- term memory, the other new and gaily dancing on the mind’s center stage — that in fact differ from each other in a myriad of ways.
 

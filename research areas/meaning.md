@@ -4,7 +4,7 @@ Meaning is purposive and contextual. Things are meaningful insofar as they are r
 - [[Conceptual Analysis]]
 - [[Conceptual Engineering]]
 - [["Death of the Author"]]
-- [[Divide And Conquer]]
+- [[Divide-And-Conquer]]
 - [[Externalist Readings]]
 - [[Extractive Criticism]]
 - [[Intentionality]]

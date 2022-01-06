@@ -1,5 +1,5 @@
 * In popular discourse, related to the effect _Concepts do not convert people; people convert concepts_. One of many barriers to a natural [[generalized compatibilism]].
-* The telephone effect is part of the lifestyle of [[concepts]].
+* The telephone effect is part of the lifestyle of [[concepts/concepts]].
 * The first stage is in misrepresentation by intellectuals (Saul Bellow: _How quickly the visions of genius become the canned goods of intellectuals._). The second stage is its watering down for and by successive stages of public.
 
 # Introduction: the Freudian Gospel
@@ -60,6 +60,14 @@ Susan Haack, _New Criterion_ 1997:
 Phil Tetlock, _Superforecasting_:
 
 > But I realized that as word of my work spread, its apparent meaning was mutating. What my research had shown was that the average expert had done little better than guessing on many of the political and economic questions I had posed. “Many” does not equal all. It was easiest to beat chance on the shortest-range questions that only required looking one year out, and accuracy fell off the further out experts tried to forecast—approaching the dart-throwing-chimpanzee level three to five years out. That was an important finding. It tells us something about the limits of expertise in a complex world—and the limits on what it might be possible for even superforecasters to achieve. But as in the children’s game of “telephone,” in which a phrase is whispered to one child who passes it on to another, and so on, and everyone is shocked at the end to discover how much it has changed, the actual message was garbled in the constant retelling and the subtleties were lost entirely. The message became “all expert forecasts are useless,” which is nonsense. Some variations were even cruder—like “experts know no more than chimpanzees.” My research had become a backstop reference for nihilists who see the future as inherently unpredictable and know-nothing populists who insist on preceding “expert” with “so-called.”
+
+# Motivated alteration of theory to advance agendas
+
+John Nerst, review of _Cynical Theories_:
+> Pluckrose and Lindsay go on to describe the evolution of “postmodernism” from the 1960’s to today. They split it into three phases, calling the first “high deconstructive postmodernism”, the second “applied postmodernism”, and the third and final one “reified postmodernism”... In the authors’ story, as postmodernism evolved it devolved. It became less high-minded and less subtle. It eased up on the impenetrable jargon its earlier iterations had been known for. It got more concrete and more activist. By the 2010’s it had turned into something more like an orthodoxy than the sophisticated, contrarian nihilism of the early days... [The authors] describe this evolution as the result of deliberate choices, made to justify and make possible certain activism that one wanted to pursue, rather than of following the deconstructive logic to its natural conclusion[6]. The high deconstructives took their developed ideas seriously and applied their corrosive philosophy more consistently, but that breaks everything and won’t do if you want to achieve specific political goals.
+> Postmodernism is frequently simplified, vulgarized and turned into a strawman by its opponents. It is also frequently simplified, vulgarized and turned into a strawman by its proponents.
+
+
 
 # Chat History
 

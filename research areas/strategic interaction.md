@@ -1,7 +1,8 @@
-
 ![[active inference conflict model.png]]
 
 In a strategic frame, the "[[meaning]]" of an action or interaction is the delta, for its participants or observers—whoever the "meaning" is anchored to—between ante- and post-action future. Anything this delta depends on contributes to the bit's meaning: participants, personal histories and preferences, external circumstances.
+
+The relation between "what" and "how," which is to say, between strategy and tactic, is only a relation of "what"s at varying levels of abstract scale. We can call the infinitely receding process of drilling into tactics the decomposition of choices, where each choice is both a what and how simultaneous.
 
 ## Blog posts
 - [2021: Epistemic Strategies pt. 1](https://suspendedreason.com/2021/05/12/epistemic-strategies-pt-1/)
@@ -15,6 +16,7 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 - [[Everyday interaction]]
 - [[Games]]
 - [[Metonyms]]
+- [[Mimicry]]
 - [[Military strategy]]
 - [[Opticratics]]
 - [[Predictive Processing]]

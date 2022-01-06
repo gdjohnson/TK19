@@ -1,3 +1,5 @@
+_See also [[concepts/concepts]], [[conceptual engineering]], [[framing|conceptualization]]_
+
 When we discover a new conceptual distinction, we can only see its possibilities and affordances, the sentences previously unsayable, the progress in our sense of clarity. But the next generation, inheriting it, takes these affordances for granted and can see only the concept's constraints, limitations, its short-selling of the real.
 
 # Okrent 2010, _In the Land of Invented Languages_

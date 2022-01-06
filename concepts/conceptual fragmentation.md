@@ -1,4 +1,4 @@
-See also [[conceptual engineering]], [[conceptual analysis]], [[meta-science|philosophy of science]], [[concepts]], [[linguistic conquests]], [[verbal disputes]].
+See also [[conceptual engineering]], [[conceptual analysis]], [[meta-science|philosophy of science]], [[concepts/concepts]], [[linguistic conquests]], [[verbal disputes]].
 
 # Taylor & Vickers 2016: Conceptual fragmentation and the rise of eliminativism
 

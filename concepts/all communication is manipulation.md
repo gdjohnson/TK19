@@ -22,7 +22,14 @@ Karen Pryor, _Don't Shoot the Dog_:
 
 This view of communication is founded on observations from animal signaling (e.g. [["Animal Signals - Mind-Reading and Manipulation"]]) and the framing in [[ethnomethodology]] which understands the interpretation of a receiver (and thus the meaning of the message) in how said receiver responds.
 
-# Manipulation is always value-neutral on certain axes
+# Rorty, "Freud and Moral Reflection"
+
+> I think that we can live with the Freudian thought that everything everybody does to everyone else (even those they love blindly and helplessly) can be described, for therapeutic or other purposes, as manipulation.
+> the more concrete criticisms of modern ways of thinking offered by [[Alasdair MacIntyre]] in [[_After Virtue_]] are more immediately relevant to the topics I have been discussing. MacIntyre would agree, more or less, with my description of the connections between Baconian ways of thought and Nietzschean values. But he takes the fact that the paradigmatic character-types of modernity are "the Rich Aesthete, the Manager, and the Therapist" (p. 29) to show that these ways of thought, and these values, are undesirable. In Maclntyre's view, the abandonment of an Aristotelian "functional concept of man" leads to "emotivism" — the obliteration of any genuine distinction between manipulative and non-manipulative social relations"
+
+# Reason
+
+## Manipulation is always value-neutral on certain axes
 
 Sometimes people get upset when I say "All communication is manipulation." They say, Spendo, sometimes I just share accurate information to the recipient. I'm not trying to manipulate them to follow a specific course of action, I'm just trying to inform them of relevant details!
 
@@ -38,7 +45,7 @@ So, perhaps, if I am asked by a colleague to provide information on a topic, and
 
 When we think of "manipulation" we can err by seeing it as a narrow attempt to determine _the specific procedure of action_ the manipulated party follows. But we may merely provide the information so that _any_ procedure of action is followed, and this too is an alteration of the receiver's actions through the provision of speech.
 
-# In defense of ACiM
+## In defense of ACiM
 
 Once again, I write in order to address a round of objections to my contention that “All communication is manipulation; some manipulation is mutually advantageous”
 
@@ -81,6 +88,32 @@ To expand on the second point—that human communication as manipulation ought b
 Finally, to expand on the third point, it is worth talking about the nested structure of surrogates we navigate. A surrogate, briefly, is something that “stands for” something else, the way that a credential may stand for professional competence. Crucially, surrogates have a strong tendency to be “reified”: although they were instituted as a proxy standing for some more important quality, or in their service as a means to an end, they have a tendency to become fetishized as ends in their own right. Phenomenologically, we can feel as if what we care about, and are seeking out, is the surrogate, even as the purpose of that surrogate is what it stands for (and thus, the purpose of our seeking out, syllogistically, is “ultimately” to locate what the surrogate stands for, not the surrogate). Thus, we might phrase a sentence one way because it “feels right” or “seems appropriate,” but this sense of appropriateness is no doubt formed by acculturation, and likely feels “right” insofar as it incorporates the speaker’s goals, and so how else can we view this, other than as a dispatch from the unconscious, a selection based in factors we are only darkly aware of? 
 
 All this points to how thorny the question of motivation, purpose, and “for”-ness is. When we are sitting, pained, in a mathematics course as classmates present dreadful, wrong answers, and are overwhelmed by the desire to correct the record and present our own (we believe correct) solution, and when we raise our hand to do so—and when our presentation of a correct solution leads us to be seen, by our peers and professor, as presenting the correct answer; when it distinguishes us in some way, and perhaps changes the estimation others hold of us; and when this change in estimation alters their actions—say, the professor is more likely to write us a letter of recommendation—then what can we say the reason for our blurting was? To satisfy a feeling? To alter impressions? Or to secure a letter of recommendation? I think the answer is “all of the above.” Furthermore, what is “social standing” or “access to resources” except a surrogate to reproductive mate quality, in some ultimate evolutionary sense? And I think this complexity of motivation, reason, and “for”-ness is part of why the idea “All communication is manipulation” is so thorny, and requires anchoring to a specific perspective, the perspective of agents who behave in a way that is biologically and culturally programmed, for ultimate reasons that are only partially or “surrogatedly” salient to them.
+
+# What does cooperative manipulation look like?
+
+e.g. "pitch me," "persuade me," "talk me into it," heterosexual dating dynamics.
+
+## Gricean linguistics
+Dan Dennett claims "Gricean linguistics" boil down to "I intend you to form a belief based on my speech act, but I also intend you to recognize that I have that intention." Which, actions and beliefs are roughly symmetrical; altering beliefs matters because people's beliefs cash out to actions.
+
+Grice's formulation highlights how this stuff can be cooperative, insofar as the manipulation is often very transparent. "Oh he wants me to give an answer to his question." "Oh she called my name because she wants me to turn around so she can address me." "Oh, he wants me to compliment him on the dish he prepared" is a subtle thing where we recognize people "go fishing" ie are looking for sets of effects and don't even mind giving them (though some personalities grate against this & refuse to give people what they're after if they stoop to being transparent about it).
+
+
+# Objections that this is a non-standard use of "manipulation"
+
+[[John Nerst]] 2017, "A Lament on [[Kevin Simler|Simler]] Et Al":
+
+> Alright, what’s bothering me [about Simler's "Leaning Tower of Morality"]? The conflation of “self-interest” in an evolutionary sense with self-interest in an ordinary sense[1].
+> When we call somebody “selfish” we have certain things in mind: screwing over others, not cooperating, being explicitly calculating in order to only maximize one’s own gain in interactions with others, hurting people for personal benefit, being untrustworthy, ignoring costs to others etc.
+> We use the word to classify actions and those who perform them, and specifically to indicate disapproval.
+> That’s what we care about when we fear and dislike selfishness, and “genetic self-interest” is not this at all. It’s a completely separate thing, with an altogether different subject (genes, not people). We can and do have altruistic instincts and knowing how evolution created those won’t make them any less altruistic in any way we care about.
+
+Nerst is also making a distinction between base- and [[mesa-optimization]]:
+> In truth, insights into the evolutionary origins of altruistic behaviors tend to bother people because it gives the impression that apparently unselfish behaviors are “really” selfish, deep down. But they aren’t, and thinking that they are confuses our motives with the mindless optimization process that created those motives. This is very common and very bad.
+> Our needs and wants are justified by their own existence, not by the hypothetical goals of the meaningless process that created them. I don’t care for my children because I’m on a mission to spread my genes. I love them. That love springs from how my brain is set up, and yes, I understand why it’s set up that way, but that doesn’t change how I feel.
+
+[[Kevin Simler]] responds:
+> The most important distinction between morally good people and morally bad people is whether they’re playing the sociopath strategy (exploitative, negative sum) or the prosocial strategy (cooperative, positive sum). Of course it’s probably more of a spectrum than a dichotomy, but that’s the main axis. Both strategies are genetically selfish, but that’s irrelevant: we still judge the sociopath as evil and the helpful neighbor as good, and we’re right to do so.
 
 # A second defense
 
