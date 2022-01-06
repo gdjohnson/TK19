@@ -1,0 +1,1 @@
+> We have a house in which there is a thermostat which some brilliant architect placed in the only room in the house with a fireplace. The result is that if we want to cool the house in winter, we light the fire because we give false information to the thermostat that the house is warm and the thermostat turns out the furnace fire.

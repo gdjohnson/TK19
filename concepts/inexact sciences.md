@@ -74,7 +74,7 @@ Daniel Kahneman: Introduction to Gary Klein:
 2. Defamiliarization
 3. Comedy
 4. Cultural criticism ("artifact processing")
-[2:26 PM] suspended reason: Stamp collection is just an attempt to gather a large database of examples in order to understand the breadth of possibility, which dynamics meaningfully vary, etc. You need to do a lot of stamp collecting in biology to get to a theory of evolution
+[2:26 PM] suspended reason: [[Stamp collection]] is just an attempt to gather a large database of examples in order to understand the breadth of possibility, which dynamics meaningfully vary, etc. You need to do a lot of stamp collecting in biology to get to a theory of evolution
 [2:27 PM] suspended reason: Defamiliarization is in the name—making the familiar foreign. "Ready to hand" --> "present at hand," to Heidegger, or recognition --> perception for the Russian formalists
 [2:31 PM] suspended reason: There are a few kinds of defamiliarization I've seen... don't have a good taxonomy yet, and some of these might be compressed or carved up better, but—
 1. anthropologizing, e.g. that essay on the "Nacirema" ("American" spelled backwards)
@@ -84,7 +84,7 @@ Daniel Kahneman: Introduction to Gary Klein:
 5. closely related to surrealism, allegorization, where everyday life gets figuratively translated into a fantasy or sci-fi world
 6. re-framing—any reconceptualization of a domain typically presented in a familiar frame
 [2:32 PM] suspended reason: An additional approach I haven't seen yet, but wanna try my hand at, is writing about the present as if it were the science fiction of the past
-[2:33 PM] suspended reason: Cultural criticism, aka "artifact processing"—similar in some respects to stamp collecting, except it's the decomposition and analysis of some dense set of examples to understand how their dynamics interweave. Some people have called literature "applied philosophy"; here, you're basically trying to reverse-engineer the theory from its application, or at least, understood how the theory is contextualized.
+[2:33 PM] suspended reason: Cultural criticism, aka "artifact processing"—similar in some respects to [[stamp collecting]], except it's the decomposition and analysis of some dense set of examples to understand how their dynamics interweave. Some people have called literature "applied philosophy"; here, you're basically trying to reverse-engineer the theory from its application, or at least, understood how the theory is contextualized.
 [2:34 PM] suspended reason: Comedy, parody, etc—I probably have the least to say about this, but often comedy defamiliarizes. It's also good at pointing out flaws in people's models pretty efficiently
 
 ## [[931774D]] on [[David Reisman]]'s sociological work

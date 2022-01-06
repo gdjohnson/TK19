@@ -2,7 +2,7 @@
 aliases: taboo your words
 ---
 
-_See also [[linguistic conquests]], [[concepts]]._
+_See also [[linguistic conquests]], [[concepts/concepts]]._
 
 # Pragmatism
 

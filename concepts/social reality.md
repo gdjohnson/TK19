@@ -67,7 +67,7 @@ See [[Strategic Interaction]] entry, specifically sub-section "the emergence of 
 
 # References
 
-* [[concepts]]
+* [[concepts/concepts]]
 * [[ethnomethodology]]
 * [[everyday interaction]]
 * [[fashion]]

@@ -14,6 +14,8 @@ Finite players play for power:
 
 > Life in death concerns those who are titled and whose titles, since they are timeless, may not be extinguished by death.
 
+> What one wins in a finite game is a title. A title is the acknowledgment of others that one has been the winner of a particular game. Titles are public. They are for others to notice. I expect others to address me according to my titles, but I do not address myself with them—unless, of course, I address myself as an other.
+
 > Where a society is defined by its boundaries, [culture plays _with_ boundaries,] is defined by its horizon.
 
 > Sexuality is the only finite game in which the winner's prize is the defeated opponent... The seduced opponent is so displayed as to draw public attention to the seducer's triumph.
