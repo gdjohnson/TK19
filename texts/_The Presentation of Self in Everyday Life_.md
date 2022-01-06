@@ -2,6 +2,10 @@
 
 Goffman's performance is "all the activity of an individual which occurs during a period marked by [an individual's] continuous presence before a particular set of observers and which has some influence on the observers." A "front," meanwhile, is "the expressive equipment of a standard kind intentionally or unwittingly employed by the individual during his performance." Sometimes, performers rely on a "set" which they either opportunistically seize, travel to for performances, or carry with them as in the case of "the funeral cortege, the civic parade, and the dream-like processions that kings and queens are made of."
 
+The purpose of performance is to establish and maintain an definition of the situation. This definition, which we can also call an impression (the interpretation or model the observer has of the observed), is employed in order to achieve strategic aims. Similarly, we could say that performers are attempting to advance a [[framing|frame]], an overarching conception of the "whole" which guides interpretation of parts, even as it is created by parts (cf [[cybernetics]] and feedback loops).
+
+To put a [[predictive processing|Fristonian]] twist on it, we could say that frames, once established, set up expectations or anticipations by observers, and if this expectation set is subverted too many times by expressive gestures or performer actions (e.g. the three fingers slip in _Inglourious Basterds_, or a misspelled word in an official document) then we begin to call into question the hermeneutic whole (the frame or definition being advanced).
+
 ## Belief in the Part One is Playing
 
 > When an individual plays a part he implicitly requests his observers to take seriously the impression that is fostered before them. They are asked to believe that the character they see actually possesses the attributes he appears to possess, that the task he performs will have the consequences that are implicitly claimed for it, and that, in general, matters are what they appear to be. 
@@ -73,3 +77,10 @@ Individuals idealize their motivations, and hide selfish motivations:
 > And so we find that clergymen give the impression that they entered the church because of a call of felt vocation, in America tending to conceal their interest in [[class|moving up socially]], in Britain tending to conceal their interest in not moving too far down.
 
 Finally, we idealize in such a way as to give an impression of "uniqueness"—we do not visibly repeat the same compliment or line to multiple individuals at a party; a doctor makes a show of personalized service or "bed-side manner"; a "crass pseudo-gemeinschaft"—pseudo-communitas—Goffman calls it.
+
+## Maintenance of expressive control
+
+> It has been suggested that the performer can rely upon his audience to accept minor cues as a sign of something important about his performance. This convenient fact has an inconvenient implication. By virtue of the same sign-accepting tendency, the audience may misunderstand the meaning that a cue was designed to convey, or may read an embarrassing meaning into gestures or events that were accidental, inadvertent, or incidental and not meant by the performer to carry any meaning whatsoever.
+> In response to these communication contingencies, performers commonly attempt to exert a kind of **synecdochic responsibility**, making sure that as many as possible of the minor events in the performance, however instrumentally inconsequential as these events may be, will occur in such a way as to convey either no impression or an impression that is compatible and consistent with the over-all definition of the situation that is being fostered.
+
+> as students we must be ready to examine the dissonance created by a misspelled word, or by a slip that is not quite concealed by a skirt; and we must be ready to appreciate why a near-sighted plumber, to protect the impression of rough strength that is _de reigueur_ in his profession, feels it necessary to sweep his spectacles into his pocket when the house-wife's approach changes his work into a performance... In other words, we must be prepared to see that the impression of reality fostered by a performance is a delicate, fragile thing that can be shattered by very minor mishaps.

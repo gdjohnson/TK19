@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "texts/Wagner 2018.md",
-            "mode": "preview"
+            "file": "concepts/all communication is manipulation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/Wagner 2018.md",
+                "file": "concepts/all communication is manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/Wagner 2018.md",
+                "file": "concepts/all communication is manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/Wagner 2018.md"
+                "file": "concepts/all communication is manipulation.md"
               }
             }
           }
@@ -111,15 +112,15 @@
   },
   "active": "9c5d1baa5001ea8a",
   "lastOpenFiles": [
+    "concepts/all communication is manipulation.md",
+    "concepts/strategic conceptualization.md",
+    "smol.md",
+    "texts/_The Presentation of Self in Everyday Life_.md",
+    "concepts/fit.md",
+    "concepts/stigmergy.md",
     "texts/Wagner 2018.md",
     "\"Animal Signals - Mind-Reading and Manipulation\".md",
-    "concepts/all communication is manipulation.md",
     "commonsense.md",
-    "concepts/ethnomethodology.md",
-    "concepts/typification.md",
-    "Alfred Schütz.md",
-    "Alfred Schütz.md",
-    "_Games People Play_.md",
-    "Eric Berne.md"
+    "concepts/ethnomethodology.md"
   ]
 }
