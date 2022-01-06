@@ -1,4 +1,4 @@
-__Strategic conceptualization sits at the interstice of [[framing]] problems, [[pragmatic ontology]] and [[strategic interaction]].__
+_Strategic conceptualization sits at the interstice of [[framing]] problems, [[pragmatic ontology]] and [[strategic interaction]]._
 
 When consequences are the result of categorization, people will perform categories to get their desired consequences.
 
@@ -9,6 +9,14 @@ Categories are inferred from prominent public features (which themselves may be 
 Because categorizations tend to bring about certain consequences, either directly via [[decision rules]], or indirectly via the changed feelings which mission-relevant individuals may have about the categorized, interventions in this categorization process become strategic imperatives. Much of law is concerned with how established facts ought to be categorized or conceptualized—different salient details such as the mental health of the defendant, his state of mind at the time of the crime, and his history with the slain will be mobilized in support of one conceptualization or another. This conceptualization (the degree of murder, manslaughter, etc) will have a significant role on the defendant's prison sentence.
 
 Therefore, there are two sides to the coin of gaming a decision-rule: [[signaling theory|signaling]], in which one strategically presents [[metonyms]] which imply a category; or strategic conceptualization, in which one presents the topic-at-hand (oneself, an event or object, etc) at high [[levels of abstraction]].
+
+# As storytelling
+In the wake of emotionally trying events, we attempt to re-conceptualize or re-narrativize the events in order to get a version of the story which is satisfying or final and allows us to move productively past it.
+
+Tanya Corrin, after her relationship with [[Josh Harris]] fell apart at the end of the DotCom era, went on a trip with girlfriends, one of whom consoles her:
+> “You were dating someone in a tight-knit community where everyone was obsessed with their work,” she continued. “We breathed and dreamed the Internet. If we didn’t date our peers, we wouldn’t have had sex for six years! But after the market crashed and the lights came on, you found yourself with some flabby guy who’s basically a jerk and who cared more about losing his money than he did about you. Get over it. Move on.”
+
+Harris, meanwhile, retreats to an apple farm, where he tells press that Corrin was a "pseudo-girlfriend," part of his conceptual art project, and not someone he cared deeply about. Each has re-written the love story to be a loveless story.
 
 # Exhibits
 

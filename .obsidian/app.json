@@ -11,5 +11,7 @@
   "communityPluginSortOrder": "download",
   "attachmentFolderPath": "images",
   "foldHeading": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

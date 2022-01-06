@@ -77,8 +77,6 @@ I realize I have not yet addressed the first objection, that speakers do not hav
 
 So, to summarize, there are several arguments here:
 
-
-
 * One: that we ought not give much credence to our phenomenology or introspection in determining what motivates us _from the perspective which _the phrase “All communication is manipulation” takes. Rather, we should look at objective patterns of behaviors and effects, since these effects are the thing on which we are culturally and biologically trained—the reinforcement loops which select for and select out.
 * Two: that it ought be our null hypothesis that human communication serves the purpose of altering receiver actions, since that is true of all non-human communication, and we are nothing if not bound up in the same environmental context, and the same family history, with non-human organisms. 
 * Three: that there are different “levels” of rationale behind our behavior, and that many of the things we desire, we desire instrumentally insofar as their attainment tends to correlate with other valuable outcomes, for instance, we may eat “for” flavor but our taste buds have evolved for nutrition, thus we eat “for” nutrition.
@@ -117,6 +115,45 @@ Nerst is also making a distinction between base- and [[mesa-optimization]]:
 [[Kevin Simler]] responds:
 > The most important distinction between morally good people and morally bad people is whether they’re playing the sociopath strategy (exploitative, negative sum) or the prosocial strategy (cooperative, positive sum). Of course it’s probably more of a spectrum than a dichotomy, but that’s the main axis. Both strategies are genetically selfish, but that’s irrelevant: we still judge the sociopath as evil and the helpful neighbor as good, and we’re right to do so.
 
+# A second defense
+
+You have no doubt seen the meme where an astronaut, floating in space outside Earth's atmosphere, asks, "It's all X?" as a second astronaut, pointing a gun at him, replies "Always has been" as if ready to shoot. (Interestingly, the meme is not riffing on a scene from a movie, as it is typically assumed—and reasonably, since most memes do start with a real line of dialogue from popular culture. Rather, it merely seems a very plausible, generic scene from a space action movie, with plausible movie dialogue.) This is my view of communication as manipulation. 
+
+Now there are two ways this can be taken. One is to take it conservatively: all communication is manipulation, but also, human communicative behavior is exactly as you already think it is. The claim does not imply more selfishness or more dishonesty in human conduct. It merely reframes what we already believe about human communication by conceptualizing it through the frames of outcomes, and pointing out that necessarily, outcomes of communication must use human beings as their medium. The second way to take such a claim is as more revisionary: Our motives are not what we thought. We are more outcome-motivated, and more performative than we like to think. We are constantly attempting to further goals and meet desires through our communications. We do not neutrally represent “the truth.” Our unconscious, expressed through words and gestures and choices of display, is constantly reaching out to manipulate others around us, even as our conscious is often innocent to these doings. I think the reality is a little bit of both. 
+
+And crucially, in either situation, manipulation in service of goals is a factoring that is neutral to the desired goals. These goals can be ideological and selfless. They can be noble and pure of heart. We still must move minds and hearts to accomplish them, since by moving minds and hearts, we alter actions and thus the state of the world. Furthermore, one way of manipulating others is by telling “the truth,” which phrased more precisely is to say, by presenting a definition of the situation, or a representation of reality, you believe will instill an understanding in your audience which matches your own as closely as possible. And finally, we may advance “true” (believed) representations in order to harm others, and advance disbelieved representations in order to help others. Manipulation is meant here is value-neutral and agnostic, both with respect to the representation’s relationship to reality, and with respect to the goals that representation is advanced in service of. It is simply the only way we can alter agents behavior informationally (as opposed to via physical force). And the proportion of informational manipulation to physical force manipulation is much higher than we might think: when we beat a dog for begging, we do not physically prevent his begging in the future, rather, we create an informational association that alters his model of the world, such that the dog is averse to begging because he believes, as part of his world-model, that a beating will follow. True, purely physical incapacitation and alteration of each others’ behaviors is both rare and taboo in human social life.
+
+# Manipulation is always value-neutral on certain axes
+
+Sometimes people get upset when I say “All communication is manipulation.” They say, Spendo, sometimes I just share accurate information to the recipient. I’m not trying to manipulate them to follow a specific course of action, I’m just trying to inform them of relevant details!
+
+And that’s right. A manipulation is always value neutral on some axes—e.g. regarding the manner in which a task is executed, or the kind of task selected for execution.
+
+Indeed, the party passing along information, in a given interaction, may have no agenda in terms of what the individual does with the information.
+
+But it’s still manipulative in the strict sense of attempting bring about better outcomes for the speaker. And the best way to illustrate this is through counterfactual, to say, “What are the things that would or would not occur if the speaker did not speak now, as they have?” That is, what would the differences in the world be, as relevant to the speaker’s goals, if they did not speak, and did not speak as they have?
+
+And all these difference, you will find, are mediated by eventual actions, however delayed, on the part of the recipient. For this is the only way that speech can be “a difference that makes a difference"—through a mediating receiver who acts differently as a consequence of receiving the speech.
+
+So, perhaps, if I am asked by a colleague to provide information on a topic, and do not answer, there may be consequences I do not desire. And if I provide inaccurate information, there may be consequences I do not desire. This can be more adversarial, selfish, and cloistered: I may speak only to avoid reprimand from my project manager. Or they may be more expansive, cooperative: I may want to provide accurate information because that will lead to the best results for the organization, in which I hold equity. They may be highly pro-social: I may not want to strain the relationship between myself and the querying colleague.
+
+When we think of "manipulation” we can err by seeing it as a narrow attempt to determine the specific procedure of action the manipulated party follows. But we may merely provide the information so that any procedure of action is followed, and this too is an alteration of the receiver’s actions through the provision of speech.
+
+# Precise, vague, and generic utterances
+
+When I say “All communication is manipulation,” it is sometimes protested that many utterances are advanced without a clear goal in mind.
+
+The first issue here is that one need not hold a desired outcome consciously in mind in order for one’s behavior to be shaped by, attracted to, and in the service of a desired outcome. We are not transparent to others or ourselves.
+
+But I will readily grant that many communicative moves do not have specific outcomes in mind (otherwise we would be constantly disappointed). Rather, utterances can be strategically aimed with varying levels of specificity or narrowness. I will carve these into three classes of goals: precise, vague, generic, and bespoke.
+
+Precisely strategic utterances are uttered with a specific end result in mind—for instance, telling a police officer a lie in order to avoid a traffic ticket. There is a single, binary outcome kept in mind which is either met or not met.
+
+Vaguely strategic utterances attempt to shift an interaction or situation toward a vaguely better situation, or away from a vaguely worse situation—for instance, avoiding certain topics in professional settings to avoid unspecified blowback, conflict, or disharmony. One steers with, and follows, the winds, instead of seeking a singular destination.
+
+Finally, generically strategic utterances are those which are uttered for a large audience, attempting to achieve a number of vague or specific goals among the largest possible swathe of audience—for instance, presenting a consumer product as organic in order to increase its buyer appeal among certain demographics, or presenting a specific political front with the precise goal of winning an election. This is in contrast to what we might consider “bespoke” utterances.
+
+Of course, generic and bespoke, vague and precise, lie on a spectrum. No utterance is crafted fully generically or totally bespoke. No desired outcome is perfectly specific or totally vague. In other words, manipulation is always value-neutral on certain axes. We may specifically wish to avoid a traffic ticket, but be agnostic as to whether the officer, during the traffic stop, makes small talk about the weather, his golden retriever, or the evolved origins of back pain. And even when we believe that our interactive desires are at their most open-ended, that we are perfectly agnostic to whatever response we might receive, we can easily find ourselves surprised, upset, enraged, or disappointed by the emotional tenor or semantic content of the response.
 
 # Transcripts
 
