@@ -38,6 +38,11 @@ Alexander brings up Jane Jacobs, and redeems his previous negative preception of
 
 > [James Scott] rehabilitates her as someone who was **responding to the very real excesses of High Modernism**. She was the first person who really said “Hey, maybe people like being in cute little neighborhoods”. Her complaint wasn’t really against privacy or order per se as it was against **extreme High Modernist perversions of those concepts** that people empirically hated.
 
+## Our preference for the legible
+See also predictability, [[strategic epistemology|strategic self-legibilization]] as predictability; Andy Clark on broadcasting intent.
+
+Dan Luu:
+> This issue of projects which are more legible getting more funding is an issue across organizations as well as within them. For example, my friend says that, back when GiveWell was mainly or only recommending charities that had simply quantifiable return, she basically couldn't get her friends who worked in other fields to put resources towards efforts that weren't endorsed by GiveWell. People who didn't know about her aid background would say things like "haven't you heard of GiveWell?" when she suggested putting resources towards any particular cause, project, or organization. I talked to a friend of mine who worked at GiveWell during that time period about this and, according to him, the reason GiveWell initially focused on charities that had easily quantifiable value wasn't that they thought those were the highest impact charities. Instead, it was because, as a young organization, they needed to be credible and it's easier to make a credible case for charities whose value is easily quantifiable.
 ## A Little Word Called Legibility: Ribbonfarm review
 
 # Indexicality

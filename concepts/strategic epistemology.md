@@ -11,8 +11,16 @@ There is a moral dimension to strategic ignorance, which is perhaps the dimensio
 # Strategic Knowingness
 
 # Strategic legibility
+[[Erving Goffman]], [[_The Presentation of Self in Everyday Life_]]
+![[_The Presentation of Self in Everyday Life_#^8158c9]]
 
+![[everyday interaction#Mutual prediction sociality]]
 # Strategic illegibility
+[[Adam Elkus]]:
+> Broadly speaking, Alice ideally must first be sphinxlike in character to pull any of this off. She must foster [[ambiguity]] about what her ultimate goals are in order to have an advantage over those around her. This style of behavior is called “robust action” in sociology. For Alice to be an ideal manipulator, her actions must be interpretable from multiple perspectives at once, potentially function as moves in multiple [[concepts/games|games]] at once, and conceal her public and private motivations. This maintains her flexibility and discretion and thwarts attempts by rivals to narrow her space of choices. Forced clarification of her [[commitment|commitments]] and lock-in to hard goals only gives Bob an ability to constrain her.
+
+[[Erving Goffman]], [[_The Presentation of Self in Everyday Life_]]:
+![[_The Presentation of Self in Everyday Life_#^813d5c]]
 
 # Pseudo legibility
 

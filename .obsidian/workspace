@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "80336cbafad9f72a",
+        "id": "9c5d1baa5001ea8a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/all communication is manipulation.md",
-            "mode": "source"
+            "file": "concepts/preference falsification.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Games of strategy\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/all communication is manipulation.md",
+                "file": "concepts/preference falsification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/all communication is manipulation.md",
+                "file": "concepts/preference falsification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/all communication is manipulation.md"
+                "file": "concepts/preference falsification.md"
               }
             }
           }
@@ -109,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80336cbafad9f72a",
+  "active": "9c5d1baa5001ea8a",
   "lastOpenFiles": [
-    "concepts/all communication is manipulation.md",
-    "transcripts/allgebrahReasonAndSnav211129.md",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "concepts/strategic conceptualization.md",
-    "smol.md",
+    "concepts/preference falsification.md",
+    "Strategy games.md",
+    "research areas/strategic interaction.md",
+    "concepts/games.md",
+    "research areas/games.md",
     "texts/_The Presentation of Self in Everyday Life_.md",
-    "concepts/fit.md",
-    "concepts/stigmergy.md",
-    "texts/Wagner 2018.md"
+    "marriage.md",
+    "concepts/strategic epistemology.md",
+    "concepts/persona.md",
+    "concepts/everyday interaction.md"
   ]
 }

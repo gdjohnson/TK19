@@ -1,6 +1,6 @@
 # Schelling 1960: Strategies of Conflict
 
-[[Thomas Schelling|Schelling]] defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors."
+[[Thomas Schelling|Schelling]] defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors." ^dd4dba
 
 ## Bargaining and mixed motives
 
