@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dallasAndReason220110.md",
+            "file": "places and things/cybernetics.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dallasAndReason220110.md",
+                "file": "places and things/cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dallasAndReason220110.md",
+                "file": "places and things/cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dallasAndReason220110.md"
+                "file": "places and things/cybernetics.md"
               }
             }
           }
@@ -112,6 +112,8 @@
   },
   "active": "295e2d2c72752c7f",
   "lastOpenFiles": [
+    "places and things/cybernetics.md",
+    "concepts/magic.md",
     "dallasAndReason220110.md",
     "concepts/all communication is manipulation.md",
     "concepts/bargaining.md",
@@ -119,8 +121,6 @@
     "texts/_Succession_.md",
     "strategy games.md",
     "concepts/preference falsification.md",
-    "research areas/strategic interaction.md",
-    "research areas/games.md",
-    "texts/_The Presentation of Self in Everyday Life_.md"
+    "research areas/strategic interaction.md"
   ]
 }
