@@ -1,0 +1,1 @@
+See _Depatterning_ Substack on "rich kid syndrome" of being raised under narcissist manipulators: "at my deepest, most fundamental and subconscious levels, I am looking to others: for direction, for approval, for happiness. A nervous check for a negative reaction; a question mark after everything I say."

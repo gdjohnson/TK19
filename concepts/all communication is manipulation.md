@@ -151,5 +151,6 @@ Finally, generically strategic utterances are those which are uttered for a larg
 Of course, generic and bespoke, vague and precise, lie on a spectrum. No utterance is crafted fully generically or totally bespoke. No desired outcome is perfectly specific or totally vague. In other words, manipulation is always value-neutral on certain axes. We may specifically wish to avoid a traffic ticket, but be agnostic as to whether the officer, during the traffic stop, makes small talk about the weather, his golden retriever, or the evolved origins of back pain. And even when we believe that our interactive desires are at their most open-ended, that we are perfectly agnostic to whatever response we might receive, we can easily find ourselves surprised, upset, enraged, or disappointed by the emotional tenor or semantic content of the response.
 
 # Transcripts
+![[dallasAndReason220110]]
 
 ![[allgebrahReasonAndSnav211129]]

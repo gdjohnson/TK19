@@ -23,7 +23,7 @@ The relation between "what" and "how," which is to say, between strategy and tac
 - [[Reciprocity]]
 - [[Rules]]
 - [[Selection Games]]
-- [[Strategy games]]
+- [[strategy games]]
 - [[Strategic interaction in fiction]]
 - [[_Strategy of Conflict_]]
 

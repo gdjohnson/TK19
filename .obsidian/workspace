@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5d1baa5001ea8a",
+        "id": "295e2d2c72752c7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/preference falsification.md",
+            "file": "dallasAndReason220110.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Games of strategy\"",
+                "query": "\"drama\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/preference falsification.md",
+                "file": "dallasAndReason220110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/preference falsification.md",
+                "file": "dallasAndReason220110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/preference falsification.md"
+                "file": "dallasAndReason220110.md"
               }
             }
           }
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c5d1baa5001ea8a",
+  "active": "295e2d2c72752c7f",
   "lastOpenFiles": [
-    "concepts/preference falsification.md",
-    "Strategy games.md",
-    "research areas/strategic interaction.md",
+    "dallasAndReason220110.md",
+    "concepts/all communication is manipulation.md",
+    "concepts/bargaining.md",
     "concepts/games.md",
+    "texts/_Succession_.md",
+    "strategy games.md",
+    "concepts/preference falsification.md",
+    "research areas/strategic interaction.md",
     "research areas/games.md",
-    "texts/_The Presentation of Self in Everyday Life_.md",
-    "marriage.md",
-    "concepts/strategic epistemology.md",
-    "concepts/persona.md",
-    "concepts/everyday interaction.md"
+    "texts/_The Presentation of Self in Everyday Life_.md"
   ]
 }

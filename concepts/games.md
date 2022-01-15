@@ -3,6 +3,8 @@ _See also [[Strategic Interaction]], which cases human life as a game._
 1.  We do not know whether life “is” a game. What a question! What answer is there besides popular assent? We cannot even propose a definition of game. Wittgenstein has already shown the fruitlessness. C. Thi Nguyen, in attempting to define a game for his philosophical work, has provided a second, albeit unintentional and negative, example.
 2.  But we think that casting life, and its sub-scenarios—conversations, parties, job applications, courtships, projects, collaborations, etc—as a game is fruitful because there are several qualities of games which these scenarios share.
 
+Different kind of games are amenable to different: moods, worldviews, strategic styles. 
+
 ## Sacred spaces
 
 ### Pfaller 2014: On The Pleasure Principle

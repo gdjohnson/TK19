@@ -60,6 +60,8 @@ Two types of threat: those which explicitly remind or affirm another party of on
 
 ### Strategic self-binding
 
+(famously illustrated in the Odyssey, when Odysseus ties himself to the mast to avoid sirens)
+
 If dealing with a rational actor, claimed future actions must be in the actor's self-interest to be believed. Thus, to credibly threaten an action against one's interests, one must either convincingly present oneself as irrational/mad, or else incorrectly informed as to the best way to achieve one's self interest. The alternative is to change one's incentive structure—"self-binding," or committing to a course of action in a binding way.
 
 One approach to defending the second type of threat is to convince the other party that the cost of the ex post action to oneself is small. But is is an unnecessary level of deception: one need only (and would be more efficacious to) persuade the other party that they, the threatening party, was unaware or overly optimistic about the fallout. To feign ignorance or stupidity or madness, a childlike irrationality.
