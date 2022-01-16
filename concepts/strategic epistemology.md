@@ -22,6 +22,10 @@ There is a moral dimension to strategic ignorance, which is perhaps the dimensio
 [[Erving Goffman]], [[_The Presentation of Self in Everyday Life_]]:
 ![[_The Presentation of Self in Everyday Life_#^813d5c]]
 
+      
+[[John Boyd]], “Organic Design for Command & Control”: 
+> In order to win, we should operate at a faster tempo or rhythm than our adversaries—or, better yet, get inside [the] adversary’s Observation-Orientation-Decision-Action time cycle or loop … Such activity will make us appear ambiguous (unpredictable) thereby generate confusion and disorder among our adversaries.
+
 # Pseudo legibility
 
 ![["Games of Strategy are Games of Reading and Writing"#^a1703e]]

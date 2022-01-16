@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "295e2d2c72752c7f",
+        "id": "918439e306b20170",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "places and things/cybernetics.md",
+            "file": "concepts/all communication is manipulation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"drama\"",
+                "query": "\"game of strategy\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,17 +110,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "295e2d2c72752c7f",
+  "active": "918439e306b20170",
   "lastOpenFiles": [
     "places and things/cybernetics.md",
     "concepts/magic.md",
     "dallasAndReason220110.md",
     "concepts/all communication is manipulation.md",
     "concepts/bargaining.md",
-    "concepts/games.md",
-    "texts/_Succession_.md",
-    "strategy games.md",
-    "concepts/preference falsification.md",
-    "research areas/strategic interaction.md"
+    "texts/\"Games of Strategy are Games of Reading and Writing\".md",
+    "concepts/indexicality.md",
+    "concepts/strategic epistemology.md",
+    "smol.md",
+    "conflict-files-obsidian-git.md",
+    "concepts/torque epistemology.md",
+    "concepts/New Criticism.md",
+    "www.kennyeaswaran.org/teaching/2017-fall/phil351fall17.md"
   ]
 }
