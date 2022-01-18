@@ -1,6 +1,9 @@
-Author: [[people/Suspended Reason]]
+author: [[people/Suspended Reason]]
+tags: [[games]], [[strategic interaction]], [[strategic epistemology]].
+published: 2021
 
-Tags: [[games]], [[strategic interaction]], [[strategic epistemology]].
+---
+
 
 ## Games of Strategy are Games of Reading and Writing
 

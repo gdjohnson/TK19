@@ -1,14 +1,7 @@
 What Dawkins calls the "tyranny of the discontinuous mind."
 
-[[Richard Roty]], "Freud and Moral Reflection":
-
-> [[Sigmund Freud|Freud]] thought of himself as part of the same "decentering" movement of thought to which [[Nicolaus Copernicus|Copernicus]] and [[Charles Darwin|Darwin]] belonged. I think one gets a better idea of the similarity Freud was trying to describe by contrasting a world of natural kinds with a world of machines — a world of Aristotelian substances with a world of homogenous particles combining and disassociating according to universal laws. Think of the claim that "man is a natural kind" not as saying that human beings are at the center of something, but that they have a center, in a way that a machine does not. A substance that exemplifies an Aristotelian natural kind divides into a central essence — one that provides a built-in purpose — and a set of peripheral accidents. But an artifact's formal and final causes may be distinct; the same machine, for example, may be used for many different purposes. A machine's purpose is not built in. If humanity is a natural kind, then perhaps we can find our center and so learn how to live well. But if we are machines, then it is up to us to invent a use for ourselves.
-
-That is, our natural [[teleological language]] draws an equivalence between end and essence. There is a divine project, and an eschatological progression. We are here for a reason; we actualize and fulfill our purpose. Intrinsic teleology or purpose is a perspective of a creator or user. Natural science replaces the teleological view with a mechanized world picture. Classification is revealed to be pragmatic, and our [[pragmatic ontology]] perspectival. Removing this perspective, beings have no purpose, they just "are."
-
-Writing on Freud's view of the ego as "not even a master in his own house":
-> Psychological mechanisms will seem more decentering than physiological mechanisms only if one is of a naturally metaphysical turn of mind, insistent on pressing the questions, "But what am I really? What is my true self? What is essential to me?" Descartes and Kant had this sort of mind and so, in our day, do reductionist metaphysicians such as B. F. Skinner and antireductionist champions of "subjectivity" and "phenomenology" such as Thomas Nagel and Richard Wollheim. But the mechanization of nature made protopragmatists of most people, allowing them to shrug off questions of essence. They became accustomed to speaking one sort of language for Baconian purposes of prediction and control and another for purposes of moral reflection.
-
+[[Richard Roty]], [["Freud and Moral Reflection"#Essentialism and reification]]:
+![["Freud and Moral Reflection"]]
 
 
 # Plato's forms

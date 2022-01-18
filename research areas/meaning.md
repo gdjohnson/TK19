@@ -1,5 +1,7 @@
 Meaning is purposive and contextual. Things are meaningful insofar as they are relevant to the goals of an organism, where goals are a desired delta in circumstance. The objective affordances and constraints of the environment in accomplishing these deltas constitute the "meaning" of a situation.
 
+This entry will eventually need to be squared against the [[communication]] research area.
+
 ## Entries
 - [[Conceptual Analysis]]
 - [[Conceptual Engineering]]

@@ -1,4 +1,8 @@
-Author: [[people/Suspended Reason]]
+author: [[people/Suspended Reason]]
+year: 2021
+
+---
+
 
 # NOTES ON THE INEXACT SCIENCES
 

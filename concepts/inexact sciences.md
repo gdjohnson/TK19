@@ -1,6 +1,8 @@
-![["Notes on the Inexact Sciences"]]
+![[''Notes on the Inexact Sciences"]]
 
 # Unintegrated parts
+
+Riffing on [[Peter Galison]], the inexact sciences are and ought to be a trading zone
 
 ## Bourdieu 1991: Language & Symbolic Power
 

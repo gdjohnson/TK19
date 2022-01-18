@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/all communication is manipulation.md",
+            "file": "people/Suspended Reason.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"game of strategy\"",
+                "query": "[[information]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places and things/cybernetics.md",
+                "file": "people/Suspended Reason.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places and things/cybernetics.md",
+                "file": "people/Suspended Reason.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places and things/cybernetics.md"
+                "file": "people/Suspended Reason.md"
               }
             }
           }
@@ -107,23 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "918439e306b20170",
   "lastOpenFiles": [
-    "places and things/cybernetics.md",
-    "concepts/magic.md",
-    "dallasAndReason220110.md",
-    "concepts/all communication is manipulation.md",
-    "concepts/bargaining.md",
+    "people/Suspended Reason.md",
+    "people/Claude Shannon.md",
+    "texts/\"Meta Sequences\".md",
+    "texts/\"Reading 'Ignorance, A Skilled Practice'\".md",
+    "texts/\"Turning Away from the Signaling Frame\".md",
+    "texts/''Notes on the Inexact Sciences\".md",
     "texts/\"Games of Strategy are Games of Reading and Writing\".md",
-    "concepts/indexicality.md",
-    "concepts/strategic epistemology.md",
-    "smol.md",
-    "conflict-files-obsidian-git.md",
-    "concepts/torque epistemology.md",
-    "concepts/New Criticism.md",
-    "www.kennyeaswaran.org/teaching/2017-fall/phil351fall17.md"
+    "texts/\"All Communication is Manipulation\".md",
+    "texts/\"Precise, vague, and generic utterances\".md",
+    "texts/\"All Communication is Behavioral Manipulation\".md"
   ]
 }

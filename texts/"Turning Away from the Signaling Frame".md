@@ -1,4 +1,7 @@
-Author: [[people/Suspended Reason]]
+author: [[people/Suspended Reason]]
+year: 2021
+
+---
 
 _Part of a series on [[generalized reading]]._
 

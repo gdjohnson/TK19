@@ -2,7 +2,7 @@
 
 [[Simon Reynolds]] has pointed out the trend in electronica toward worldbuilding, from the dusty analogue-futurism of Burial to the amnesiac nostalgia of The Caretaker's _An Empty Bliss Beyond This World_.
 
-[[Information]] changes you. Navigating new worlds and bringing home the knowledge changes you. This is what [[Cab Broskoski]] means when he talks about the used book shop's promise as a catalogue of worlds, portals, "nodal points" that shape you. This is what [[Jacob Clifton]] means when he talks about become more, it's what people in general mean by "growth." Experience, books—they're vectors for the two kinds of information; one of inference the other of empiricism. The book-as-world is all over Borges. The Book of Knowledge, Adam's apple, the psychedelic trip. It's the Campbellian hero's journey, really: you leave your world, and enter a new world, and then come back home with the knowledge and experience of the beyond.
+[[information theory|information]] changes you. Navigating new worlds and bringing home the knowledge changes you. This is what [[Cab Broskoski]] means when he talks about the used book shop's promise as a catalogue of worlds, portals, "nodal points" that shape you. This is what [[Jacob Clifton]] means when he talks about become more, it's what people in general mean by "growth." Experience, books—they're vectors for the two kinds of information; one of inference the other of empiricism. The book-as-world is all over Borges. The Book of Knowledge, Adam's apple, the psychedelic trip. It's the Campbellian hero's journey, really: you leave your world, and enter a new world, and then come back home with the knowledge and experience of the beyond.
 
 ![[_The Social Construction of Reality_#^762ea9]]
 

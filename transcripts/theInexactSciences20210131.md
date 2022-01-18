@@ -14,7 +14,7 @@ _Tags: [[surrogation]], statistics, overfitting, [[compression]], transfer learn
 
 [1:55 PM] suspended reason: You're trying to "synopsize" the data, and that involves 1) making distinctions, 2) eliding distinctions
 
-[1:55 PM] suspended reason: IIRC Shannon does talk about this, how any compression algorithm is optimized for a specific sub-set of language uses
+[1:55 PM] suspended reason: IIRC [[Claude Shannon|Shannon]] does talk about this, how any compression algorithm is optimized for a specific sub-set of language uses
 
 [1:56 PM] suspended reason: If you do a Huffman encoding of the English alphabet, it's not gonna compress Spanish very well
 

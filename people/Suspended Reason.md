@@ -4,3 +4,9 @@
 - [["Turning Away from the Signaling Frame"]] (2021)
 - [[''Notes on the Inexact Sciences"]] (2021)
 - [["Games of Strategy are Games of Reading and Writing"]] (2021)
+- [["All Communication is Manipulation"]] (2021)
+- [["Precise, vague, and generic utterances"]] (2021)
+- [["All Communication is Behavioral Manipulation"]] (2022)
+- [["Consensual and Non-consensual Manipulation"]] (2022)
+- [["ACiM is fundamentally cybernetic"]] (2022)
+

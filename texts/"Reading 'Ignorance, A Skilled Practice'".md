@@ -1,4 +1,7 @@
-Author: [[people/Suspended Reason]]
+author: [[people/Suspended Reason]]
+year: 2020
+
+---
 
 I want to sketch a quick walk-through & response to Sarah Perry’s lengthy essay “[Ignorance: A Skilled Practice](https://href.li/?https://carcinisation.com/2020/01/27/ignorance-a-skilled-practice/),” framing it in a way that will make it useful as a back-reference working forward. This post is still somewhat long (2.2k words), but is a 6x compression of the original 12k, despite sneaking in commentary and relevant concepts from thingspace. I’ve broken it up into four sections with one-sentence abstracts:
 

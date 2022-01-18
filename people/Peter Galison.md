@@ -1,0 +1,1 @@
+[4:41 PM] thechickenman: I think the themes of Galison's work especially, that we need interactional expertise and trading zones, makes the case that there are several that get into squabbles

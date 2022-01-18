@@ -1,6 +1,9 @@
+author: [[people/Suspended Reason]]
+year: 2020
+
 _See [[reinventing the wheel]] and [[against philosophy]]._
 
-Author: [[people/Suspended Reason]]
+---
 
 [[LessWrong]] rationalists and mainstream philosophers are two tribes made up of generally intelligent & knowledgeable people, focused on answering many of the same questions, which are each broadly dismissive of the other’s intellectual production. To a naive observer, it is unclear whether or which of these mutual dismissals is warranted.
 

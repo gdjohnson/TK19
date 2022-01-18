@@ -1,4 +1,12 @@
+---
+alias: information
+---
+
 Information, as Andy Clark puts it in _Surfing Uncertainty_, is any energy transfer: light waves, sound waves, the apprehension of force by the nervous system. 
+
+[[Norbert Wiener 1]]: "To live effectively is to live with adequate information. Thus, communication and control belong to the essence of man's inner life, even as they belong to his life in society".
+
+[[Intelligence]] has evolved (or is designed, in the case of computers) to be altered by forms of energy (light waves, sound waves, etc) which would not normally affect it, and to be altered in a complex, contextual, memoried way. When intelligent agents create information for other intelligent agents, we call it [[communication]].
 
 # Dedeo 2018: Information Theory for Intelligent People
 
