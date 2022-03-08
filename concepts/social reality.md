@@ -29,9 +29,9 @@ This center of authority is a Schelling point for coordination which is protecte
 
 One [[game theory|game-theoretic]] insight is that rules work not by "banning" a behavior but by changing the cost-benefit analysis for an actor. But we must not forget that there is another level, the internalization and reification of social reality, such that the actor feels a sense of compulsion or pro-sociality, or else does not even realize that the banned behavior is a possible move, or else, finally, such as to play into an individual's general strategy of cooperation over time, a general strategy formed through the condensation of many defection costs and many general cooperative benefits, of reputation within a community over time. In other words, while the immediate "move" may be strategic in this macro-scale, more often the calculus of many prior dilemmas becomes a guiding principle of action that overrides the immediate calculus of the situation-at-hand.
 
-# Perry (2015): Gardens Need Walls—On Boundaries, Ritual, and Beauty
+# Perry: The Essence of Peopling
 
-> ...a huge portion of our internal cognitive machinery, of which we are not normally aware, is concerned with the ordinary functino of maintaining one's own identity and that of others.
+> ...a huge portion of our internal cognitive machinery, of which we are not normally aware, is concerned with the ordinary function of maintaining one's own identity and that of others.
 
 > Each person’s self is spread out among many people, _simulated_ in all their brains at varying levels of granularity. And each person has a different “self” for each one of the people he knows, and a different self for every social context. A teenager has a very different way of behaving, speaking and thinking around his friends from the way he behaves, speaks, and thinks around his grandparents. The self at work is different from the self at home with close friends, or in bed with a spouse. And none of these are the “true self” – rather, the self exists in all these, and in the transitions between them. There can never be one single, public self; to collapse all these multiple selves together would be akin to social death.
 

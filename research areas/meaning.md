@@ -68,3 +68,7 @@ To Fields and Levin, all living systems are capable of cognitive "meaning." Here
 
 Such meanings require _reference frames_, in the physics sense: a "kind of difference to be recognized, e.g... in size, shape, color, or motion" alongside "a specific reference value, e.g. this big or that shape."
 
+# Meaning as entailment
+
+Cornejo, Carlos (2004) _Who Says What the Words Say?: The Problem of Linguistic Meaning in Psychology_:
+> pragmatics becomes the study of the interactional consequences of the manipulation of superindividual prefabricated semantic units. The speaker/listener’s experience of meaning is described, in the end, as a fusion of two elements belonging to two different logical realms: the ‘meaning-in-itself’—independent of the subject—and the pragmatic inferences—dependent on both the subject and the context.

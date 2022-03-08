@@ -7,7 +7,7 @@ Jerry Garcia:
 
 ## Image and Authenticity
 
-### Simon Reynolds 2016, Shock & Awe:
+### [[Simon Reynolds]] 2016, Shock & Awe:
 
 The Sixties were the decade of image, from Bergman's _Persona_ to Sontag's camp to Muriel Spark's _The Public Image_. Reynolds traces the interest to [[Erving Goffman]]'s 1959 _The Presentation of Self in Everyday Life_ and Daniel Boorstin's 1962 _The Image_, which talked of "the menace of unreality" in an increasingly mediated world of photo ops, publicity stunts, and celebrity—a proto-Baudrillardean, proto-hypernormalisation take.
 

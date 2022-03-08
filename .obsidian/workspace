@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "people/Suspended Reason.md",
+            "file": "concepts/intelligence as futures optimization.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[information]]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Suspended Reason.md",
+                "file": "concepts/intelligence as futures optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "people/Suspended Reason.md",
+                "file": "concepts/intelligence as futures optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "people/Suspended Reason.md"
+                "file": "concepts/intelligence as futures optimization.md"
               }
             }
           }
@@ -106,19 +106,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "918439e306b20170",
   "lastOpenFiles": [
-    "people/Suspended Reason.md",
-    "people/Claude Shannon.md",
-    "texts/\"Meta Sequences\".md",
-    "texts/\"Reading 'Ignorance, A Skilled Practice'\".md",
-    "texts/\"Turning Away from the Signaling Frame\".md",
-    "texts/''Notes on the Inexact Sciences\".md",
-    "texts/\"Games of Strategy are Games of Reading and Writing\".md",
-    "texts/\"All Communication is Manipulation\".md",
-    "texts/\"Precise, vague, and generic utterances\".md",
-    "texts/\"All Communication is Behavioral Manipulation\".md"
+    "concepts/intelligence as futures optimization.md",
+    "research areas/predictive processing.md",
+    "texts/_Garfinkel & Ethnomethodology_.md",
+    "people/John Heritage.md",
+    "people/Alfred Schütz.md",
+    "concepts/bargaining.md",
+    "texts/_Strategy of Conflict_.md",
+    "texts/_The Presentation of Self in Everyday Life_.md",
+    "concepts/anti-inductive.md",
+    "concepts/the metagame.md"
   ]
 }

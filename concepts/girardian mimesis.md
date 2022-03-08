@@ -1,4 +1,6 @@
-![](/girardMimesisTriangle.jpg)
+_See also [[mimicry]] and [[fads]]._
+
+![](/images/girardMimesisTriangle.jpg)
 
 [[René Girard|Girard]] offers a theory much like the mimetics of [[social learning]] theorized by Joe Henrich. Humans, in order to learn, require _models_—but it is not merely this model's behavior that he picks up and imitates, but the model's _desires_, the objects to which the behavioral practices are directed; the two are intertwined. 
 

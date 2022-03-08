@@ -209,7 +209,7 @@ Me: what to do next
 
 [9:58 AM] snav: even if i don't like what she cites
 
-[9:58 AM] suspended reason: Gardens Need Walls is a classic essay
+[9:58 AM] suspended reason: [["Gardens Need Walls—On Boundaries, Ritual, and Beauty"]] is a classic essay
 
 [9:58 AM] suspended reason: and Ritual & the Consciousness Monoculture
 

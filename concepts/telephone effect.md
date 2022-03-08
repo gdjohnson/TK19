@@ -2,6 +2,8 @@
 * The telephone effect is part of the lifestyle of [[concepts/concepts]].
 * The first stage is in misrepresentation by intellectuals (Saul Bellow: _How quickly the visions of genius become the canned goods of intellectuals._). The second stage is its watering down for and by successive stages of public.
 
+Adam Strandberg: "the big problem is jargon that starts with a precise, distinct meaning and then spreads out to fill the vague space formerly occupied by the ordinary words that the jargon replaced in specific situations"
+
 # Introduction: the Freudian Gospel
 
 In [[F. L. Allen]]’s _Only Yesterday_, a contemporaneous history of [[the twenties]], Allen writes about the revolution in manners and morals that began to pick up in the early years of the decade:

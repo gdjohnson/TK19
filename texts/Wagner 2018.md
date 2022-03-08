@@ -46,7 +46,7 @@ Robert Foster on Roy Wagner:
 
 > Like metaphor (their verbal counterpart), images 'contain 'and 'elicit' all the glosses and thus lend themselves more to direct experience or revelation than to description or verbal summary. Meaning, then, as Wagner broadly contends in *Symbols That Stand For Themselves* (STSFT), is itself a perception 'elicited' by unglossable and paradoxical tropes—metaphor, analogy, image.
 
-[[Sarah Perry]], "Ambiguity As Meaning":
+[[Sarah Perry]], "Meaning as Ambiguity":
 
 > ...ambiguity is the essence of meaning. Here I mean “meaning” in the sense of the profound, the artistically deep, the spiritually relevant – not in the crude sense of “pointing” that I previously examined. The story of the [[garden]] of Eden, *The Shining*, your *Hamlet* and *Bend Sinister*, the evidence of their profundity (that is to say, [[ambiguity]]) lies in the multitude of interpretations they support.
 

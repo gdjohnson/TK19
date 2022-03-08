@@ -16,6 +16,9 @@ Karen Pryor, _Don't Shoot the Dog_:
 
 This view of communication is founded on observations from animal signaling (e.g. [["Animal Signals - Mind-Reading and Manipulation"]]) and the framing in [[ethnomethodology]] which understands the interpretation of a receiver (and thus the meaning of the message) in how said receiver responds.
 
+# Pulls toward non-coercion
+![[horn1984.png]]
+
 # Rorty, "Freud and Moral Reflection"
 
 ![["Freud and Moral Reflection"#Communication as Manipulation]]

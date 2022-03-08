@@ -6,7 +6,7 @@
 
 # Lifespan
 
-Simon Reynolds, Blissblogger:
+[[Simon Reynolds]], Blissblogger:
 
 > We tend to regard genres as organic or biological entities - as a person (growing through the ages of man: infancy, childhood, adolescence etc etc) or as an ecosystem (evolving, mutating, expanding, assimilating, withering)
 >

@@ -1,0 +1,1 @@
+When a marked (relatively complex or prolix) expression is used, when an alternative (simpler) expression is available, this is typically interpreted as conveying a marked message which the unmarked, simpler alternative would or could not have conveyed.

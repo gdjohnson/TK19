@@ -38,6 +38,12 @@ Scott Alexander, "Trivers on Self-Deception":
 
 > Trivers’ theory has been summed up by calling consciousness “the public relations agency of the brain”. It consists of a group of thoughts selected because they paint the thinker in a positive light, and of speech motivated in harmony with those thoughts. This ties together signaling, the many self-promotion biases that have thus far been discovered, and the increasing awareness that consciousness is more of a side office in the mind’s organizational structure than it is a decision-maker.
 
+
+## Deception and consent
+Whether something is honest, consensual, and good for both parties often correlate; see also [[all communication is manipulation]].
+
+Pirates differ from business insofar as it is non-consensual due to, and resulting in, lopsided terms. (If the terms were fair, they’d be easier to secure consensually than by force.) Deceit, a kind of piracy in business, entails false advertising—that the apparent deliverable or contract did not reflect the real terms, and what was entered consensually was entered under a false appearance deliberately created by one side of the contract.
+
 ## Commonplace
 
 [[Richard Feynman]] on [[cargocult]] science:

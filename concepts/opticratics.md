@@ -365,6 +365,64 @@ Traldi:
 
 ![[consequentialism#^912523]]
 
+# Lakoff metaphors: External Appearance Is A Cover
+
+- 1 The crisis stripped away our veneer of sophistication.
+
+- 2 We donned an appearance of nonchallance.
+
+Source Domain
+
+cover, clothes
+
+Target Domain
+
+external appearance, appearance, looks
+
+[Facial Expressions Are Covers](http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/mappings/,Facial.Expressions.Are.Covers.html)
+
+-- 1 Wipe that smile off your face.
+
+-- 2 Put on a happy face.
+
+-- 3 He wore an expression of utter sadness
+
+-- 4 His guilt was written all over his face.
+
+-- 5 His look of amusement was slipping from his face.
+
+-- 6 A grimace materialized for no apparent reason, but it meltedaway before she arrived.
+
+-- 7 The disquiteting expression was lifted from her face.
+
+-- 8 It seemed as though a perpetual grin was sewn to his lips.
+
+-- 9 A shadow fell across her brow. (= she looked troubled)
+
+_Note:_ is mapped onto the fact that facial expressions can beformed/unformed and changed. The fact that we have a metaphor thatthe essence is inside tends to interact with this metaphor--expressionsthat are merely covers may tend to be understood as insincere orotherwise not genuine.
+
+-- 1 Wipe that grin off your face.
+
+_Note:_
+
+-- 1 His grin melted away.
+
+-- 1 His face was stripped bare of any emotion.
+
+-- 1 She wore a deceitful mask of gaiety, which hid her true state.
+
+-- 2 He hid behind a mask of self-rightousness.
+
+-- 3 Behind a pleasant face there is always a dark secret.
+
+-- 4 She concealed her anticipation with a convincing look of boredom.
+
+[Stances Are Covers/clothes](http://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/mappings/,Stances.Are.Covers/clothes.html)
+
+-- 1 He donned an awkward posture.
+
+-- 2 He shed the muscle-man pose when his leg cramped.Covers and/or clothes?
+
 # Further reading
 
 Wiki pages worth investigating:

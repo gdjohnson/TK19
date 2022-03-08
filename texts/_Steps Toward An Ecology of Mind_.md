@@ -1,4 +1,13 @@
-# Bateson: Form, Substance, Difference
+author: [[Gregory Bateson]]
+published: 1972
+
+---
+
+# The Science of Mind & Order
+
+> the phenomenon of _context_, and the closely related phenomenon of _"meaning"_, defined a division between the "hard" sciences and the sort of science which I was trying to build.
+
+# Form, Substance, Difference
 
 > What gets onto a map, in fact, is _difference_, be it a difference in altitude, a difference in vegetation, a difference in population structure, difference in surface, or whatever. Differences are the things that get on a map.
 

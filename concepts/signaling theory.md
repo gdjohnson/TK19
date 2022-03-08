@@ -203,3 +203,5 @@ Finally, Hasson (1994) describes a cue as "any feature of the world, animate or 
 
 [[_Language in Thought and Action_]]:
 > A great deal of evidence in modern biology indicates that those species that have developed elaborate means of intraspecific competition often make themselves unfit for interspecific competition, so that such species are either already extinct or are threatened with extinction at any time. The peacock's tail, although useful in sexual competition against other peacocks, is only a hindrance in coping with the environment or competing against other species. The peacock could therefore be wiped out overnight by a sudden change in ecological balance.
+
+![[_Communication_]]

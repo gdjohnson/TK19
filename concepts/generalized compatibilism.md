@@ -200,3 +200,10 @@ Philosophy's heterogeneity hypothesis: Traditionally, we understand there as bei
 [dictionary.com]: http://www.dictionary.com/browse/optimism
 [Merriam-Webster]: https://www.merriam-webster.com/dictionary/optimism
 [Cambridge]: http://dictionary.cambridge.org/dictionary/english/optimism
+
+
+# Linguistic semantics and pragmatics as compatible
+
+Cornejo, Carlos (2004) _Who Says What the Words Say?: The Problem of Linguistic Meaning in Psychology_:
+
+> It follows, then, that, its eventual descriptive value notwithstanding, the analytical distinction between semantics and pragmatics lacks psychological reality (Cornejo, 2000; Gibbs, 1994; Rumelhart, 1979; Shanon, 1988).

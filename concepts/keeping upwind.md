@@ -4,7 +4,7 @@ aliases: [intrinsic empowerment]
 
 _See also [[Agency]] entry._
 
-"Keeping upwind" is Paul Graham's term for choosing the best set or range of future options. See also [[intelligence as futures optimization|mutual modeling of futures]]; Wrench's argument about social & linguistic non-commitment. All these concepts rely on a vision of [[intelligence as futures optimization]].
+"Keeping upwind" is Paul Graham's term for choosing the best set or range of future options. See also [[intelligence as futures optimization|mutual modeling of futures]], Crispy's argument about social & linguistic non-commitment, the modern trend toward optionality over obligation, and [[annealing]]. All these concepts rely on a vision of [[intelligence as futures optimization]].
 
 > Instead of working back from a goal, work forward from promising situations. This is what most successful people actually do anyway.
 

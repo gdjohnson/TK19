@@ -49,7 +49,7 @@ _See also the entry on [[Institutionality]]._
 
 ![[_Sexual Personae_#^bee54b]]
 
-# Perry (2015): Gardens Need Walls—On Boundaries, Ritual, and Beauty
+# Perry: The Essence of Peopling
 
 > In very complex societies, there are some people who are so high in status that it is obligatory to mentally model them, even though they do not reciprocate by mentally modeling their social inferiors. This one-way modeling process usually occurs with the intermediation of media (which is not to say _modern_ media, as this dynamic is thousands of years old).
 >

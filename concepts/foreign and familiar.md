@@ -6,7 +6,7 @@ In the terms of the Russian Formalist school, it is the difference between _reco
 
 Carl Wilson: "Balancing repetition and novelty is crucial." 
 
-Simon Reynolds, Red Scare intvw: "Post-punk carried on the modernist ethos of making it new, the terror, on one hand, of repeating yourself, and on the other hand, repeating others."
+[[Simon Reynolds]], Red Scare intvw: "Post-punk carried on the modernist ethos of making it new, the terror, on one hand, of repeating yourself, and on the other hand, repeating others."
 
 # The familiar
 

@@ -11,6 +11,8 @@ There is a moral dimension to strategic ignorance, which is perhaps the dimensio
 # Strategic Knowingness
 
 # Strategic legibility
+Pseudolegibility: opponent has committed themselves to world which puts them at disadvantage
+
 [[Erving Goffman]], [[_The Presentation of Self in Everyday Life_]]
 ![[_The Presentation of Self in Everyday Life_#^8158c9]]
 

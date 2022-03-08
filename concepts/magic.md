@@ -4,6 +4,8 @@ aliases: hyperstition
 
 Honor Levy, _Ket Patrol_: " I believe the Internet can summon demons. Chaos magic is not something to be messed with, and it's kinda scary."
 
+Magic is the exception to the Litany of Gendlin.
+
 # Allgebrah, "Meme Magic"
 > Science tries to describe without influencing the subject. Experiments, once set up, must work independently from theories, the map must be causally downstream from the territory. This Must becomes an expectation and creates a blind spot. But only the most well-behaved fields really work this way: Sociology and Psychology that deal with social realities struggle with this, especially. For many areas of interest, the map is carved into the territory by its usage, a herbivore trail both formed by and forming the territory. Language, world views, even our memories are such maps, changing whenever they're used.
 
