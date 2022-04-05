@@ -1,0 +1,1 @@
+From a consequentialist perspective, it's often (not always!) more important to appear moral than to be moral, because the second-order, memetic effects on norm enforcement outstrip any first-order outcomes of Actually Being Good.

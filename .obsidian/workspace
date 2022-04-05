@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/intelligence as futures optimization.md",
+            "file": "ethics in an opticratic world.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tennis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/intelligence as futures optimization.md",
+                "file": "ethics in an opticratic world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/intelligence as futures optimization.md",
+                "file": "ethics in an opticratic world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/intelligence as futures optimization.md"
+                "file": "ethics in an opticratic world.md"
               }
             }
           }
@@ -111,15 +112,15 @@
   },
   "active": "918439e306b20170",
   "lastOpenFiles": [
+    "ethics in an opticratic world.md",
+    "concepts/opticratics.md",
+    "distinction.md",
+    "concepts/all communication is manipulation.md",
+    "texts/_Levels of the Game_.md",
     "concepts/intelligence as futures optimization.md",
     "research areas/predictive processing.md",
     "texts/_Garfinkel & Ethnomethodology_.md",
     "people/John Heritage.md",
-    "people/Alfred Schütz.md",
-    "concepts/bargaining.md",
-    "texts/_Strategy of Conflict_.md",
-    "texts/_The Presentation of Self in Everyday Life_.md",
-    "concepts/anti-inductive.md",
-    "concepts/the metagame.md"
+    "people/Alfred Schütz.md"
   ]
 }

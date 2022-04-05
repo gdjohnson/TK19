@@ -16,6 +16,21 @@ Karen Pryor, _Don't Shoot the Dog_:
 
 This view of communication is founded on observations from animal signaling (e.g. [["Animal Signals - Mind-Reading and Manipulation"]]) and the framing in [[ethnomethodology]] which understands the interpretation of a receiver (and thus the meaning of the message) in how said receiver responds.
 
+# Why does ACiM matter?
+What does this framing get us?
+
+At a personal level it implies moral responsibility for effects, and not merely intent, which is notoriously hijacked (from psychoanalysis to Bob Trivers, it seems clear that the unconscious launders "bad" or selfish motives through "good" or selfless intent, or through motivated ignorance, etc).
+
+From an analysis perspective, it sidesteps questions of intent and consciousness—black boxes which we cannot access, and which are notoriously hijacked (making survey response unreliable). By focusing on sequences of communicative causes and effects, we are able to model information and signaling as it actually, mechanically works—the real effects it has, that might attract agents to certain strategies while repelling them from others.
+
+It makes it impossible for us to ignore the pragmatic effects of meaning, interaction, speech, etc.
+
+Are these torque arguments? Certainly. But [[literalism]]—a bookish belief in "content" and "representation" as the central "is"-ness of writing—is the typical failure point of nerd epistemology, and by extension, of academics. ACiM privileges effects as the ends of communication, with reference its instrument. And we cannot understand an instrument unless we understand what it is for.
+
+# The phenomenology of ACiM
+
+The unconscious surfaces possible utterances. The conscious weighs, vets, either deploys or rejects on the basis of forecast effects.
+
 # Pulls toward non-coercion
 ![[horn1984.png]]
 
