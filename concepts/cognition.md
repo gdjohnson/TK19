@@ -12,7 +12,7 @@
 - [[Inference]]
 - [[Information theory]]
 - [[Intelligence as futures optimization]]
-- [[Keeping upwind]]
+- [[empowerment]]
 - [[Kolmogorov complexity]]
 - [[Perception]]
 - [[Pop psychology]]

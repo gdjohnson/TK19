@@ -1,3 +1,5 @@
+_See also [[etymology]]._
+
 # Bloody Typical Semantic Shifts
 
 > Do you know the difference between the clouds and the sky? If you do, you’re lucky, because if you live in England, the two are pretty much synonymous. The clouds aren’t lined with silver. The weather is just miserable. It always has been and it always will be.

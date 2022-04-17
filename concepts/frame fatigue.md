@@ -1,1 +1,1 @@
-See also [[plasticity]], [[annealing]], concept fatigue.
+See also [[plasticity]], [[annealing]], [[framing|conceptualization]], concept fatigue.

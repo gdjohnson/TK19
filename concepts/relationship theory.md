@@ -1,3 +1,5 @@
+_See also clout-pooling, pod theory for benefits of social network._
+
 Part of the value and irritation of an intimate partner is that there is always someone whose alternate perspective and decision-making implicitly calls into question the validity of your own. There is always a POV that needs reconciling and acknowledgment, which cannot be ignored.
 
 C. S. Lewis:

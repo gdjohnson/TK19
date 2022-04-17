@@ -1,5 +1,7 @@
 _The surface form of a thing is mimicked, with the expectation that the thing's full function will follow, but of course the true form of a thing, its complex situation in the world, is complex and hidden, requires more careful study than has been performed. The cargoculters do not know this because they are not even aware that there is or could be such a further submersion in the world. They cannot fathom that reality and tool-making could be as complex as they are because their culture has not developed as extensively as the culture of their cargoculting's target._
 
+Saying "Everything is a cargocult" is roughly equivalent to saying "We're symbol worshippers," which is roughly equivalent to the necessity of reminding everyone, constantly, that the map is not the territory.
+
 # James 1890: Principles of Psychology ("Reasoning")
 
 Cargocult might best be understood via [[William James|James]]'s carving of [[brute association]] versus mechanistic, theorizing [[reasoning]]. Brute association lacks the real understanding of mechanism present in reasoning:

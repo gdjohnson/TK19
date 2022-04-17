@@ -73,6 +73,10 @@ Q1: How universal are some of these analogic extensions? Hofstadter asks as well
 
 Lakoff believes conceptual metaphors are physically instantiated through neural connections between areas in the brain that light up simultaneously, e.g. affection and warmth regularly co-occurring creates a connection.
 
+## Conceptual Metaphors
+
+![[_The Mind in the Cave - Consciousness and the Origins of Art_#The Tiered World]]
+
 # Agre 1985: Structure of Everyday Life
 
 Agre sees brains as having a conceptual lattice, that ladders up in abstraction; at the top are what he terms *generic models*. 

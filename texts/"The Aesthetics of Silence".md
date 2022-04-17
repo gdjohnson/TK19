@@ -16,7 +16,7 @@ Art's incessant self-questioning, its deconstruction of its own meaning, was nev
 
 > The newer myth, derived from a post-psychological conception of consciousness, installs within the activity of art many of the paradoxes involved in attaining an absolute state of being described by the great religious mystics. As the activity of the mystic must end in a via negative, a theology of God's absence, a craving for the cloud of unknowingness beyond knowledge and for the silence beyond speech, so art must tend toward anti-art, the elimination of the "subject" (the "object," the "image"), the substitution of chance for [[intent|intention]], and the pursuit of silence.
 
-In other words, art, having grown tired of itself and its novelty treadmill of decadence, has self-consigned itself, resolved to a false fate on the inkling of stagnation, that the "end" of art is nigh. An _Ubik_-style halflife results, not dead, not living, no one trying to revive it.
+In other words, art, having grown tired of itself and its novelty [[treadmill]] of decadence, has self-consigned itself, resolved to a false fate on the inkling of stagnation, that the "end" of art is nigh. An _Ubik_-style halflife results, not dead, not living, no one trying to revive it.
 
 We can also understand silence as a move in a game, a way of elevating oneself above art's corpse through its renunciation:
 

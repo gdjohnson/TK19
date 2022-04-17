@@ -7,7 +7,7 @@ Language itself may be merely an adaptation on top of a built-in "machinery for 
 
 A C-level college paper, on a complex subject, is probably a good approximation of overwhelmed cognition, cognition that cannot handle the complexity of its subject matter. And what do C-level college papers look like? They look a bit like a GPT'd essay: all [babbling](https://www.overcomingbias.com/2017/03/better-babblers.html), no deep structure.
 
-Saying "Everything is a cargocult" is roughly equivalent to saying "We're symbol worshippers," which is roughly equivalent to the necessity of reminding everyone, constantly, that the map is not the territory.
+
 
 ## James 1890: Principles of Psychology ("Reasoning")
 
