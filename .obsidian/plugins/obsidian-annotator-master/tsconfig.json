@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "module": "ESNext",
+    "target": "es6",
+    "allowJs": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "esModuleInterop":true,
+    "importHelpers": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "jsx": "react",
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"]
+}

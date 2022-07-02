@@ -11,7 +11,7 @@ the way we make that “useful” instead of an eternal battle for no reason is 
 **(iv)** in the case of price wars between companies, it’s finding the actual bottom price  
 **(v)** in the case of personal essays, it’s finding candidates that can read the room (note, this may not be the intention, but it is the “intention” from the historical frame)  
 **(vi)** in the case of predator/prey relationships it’s keeping the ecosystem in tact  
-**(vii)** in the case of memes/terms, the treadmill of terms actually subsidizes changes in conceptualization, as each new descriptive frame allows for small conceptual changes i.e. the old meaning of “retarded” is actually conceptually outdated, not just politically outdated  
+**(vii)** in the case of memes/terms, the [[treadmill]] of terms actually subsidizes changes in conceptualization, as each new descriptive frame allows for small conceptual changes i.e. the old meaning of “retarded” is actually conceptually outdated, not just politically outdated  
 **(viii)** in the case of software features, it causes good features to universal across similar software, e.g. tabs  
 **(iix)** in the case of aposematism (e.g. red = poison in nature), it keeps these signals honest in the long term  
 **(ix)** in the case of music, it causes genre fusion  

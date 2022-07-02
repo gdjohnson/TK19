@@ -6,4 +6,4 @@ Sarah Perry, "Cartographic Compression":
 
 - [[Primate Intelligence]]
 - [[Intelligence as Futures Optimization]]
-- [[Keeping upwind]]
+- [[empowerment]]

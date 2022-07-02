@@ -108,7 +108,7 @@ Individuation, following Simondon, is the process of making choices, committing 
 
 # Empowerment
 
-See [[Keeping Upwind]] entry.
+See [[empowerment]] entry.
 
 **Twitter 210817**
 [[Suspended Reason]] @suspendedreason

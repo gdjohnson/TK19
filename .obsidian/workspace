@@ -13,7 +13,8 @@
             "mode": "source",
             "source": false
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "918439e306b20170",
+  "active": "355f4dc0abf7dc78",
   "lastOpenFiles": [
     "texts/_Gossip Girl_.md",
     "nested games.md",

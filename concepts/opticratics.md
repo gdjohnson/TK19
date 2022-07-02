@@ -118,7 +118,7 @@ This does not merely happen in Haiti, or the third-world, among the uneducated; 
 
 ![[Nightjack#April 27 2008 Goalposts Moving]]
 
-As fads emerge, evaluators catch on and begin devaluing the faddish cue, since it is being widely free-ridden by those who lack the qualities it implies (but wish to appear as if they possess them). We can see this in job applications, college admissions, and ADHD prescription requests—individuals looking to pass the requisite selection test spread word of successful entrance strategies. Inevitably, the Red Queen has her way; the newly found "solution" no longer works, and a new "passcode" to the selection gate must be found. There is a "metonym treadmill" by which players are constantly seeking metonyms to gain entry, and gatekeepers are constantly seeking to keep their metonymic interpretations accurate, to prevent their being "hacked."
+As fads emerge, evaluators catch on and begin devaluing the faddish cue, since it is being widely free-ridden by those who lack the qualities it implies (but wish to appear as if they possess them). We can see this in job applications, college admissions, and ADHD prescription requests—individuals looking to pass the requisite selection test spread word of successful entrance strategies. Inevitably, the [[treadmill|Red Queen]] has her way; the newly found "solution" no longer works, and a new "passcode" to the selection gate must be found. There is a "metonym [[treadmill]]" by which players are constantly seeking metonyms to gain entry, and gatekeepers are constantly seeking to keep their metonymic interpretations accurate, to prevent their being "hacked."
 
 ## Gamification and surrogation
 

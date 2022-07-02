@@ -20,7 +20,7 @@ Interfaces and black boxes are actually good, even trying to understand how one 
 
 Suspended Reason
 One of the biggest issues I have with Graeber's view is that he completely hand-waves away game-theoretic problems of communication
-So, e.g., he has this protestant objection to PR/advertising as non-productive in that it's playing a zero-sum game with red queen effects
+So, e.g., he has this protestant objection to PR/advertising as non-productive in that it's playing a zero-sum game with [[treadmill|red queen]] effects
 
 Suspended Reason
 But it's like, good luck getting the entire world to simultaneously disarm. That's an enormous coordination problem. You might as well get mad b/c people spend time & money making themselves look good. "Well if everyone just stopped wearing makeup/paying for sexy clothing"
