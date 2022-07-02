@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ethics in an opticratic world.md",
+            "file": "texts/_Gossip Girl_.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tennis",
+                "query": "clifton accident",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethics in an opticratic world.md",
+                "file": "texts/_Gossip Girl_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethics in an opticratic world.md",
+                "file": "texts/_Gossip Girl_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethics in an opticratic world.md"
+                "file": "texts/_Gossip Girl_.md"
               }
             }
           }
@@ -112,15 +112,15 @@
   },
   "active": "918439e306b20170",
   "lastOpenFiles": [
+    "texts/_Gossip Girl_.md",
+    "nested games.md",
     "ethics in an opticratic world.md",
+    "vollmer.md",
+    "concepts/everyday interaction.md",
+    "concepts/bargaining.md",
     "concepts/opticratics.md",
-    "distinction.md",
-    "concepts/all communication is manipulation.md",
-    "texts/_Levels of the Game_.md",
-    "concepts/intelligence as futures optimization.md",
-    "research areas/predictive processing.md",
-    "texts/_Garfinkel & Ethnomethodology_.md",
-    "people/John Heritage.md",
-    "people/Alfred Schütz.md"
+    "concepts/strategic conceptualization.md",
+    "Untitled.md",
+    "people/Alexandre Dumas.md"
   ]
 }

@@ -1,5 +1,13 @@
 _Strategic conceptualization sits at the interstice of [[framing]] problems, [[pragmatic ontology]] and [[strategic interaction]]._
 
+Conceptualization is the “rounding up” or abstraction of some situation/phenomenon, at a relatively high level, such that the category it belongs to is up for debate and founded on subjective interpretation.
+
+Holding a value system stable, one’s control over normative outcomes depends on the ontological status (conceptual framing) of the situation in question.
+
+(Similarly, holding an ontology stable, one’s control over normative outcome requires the alteration of a values system.)
+
+---
+
 When consequences are the result of categorization, people will perform categories to get their desired consequences.
 
 Categories carry with them a mix of [[decision rules]] and connotations. Connotations, we can think of as the culturally understood value judgments, or feelings, that accompany a category. Decision rules we can think of as the domain-specific actions which are conditionally taken on the basis of whether a object or event under consideration is or isn't a member of the relevant category. In the selection games framework, we can think of them as selection conditionals: if [this category], then [that selection].
@@ -28,7 +36,7 @@ Harris, meanwhile, retreats to an apple farm, where he tells press that Corrin w
 ![[_Language in Thought and Action_#^efe0ee]]
 ![[_Language in Thought and Action_#^ebeb00]]
 
-### [[Alexander Dumas|Dumas]] 1844: The Count of Monte Cristo
+### [[Alexandre Dumas|Dumas]] 1844: The Count of Monte Cristo
 ![[_The Count of Monte Cristo_#^fd6f3d]]
 
 ### [[Noah Baumbach]] 2019: Marriage Story

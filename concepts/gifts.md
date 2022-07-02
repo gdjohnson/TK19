@@ -1,4 +1,4 @@
-_See also [[Reciprocity]] entry._
+ga_See also [[Reciprocity]] entry._
 
 ## Bird & Smith 2005: [[signaling theory]], Strategic Interaction, and Symbolic Capital
 

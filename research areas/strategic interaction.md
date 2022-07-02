@@ -4,6 +4,8 @@ In a strategic frame, the "[[meaning]]" of an action or interaction is the delta
 
 The relation between "what" and "how," which is to say, between strategy and tactic, is only a relation of "what"s at varying levels of abstract scale. We can call the infinitely receding process of drilling into tactics the decomposition of choices, where each choice is both a what and how simultaneous.
 
+Instead of "man is the rational animal," "man is one strategic animal among many." This echoing Bourdieu's intervention, that man acts on reasons, even if he is not rational.
+
 ## Blog posts
 - [2021: Epistemic Strategies pt. 1](https://suspendedreason.com/2021/05/12/epistemic-strategies-pt-1/)
 - [2021: Is Strategic Interaction Machiavellian?](https://suspendedreason.com/2021/05/12/is-strategic-interaction-machiavellian/)

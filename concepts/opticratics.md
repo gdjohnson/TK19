@@ -2,6 +2,8 @@
 aliases: opticracy, opticratic, image-oriented
 ---
 
+_See also [[ethics in an opticratic world]], [[cargocult]], [[_The Presentation of Self in Everyday Life_]], [[authenticity]]._
+
 "The first duty in life is to assume a pose. What the second is, no one has yet discovered." (Oscar Wilde)
 
 "In this battlefield, popular perceptions and rumor are more influential than the facts and more powerful than a hundred tanks." (David Kilcullen, _Counterinsurgency_)
@@ -364,6 +366,8 @@ Traldi:
 # LARPing
 
 ![[consequentialism#^912523]]
+
+![[_Human's Use of Human Beings_#Leibnitz and optics]]
 
 # Lakoff metaphors: External Appearance Is A Cover
 

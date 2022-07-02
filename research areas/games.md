@@ -25,6 +25,7 @@ For unclear reasons, the games metaphor—much like the once-nascent field of [[
 - [[_Games People Play_]]
 - [[Incentive Structures]]
 - [[the Metagame]]
+- [[Nested games]]
 - [[Rules]]
 - [[Sporting vs Herding]]
 - [[Sports]]

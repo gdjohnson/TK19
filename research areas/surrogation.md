@@ -6,6 +6,8 @@ aliases: Goodhart's Law, Campbell's Law, operationalization, proxy, proxies, sur
 
 Some of the major contributors to [[surrogation]] are: transparency, decontextualization, and low-dimensionality of metrics; and short-termism, scientism, and distance in evaluation.
 
+Man is rational only to a structure of surrogates, and he is therefore evolutionarily only as rational as his mesa-optimizer is aligned with its base, this being a function of evolutionary stability and environmental drift.
+
 ## Documents
 - [[Reason 2020 Surrogation.pdf|TK19 Entry (2020)]]
 

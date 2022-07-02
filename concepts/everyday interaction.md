@@ -242,11 +242,14 @@ Vollmer expands on Georg Simmel's 1950 work on sociability, where certain topics
 
 ## Disappointment as surprisal, and the costly epistemic arrangements of groupthink
 
-Vollman refers to "disappointments" where Friston or Clark might say "surprisal," e.g.:
+Vollmer refers to "disappointments" where Friston or Clark might say "surprisal," e.g.:
 
 > While a tendency to be extra careful not to offset "current interaction arrangements" is one way of keeping coordination in equilibrium in the face of potential [predictive] disappointments, another is to cultivate expectations that tolerate a wide variety of events and activities.
 
-Vollman writes that, while members of an organization or subculture in which "an unlikely version of normality is projected from precedence" will "face increased risk of being [predictively] disappointed by divergent moves," this risk may "ironically... back up the stability of coordination equilibria once participants realize the initial vulnerability of expectations and will accordingly be particularly careful not to offset them, as in groupthink dynamics." In other words, it is costly to maintain such beliefs, requiring the subject to actively avoid outsiders (whose models will differ, thus upsetting their own models), or to avoid reality-testing behavior, etc.
+Vollmer writes that, while members of an organization or subculture in which "an unlikely version of normality is projected from precedence" will "face increased risk of being [predictively] disappointed by divergent moves," this risk may "ironically... back up the stability of coordination equilibria once participants realize the initial vulnerability of expectations and will accordingly be particularly careful not to offset them, as in groupthink dynamics." In other words, it is costly to maintain such beliefs, requiring the subject to actively avoid outsiders (whose models will differ, thus upsetting their own models), or to avoid reality-testing behavior, etc.
+
+### Game theory and microsociology
+> Bateson famously defined a “unit” of information as a “difference which makes a difference” ([56] p. 460). As Roederer points out, information so defined is actionable or pragmatic; it “makes a difference” for what an organism can do [57]. It is, therefore, information that is meaningful to the organism in a context that requires or affords an action, consistent with sensory-motor meaning being the most fundamental component of language as broadly construed [6]. It is in this fundamental sense that meaning is “enactive” [19].
 
 # Mutual prediction & sociality
 
