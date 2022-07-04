@@ -16,6 +16,8 @@ Karen Pryor, _Don't Shoot the Dog_:
 
 This view of communication is founded on observations from animal signaling (e.g. [["Animal Signals - Mind-Reading and Manipulation"]]) and the framing in [[ethnomethodology]] which understands the interpretation of a receiver (and thus the meaning of the message) in how said receiver responds.
 
+We might also say "all communication is diplomacy," or "all communication is inducement," or that "all representation is motivated."
+
 # Why does ACiM matter?
 What does this framing get us?
 
