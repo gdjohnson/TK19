@@ -8,7 +8,7 @@ Croce is a dance critic, writing for the New Yorker, arguing that visual and [[c
 
 > Where it all began is not difficult to see. The arts bureaucracy in this country, which includes government and private funding agencies, has in recent years demonstrated a [[selection|blatant bias]] for utilitarian art-art that justifies the bureaucracy's existence by being socially useful. [...] By the late eighties, the ethos of community outreach had reached out and swallowed everything else; it was the only way the N.E.A. could survive.
 
-> But [[ideology]] had something to do with this. When even museum directors can talk about "using art" to meet this or that social need, you know that disinterested art has become an anathema. (Disinterested art: you have to understand that there's no such thing.) The ideological boosters of utilitarian art hark back to the political crusades of the sixties-against Vietnam, for civil rights. [[The sixties]], in turn, harked back to the proletarian thirties, when big-government bureaucracy began.
+> But [[ideology]] had something to do with this. When even museum directors can talk about "using art" to meet this or that social need, you know that disinterested art has become an anathema. (Disinterested art: you have to understand that there's no such thing.) The ideological boosters of utilitarian art hark back to the political crusades of the sixties-against Vietnam, for civil rights. [[the sixties]], in turn, harked back to the proletarian thirties, when big-government bureaucracy began.
 
 Victim art is beyond criticism, insofar as it asks and sinks down our sympathies more than it demands—rises to meet—our challenges:
 

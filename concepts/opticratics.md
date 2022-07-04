@@ -24,6 +24,27 @@ See also: [[preference falsification]], [[surrogation]], [[the tyranny of round 
 
 Self-consciousness and social anxiety are felt concern over how one "comes off." Humiliation and embarrassment are negative emotions in the wake of believing one's reputation has been damaged.
 
+> It felt like four in the morning  
+> What sounded like fireworks  
+> Turned out to be just what it was  
+> The stars looked like diamonds  
+> Then came the sirens  
+> And everyone started to cuss
+> 
+> Tom Waits, "New Year's Eve"
+
+> I met this guy
+> And he looked like might have been a hat check clerk at an ice rink
+> Which, in fact, he turned out to be
+> And I said: "Oh boy, right again"
+> Let X = X
+> You know, it could be you
+> It's a sky-blue sky
+> Satellites are out tonight
+> Let X = X
+> 
+> Laurie Anderson, "Let X = X"
+
 ## Intro
 
 So much freedom to choose, and so much regret. An increasingly marketplace society, fueled by desire, overwhelmed by options, and characterized by poor choices. Capital at stake, and competitive pressure on suppliers to serve their clients: the theoretical alignment of provider and purchaser is premised on perfect information, which is everywhere absent in practice. What is really being selected for? Can it be more obvious that we do not choose based on which option is superior for our purposes, but on which _appears_, to _us_, superior? 

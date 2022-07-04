@@ -2,7 +2,7 @@
 - [[Conceptual art]]
 - [[Contemporary art]]
 - [[Compression]]
-- [[Dance]]
+- [[concepts/dance]]
 - [[Defamiliarization]]
 - [[Fashion]]
 - [[Fit]]

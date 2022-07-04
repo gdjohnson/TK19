@@ -1,3 +1,4 @@
+_See also entry on [[cringe]]._
 # Robert Pogue Harrison on Jim Morrison
 
 > Cool does not crave. But our age is craven.

@@ -10,7 +10,7 @@ To [[Pierre Bourdieu|Bourdieu]], the objective distances and relations between p
 
 ## Bird & Smith 2005: Signaling Theory, Strategic Interaction, and Symbolic Capital
 
-The social world is ruled by two facts: One is relative opacity, i.e. incomplete information. The other is the accompaniment of differential benefits to cooperation _with the right people_ versus the wrong people. Thus arises a necessity of gathering information to forge quality alliances or embark on coordinated efforts: 
+The social world is ruled by two facts: One is relative opacity, i.e. incomplete information. The other is the accompaniment of differential benefits to conflict and cooperation _with the right people_ versus the wrong people. Thus arises a necessity of gathering information to forge quality alliances or embark on coordinated efforts: 
 
 > By paying attention to the problem of how credibility is maintained when individuals have to make interdependent decisions (about mates, alliances, conflict, and trust) based on incomplete information, [[signaling theory]] provides a new interpretation of such symbolic performance as aesthetic elaboration, initiation rites, ethnic boundaries, ceremonial feasting, wealth circulation, conspicuous consumption, monumental architecture, religious commitment, and the individually costly provisioning of collective goods.
 
@@ -56,7 +56,7 @@ Evolutionary ecological theories of costly signaling hold that honest signals pr
 
 However, making decisions based on _dishonest_ signals puts one at a disadvantage (differential benefit). Thus, to take advantage of the informational benefits of honest signals, organisms must have a way of sorting them from dishonest signals. Honest signals must be _hard or difficult to fake_, and a large subset of hard-to-fake signals is the _costly signal_, where the marginal cost of a display, for organisms which possess a desired trait, is significantly lower than the cost of the same display for organisms lacking that trait. Giving away wealth, for instance, has asymmetrical marginal cost by definition; a charitable donation or bottle service at a club has very different fitness costs for a very wealth versus very poor person. For this reason, reckless expenditure is often taken as a reliable sign of wealth, the very mechanism which Anna Sorokin (Anna "Delvey") used to "swindle N.Y.'s elite" (_New York Times_, 4/25/19) out of almost a quarter million dollars, establishing credibility in her fake identity as "heiress" primarily by giving away large quantities of cash.
 
-## Suttles 1960: Affinal Ties, Subsistence, and [[status|Prestige]]
+## Suttles [[1960]]: Affinal Ties, Subsistence, and [[status|Prestige]]
 
 *On the conversion of resources into wealth into [[status|prestige]]:*
 
@@ -96,3 +96,5 @@ And from an NPR interview on _Fresh Air_: "two incremental self-measures of wort
 _See also [[Signaling Theory]] and [[Conversation]]._
 
 > utterances are not only (save in exceptional circumstances) signs to be understood and deciphered; they are also _signs of wealth_, intended to be evaluated and appreciated, and _signs of authority_, intended to be believed and obeyed. Quite apart from the literary (and especially poetic) uses of language, it is rare in everyday life for language to function as a pure instrument of communication. The pursuit of maximum informative efficiency is only exceptionally the exclusive goal of linguistic production and the distinctly instrumental use of language which it implies generally clashes with the often unconscious pursuit of symbolic profit.
+
+Of course, these signs are designed to communicate as well—they are like economics' "transaction costs," things which we optimize around but which are obscured from the explicit transaction that is common knowledge among participants.

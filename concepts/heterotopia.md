@@ -1,3 +1,5 @@
+_See also [[het-lim]]._
+
 Heteropia is a word which originates with Michel Foucault, derived from the Greek héteros (“other”) and tópos (“place”). Its meaning is most concretely delineated in his essay “Of Other Spaces: Utopias and Heterotopias” (from the French “Des Espace Autres,” March 1967), though the phrasing “concretely delineated”may be overly generous. Foucault’s own definition of the heterotopic varies from lecture to lecture, and the aforementioned paper contradicts itself both inter- and intra-paragraph. Yet the term’s formulation has touched some nerve in academia, leading to a wide range of scholarly implementations which somehow must be reconciled and dealt with.
 
 I write in “Post-Ritual Space: Berghain,”

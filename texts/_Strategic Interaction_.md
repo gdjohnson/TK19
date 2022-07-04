@@ -53,7 +53,7 @@ Control moves are made through theory of mind calculations: "the subject turns o
 
 ### Communication as predictive manipulation
 
-[[Erving Goffman|Goffman]] has a [[proto-predictive processing]] view of behavior, intelligence, and optimization, in accord with the view of [[intelligence as futures optimization|mutual modeling of futures]]:
+[[Erving Goffman|Goffman]] has a [[proto-predictive processing]] view of behavior, intelligence, and optimization, in accord with the view of [[intelligence as futures optimization]] and [[mutual futures modeling]]:
 
 > All organisms after their fashion make use of information collected from their immediate environment so as to respond effectively to what is going on around them and to what is likely to occur.
 

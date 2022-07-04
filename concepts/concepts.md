@@ -7,7 +7,7 @@ This page is closely related to [[conceptual engineering]], [[proto-predictive p
 
 # The lifespan of concepts
 
-See [[telephone effect]] and [[Reification]].
+See [[telephone effect]] and [[reification]].
 
 Bruce Lee:
 
@@ -75,13 +75,13 @@ TK TK TK
 
 ## The reification of concepts
 
-The names we give to these concepts, to these collections of properties, to these regularities in the world are easily reified:
+The names we give to these concepts, to these collections of properties, to these regularities in the world are easily reified. [[William James]] writes:
 
 > Locke undermined the fallacy. But none of his successors, so far as I know, have radically escaped it, or seen that the only meaning of essence is teleological, and that classification and conception are purely teleological weapons of the mind. _The essence of a thing is that one of its properties which is so important for my interests that in comparison with it I may neglect the rest._ Amongst those other things which have this important property I class it, after this property I name it, as a thing endowed with this property I conceive it; and whilst so classing, naming, and conceiving it, all other truth about it becomes to me as naught. The properties which are important vary from man to man and from hour to hour.
 
 > Our usual purpose with [a thing], our commonest title for it, and the properties which this title suggests, have in reality nothing sacramental. They characterize us more than they characterize the thing. But we are so stuck in our prejudices, so petrified intellectually, that to our vulgarest names, with their suggestions, we ascribe an eternal and exclusive worth. [...] we end by believing that to conceive them in those ways is to conceive them in the only true way. Those are no truer ways of conceiving them than any others; they are only more important ways, more frequently serviceable ways. 
 
-I can't help but be reminded of Jacob Falkovich's anecdote about espresso beans and [[social reality]]:
+See also "functional fixedness." I can't help but be reminded of [[Jacob Falkovich]]'s anecdote about espresso beans and [[social reality]]:
 
 > You know chocolate covered coffee beans? You don't really need the chocolate. If I don't have time and I want a measured dose of caffeine I often just chew on a handful of roasted beans. Now I just told this to my co-worker, who kept insisting that I shouldn't do it because "it's weird" and "not the way it's consumed". When I objected that these two statements are facts about *other humans*, not facts about *coffee beans*, she failed to grasp the distinction. It's always jarring to remember that many (most?) people don't see a difference between social reality and physical reality, and their behavior, even in private, is constrained much more by the former than the latter. Gods and ghosts are more plausible than eating coffee beans.
 

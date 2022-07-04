@@ -10,6 +10,8 @@ Short-termism is one of the major patterns of human prejudice; long-termism is o
 
 ![[_House of Games_#^5b8c83]]
 
+The sitcom _Three's Company_ explores this dynamic, centering around two women and their male roommate. The landlord, believing this co-ed living arrangement is improper, must be convinced the man is gay (when in fact he is heterosexual). This original lie forces the roommates to continually compound their lies as time goes on.
+
 # TIS transcripts
 
 ## 200914

@@ -1,0 +1,5 @@
+## [[Saul Albert]] on Dance
+
+> The purpose, and overall take-away from this paper is that when people talk about the ‘language of dance’, it’s not just an empty idiom, or a [transposition of linguistic/semiotic theories onto bodily movements](http://www.euppublishing.com/doi/abs/10.3366/drs.2014.0087). Dance, seen in its broader social and interactional context, and especially in vernacular dance practices actually functions much like language. In fact, it may be quite difficult to draw clear empirical distinctions between dance, sign language and other forms of communicative social action.
+
+> The approach proposed by this paper shows how people use whatever materials are available including visible, audible and tactile bodily actions as part of a communicative environment. It shows how they can combine these resources in an ad-hoc fashion to coordinate and communicate their movements – much as we do in everyday talk in interaction.

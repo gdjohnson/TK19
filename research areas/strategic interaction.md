@@ -18,7 +18,7 @@ Instead of "man is the rational animal," "man is one strategic animal among many
 - [[Ketman]]
 - [[Metonyms]]
 - [[Mimicry]]
-- [[Military strategy]]
+- [[military strategy]]
 - [[Opticratics]]
 - [[Predictive Processing]]
 - [[Reciprocity]]

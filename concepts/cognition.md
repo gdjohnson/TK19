@@ -7,7 +7,7 @@
 - [[Compression]]
 - [[Emergence]]
 - [[Gaze]]
-- [[Homo heuristic]]
+- [[homo heuristicus]]
 - [[Hormones]]
 - [[Inference]]
 - [[Information theory]]

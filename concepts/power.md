@@ -74,3 +74,6 @@ On [[_White Lotus_]]:
 On [[_Wild At Heart_]]:
 > There are two kinds of power: Cage’s, and Santos. A defensive control, an aggressive control. Just look at Santos in the hotel lobby at 1:07—the old men, walking around on canes, surrounding him, impotent to stop him if they wanted. 
 > Both women (both Hellenic blondes) are pulled toward power. Marietta makes a Faustian bargain with the aggressive kind of power, and it predictably eats through her whole world. The voodoo of New Orleans is just one incarnation of what she has summoned. In trying to control the world, she has unraveled it. She has her own kind of power of course, the power which allows her to enlist another sort: she is bewitching, spellbinding (_glamorous_). For her, the rage of Achilles. (For Annie, Agent Cooper.)
+
+# Power and tacit coordination
+de Kwaadsteniet & van Dijk 2010, "Social status as a cue for tacit coordination," argues that "low-status individuals tend to defer to the preferences of higher status individuals, thereby facilitating [[tacit coordination]]." (They cf Keltner et al, 2003 here as well.)

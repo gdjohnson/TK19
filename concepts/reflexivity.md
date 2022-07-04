@@ -10,7 +10,7 @@ In older thinkers like Locke, Spinoza, and Leibniz, "reflection" is in some ways
 
 # Mutual modeling and reflexivity
 
-_See also [[Intelligence as Futures Optimization]] and [[Theory of Mind]]._
+_See also [[Intelligence as Futures Optimization]], [[Mutual Futures Modeling]] and [[Theory of Mind]] entries._
 
 There are a few reasons individuals' choices end up informing other individuals' choices. One approach is to cast this as simple imitation, social learning, or herding. The other is informationally rational—the reverse-engineering of knowledge from action, based in the assumption that the emulated individual has access to information, and experience, that the emulating individual does not possess. The adjustment is a perfectly defensible Bayesian update. Interestingly, the "herding" model, while cynical on the strategic benefits, may operate this same way. See Banerjee (1992) and Bikchandani, Hirschleifer, and Welch (1992) for this line of thought, which Matthew McKeever has compared to standpoint epistemology.
 
@@ -26,9 +26,9 @@ From Bikchandani, Hirschleifer, and Welch (1992):
 
 _See also entry on [[Theory of Mind]]._
 
-A behavioral economics and [[game theory|game-theoretic]] theory of [[intelligence as futures optimization|mutual modeling]]. Its "level-k" framework casts a level-0 player as one who acts irrespective of his predictions of others'; a level-one player models his opponent as a naive level-zero player; a level-two player models his opponents as being level-one, which is to say, his expectations are set by the expectations of a level-zero player. And so on. The premise is that players of strategic games model competitors' behaviors, and that this mutual modeling causes an inferential "depth." We see this kind of thinking in poker, or the famous _Princess Bride_ poison scene. It is also a description of a Keynesean beauty contest, and is the dynamic that causes endgame breakdowns in prisoner dilemmas (mutual anticipation of n-1 round defection).
+A behavioral economics and [[game theory|game-theoretic]] theory of [[mutual futures modeling|mutual modeling]]. Its "level-k" framework casts a level-0 player as one who acts irrespective of his predictions of others'; a level-one player models his opponent as a naive level-zero player; a level-two player models his opponents as being level-one, which is to say, his expectations are set by the expectations of a level-zero player. And so on. The premise is that players of strategic games model competitors' behaviors, and that this [[mutual futures modeling|mutual modeling]] causes an inferential "depth." We see this kind of thinking in poker, or the famous _Princess Bride_ poison scene. It is also a description of a Keynesean beauty contest, and is the dynamic that causes endgame breakdowns in prisoner dilemmas (mutual anticipation of n-1 round defection).
 
-This phenomenon is closely related to Schilling's concept of focal points, where coordination must occur absent communication based on [[intelligence as futures optimization|mutual modeling]] and expectaiton. Natural Hazard calls it "Sicilian reasoning," after _The Princess Bride_:
+This phenomenon is closely related to Schilling's concept of focal points, where coordination must occur absent communication based on [[mutual futures modeling|mutual modeling]] and expectaiton. Natural Hazard calls it "Sicilian reasoning," after _The Princess Bride_:
 
 > The only thing harder than hitting a moving target is hitting a moving target that is watching you trying to hit it. The best move for you depends on what your opponent thinks their best move is, which depends on what you think your best move is; it's Sicilian reasoning all the way up.
 

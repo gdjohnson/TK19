@@ -1,6 +1,13 @@
-# Schelling 1960: Strategies of Conflict
+author: [[Thomas Schelling]]
+year: [[1960]]
 
-[[Thomas Schelling|Schelling]] defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors." ^dd4dba
+# Background & motivation
+
+Schelling's work is largely a response to von Neumann and Morgenstern's _Theory of Games and Economic Behavior_ (1944), which focused on zero-sum games such as chess, and which Schelling believed failed to capture the rich, mixed-motive quality of daily life.
+
+# Arguments
+
+Schelling defines **games of strategy** as any situation in which each player's best choice of action depends on the actions (he expects) the other player will take (and vice-versa, reflexively). This is in contrast to **games of skill** and **games of chance**. "Strategy," then, is the study of conflicting parties' behaviors as they are premised on "the interdependence of the adversaries' decisions and on their expectations about each others' behaviors." ^dd4dba
 
 ## Bargaining and mixed motives
 
@@ -100,6 +107,6 @@ To create ("a tradition of") trust, parties must "be willing to risk a small inv
 
 (See also Friston's work on shared [[scripts]], e.g. "A Duet For One.")
 
-Players in mixed-motive bargaining games are on a "search for stable, mutually nondestructive, recognizable patterns of movement"—they are "participating in the creation of traditions." This [[legibility|legible]] allows efficient, cooperative [[intelligence as futures optimization|mutual modeling of futures]].
+Players in mixed-motive bargaining games are on a "search for stable, mutually nondestructive, recognizable patterns of movement"—they are "participating in the creation of traditions." This [[legibility|legible]] allows efficient, cooperative [[mutual futures modeling]].
 
 In making oneself [[legibility||legible]] this way, one may pull on "Historical and literary precedent, legal and moral casuistry, mathematics and [[aesthetics]], as well as familiar analogues from other walks of life"—since these too are the interpretive frames one's opponents will employ to process, [[metonyms|metonymically]] one's moves.
