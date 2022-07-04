@@ -25,8 +25,10 @@ And:
 Finally, in a line that essentially compresses Austin's 1965 _How To Do Things With Words_—a book which Goffman refers to as the only work to make conceptual progress on linguistic frameworks, in its implicit bridging of language "game" and "frame"—Peirce writes:
 > Pragmatism is the principle that every theoretical judgment expressible in a sentence in the indicative mood is a confused form of thought whose only meaning, if it has any, lies in its tendency to enforce a corresponding practical maxim expressible as a conditional sentence having its apodosis in the imperative mood.
 
-James summarizes Peirce's pragmatic maxim as follows:
+James summarizes Peirce's pragmatic doctrine as follows:
 > The pragmatic rule is that the meaning of a concept may always be found, if not in some sensible particular which it directly designates, then in some particular difference in the course of human experience which its being true will make.
+
+> The whole "meaning" of a conception expresses itself in the practical consequences, consequences either in the shape of conduct to be recommended, or in that of experiences to be expected, if the conception is true; which consequences would be different if it were untrue, and must be different from the consequences by which the meaning of other conceptions is in turn expressed.
 
 Mead, who never interacted with Peirce, but was influenced by James and Wilhelm Wundt, writes:
 > Meaning arises and lies within the field of the relation between the gesture of a given human organism and the subsequent behavior of this organism as indicated to another human organism by that gesture.
