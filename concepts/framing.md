@@ -43,6 +43,15 @@ Cultural relativism—the idea that, within cultural systems/contexts, things we
 
 (The relativism part is extra-gamic; the "rationality is very culturally contextual" bit is very much gamic/grounding itself in the games played)
 
+# Reason 2016: Genres, Value Hierachies
+> how an artwork is framed and conceptualized has a major impact on how it’s received
+
+> There is no idea of absolute “success” or “effectiveness” for a piece of art: success requires criteria by which to be successful. Art is only effective at doing _something_, and whether or not a critic finds a work to be effective depends almost entirely on what he thinks it’s trying to do.
+
+> it’s worth noting that in music criticism, it is currently conventional wisdom — religious dogma, even — that genres are bad for the industry and the art. Often there’s some argument about categories constraining innovation or stifling creativity. But I’d argue exactly the opposite is true — that [interesting, meaningful transgression and deviation _requires_ rules and categories](https://suspendedreason.wordpress.com/2016/05/14/chekhovs-gun-and-red-herrings-meaning-rules-and-transgression-in-storytelling/), and that without genre frameworks within which to work, artistic innovation would be, if not impossible, vastly harder to accomplish and vastly harder to identify (and thus extract value from). Moreover, genres and categories are necessary for critical judgment to take place in the first place. While the example earlier demonstrated personal disparities in hierarchies within a genre (the anti-experimental rock fan vs. the Radiohead-loving critic), each genre itself comes with its own set of critical and artistic priorities that are fairly common across in-group fans and critics. This allows community consensus about what’s allowed within the boundaries of the category, and moreover what the paragons of achievement with the category will be.
+
+> Which reagent you employ will determine which color you get back. Apply a few drops of folk standards and the band's simple harmonic progressions, clichéd lyrics, and slightly autotuned lyrics yield a muddy black of failure and poor quality. Yet assess these characteristics with the pop reagent and suddenly they are all strength: the progressions are predictable and accessible, which [triggers dopamine releases among even first-time listeners](http://www.nytimes.com/2013/06/09/opinion/sunday/why-music-makes-our-brain-sing.html?_r=0) (ideal for radio play); the lyrics are not clichéd but universal, appealing to mass audience base of listeners in all age brackets; the vocal line stays on pitch in a sonically agreeable way. "Little Lion Man" is fantastically successful as a pop song. By folk or rock standards, it crumples: it is pretentious and vague, flawed from its very conception.
+
 # TIS Transcript 210709
 
 [12:33 PM] suspended reason: idea I had on the dock today: retroactive reconceptualization

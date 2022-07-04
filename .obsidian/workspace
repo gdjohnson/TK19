@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/framing.md",
+            "file": "_The Pragmatic Movement in American Philosophy_.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/framing.md",
+                "file": "_The Pragmatic Movement in American Philosophy_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/framing.md",
+                "file": "_The Pragmatic Movement in American Philosophy_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/framing.md"
+                "file": "_The Pragmatic Movement in American Philosophy_.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "462726958d658396",
   "lastOpenFiles": [
+    "_The Pragmatic Movement in American Philosophy_.md",
     "concepts/framing.md",
     "ACiM.md",
     "concepts/indexicality.md",
@@ -120,7 +121,6 @@
     "years/1960.md",
     "concepts/power.md",
     "texts/\"What kind of game is everyday interaction?\".md",
-    "concepts/magic.md",
-    "concepts/pragmatism.md"
+    "concepts/magic.md"
   ]
 }
