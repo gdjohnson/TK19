@@ -4,44 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82c18c0783c4fb02",
-        "type": "split",
-        "children": [
-          {
-            "id": "355f4dc0abf7dc78",
-            "type": "leaf",
-            "dimension": 73.04582210242587,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/brute association.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "aac5802eab0c6ffd"
-          },
-          {
-            "id": "a0b558970b035913",
-            "type": "leaf",
-            "dimension": 26.954177897574123,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "concepts/brute association.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "aac5802eab0c6ffd"
+        "id": "462726958d658396",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/framing.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "babbling",
+                "query": "hendrik vollmer ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/brute association.md",
+                "file": "concepts/framing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/brute association.md",
+                "file": "concepts/framing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/brute association.md"
+                "file": "concepts/framing.md"
               }
             }
           }
@@ -138,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "355f4dc0abf7dc78",
+  "active": "462726958d658396",
   "lastOpenFiles": [
-    "concepts/brute association.md",
-    "concepts/cargocult.md",
-    "concepts/capital.md",
-    "concepts/bundling.md",
-    "concepts/boundaries.md",
-    "concepts/bio analogies.md",
-    "concepts/belief.md",
-    "concepts/behaviorism.md",
-    "concepts/bargaining.md",
-    "concepts/authority.md"
+    "concepts/framing.md",
+    "ACiM.md",
+    "concepts/indexicality.md",
+    "places & things/the sixties.md",
+    "research areas/games.md",
+    "years/1960.md",
+    "concepts/power.md",
+    "texts/\"What kind of game is everyday interaction?\".md",
+    "concepts/magic.md",
+    "concepts/pragmatism.md"
   ]
 }

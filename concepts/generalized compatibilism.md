@@ -1,3 +1,5 @@
+Much theoretical progress in the inexact sciences comprises a series of trends which emphasize different parts of the whole elephant, while denying that previously trending descriptions are "real" or important. This association of the "interesting" or "subversive" with the "true" comes naturally from the conflation of the sociologically useful with the pragmatically useful—in each case, a difference which makes a difference, but in the former, a basis for social distinction, and in the latter, a basis for selecting differently among possible behaviors.
+
 Romeo Stevens, Twitter:
 > The monocausal worldview naturally puts people into conflict with each other over which cause is the real one.
 

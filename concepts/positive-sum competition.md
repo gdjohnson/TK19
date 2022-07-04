@@ -14,7 +14,7 @@ Writing, art-making, scientific discoveries look like competition because they a
 
 *See also [[Kevin Simler]], [[superorganisms|Minimum Viable Superorganism]].*
 
-### [[Artworld]] Incentive Structures
+### [[artworld]] Incentive Structures
     
 If the [[artworld]] is broken, it is not because the broad contours of individuals' behavior have changed much; the jockeying for space and visibility, to place oneself in the form's telos, the attempt to better one's contemporaries and ensure a place in history books, is a human constant. It must be therefore that the __[[incentive]]__ structure, the structure of production, consecration, and discourse is broken.
 

@@ -6,6 +6,8 @@ _See also [[opticratics]]._
 
 The Internet epoch, we learn, is the Golden Age of masks. ([[Nick Land]])
 
+Look into/write up Zizek on masks: https://www.youtube.com/watch?v=Iljhym_uNPM
+
 ## Sontag 1966: Against Interpretation
 
 > As Cocteau writes: "Decorative style has never existed. Style is the soul, and unfortunately with us the soul assumes the form of the body." Even if one were to define style as the manner of our appearing, this by no means necessarily entails an opposition between a style that one assumes and one’s "true" being. In fact, such a disjunction is extremely rare. In almost every case, our manner of appearing is our manner of being. The mask is the face.

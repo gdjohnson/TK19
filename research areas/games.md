@@ -1,3 +1,5 @@
+## Background
+
 "Games" were one of the popular conceptual metaphors of [[the sixties]]—[[Erving Goffman|Goffman]]'s [[_Strategic Interaction_]], [[Thomas Schelling|Schelling]]'s [[_Strategy of Conflict_]], but also [[Eric Berne]]'s [[_Games People Play_]], [[Leonard Cohen]]'s _Favorite Game_, [[Jean Francois Lyotard|Lyotard]]'s _Just Gaming_, and [[Ludwig Wittgenstein|Wittgenstein]]'s 1955 language games concept as published in [[_Philosophical Investigations_]]. In popular music, there was Dave Berry's "The Crying Game," Joni's "Circle Game," Lennon's "Mind Games," Jackson Frank's "The Blues Still Run The Game," Dylan's "Only A Pawn In Their Game." [[R.D. Laing]] theorized mental illness as a game played by individuals, in response to the pathological games hosted by institutions, or the nuclear family. In [[_Knots_]], he writes, "They are playing a game. They are playing at not playing a game. If I show them I see they are, I shall break the rules and they will punish me. I must play their game, of not seeing I see the game." 
 
 Zen teachings brought over to the West were framed in terms of giving up "ego games." Alan Watts cast the social game [[authenticity#^bd1691|as a double-bind]], in which "The first rule of this game is that it is not a game." [[Robert S. de Ropp]] made lists of life games, such as the "Art Game," "Science Game," "Religion Game," "Moloch Game," and "Master Game." Trip manuals were written describing the games played on psychedelics:
@@ -18,16 +20,26 @@ From Joe South's 1968 "Games People Play":
 
 For unclear reasons, the games metaphor—much like the once-nascent field of [[strategic interaction]]—petered out.
 
+## Definition
+I have defined a game as follows:
+> A game is simply any interaction between agent and environment, where the agent’s goals or preferences transform the environment into sets of obstacles and affordances. The environment is composed of other agents and of non-agentic forces.
+
+Game theorists take a slightly different approach, focusing their definition on strategy games between players, but still emphasizing preferences or goals, as well as an environment of play:
+![[game-theoretic pragmatics#^fb7f5a]]
+
 ## Entries
 - [[Coordination]]
-- [[_House of Games_]]
-- [[concepts/Games]]
-- [[_Games People Play_]]
-- [[Incentive Structures]]
-- [[the Metagame]]
+- _[[_House of Games_|House of Games]]_
+- [[game-theoretic pragmatics]]
+- [[concepts/Games|Games]]
+- _[[_Games People Play_|Games People Play]]_
+- [[Incentive structures]]
+- [[Language games]]
+- [[Metagame]]
 - [[Rules]]
-- [[Sporting vs Herding]]
-- [[Sports]]
-- [[Strategic Interaction]]
-- [[Value Clarity]]
-- [[Zero-Sum Competition]]
+- [["Scorekeeping in a Language Game"]]
+- [[Sporting vs herding]]
+- [[sports]]
+- [[Strategic interaction]]
+- [[Value clarity]]
+- [[Zero-sum competition]]

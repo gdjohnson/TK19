@@ -16,7 +16,7 @@ The relation between "what" and "how," which is to say, between strategy and tac
 - [[Ketman]]
 - [[Metonyms]]
 - [[Mimicry]]
-- [[Military strategy]]
+- [[military strategy]]
 - [[Opticratics]]
 - [[Predictive Processing]]
 - [[Reciprocity]]

@@ -43,6 +43,7 @@ In other words, "fronts tend to be selected, not created." This is why we must r
 > a given social front tends to become institutionalized in terms of the abstract stereotyped expectations to which it gives rise, and tends to take on a meaning and stability apart from the specific tasks which happen at the time to be performed in its name. The front becomes a "collective representation" and a fact in its own right. [cf [[typification]]]
 
 ## Dramatic realization
+"Sometimes you have to show the ref what's going on." (Richard Jefferson, announcing WCSF G7)
 
 > While in the presence of others, the individual typically infuses his activity with signs which dramatically highlight and portray confirmatory facts that might otherwise remain unapparent or obscure.
 

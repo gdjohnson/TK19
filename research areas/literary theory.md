@@ -24,7 +24,7 @@
 - [[Postmodernism]]
 - [[Predictive hermeneutics]]
 - [[Romanticism]]
-- [[Structuralism]]
+- [[structuralism]]
 - [[Style]]
 - [[Surprisal]]
 - [[Taste]]

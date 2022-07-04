@@ -1,15 +1,15 @@
 # Cappelen & Dever 2019: Bad Language
 
-Cappelen & Dever's project is to nuance an "idealized," academic conception of conversation—that it is a "fundamentally cooperative" activity, where "each participant... contributes to the conversation in an attempt to further" some shared goal—a goal which often involves building up a body of common knowledge, or exchanging information. The pair lean heavily on Grice's Cooperative Principle, constituted of Maxims of Quality & Quantity, Maxim of Relation, and Maxim of Manner:
+Cappelen & Dever's project is to nuance an "idealized," academic conception of conversation—that it is a "fundamentally cooperative" activity, where "each participant... contributes to the conversation in an attempt to further" some shared goal—a goal which often involves building up a body of common knowledge, or exchanging information. The pair lean heavily on [[Paul Grice|Grice]]'s Cooperative Principle, constituted of Maxims of Quality & Quantity, Maxim of Relation, and Maxim of Manner:
 
-The Cooperative Principle (quot. Grice): "Make your conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged." 
+The Cooperative Principle (quot. [[Paul Grice|Grice]]): "Make your conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged." 
 
 1. Maxim of quality: The contribution should be true and informative and not misleading.
 2. Maxim of quantity: The contribution should provide an appropriate amount of information, and in a reasonably concise way.
 3. Maxim of relation: The contribution should be relevant, should follow the flow of the conversation.
 4. Maxim of manner: Be perspicuous, unambiguous, orderly, follow customs.
 
-As Grice acknowledges, these expectations of _linguistic_ social interaction are merely expectations of social action broadly: that it is nominally cooperative or friendly, that it is pertinent (the default logic for sense-making). 
+As [[Paul Grice|Grice]] acknowledges, these expectations of _linguistic_ social interaction are merely expectations of social action broadly: that it is nominally cooperative or friendly, that it is pertinent (the default logic for sense-making). 
 
 But many people, Cappelen & Dever assert, "engage in speech reasons that have nothing to do with trying to accumulate knowledge"—may instead wish to "embarrass or make fun of or encourage or repress."
 

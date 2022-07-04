@@ -59,7 +59,7 @@ This occurs in situations of mixed conflict and coordination. When one feels lik
 
 5.
 
-Strategy games get weirdly recursive, in their induction patterns, because one is not modeling what “is” but what their opponent believes. Simultaneously, the opponent is modeling what _his_ opponent believes. Thus, one must model what one’s opponent believes one believes one’s opponent believes… etc. The “level” at which this mutual modeling bottoms out matters quite a bit, insofar as a player who is thinking too many “levels” deep will mis-model his opponent.
+Strategy games get weirdly recursive, in their induction patterns, because one is not modeling what “is” but what their opponent believes. Simultaneously, the opponent is modeling what _his_ opponent believes. Thus, one must model what one’s opponent believes one believes one’s opponent believes… etc. The “level” at which this [[mutual futures modeling]] bottoms out matters quite a bit, insofar as a player who is thinking too many “levels” deep will mis-model his opponent.
 
 In this sense, strategy games share many structural similarities with Keynesian Beauty Contests, the world of [[fashion]], [[fads|stock bubbles]], sexual fitness etc. A female of a species inclined to find those males handsome which other females find handsome is, in some sense, looking for genetics that will produce a sexually desirable offspring, to the extent that the sexual taste of females in her _offspring’s_ generation can be modeled via the sexual taste of females in _her_ generation.
 

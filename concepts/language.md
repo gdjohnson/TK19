@@ -16,7 +16,7 @@
 - [[Information theory]]
 - [[Linguistic conquests]]
 - [[Literalism]]
-- [[Logical positivism]]
+- [[logical positivism]]
 - [[Map and territory]]
 - [[Meaning]]
 - [[Naming]]

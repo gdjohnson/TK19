@@ -1,3 +1,3 @@
 ---
-aliases: frequency-dependent selection
+aliases: frequency-dependent selection, frequency-dependent, FDS
 ---

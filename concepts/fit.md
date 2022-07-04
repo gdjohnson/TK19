@@ -6,7 +6,11 @@ Fitness, or "fit," refers to the quality of two or more things being complimenta
 
 "Fit" embodies the role of context and of identity-through-interaction—almost all human cultural inventions are both “objective” and “subjective,” have their power emerge from the interaction _between_ subject and object, as Dewey characterizes the work of art: an emerging encounter; fit. [Beauty is fit](https://carcinisation.com/2014/08/11/beauty-is-fit/), as [[Sarah Perry]] writes at _Carcinisation_, echoing this factoring of Dewey’s. But morality, too, is a system of fit between code and culture, and culture is a fit between individuals and between individual and world.
 
-Most simply: _fit is a demarcation of appropriateness between part and whole_.
+Fit is a demarcation of appropriateness between parts, and between parts and wholes, and between wholes and contexts. 
+
+Fit is a property of interaction, it is *the* property of interaction. Fit is a description of the emergent effects of interacting parts, perhaps with respect to those effects desired by the person describing or judging the interaction, or by the person who brought the parts together.
+
+To say something has fallen out of fitness with its environment (because [[a heuristic is necessarily scoped to the distribution it’s optimized over]], or that [[a solution is indexical to its problem]]...)is to say that the interaction has changed, such as to have new and unintended, or unforeseen, or undesirable consequences.
 
 # Folk parlance
 

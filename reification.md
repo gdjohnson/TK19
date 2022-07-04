@@ -1,0 +1,6 @@
+Michael Billig, _Bad Writing in the Social Sciences_:
+> The trouble is that when we use noun-based styles in the social sciences, we run the risk of rhetorically turning people into things of reifying people. Significantly, sociological theorists, such as Peter Berger, who have looked at this topic, tend to use the noun 'reification' rather than the verb 'to reify'. When theorists write in this way, they treat the problem as a thing, and thereby, even as they warn against the dangers of 'reification', so they contribute to the problem
+> 
+> Here, then, is the centre of my argument: the big concepts which many social scientists are using—the ifications and the izations—are poorly equipped for describing what people do. By rolling out the big nouns, social scientists can avoid describing people and their actions. They can then write in highly unpopulated ways, creating fictional worlds in which their theoretical things, rather than actual people, appear as the major actors. The problem is that, as linguists have shown, using nouns and passive sentences is a way to convey less, not more, information about human actions.
+
+![[concepts/concepts#The reification of concepts]]
