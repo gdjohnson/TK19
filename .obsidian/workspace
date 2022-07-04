@@ -9,12 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "texts/_Gossip Girl_.md",
+            "file": "concepts/strategy games.md",
             "mode": "source",
             "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/_Gossip Girl_.md",
+                "file": "concepts/strategy games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/_Gossip Girl_.md",
+                "file": "concepts/strategy games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/_Gossip Girl_.md"
+                "file": "concepts/strategy games.md"
               }
             }
           }
@@ -111,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "355f4dc0abf7dc78",
+  "active": "918439e306b20170",
   "lastOpenFiles": [
+    "concepts/strategy games.md",
+    "concepts/bargaining.md",
+    "concepts/framing.md",
+    "concepts/essentialism and reification.md",
+    "rational speech act theory.md",
     "texts/_Gossip Girl_.md",
     "nested games.md",
     "ethics in an opticratic world.md",
     "vollmer.md",
-    "concepts/everyday interaction.md",
-    "concepts/bargaining.md",
-    "concepts/opticratics.md",
-    "concepts/strategic conceptualization.md",
-    "Untitled.md",
-    "people/Alexandre Dumas.md"
+    "concepts/everyday interaction.md"
   ]
 }

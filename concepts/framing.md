@@ -11,6 +11,15 @@ aka "Conceptualization Rules Everything Around Me"
 
 See also [[conceptual art]] entry, [[analogy]] entry (since much of framing, especially the framing of novel phenomena, works by analogy). 
 
+The possible context for a writer's writing is his entire information state, and for a reader, hers, and in trying to understand collectively a writer practically everything and anything may be shown to be relevant, for instance the causal forces which may have shaped the writer's writing. 
+Why such a vast tract? Well, because the workings of the world are tied up; anything _can_ be relevant depending on project, on _agenda_: anything that correlates with the writer and writing and circumstances and reader written to (etc etc), that is everything that is "information" to some aspect of the writer, writing (... etc etc). Anything that "makes its mark" makes its mark, _is_ in some way relevant insofar as the writing testifies to the maker of the mark, and the maker to the writing. (Most of this vast tract of relevance is shared by cultural members, and thus "disappeared.") And this is true even of makers whose mark is accomplished through several layers of causal influence. That is, IF there is a "white patriarchy," to ANY extent, then there is a valid white patriarchy lens to read any writing within said society with in such a way as to illuminate either/both the society and the text. 
+
+However, interactants clearly shift between sets of interpretive emphasis, salience, finding some aspects more relevant as disambiguators but also inferentially. That shift in relevance corresponds to environmental expectancies and project-based modeling (both reader and writer's project). This fact calls for an [[rational speech act theory|RSA]] treatment of frames.
+
+The sharing of schemas is like a two-way generator-discriminator relationship (where each party is a discriminator to the other's generator, and vice-versa). Each conversationalist syncs each other up to the same "script" or "frame" or "definition" or "model" of the interaction. 
+
+There is a circularity whereby we take up a frame, pursue and possess certain ends as a result of that frame, and then use those ends as justification for the frame to begin with—when those ends are only valuable in the first place _within the frame_.
+
 # Goffman 1974: Frame Analysis, An Essay on the Organization of Experience
 
 # Rosenberg 1975: NYT Review of Frame Analysis
