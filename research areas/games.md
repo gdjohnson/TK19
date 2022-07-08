@@ -1,6 +1,6 @@
 ## Background
 
-"Games" were one of the popular conceptual metaphors of [[the sixties]]—[[Erving Goffman|Goffman]]'s [[_Strategic Interaction_]], [[Thomas Schelling|Schelling]]'s [[_Strategy of Conflict_]], but also [[Eric Berne]]'s [[_Games People Play_]], [[Leonard Cohen]]'s _Favorite Game_, [[Jean Francois Lyotard|Lyotard]]'s _Just Gaming_, and [[Ludwig Wittgenstein|Wittgenstein]]'s 1955 language games concept as published in [[_Philosophical Investigations_]]. In popular music, there was Dave Berry's "The Crying Game," Joni's "Circle Game," Lennon's "Mind Games," Jackson Frank's "The Blues Still Run The Game," Dylan's "Only A Pawn In Their Game." [[R.D. Laing]] theorized mental illness as a game played by individuals, in response to the pathological games hosted by institutions, or the nuclear family. In [[_Knots_]], he writes, "They are playing a game. They are playing at not playing a game. If I show them I see they are, I shall break the rules and they will punish me. I must play their game, of not seeing I see the game."
+"Games" were one of the popular conceptual metaphors of [[the sixties]]—[[Erving Goffman|Goffman]]'s [[_Strategic Interaction_ 1]], [[Thomas Schelling|Schelling]]'s [[_Strategy of Conflict_]], but also [[Eric Berne]]'s [[_Games People Play_]], [[Leonard Cohen]]'s _Favorite Game_, [[Jean Francois Lyotard|Lyotard]]'s _Just Gaming_, and [[Ludwig Wittgenstein|Wittgenstein]]'s 1955 language games concept as published in [[_Philosophical Investigations_]]. In popular music, there was Dave Berry's "The Crying Game," Joni's "Circle Game," Lennon's "Mind Games," Jackson Frank's "The Blues Still Run The Game," Dylan's "Only A Pawn In Their Game." [[R.D. Laing]] theorized mental illness as a game played by individuals, in response to the pathological games hosted by institutions, or the nuclear family. In [[_Knots_]], he writes, "They are playing a game. They are playing at not playing a game. If I show them I see they are, I shall break the rules and they will punish me. I must play their game, of not seeing I see the game."
 
 Zen teachings brought over to the West were framed in terms of giving up "ego games." Alan Watts cast the social game [[authenticity#^bd1691|as a double-bind]], in which "The first rule of this game is that it is not a game." [[Robert S. de Ropp]] made lists of life games, such as the "Art Game," "Science Game," "Religion Game," "Moloch Game," and "Master Game." Trip manuals were written describing the games played on psychedelics:
 
@@ -42,7 +42,7 @@ Game theorists take a slightly different approach, focusing their definition on 
 - [[Incentive structures]]
 - [[Language games]]
 - [[Metagame]]
-- [[Nested games]]
+- [[nested games]]
 - [[Rules]]
 - [["Scorekeeping in a Language Game"]]
 - [[Sporting vs herding]]

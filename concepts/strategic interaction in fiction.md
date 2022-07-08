@@ -48,7 +48,7 @@ Venkat goes on to give an example from _The Office_ of fluent powertalk, here be
 > 1. Message 1: It is a complex situation (literal).
 > 2. Message 2: I understand you think something bizarre is going on. I am confirming your suspicion. It is a bizarre mess, and you should be concerned.
 > 3. Message 3: This is the first significant conversation between us, and I am signaling to you that I am fluent in Powertalk.
-> 4. Message 4: I know how to communicate useful information while maintaining plausible deniability.
+> 4. Message 4: I know how to communicate useful information while maintaining [[plausibility|plausible]] deniability.
 > 5. Message 5: I am not so gratified at this sign of attention from you  that I am going to say foolish things that could backfire on me.
 > 6. Message 6: I am aware of my situational leverage and the fact that you need me. I am not so overawed that I am giving it all up for free.
 > 7. Message 7: I am being non-committal enough that you can pull back or steer this conversation to safer matters if you like. I know how to give others wiggle room, safe outs and exits.

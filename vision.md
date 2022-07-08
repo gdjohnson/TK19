@@ -1,0 +1,1 @@
+Vision is associated with consciousness, self-awareness, [[foresight]], light, and wisdom.

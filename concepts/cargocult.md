@@ -18,5 +18,7 @@ But there is the further step that irrelevant parts of these associated wholes a
 
 > It seems strange to have to emphasize simplicity. You’d think simple would be the default. Ornate is more work. But something seems to come over people when they try to be creative. Beginning writers adopt a pompous tone that doesn’t sound anything like the way they speak. Designers trying to be artistic resort to swooshes and curlicues. Painters discover that they’re expressionists.
 
+# Taleb
+![[_Skin in the Game_#^13b40d]].
 # Feynman 
 ![["Cargo Cult Science"]]

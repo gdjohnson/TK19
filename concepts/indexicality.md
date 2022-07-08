@@ -4,6 +4,8 @@ alias: deixis
 
 > What would old [[Hegel]] say in the next world if he heard the general (*Allgemeine*) in German and Norse means nothing but the common land (*Gemeinland*), and the particular (*Sundre*, *Besondere*) nothing but the separate property divided off from the common land?
 
+![[_Skin in the Game_#^bed768]]
+
 # Templates & porting
 
 ## Kilcullen 2006: Twenty-eight Articles

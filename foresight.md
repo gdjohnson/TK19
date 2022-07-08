@@ -1,0 +1,1 @@
+_See also [[mutual futures modeling]], [[empowerment]] and [[intelligence as futures optimization]]._

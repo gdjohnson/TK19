@@ -1,3 +1,5 @@
+In Genesis, the animals do not fully exist until they are named—naming is a path from formless potential to object of analysis, something that can be handled and coordinated around and solved, as a problem.
+
 # Self-naming
 
 The guiding principle of self-naming is not so much accuracy as it is reasonably accurate self-flattery. Only a fool would choose a self-descriptor which put him in poor light. And thus, names self-ascribed can never quite be trusted. Sometimes we reify names, treat the part as a whole, as if the descriptor was chosen for its precise consistency: _How hypocritical that one who is "Pro-Life" is also in support of the death penalty_; _If one opposes antiFa, one must necessarily be a fascist_. Susan Haack accuses Rorty of a misleading self-description as pragmatist, strategically quoting his confession that what he dubbed as such "might also be called 'left-wing Kuhnianism'." 

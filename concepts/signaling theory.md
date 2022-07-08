@@ -1,3 +1,5 @@
+![[_Lost Illusions_#^05402a]]
+
 Michael Alvard: "Signaling theory is a theory of communication, and in the context of humans it is fundamentally a theory of culture."
 
 Signals can be more or less reliable (that is, the ostensible signaler's claim matches reality). More reliable signals, inevitably, are (all else equal) the best to target for mimicry. There are assessment signals, where the form of a signal inherently relates to what is signaled, as well as conventional signals and fashion signals (in which the form changes frequently while the meaning stays more or less the same).

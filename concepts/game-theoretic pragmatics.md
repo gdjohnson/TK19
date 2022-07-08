@@ -41,7 +41,7 @@ In this frame, "[[Nash equilibria]] establish stable meanings for _lexical items
 This move shifts the agenda of linguistics, re-categorizing pragmatics (previously "everything else/outside") to being the focus of study, sidelining [[semantics]] (previously central) as mere means to pragmatic end. van Benthem echoes Jager 2008's story in which game-theoretic models follow naturally when one extends the "language as action" approach to "language as interaction."
 
 # Burnett 2017: "Sociolinguistic interaction and identity construction"
-> the proposal that concepts and mechanisms from game theory could be useful for analyzing language use has previously been explored by [[Erving Goffman|Goffman]] ([[_Strategic Interaction_|1970]]), [[Pierre Bourdieu|Bourdieu]] (1977), Myers-Scotton and Bolonyai (2001), Dror, Granot and Yaeger-Dror (2013, 2014), and Clark (2014), among others
+> the proposal that concepts and mechanisms from game theory could be useful for analyzing language use has previously been explored by [[Erving Goffman|Goffman]] ([[_Strategic Interaction_ 1|1970]]), [[Pierre Bourdieu|Bourdieu]] (1977), Myers-Scotton and Bolonyai (2001), Dror, Granot and Yaeger-Dror (2013, 2014), and Clark (2014), among others
 
 Burnett argues the logical next step for game-theoretic pragmatics is to incorporate Bayesian game-theoretic models, which have already "become a dominant paradigm for the explanation of non-linguistic cognitive processes."
 

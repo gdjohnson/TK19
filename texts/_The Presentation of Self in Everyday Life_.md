@@ -1,3 +1,5 @@
+![[_Lost Illusions_#^05402a]]
+
 # Performances
 
 Goffman's *performance* is "all the activity of an individual which occurs during a period marked by [an individual's] continuous presence before a particular set of observers and which has some influence on the observers." 

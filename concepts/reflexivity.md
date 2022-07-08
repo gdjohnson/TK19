@@ -10,7 +10,7 @@ In older thinkers like Locke, Spinoza, and Leibniz, "reflection" is in some ways
 
 # Mutual modeling and reflexivity
 
-_See also [[Intelligence as Futures Optimization]], [[Mutual Futures Modeling]] and [[Theory of Mind]] entries._
+_See also [[Intelligence as Futures Optimization]], [[mutual futures modeling]] and [[Theory of Mind]] entries._
 
 There are a few reasons individuals' choices end up informing other individuals' choices. One approach is to cast this as simple imitation, social learning, or herding. The other is informationally rational—the reverse-engineering of knowledge from action, based in the assumption that the emulated individual has access to information, and experience, that the emulating individual does not possess. The adjustment is a perfectly defensible Bayesian update. Interestingly, the "herding" model, while cynical on the strategic benefits, may operate this same way. See Banerjee (1992) and Bikchandani, Hirschleifer, and Welch (1992) for this line of thought, which Matthew McKeever has compared to standpoint epistemology.
 

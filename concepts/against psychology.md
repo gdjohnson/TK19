@@ -116,7 +116,7 @@ On many psych studies as "existence proofs" that a phenomenon which is _already 
 
 > I don't wanna shoot myself in the foot; we [psychologists] do plenty of judgment and decision-making work, and I think there are robust effects, but we're not trying to predict real-world behavior under a confluence of causes... And to the extent that we pretend that's what we're doing, we're doing it to big-up ourselves as relevant to society.
 
-_If quality control is not based on results, then what is it based on? [[status|Prestige]] and respect among one's peers, through the all-present plausibility heuristic._
+_If quality control is not based on results, then what is it based on? [[status|Prestige]] and respect among one's peers, through the all-present [[plausibility]] heuristic._
 
 ## On people not wanting to look
 

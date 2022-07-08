@@ -26,7 +26,7 @@ Instead of "man is the rational animal," "man is one strategic animal among many
 - [[Selection Games]]
 - [[strategy games]]
 - [[Strategic interaction in fiction]]
-- [[_Strategic Interaction_]]
+- [[_Strategic Interaction_ 1]]
 - [[_Strategy of Conflict_]]
 - [["What kind of game is everyday interaction?"]]
 

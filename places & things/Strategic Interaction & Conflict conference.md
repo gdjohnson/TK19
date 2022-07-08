@@ -5,7 +5,7 @@ Year: [[1964]]
 ### Participants
 - [[Thomas Schelling]]
 - [[Erving Goffman]]
-- Kathleen Archibald: conference organizer; went on to serve as a staffer at RAND; is acknowledged in [[_Strategic Interaction_]] for providing helpful comments on an early draft.
+- Kathleen Archibald: conference organizer; went on to serve as a staffer at RAND; is acknowledged in [[_Strategic Interaction_ 1]] for providing helpful comments on an early draft.
 - Frederick Balderston: chairman of Goffman's discussion session; Quaker and conscientious objector (ambulance corps) in WWII
 - [[Alex Bavelas]]: experimental psychologist, researched communication patterns & group stability
 - [[Jessie Bernard]]: before becoming a prominent feminist sociologist, Bernard got her start as conflict- and game-theorist; influenced by the research on conflict of [[Robert E. Park]]; more enthusiastic than Goffman about using formal, mathematical models & matrices in sociological modeling

@@ -33,7 +33,7 @@ Implicature is designed subtext, a way of saying something without saying it. In
 
 ## Insinuation
 
-See Liz Camp 2018 on insinuation—the advancing of an implicature specifically with the purpose of having plausible deniability if facing opposition.
+See Liz Camp 2018 on insinuation—the advancing of an implicature specifically with the purpose of having [[plausibility|plausible]] deniability if facing opposition.
 
 ## Switching to a new coordinative equilibrium
 

@@ -24,7 +24,7 @@ Rorty, Consequences of Pragmatism:
 
 ## Insinuation and coordinated equilibrium-switching
 
-See Liz Camp 2018 on insinuation—the advancing of an implicature specifically with the purpose of having plausible deniability if facing opposition.
+See Liz Camp 2018 on insinuation—the advancing of an implicature specifically with the purpose of having [[plausibility|plausible]] deniability if facing opposition.
 
 One of the problems of tacit coordination is getting stuck in inefficient or Pareto-dominated equilibria. Players who switch off the equilibria in search of a more efficient one will, by definition, lose utility in the short term, even if they recover it in the long term. Synchronous switching to a new equilibrium is thus strategically ideal.
 
