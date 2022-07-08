@@ -3,6 +3,9 @@ What Dawkins calls the "tyranny of the discontinuous mind."
 [[Richard Roty]], [["Freud and Moral Reflection"#Essentialism and reification]]:
 ![["Freud and Moral Reflection"]]
 
+Reification is the de-indexicalization (porting or generalizing) of solutions out of their local context. 
+
+Time & process can be obliterated through "is" statements, with their implication of eternity.
 
 # Plato's forms
 
