@@ -23,3 +23,9 @@ Quoting Wittgenstein:
 Perissinotto:
 
 > Wrestling oneself free from the force of this antithesis is one of the tasks, if not _the_ task, that Wittgenstein assigns to his philosophizing, which, from this point of view, takes the shape of a struggle against [[Socrates]] and Platonism.
+
+# Ian Ground 2017: "The relentless honesty of Ludwig Wittgenstein"
+
+> If you ask philosophers – those in the English speaking analytic tradition anyway – who is the most important philosopher of the twentieth century, they will most likely name Ludwig Wittgenstein. But the chances are that if you ask them exactly why he was so important, they will be unable to tell you. Moreover, in their own philosophical practice it will be rare, certainly these days, that they mention him or his work. Indeed, they may very fluently introduce positions, against which Wittgenstein launched powerful arguments: the very arguments which, by general agreement, make him such an important philosopher. Contemporary philosophers don’t argue _with_ Wittgenstein. Rather they bypass him. Wittgenstein has a deeply ambivalent status – he has authority, but not influence.
+
+See also [[Pierre Bourdieu]] and [[Erving Goffman]], and discussions with Gianni de Falco about the way these thinkers' ideas are paid lip service to, but not properly read or updated on.
