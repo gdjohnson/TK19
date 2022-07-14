@@ -1,4 +1,4 @@
-_See also [[strategic interaction]]. [[Selection games]] are a specific subset of strategy games that are relatively unique to institutional modernity._
+_See also [[strategic interaction]] and [[selection game]] entries. Selection games are a specific subset of strategy games that are relatively unique to institutional modernity._
 
 McKinsey 1952, _Theory of Games_: the strategy game framework throws "light on all kinds of situation in which various people have opposing goals and in which each of them, although he may exert some influence on the outcome, cannot completely dominate the course of events."
 

@@ -16,6 +16,8 @@ _See also [[ethics in an opticratic world]], [[cargocult]], [[_The Presentation 
 
 “How, simply on the basis of patterns of stimulation across the sensory receptors, can embodied, situated brains alter and adapt so as to act as useful nodes (ones that incur considerable metabolic expense) for the origination of adaptive response? Notice how different this conception is to ones in which the problem is posed as one of establishing a mapping relation between environmental and inner states. The task is not to find such a mapping but to infer the nature of the signal source (the world) from just the varying input signal itself.” (Andy Clark, Surfing Uncertainty)
 
+"[In Washington], you can be successful if you appear to be successful... appearance is as important as reality." (Michael Blumenthal)
+
 In *[[_True Blood_]]*, when Bill proposes to Sukie, she panics and doesn't know what or how to feel, so she flees to the restaurant bathroom. As she collects herself, she catches her gaze in the mirror, begins to look at herself try his engagement ring on; she stops crying, starts to smile—and makes up her mind to accept. By seeing her image she learns who she is and what she wants.
 
 We know not to to judge books by covers; we are aware of wolves in sheep's clothing; but practically, we resort again and again to appearances. In our defense, we have nothing else to go on; in condemnation, we often would do well to suspend our judgment longer, to continue learning in modesty. But life is limited. The world is knocking. What option is afforded us? 
@@ -338,13 +340,13 @@ Jackall reflects:
 >
 > "My poor aunt had certainly little cause to love the state; but, however, speaking from my own observation, it is a manoeuvring business. I know so many who have married in the full expectation and confidence of some one particular advantage in the connexion, or accomplishment, or good quality in the person, who have found themselves entirely deceived, and been obliged to put up with exactly the reverse. What is this but a take in?"
 
-# Machiavelli: The Prince
+# Distant vs. proximate evaluation
+
+## Machiavelli, _The Prince_:
 
 > a prince ought, above all things, always endeavour in every action to gain for himself the reputation of being a great and remarkable man.
 
 > ...it is unnecessary for a prince to have all the good qualities I have enumerated, but it is very necessary to appear to have them. And I shall dare to say this also, that to have them and always to observe them is injurious, and that to appear to have them is useful; to appear merciful, faithful, humane, religious, upright
-
-## Distant vs. proximate evaluation
 
 On distance-closeness, and the effect of proximateness, or intimacy, on better interpretation via additional information (see [[Evaluation Distance]] entry):
 
@@ -360,7 +362,10 @@ We can also theorize a kind of "common belief," similar to [[common knowledge]],
 
 > That prince is highly esteemed who conveys this impression of himself, and he who is highly esteemed is not easily conspired against; for, provided it is well known that he is an excellent man and revered by his people, he can only be attacked with difficulty. 
 
-See also NNT:
+See also [[James T. Wilson]]: 
+![[_Bureaucracy_#^af3692]]
+
+See also [[Nicholas Nassim Taleb|NNT]]:
 ![[_Skin in the Game_#^4de9dd]]
 
 # Taleb: Skin in the Game

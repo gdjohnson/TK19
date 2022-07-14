@@ -6,4 +6,4 @@
 
 This being an [[alignment]] problem between layers of a [[superorganism]]—one subgroup not being aligned with its wrapping group.
 
-See also hierarchical nesting structure of institutions in [[selection|selection games]].
+See also hierarchical nesting structure of institutions in [[selection game|selection games]].

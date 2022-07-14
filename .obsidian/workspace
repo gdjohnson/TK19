@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "661061434c48626f",
+        "id": "908a4335b5317c11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/cargocult.md",
+            "file": "concepts/is justifies ought.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "43507955030ddec9",
+        "id": "b5e1aafe1eb110d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Skin in the Game_.md",
+            "file": "people/James T. Wilson.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c8965b04c746992e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "concepts/vision.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jbp",
+                "query": "\"[[selection games\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Skin in the Game_.md",
+                "file": "concepts/vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Skin in the Game_.md",
+                "file": "concepts/vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Skin in the Game_.md"
+                "file": "concepts/vision.md"
               }
             }
           }
@@ -122,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43507955030ddec9",
+  "active": "c8965b04c746992e",
   "lastOpenFiles": [
-    "_Skin in the Game_.md",
-    "concepts/cargocult.md",
-    "texts/_Lost Illusions_.md",
-    "concepts/opticratics.md",
-    "cancellation.md",
-    "plausibility.md",
-    "autonomization.md",
-    "concepts/essentialism and reification.md",
-    "concepts/indexicality.md",
-    "symbolic interactionism.md"
+    "concepts/vision.md",
+    "people/Jordan B. Peterson.md",
+    "people/James T. Wilson.md",
+    "research areas/strategic interaction.md",
+    "concepts/nested games.md",
+    "schools & fields/ethnomethodology.md",
+    "transcripts/crispyAndReason20210728.md",
+    "concepts/selection games.md",
+    "transcripts/crispyAndReason 210812.md",
+    "concepts/selection game.md"
   ]
 }

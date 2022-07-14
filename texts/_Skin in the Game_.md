@@ -17,7 +17,7 @@ Skin in the game allows intrinsic selection effects to weed out incompetence, e.
 
 > we end up populating what we call the intelligentsia with people who are delusional, literally mentally deranged, simply because they never have to pay for the consequences of their actions, repeating modernist slogans stripped of all depth.
 
-> [[Bureaucracy]] is a construction by which a person is conveniently separated from the consequences of his or her actions.
+> [[bureaucracy]] is a construction by which a person is conveniently separated from the consequences of his or her actions.
 
 Insurance makes people more risk-seeking (because it lessens risk), e.g. bank bailouts.
 

@@ -14,7 +14,7 @@ Schütz's work is founded in phenomenology, and begins with Husserl's idea of "[
 
 > In the [[natural attitude]], the perceiver simply believes that "as he sees things, so they are"; the cognizer simply assumes, until he has counter-evidence, that his understanding of his circumstances is adequate, and the actor likewise assumes that actions which were successful in previous similar conditions will be successful in the present situation.
 
-This [[natural attitude]], arguably, is what must be complicated by skepticism in adversarial [[games]] and [[selection|selection games]], where evaluators naturally expect evaluated subjects to strategically mis-represent themselves.
+This [[natural attitude]], arguably, is what must be complicated by skepticism in adversarial [[games]] and [[selection game|selection games]], where evaluators naturally expect evaluated subjects to strategically mis-represent themselves.
 
 A second crucial phenomenological input is the idea of the "construction" of objects from its sensory presentation. There are always aspects to e.g. a chair which are sensorily undetectable to me at a given moment, but which I fill in by assuming, from a partial view of the chair, the identity of the whole:
 
@@ -50,7 +50,7 @@ And they are used pragmatically, they are "made to work," making a non-problem o
 
 > They are entertained as shared "for all practical purposes" and "until demonstrated otherwise." When set against the intimate knowledge which others have of the meanings of their [own] actions, these constructs inevitably "fall short" of complete understanding. Moreover their application is never certain and always involves an element of "risk" that misunderstandings will take place. Yet, "in spite of all these inadequacies, common-sense knowledge of everyday life is sufficient for coming to terms with fellow-men, cultural objects, social institutions—in brief, with social reality" (Schütz 1962).
 
-Crucially, these _verstehende_ processes and constructs are not merely "private, unobservable, or uncontrollable." Heritage, via Schütz, exemplifies this through an example of a public [[selection|selection game]], and the result of _verstehende_ sense-making processes of determining the categorization (and thus action, via the law of [[decision rules]]) of an event via socially available evidence:
+Crucially, these _verstehende_ processes and constructs are not merely "private, unobservable, or uncontrollable." Heritage, via Schütz, exemplifies this through an example of a public [[selection game]], and the result of _verstehende_ sense-making processes of determining the categorization (and thus action, via the law of [[decision rules]]) of an event via socially available evidence:
 
 > If it were [merely private], the mundane intelligibility of social life would simply collapse and it would be difficult to account, for example, for "the discussion by a trial jury  of whether the defendant had shown 'pre-meditated malice' or 'intent' in killing a person, whether he was capable of knowing the consequences of his deed, etc."
 

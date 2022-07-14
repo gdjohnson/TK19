@@ -13,7 +13,7 @@ Crispy: Grandmas are the [[pfeilstorch]]s of group selection. (Classical reading
 
 Crispy: “The whole point of [[J.L. Austin]]'s' [[_How To Do Things With Words_]] is the way the speech act concept breaks down”—[[all communication is manipulation]]
 
-Throwing an [[analogy]] like “selection” (as in [[selection|selection games]]) at a domain: “This library works with this problem.” If you don’t have an existing assessment framework, you port one in analogically. (The standard protocol for mapping the [[foreign and familiar|foreign against the familiar]].)
+Throwing an [[analogy]] like “selection” (as in [[selection game|selection games]]) at a domain: “This library works with this problem.” If you don’t have an existing assessment framework, you port one in analogically. (The standard protocol for mapping the [[foreign and familiar|foreign against the familiar]].)
 
 [[Dallas Card]], on the phone with Crispy: [[Surrogation]] is missing a concept of “evolution.”
 

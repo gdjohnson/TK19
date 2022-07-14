@@ -45,6 +45,7 @@ Game theorists take a slightly different approach, focusing their definition on 
 - [[nested games]]
 - [[Rules]]
 - [["Scorekeeping in a Language Game"]]
+- [[selection game|Selection games]]
 - [[Sporting vs herding]]
 - [[sports]]
 - [[Strategic interaction]]

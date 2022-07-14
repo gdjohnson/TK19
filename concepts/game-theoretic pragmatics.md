@@ -2,7 +2,7 @@
 
 > The general logic of a game theoretic explanation of a pragmatic phenomenon is this: (i) the conversational context is modelled as a game between speaker and hearer; (ii) an adequate solution concept then selects the to-be-explained behavior in the game model.
 
-Franke thinks of game theory as the study of [[strategy games]]—games where player outcomes depend on the actions of other agents, and thus player decisions hinge on predictions about these future actions. He gives a simple example of a coordination game, using Wellington boots and blue suede shoes as an example, then writes:
+Franke thinks of game theory as the study of [[strategy game]]—games where player outcomes depend on the actions of other agents, and thus player decisions hinge on predictions about these future actions. He gives a simple example of a coordination game, using Wellington boots and blue suede shoes as an example, then writes:
 
 > Telling stories, giving commands and asking questions, also listening and figuring out what Joe meant when he said ‘‘kind of’’ – all of these linguistic activities have something essential in common with the rubber-or-suede game. Here and there, several agents have to make a decision how best to act given their preferences and their expectations about the others’ behavior. As speakers we usually have a preference for getting our point across, or for persuading our hearers of our point of view. A speaker’s action choices are naturally constituted by the set of possible utterances given by our grammatical competence, or some relevant subset thereof that interlocutors commonly attend to. Hearers may seek entertainment or information.
 
@@ -19,7 +19,7 @@ Rational pragmatic language use was pioneered by [[Prashant Parkih]] in the 1990
 # Jäger 2007: Game-Theoretical Pragmatics
 > In his book *Using Language* (Clark 1996), [[Herb Clark]] makes a distinction between two approaches to the psychology of language. He favors what he calls an *action approach* to language use and distinguishes it from the more traditional *product approach*. The latter line of research focuses on linguistic *structures*, the former on *processes*. Clark’s distinction is also useful when considering languages of logic and logic-based approaches to natural language. While the language-as-product perspective may represent the mainstream of the logic-and-language line of research, the procedural aspects of language have been stressed over and over again by many researchers. (It is not a coincidence that a rather influential book on logical grammar, van Benthem 1991, is titled “Language in Action”.)
 
-From here, Jäger argues it is natural to take action as _interaction_, between agents who "have preferences regarding the outcome of their interaction"—in other words, the realm of [[strategy games]] or game theory.
+From here, Jäger argues it is natural to take action as _interaction_, between agents who "have preferences regarding the outcome of their interaction"—in other words, the realm of [[strategy game]] or game theory.
 
 > Game-theoretic semantics offers an alternative to Tarskian semantics because the meaning of a complex formula is not computed in terms of the truth conditions of its components, but with reference to the sub-games that correspond to these components.
 

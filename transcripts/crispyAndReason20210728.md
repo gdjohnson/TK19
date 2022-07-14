@@ -14,13 +14,13 @@ Attractor states, aka stationary distributions: there are locations in the machi
 
 Markov models (“Markovian things”) are those in which a node in a chain of nodes is conditioned on/affected by its immediate parent and only affects its child nodes. (i.e., cause + effect’s before + after.) See [[Markov blankets]].
 
-Crispy: “A lot of men think that women look cute when they pout. I’ve seen a lot of individual women learn to pout when they’re trying to smooth over a conflict, b/c the men they’re with find them cute.” Once someone discovers the marker/criteria you’re using, they’ll manipulate it to get what they want ([[selection#Selection games]]). Viruses are that for cells, because all cells sequence RNA, and viruses are just carriers for RNA that end up getting sequenced. (Look into to understand process more fully.)
+Crispy: “A lot of men think that women look cute when they pout. I’ve seen a lot of individual women learn to pout when they’re trying to smooth over a conflict, b/c the men they’re with find them cute.” Once someone discovers the marker/criteria you’re using, they’ll manipulate it to get what they want ([[selection game|selection games]]). Viruses are that for cells, because all cells sequence RNA, and viruses are just carriers for RNA that end up getting sequenced. (Look into to understand process more fully.)
 
-Hinge Premium + iterated [[selection|selection games]]: “Men who have more money will end up having more contact with pretty women.” The fact that this status [[games|game]] has been instantiated in the dating app tells you a status game that’s already happening in real life. (Imagine men paying to have less contact. Now imagine women paying to have less contact.)
+Hinge Premium + iterated [[selection game|selection games]]: “Men who have more money will end up having more contact with pretty women.” The fact that this status [[games|game]] has been instantiated in the dating app tells you a status game that’s already happening in real life. (Imagine men paying to have less contact. Now imagine women paying to have less contact.)
 
 It’s certainly true that new [[games]] are created within apps, but it is rare that apps can actually design these games, rather than facilitating the extension of old games into new ones.
 
-Iterated [[selection|selection games]] (as true of single bars as dating apps?):
+Iterated [[selection game|selection games]] (as true of single bars as dating apps?):
 
 1.  The cream of the crop women are being selected out in advance, so they are entering the candidate pool (The men asking these women out are in competition with the dating apps.)
 2.  Not enough deterrents to false advertising—if date goes south, there’s no fallout. (Hinge and OKCupid have combatted this with post-date surveys.)
